@@ -1,793 +1,793 @@
-#Last update 30-04-2026
-#Based on list https://docs.google.com/spreadsheets/d/1d6nnW_I3qrWUujOXi1Db2717wUKX86J4wRZdGOYPDog/edit?gid=1738275523
-tvdb_episode:258541_1_1 #Chicago Fire
-tvdb_episode:258541_1_2 #Chicago Fire
-tvdb_episode:258541_1_3 #Chicago Fire
-tvdb_episode:258541_1_4 #Chicago Fire
-tvdb_episode:258541_1_5 #Chicago Fire
-tvdb_episode:258541_1_6 #Chicago Fire
-tvdb_episode:258541_1_7 #Chicago Fire
-tvdb_episode:258541_1_8 #Chicago Fire
-tvdb_episode:258541_1_9 #Chicago Fire
-tvdb_episode:258541_1_10 #Chicago Fire
-tvdb_episode:258541_1_11 #Chicago Fire
-tvdb_episode:258541_1_12 #Chicago Fire
-tvdb_episode:258541_1_13 #Chicago Fire
-tvdb_episode:258541_1_14 #Chicago Fire
-tvdb_episode:258541_1_15 #Chicago Fire
-tvdb_episode:258541_1_16 #Chicago Fire
-tvdb_episode:258541_1_17 #Chicago Fire
-tvdb_episode:258541_1_18 #Chicago Fire
-tvdb_episode:258541_1_19 #Chicago Fire
-tvdb_episode:258541_1_20 #Chicago Fire
-tvdb_episode:258541_1_21 #Chicago Fire
-tvdb_episode:258541_1_22 #Chicago Fire
-tvdb_episode:258541_1_23 #Chicago Fire
-tvdb_episode:258541_1_24 #Chicago Fire
-tvdb_episode:258541_2_1 #Chicago Fire
-tvdb_episode:258541_2_2 #Chicago Fire
-tvdb_episode:258541_2_3 #Chicago Fire
-tvdb_episode:258541_2_4 #Chicago Fire
-tvdb_episode:258541_2_5 #Chicago Fire
-tvdb_episode:258541_2_6 #Chicago Fire
-tvdb_episode:258541_2_7 #Chicago Fire
-tvdb_episode:258541_2_8 #Chicago Fire
-tvdb_episode:258541_2_9 #Chicago Fire
-tvdb_episode:269641_1_1 #Chicago P.D.
-tvdb_episode:269641_1_2 #Chicago P.D.
-tvdb_episode:258541_2_10 #Chicago Fire
-tvdb_episode:258541_2_11 #Chicago Fire
-tvdb_episode:258541_2_12 #Chicago Fire
-tvdb_episode:258541_2_13 #Chicago Fire
-tvdb_episode:269641_1_3 #Chicago P.D.
-tvdb_episode:258541_2_14 #Chicago Fire
-tvdb_episode:269641_1_4 #Chicago P.D.
-tvdb_episode:258541_2_15 #Chicago Fire
-tvdb_episode:269641_1_5 #Chicago P.D.
-tvdb_episode:258541_2_16 #Chicago Fire
-tvdb_episode:269641_1_6 #Chicago P.D.
-tvdb_episode:269641_1_7 #Chicago P.D.
-tvdb_episode:258541_2_17 #Chicago Fire
-tvdb_episode:258541_2_18 #Chicago Fire
-tvdb_episode:258541_2_19 #Chicago Fire
-tvdb_episode:269641_1_8 #Chicago P.D.
-tvdb_episode:269641_1_9 #Chicago P.D.
-tvdb_episode:269641_1_10 #Chicago P.D.
-tvdb_episode:269641_1_11 #Chicago P.D.
-tvdb_episode:258541_2_20 #Chicago Fire
-tvdb_episode:269641_1_12 #Chicago P.D.
-tvdb_episode:269641_1_13 #Chicago P.D.
-tvdb_episode:269641_1_14 #Chicago P.D.
-tvdb_episode:258541_2_21 #Chicago Fire
-tvdb_episode:269641_1_15 #Chicago P.D.
-tvdb_episode:258541_2_22 #Chicago Fire
-tvdb_episode:258541_3_1 #Chicago Fire
-tvdb_episode:269641_2_1 #Chicago P.D.
-tvdb_episode:258541_3_2 #Chicago Fire
-tvdb_episode:269641_2_2 #Chicago P.D.
-tvdb_episode:269641_2_3 #Chicago P.D.
-tvdb_episode:258541_3_3 #Chicago Fire
-tvdb_episode:258541_3_4 #Chicago Fire
-tvdb_episode:269641_2_4 #Chicago P.D.
-tvdb_episode:269641_2_5 #Chicago P.D.
-tvdb_episode:258541_3_5 #Chicago Fire
-tvdb_episode:258541_3_6 #Chicago Fire
-tvdb_episode:269641_2_6 #Chicago P.D.
-tvdb_episode:258541_3_7 #Chicago Fire
-tvdb_episode:269641_2_7 #Chicago P.D.
-tvdb_episode:258541_3_8 #Chicago Fire
-tvdb_episode:269641_2_8 #Chicago P.D.
-tvdb_episode:258541_3_9 #Chicago Fire
-tvdb_episode:269641_2_9 #Chicago P.D.
-tvdb_episode:269641_2_10 #Chicago P.D.
-tvdb_episode:258541_3_10 #Chicago Fire
-tvdb_episode:258541_3_11 #Chicago Fire
-tvdb_episode:269641_2_11 #Chicago P.D.
-tvdb_episode:269641_2_12 #Chicago P.D.
-tvdb_episode:258541_3_12 #Chicago Fire
-tvdb_episode:258541_3_13 #Chicago Fire
-tvdb_episode:269641_2_13 #Chicago P.D.
-tvdb_episode:269641_2_14 #Chicago P.D.
-tvdb_episode:258541_3_14 #Chicago Fire
-tvdb_episode:258541_3_15 #Chicago Fire
-tvdb_episode:269641_2_15 #Chicago P.D.
-tvdb_episode:258541_3_16 #Chicago Fire
-tvdb_episode:258541_3_17 #Chicago Fire
-tvdb_episode:269641_2_16 #Chicago P.D.
-tvdb_episode:258541_3_18 #Chicago Fire
-tvdb_episode:269641_2_17 #Chicago P.D.
-tvdb_episode:269641_2_18 #Chicago P.D.
-tvdb_episode:258541_3_19 #Chicago Fire
-tvdb_episode:269641_2_19 #Chicago P.D.
-tvdb_episode:258541_3_20 #Chicago Fire
-tvdb_episode:258541_3_21 #Chicago Fire
-tvdb_episode:269641_2_20 #Chicago P.D.
-tvdb_episode:269641_2_21 #Chicago P.D.
-tvdb_episode:269641_2_22 #Chicago P.D.
-tvdb_episode:269641_2_23 #Chicago P.D.
-tvdb_episode:258541_3_22 #Chicago Fire
-tvdb_episode:258541_3_23 #Chicago Fire
-tvdb_episode:258541_4_1 #Chicago Fire
-tvdb_episode:258541_4_2 #Chicago Fire
-tvdb_episode:269641_3_1 #Chicago P.D.
-tvdb_episode:269641_3_2 #Chicago P.D.
-tvdb_episode:258541_4_3 #Chicago Fire
-tvdb_episode:258541_4_4 #Chicago Fire
-tvdb_episode:269641_3_3 #Chicago P.D.
-tvdb_episode:269641_3_4 #Chicago P.D.
-tvdb_episode:269641_3_5 #Chicago P.D.
-tvdb_episode:269641_3_6 #Chicago P.D.
-tvdb_episode:269641_3_7 #Chicago P.D.
-tvdb_episode:258541_4_5 #Chicago Fire
-tvdb_episode:295640_1_1 #Chicago Med
-tvdb_episode:269641_3_8 #Chicago P.D.
-tvdb_episode:295640_1_2 #Chicago Med
-tvdb_episode:258541_4_6 #Chicago Fire
-tvdb_episode:258541_4_7 #Chicago Fire
-tvdb_episode:295640_1_3 #Chicago Med
-tvdb_episode:269641_3_9 #Chicago P.D.
-tvdb_episode:295640_1_4 #Chicago Med
-tvdb_episode:258541_4_8 #Chicago Fire
-tvdb_episode:258541_4_9 #Chicago Fire
-tvdb_episode:258541_4_10 #Chicago Fire
-tvdb_episode:295640_1_5 #Chicago Med
-tvdb_episode:269641_3_10 #Chicago P.D.
-tvdb_episode:295640_1_6 #Chicago Med
-tvdb_episode:295640_1_7 #Chicago Med
-tvdb_episode:258541_4_11 #Chicago Fire
-tvdb_episode:258541_4_12 #Chicago Fire
-tvdb_episode:269641_3_11 #Chicago P.D.
-tvdb_episode:269641_3_12 #Chicago P.D.
-tvdb_episode:258541_4_13 #Chicago Fire
-tvdb_episode:269641_3_13 #Chicago P.D.
-tvdb_episode:258541_4_14 #Chicago Fire
-tvdb_episode:269641_3_14 #Chicago P.D.
-tvdb_episode:295640_1_8 #Chicago Med
-tvdb_episode:258541_4_15 #Chicago Fire
-tvdb_episode:269641_3_15 #Chicago P.D.
-tvdb_episode:295640_1_9 #Chicago Med
-tvdb_episode:258541_4_16 #Chicago Fire
-tvdb_episode:269641_3_16 #Chicago P.D.
-tvdb_episode:295640_1_10 #Chicago Med
-tvdb_episode:295640_1_11 #Chicago Med
-tvdb_episode:258541_4_17 #Chicago Fire
-tvdb_episode:269641_3_17 #Chicago P.D.
-tvdb_episode:295640_1_12 #Chicago Med
-tvdb_episode:269641_3_18 #Chicago P.D.
-tvdb_episode:269641_3_19 #Chicago P.D.
-tvdb_episode:295640_1_13 #Chicago Med
-tvdb_episode:295640_1_14 #Chicago Med
-tvdb_episode:258541_4_18 #Chicago Fire
-tvdb_episode:295640_1_15 #Chicago Med
-tvdb_episode:258541_4_19 #Chicago Fire
-tvdb_episode:258541_4_20 #Chicago Fire
-tvdb_episode:295640_1_16 #Chicago Med
-tvdb_episode:269641_3_20 #Chicago P.D.
-tvdb_episode:269641_3_21 #Chicago P.D.
-tvdb_episode:258541_4_21 #Chicago Fire
-tvdb_episode:295640_1_17 #Chicago Med
-tvdb_episode:295640_1_18 #Chicago Med
-tvdb_episode:269641_3_22 #Chicago P.D.
-tvdb_episode:258541_4_22 #Chicago Fire
-tvdb_episode:269641_3_23 #Chicago P.D.
-tvdb_episode:258541_4_23 #Chicago Fire
-tvdb_episode:258541_5_1 #Chicago Fire
-tvdb_episode:258541_5_2 #Chicago Fire
-tvdb_episode:269641_4_1 #Chicago P.D.
-tvdb_episode:269641_4_2 #Chicago P.D.
-tvdb_episode:295640_2_1 #Chicago Med
-tvdb_episode:295640_2_2 #Chicago Med
-tvdb_episode:269641_4_3 #Chicago P.D.
-tvdb_episode:295640_2_3 #Chicago Med
-tvdb_episode:269641_4_4 #Chicago P.D.
-tvdb_episode:295640_2_4 #Chicago Med
-tvdb_episode:258541_5_3 #Chicago Fire
-tvdb_episode:269641_4_5 #Chicago P.D.
-tvdb_episode:295640_2_5 #Chicago Med
-tvdb_episode:258541_5_4 #Chicago Fire
-tvdb_episode:269641_4_6 #Chicago P.D.
-tvdb_episode:295640_2_6 #Chicago Med
-tvdb_episode:258541_5_5 #Chicago Fire
-tvdb_episode:269641_4_7 #Chicago P.D.
-tvdb_episode:269641_4_8 #Chicago P.D.
-tvdb_episode:258541_5_6 #Chicago Fire
-tvdb_episode:258541_5_7 #Chicago Fire
-tvdb_episode:295640_2_7 #Chicago Med
-tvdb_episode:295640_2_8 #Chicago Med
-tvdb_episode:258541_5_8 #Chicago Fire
-tvdb_episode:258541_5_9 #Chicago Fire
-tvdb_episode:269641_4_9 #Chicago P.D.
-tvdb_episode:269641_4_10 #Chicago P.D.
-tvdb_episode:258541_5_10 #Chicago Fire
-tvdb_episode:295640_2_9 #Chicago Med
-tvdb_episode:269641_4_11 #Chicago P.D.
-tvdb_episode:258541_5_11 #Chicago Fire
-tvdb_episode:295640_2_10 #Chicago Med
-tvdb_episode:258541_5_12 #Chicago Fire
-tvdb_episode:295640_2_11 #Chicago Med
-tvdb_episode:258541_5_13 #Chicago Fire
-tvdb_episode:258541_5_14 #Chicago Fire
-tvdb_episode:269641_4_12 #Chicago P.D.
-tvdb_episode:295640_2_12 #Chicago Med
-tvdb_episode:269641_4_13 #Chicago P.D.
-tvdb_episode:295640_2_13 #Chicago Med
-tvdb_episode:269641_4_14 #Chicago P.D.
-tvdb_episode:269641_4_15 #Chicago P.D.
-tvdb_episode:295640_2_14 #Chicago Med
-tvdb_episode:258541_5_15 #Chicago Fire
-tvdb_episode:269641_4_16 #Chicago P.D.
-tvdb_episode:311896_1_1 #Chicago Justice
-tvdb_episode:295640_2_15 #Chicago Med
-tvdb_episode:258541_5_16 #Chicago Fire
-tvdb_episode:311896_1_2 #Chicago Justice
-tvdb_episode:311896_1_3 #Chicago Justice
-tvdb_episode:295640_2_16 #Chicago Med
-tvdb_episode:311896_1_4 #Chicago Justice
-tvdb_episode:269641_4_17 #Chicago P.D.
-tvdb_episode:295640_2_17 #Chicago Med
-tvdb_episode:311896_1_5 #Chicago Justice
-tvdb_episode:269641_4_18 #Chicago P.D.
-tvdb_episode:269641_4_19 #Chicago P.D.
-tvdb_episode:311896_1_6 #Chicago Justice
-tvdb_episode:295640_2_18 #Chicago Med
-tvdb_episode:258541_5_17 #Chicago Fire
-tvdb_episode:311896_1_7 #Chicago Justice
-tvdb_episode:311896_1_8 #Chicago Justice
-tvdb_episode:269641_4_20 #Chicago P.D.
-tvdb_episode:311896_1_9 #Chicago Justice
-tvdb_episode:295640_2_19 #Chicago Med
-tvdb_episode:311896_1_10 #Chicago Justice
-tvdb_episode:258541_5_18 #Chicago Fire
-tvdb_episode:258541_5_19 #Chicago Fire
-tvdb_episode:295640_2_20 #Chicago Med
-tvdb_episode:295640_2_21 #Chicago Med
-tvdb_episode:311896_1_11 #Chicago Justice
-tvdb_episode:269641_4_21 #Chicago P.D.
-tvdb_episode:258541_5_20 #Chicago Fire
-tvdb_episode:258541_5_21 #Chicago Fire
-tvdb_episode:311896_1_12 #Chicago Justice
-tvdb_episode:295640_2_22 #Chicago Med
-tvdb_episode:295640_2_23 #Chicago Med
-tvdb_episode:311896_1_13 #Chicago Justice
-tvdb_episode:269641_4_22 #Chicago P.D.
-tvdb_episode:269641_4_23 #Chicago P.D.
-tvdb_episode:258541_5_22 #Chicago Fire
-tvdb_episode:258541_6_1 #Chicago Fire
-tvdb_episode:295640_3_1 #Chicago Med
-tvdb_episode:258541_6_2 #Chicago Fire
-tvdb_episode:269641_5_1 #Chicago P.D.
-tvdb_episode:295640_3_2 #Chicago Med
-tvdb_episode:295640_3_3 #Chicago Med
-tvdb_episode:258541_6_3 #Chicago Fire
-tvdb_episode:269641_5_2 #Chicago P.D.
-tvdb_episode:258541_6_4 #Chicago Fire
-tvdb_episode:269641_5_3 #Chicago P.D.
-tvdb_episode:269641_5_4 #Chicago P.D.
-tvdb_episode:295640_3_4 #Chicago Med
-tvdb_episode:258541_6_5 #Chicago Fire
-tvdb_episode:269641_5_5 #Chicago P.D.
-tvdb_episode:269641_5_6 #Chicago P.D.
-tvdb_episode:269641_5_7 #Chicago P.D.
-tvdb_episode:295640_3_5 #Chicago Med
-tvdb_episode:269641_5_8 #Chicago P.D.
-tvdb_episode:295640_3_6 #Chicago Med
-tvdb_episode:269641_5_9 #Chicago P.D.
-tvdb_episode:269641_5_10 #Chicago P.D.
-tvdb_episode:269641_5_11 #Chicago P.D.
-tvdb_episode:258541_6_6 #Chicago Fire
-tvdb_episode:258541_6_7 #Chicago Fire
-tvdb_episode:258541_6_8 #Chicago Fire
-tvdb_episode:258541_6_9 #Chicago Fire
-tvdb_episode:258541_6_10 #Chicago Fire
-tvdb_episode:295640_3_7 #Chicago Med
-tvdb_episode:269641_5_12 #Chicago P.D.
-tvdb_episode:295640_3_8 #Chicago Med
-tvdb_episode:269641_5_13 #Chicago P.D.
-tvdb_episode:295640_3_9 #Chicago Med
-tvdb_episode:269641_5_14 #Chicago P.D.
-tvdb_episode:295640_3_10 #Chicago Med
-tvdb_episode:269641_5_15 #Chicago P.D.
-tvdb_episode:258541_6_11 #Chicago Fire
-tvdb_episode:258541_6_12 #Chicago Fire
-tvdb_episode:295640_3_11 #Chicago Med
-tvdb_episode:269641_5_16 #Chicago P.D.
-tvdb_episode:258541_6_13 #Chicago Fire
-tvdb_episode:269641_5_17 #Chicago P.D.
-tvdb_episode:295640_3_12 #Chicago Med
-tvdb_episode:269641_5_18 #Chicago P.D.
-tvdb_episode:295640_3_13 #Chicago Med
-tvdb_episode:258541_6_14 #Chicago Fire
-tvdb_episode:258541_6_15 #Chicago Fire
-tvdb_episode:258541_6_16 #Chicago Fire
-tvdb_episode:295640_3_14 #Chicago Med
-tvdb_episode:258541_6_17 #Chicago Fire
-tvdb_episode:269641_5_19 #Chicago P.D.
-tvdb_episode:258541_6_18 #Chicago Fire
-tvdb_episode:295640_3_15 #Chicago Med
-tvdb_episode:295640_3_16 #Chicago Med
-tvdb_episode:269641_5_20 #Chicago P.D.
-tvdb_episode:295640_3_17 #Chicago Med
-tvdb_episode:258541_6_19 #Chicago Fire
-tvdb_episode:258541_6_20 #Chicago Fire
-tvdb_episode:295640_3_18 #Chicago Med
-tvdb_episode:258541_6_21 #Chicago Fire
-tvdb_episode:295640_3_19 #Chicago Med
-tvdb_episode:258541_6_22 #Chicago Fire
-tvdb_episode:258541_6_23 #Chicago Fire
-tvdb_episode:295640_3_20 #Chicago Med
-tvdb_episode:269641_5_21 #Chicago P.D.
-tvdb_episode:269641_5_22 #Chicago P.D.
-tvdb_episode:269641_6_1 #Chicago P.D.
-tvdb_episode:295640_4_1 #Chicago Med
-tvdb_episode:258541_7_1 #Chicago Fire
-tvdb_episode:258541_7_2 #Chicago Fire
-tvdb_episode:295640_4_2 #Chicago Med
-tvdb_episode:269641_6_2 #Chicago P.D.
-tvdb_episode:295640_4_3 #Chicago Med
-tvdb_episode:258541_7_3 #Chicago Fire
-tvdb_episode:269641_6_3 #Chicago P.D.
-tvdb_episode:295640_4_4 #Chicago Med
-tvdb_episode:258541_7_4 #Chicago Fire
-tvdb_episode:269641_6_4 #Chicago P.D.
-tvdb_episode:295640_4_5 #Chicago Med
-tvdb_episode:258541_7_5 #Chicago Fire
-tvdb_episode:269641_6_5 #Chicago P.D.
-tvdb_episode:295640_4_6 #Chicago Med
-tvdb_episode:258541_7_6 #Chicago Fire
-tvdb_episode:269641_6_6 #Chicago P.D.
-tvdb_episode:295640_4_7 #Chicago Med
-tvdb_episode:258541_7_7 #Chicago Fire
-tvdb_episode:295640_4_8 #Chicago Med
-tvdb_episode:269641_6_7 #Chicago P.D.
-tvdb_episode:258541_7_8 #Chicago Fire
-tvdb_episode:258541_7_9 #Chicago Fire
-tvdb_episode:258541_7_10 #Chicago Fire
-tvdb_episode:269641_6_8 #Chicago P.D.
-tvdb_episode:295640_4_9 #Chicago Med
-tvdb_episode:269641_6_9 #Chicago P.D.
-tvdb_episode:269641_6_10 #Chicago P.D.
-tvdb_episode:269641_6_11 #Chicago P.D.
-tvdb_episode:295640_4_10 #Chicago Med
-tvdb_episode:295640_4_11 #Chicago Med
-tvdb_episode:258541_7_11 #Chicago Fire
-tvdb_episode:295640_4_12 #Chicago Med
-tvdb_episode:258541_7_12 #Chicago Fire
-tvdb_episode:269641_6_12 #Chicago P.D.
-tvdb_episode:295640_4_13 #Chicago Med
-tvdb_episode:258541_7_13 #Chicago Fire
-tvdb_episode:269641_6_13 #Chicago P.D.
-tvdb_episode:295640_4_14 #Chicago Med
-tvdb_episode:258541_7_14 #Chicago Fire
-tvdb_episode:269641_6_14 #Chicago P.D.
-tvdb_episode:295640_4_15 #Chicago Med
-tvdb_episode:258541_7_15 #Chicago Fire
-tvdb_episode:269641_6_15 #Chicago P.D.
-tvdb_episode:295640_4_16 #Chicago Med
-tvdb_episode:258541_7_16 #Chicago Fire
-tvdb_episode:269641_6_16 #Chicago P.D.
-tvdb_episode:295640_4_17 #Chicago Med
-tvdb_episode:258541_7_17 #Chicago Fire
-tvdb_episode:269641_6_17 #Chicago P.D.
-tvdb_episode:295640_4_18 #Chicago Med
-tvdb_episode:258541_7_18 #Chicago Fire
-tvdb_episode:295640_4_19 #Chicago Med
-tvdb_episode:258541_7_19 #Chicago Fire
-tvdb_episode:269641_6_18 #Chicago P.D.
-tvdb_episode:269641_6_19 #Chicago P.D.
-tvdb_episode:295640_4_20 #Chicago Med
-tvdb_episode:269641_6_20 #Chicago P.D.
-tvdb_episode:295640_4_21 #Chicago Med
-tvdb_episode:269641_6_21 #Chicago P.D.
-tvdb_episode:295640_4_22 #Chicago Med
-tvdb_episode:295640_5_1 #Chicago Med
-tvdb_episode:269641_6_22 #Chicago P.D.
-tvdb_episode:269641_7_1 #Chicago P.D.
-tvdb_episode:258541_7_20 #Chicago Fire
-tvdb_episode:258541_7_21 #Chicago Fire
-tvdb_episode:258541_7_22 #Chicago Fire
-tvdb_episode:258541_8_1 #Chicago Fire
-tvdb_episode:295640_5_2 #Chicago Med
-tvdb_episode:258541_8_2 #Chicago Fire
-tvdb_episode:269641_7_2 #Chicago P.D.
-tvdb_episode:295640_5_3 #Chicago Med
-tvdb_episode:258541_8_3 #Chicago Fire
-tvdb_episode:269641_7_3 #Chicago P.D.
-tvdb_episode:258541_8_4 #Chicago Fire
-tvdb_episode:295640_5_4 #Chicago Med
-tvdb_episode:269641_7_4 #Chicago P.D.
-tvdb_episode:258541_8_5 #Chicago Fire
-tvdb_episode:295640_5_5 #Chicago Med
-tvdb_episode:295640_5_6 #Chicago Med
-tvdb_episode:269641_7_5 #Chicago P.D.
-tvdb_episode:258541_8_6 #Chicago Fire
-tvdb_episode:295640_5_7 #Chicago Med
-tvdb_episode:269641_7_6 #Chicago P.D.
-tvdb_episode:295640_5_8 #Chicago Med
-tvdb_episode:258541_8_7 #Chicago Fire
-tvdb_episode:295640_5_9 #Chicago Med
-tvdb_episode:269641_7_7 #Chicago P.D.
-tvdb_episode:258541_8_8 #Chicago Fire
-tvdb_episode:269641_7_8 #Chicago P.D.
-tvdb_episode:258541_8_9 #Chicago Fire
-tvdb_episode:258541_8_10 #Chicago Fire
-tvdb_episode:258541_8_11 #Chicago Fire
-tvdb_episode:269641_7_9 #Chicago P.D.
-tvdb_episode:269641_7_10 #Chicago P.D.
-tvdb_episode:295640_5_10 #Chicago Med
-tvdb_episode:295640_5_11 #Chicago Med
-tvdb_episode:269641_7_11 #Chicago P.D.
-tvdb_episode:295640_5_12 #Chicago Med
-tvdb_episode:258541_8_12 #Chicago Fire
-tvdb_episode:269641_7_12 #Chicago P.D.
-tvdb_episode:295640_5_13 #Chicago Med
-tvdb_episode:258541_8_13 #Chicago Fire
-tvdb_episode:269641_7_13 #Chicago P.D.
-tvdb_episode:269641_7_14 #Chicago P.D.
-tvdb_episode:258541_8_14 #Chicago Fire
-tvdb_episode:295640_5_14 #Chicago Med
-tvdb_episode:295640_5_15 #Chicago Med
-tvdb_episode:258541_8_15 #Chicago Fire
-tvdb_episode:269641_7_15 #Chicago P.D.
-tvdb_episode:295640_5_16 #Chicago Med
-tvdb_episode:258541_8_16 #Chicago Fire
-tvdb_episode:269641_7_16 #Chicago P.D.
-tvdb_episode:258541_8_17 #Chicago Fire
-tvdb_episode:269641_7_17 #Chicago P.D.
-tvdb_episode:295640_5_17 #Chicago Med
-tvdb_episode:258541_8_18 #Chicago Fire
-tvdb_episode:295640_5_18 #Chicago Med
-tvdb_episode:269641_7_18 #Chicago P.D.
-tvdb_episode:258541_8_19 #Chicago Fire
-tvdb_episode:269641_7_19 #Chicago P.D.
-tvdb_episode:295640_5_19 #Chicago Med
-tvdb_episode:258541_8_20 #Chicago Fire
-tvdb_episode:295640_5_20 #Chicago Med
-tvdb_episode:269641_7_20 #Chicago P.D.
-tvdb_episode:269641_8_1 #Chicago P.D.
-tvdb_episode:269641_8_2 #Chicago P.D.
-tvdb_episode:295640_6_1 #Chicago Med
-tvdb_episode:258541_9_1 #Chicago Fire
-tvdb_episode:258541_9_2 #Chicago Fire
-tvdb_episode:295640_6_2 #Chicago Med
-tvdb_episode:258541_9_3 #Chicago Fire
-tvdb_episode:295640_6_3 #Chicago Med
-tvdb_episode:269641_8_3 #Chicago P.D.
-tvdb_episode:269641_8_4 #Chicago P.D.
-tvdb_episode:258541_9_4 #Chicago Fire
-tvdb_episode:258541_9_5 #Chicago Fire
-tvdb_episode:269641_8_5 #Chicago P.D.
-tvdb_episode:295640_6_4 #Chicago Med
-tvdb_episode:295640_6_5 #Chicago Med
-tvdb_episode:295640_6_6 #Chicago Med
-tvdb_episode:258541_9_6 #Chicago Fire
-tvdb_episode:269641_8_6 #Chicago P.D.
-tvdb_episode:295640_6_7 #Chicago Med
-tvdb_episode:258541_9_7 #Chicago Fire
-tvdb_episode:269641_8_7 #Chicago P.D.
-tvdb_episode:295640_6_8 #Chicago Med
-tvdb_episode:295640_6_9 #Chicago Med
-tvdb_episode:269641_8_8 #Chicago P.D.
-tvdb_episode:258541_9_8 #Chicago Fire
-tvdb_episode:258541_9_9 #Chicago Fire
-tvdb_episode:269641_8_9 #Chicago P.D.
-tvdb_episode:295640_6_10 #Chicago Med
-tvdb_episode:258541_9_10 #Chicago Fire
-tvdb_episode:269641_8_10 #Chicago P.D.
-tvdb_episode:295640_6_11 #Chicago Med
-tvdb_episode:258541_9_11 #Chicago Fire
-tvdb_episode:269641_8_11 #Chicago P.D.
-tvdb_episode:295640_6_12 #Chicago Med
-tvdb_episode:258541_9_12 #Chicago Fire
-tvdb_episode:269641_8_12 #Chicago P.D.
-tvdb_episode:295640_6_13 #Chicago Med
-tvdb_episode:269641_8_13 #Chicago P.D.
-tvdb_episode:295640_6_14 #Chicago Med
-tvdb_episode:269641_8_14 #Chicago P.D.
-tvdb_episode:258541_9_13 #Chicago Fire
-tvdb_episode:258541_9_14 #Chicago Fire
-tvdb_episode:269641_8_15 #Chicago P.D.
-tvdb_episode:269641_8_16 #Chicago P.D.
-tvdb_episode:269641_9_1 #Chicago P.D.
-tvdb_episode:295640_6_15 #Chicago Med
-tvdb_episode:295640_6_16 #Chicago Med
-tvdb_episode:258541_9_15 #Chicago Fire
-tvdb_episode:258541_9_16 #Chicago Fire
-tvdb_episode:258541_10_1 #Chicago Fire
-tvdb_episode:295640_7_1 #Chicago Med
-tvdb_episode:258541_10_2 #Chicago Fire
-tvdb_episode:258541_10_3 #Chicago Fire
-tvdb_episode:269641_9_2 #Chicago P.D.
-tvdb_episode:295640_7_2 #Chicago Med
-tvdb_episode:295640_7_3 #Chicago Med
-tvdb_episode:258541_10_4 #Chicago Fire
-tvdb_episode:258541_10_5 #Chicago Fire
-tvdb_episode:295640_7_4 #Chicago Med
-tvdb_episode:269641_9_3 #Chicago P.D.
-tvdb_episode:258541_10_6 #Chicago Fire
-tvdb_episode:258541_10_7 #Chicago Fire
-tvdb_episode:269641_9_4 #Chicago P.D.
-tvdb_episode:269641_9_5 #Chicago P.D.
-tvdb_episode:258541_10_8 #Chicago Fire
-tvdb_episode:269641_9_6 #Chicago P.D.
-tvdb_episode:295640_7_5 #Chicago Med
-tvdb_episode:269641_9_7 #Chicago P.D.
-tvdb_episode:295640_7_6 #Chicago Med
-tvdb_episode:269641_9_8 #Chicago P.D.
-tvdb_episode:269641_9_9 #Chicago P.D.
-tvdb_episode:269641_9_10 #Chicago P.D.
-tvdb_episode:258541_10_9 #Chicago Fire
-tvdb_episode:258541_10_10 #Chicago Fire
-tvdb_episode:258541_10_11 #Chicago Fire
-tvdb_episode:295640_7_7 #Chicago Med
-tvdb_episode:295640_7_8 #Chicago Med
-tvdb_episode:295640_7_9 #Chicago Med
-tvdb_episode:295640_7_10 #Chicago Med
-tvdb_episode:269641_9_11 #Chicago P.D.
-tvdb_episode:295640_7_11 #Chicago Med
-tvdb_episode:258541_10_12 #Chicago Fire
-tvdb_episode:258541_10_13 #Chicago Fire
-tvdb_episode:269641_9_12 #Chicago P.D.
-tvdb_episode:295640_7_12 #Chicago Med
-tvdb_episode:295640_7_13 #Chicago Med
-tvdb_episode:269641_9_13 #Chicago P.D.
-tvdb_episode:295640_7_14 #Chicago Med
-tvdb_episode:258541_10_14 #Chicago Fire
-tvdb_episode:258541_10_15 #Chicago Fire
-tvdb_episode:295640_7_15 #Chicago Med
-tvdb_episode:269641_9_14 #Chicago P.D.
-tvdb_episode:269641_9_15 #Chicago P.D.
-tvdb_episode:258541_10_16 #Chicago Fire
-tvdb_episode:295640_7_16 #Chicago Med
-tvdb_episode:295640_7_17 #Chicago Med
-tvdb_episode:269641_9_16 #Chicago P.D.
-tvdb_episode:258541_10_17 #Chicago Fire
-tvdb_episode:269641_9_17 #Chicago P.D.
-tvdb_episode:295640_7_18 #Chicago Med
-tvdb_episode:258541_10_18 #Chicago Fire
-tvdb_episode:269641_9_18 #Chicago P.D.
-tvdb_episode:269641_9_19 #Chicago P.D.
-tvdb_episode:295640_7_19 #Chicago Med
-tvdb_episode:269641_9_20 #Chicago P.D.
-tvdb_episode:295640_7_20 #Chicago Med
-tvdb_episode:269641_9_21 #Chicago P.D.
-tvdb_episode:269641_9_22 #Chicago P.D.
-tvdb_episode:258541_10_19 #Chicago Fire
-tvdb_episode:258541_10_20 #Chicago Fire
-tvdb_episode:258541_10_21 #Chicago Fire
-tvdb_episode:258541_10_22 #Chicago Fire
-tvdb_episode:295640_7_21 #Chicago Med
-tvdb_episode:295640_7_22 #Chicago Med
-tvdb_episode:295640_8_1 #Chicago Med
-tvdb_episode:258541_11_1 #Chicago Fire
-tvdb_episode:258541_11_2 #Chicago Fire
-tvdb_episode:269641_10_1 #Chicago P.D.
-tvdb_episode:269641_10_2 #Chicago P.D.
-tvdb_episode:258541_11_3 #Chicago Fire
-tvdb_episode:295640_8_2 #Chicago Med
-tvdb_episode:258541_11_4 #Chicago Fire
-tvdb_episode:295640_8_3 #Chicago Med
-tvdb_episode:269641_10_3 #Chicago P.D.
-tvdb_episode:269641_10_4 #Chicago P.D.
-tvdb_episode:295640_8_4 #Chicago Med
-tvdb_episode:295640_8_5 #Chicago Med
-tvdb_episode:258541_11_5 #Chicago Fire
-tvdb_episode:269641_10_5 #Chicago P.D.
-tvdb_episode:269641_10_6 #Chicago P.D.
-tvdb_episode:295640_8_6 #Chicago Med
-tvdb_episode:258541_11_6 #Chicago Fire
-tvdb_episode:295640_8_7 #Chicago Med
-tvdb_episode:269641_10_7 #Chicago P.D.
-tvdb_episode:258541_11_7 #Chicago Fire
-tvdb_episode:269641_10_8 #Chicago P.D.
-tvdb_episode:269641_10_9 #Chicago P.D.
-tvdb_episode:295640_8_8 #Chicago Med
-tvdb_episode:258541_11_8 #Chicago Fire
-tvdb_episode:295640_8_9 #Chicago Med
-tvdb_episode:258541_11_9 #Chicago Fire
-tvdb_episode:258541_11_10 #Chicago Fire
-tvdb_episode:295640_8_10 #Chicago Med
-tvdb_episode:269641_10_10 #Chicago P.D.
-tvdb_episode:258541_11_11 #Chicago Fire
-tvdb_episode:295640_8_11 #Chicago Med
-tvdb_episode:269641_10_11 #Chicago P.D.
-tvdb_episode:258541_11_12 #Chicago Fire
-tvdb_episode:295640_8_12 #Chicago Med
-tvdb_episode:269641_10_12 #Chicago P.D.
-tvdb_episode:258541_11_13 #Chicago Fire
-tvdb_episode:295640_8_13 #Chicago Med
-tvdb_episode:269641_10_13 #Chicago P.D.
-tvdb_episode:295640_8_14 #Chicago Med
-tvdb_episode:258541_11_14 #Chicago Fire
-tvdb_episode:258541_11_15 #Chicago Fire
-tvdb_episode:269641_10_14 #Chicago P.D.
-tvdb_episode:295640_8_15 #Chicago Med
-tvdb_episode:269641_10_15 #Chicago P.D.
-tvdb_episode:295640_8_16 #Chicago Med
-tvdb_episode:258541_11_16 #Chicago Fire
-tvdb_episode:295640_8_17 #Chicago Med
-tvdb_episode:269641_10_16 #Chicago P.D.
-tvdb_episode:258541_11_17 #Chicago Fire
-tvdb_episode:295640_8_18 #Chicago Med
-tvdb_episode:269641_10_17 #Chicago P.D.
-tvdb_episode:269641_10_18 #Chicago P.D.
-tvdb_episode:295640_8_19 #Chicago Med
-tvdb_episode:258541_11_18 #Chicago Fire
-tvdb_episode:258541_11_19 #Chicago Fire
-tvdb_episode:269641_10_19 #Chicago P.D.
-tvdb_episode:295640_8_20 #Chicago Med
-tvdb_episode:269641_10_20 #Chicago P.D.
-tvdb_episode:295640_8_21 #Chicago Med
-tvdb_episode:295640_8_22 #Chicago Med
-tvdb_episode:269641_10_21 #Chicago P.D.
-tvdb_episode:269641_10_22 #Chicago P.D.
-tvdb_episode:258541_11_20 #Chicago Fire
-tvdb_episode:258541_11_21 #Chicago Fire
-tvdb_episode:258541_11_22 #Chicago Fire
-tvdb_episode:258541_12_1 #Chicago Fire
-tvdb_episode:269641_11_1 #Chicago P.D.
-tvdb_episode:258541_12_2 #Chicago Fire
-tvdb_episode:269641_11_2 #Chicago P.D.
-tvdb_episode:295640_9_1 #Chicago Med
-tvdb_episode:295640_9_2 #Chicago Med
-tvdb_episode:258541_12_3 #Chicago Fire
-tvdb_episode:295640_9_3 #Chicago Med
-tvdb_episode:258541_12_4 #Chicago Fire
-tvdb_episode:269641_11_3 #Chicago P.D.
-tvdb_episode:269641_11_4 #Chicago P.D.
-tvdb_episode:295640_9_4 #Chicago Med
-tvdb_episode:258541_12_5 #Chicago Fire
-tvdb_episode:295640_9_5 #Chicago Med
-tvdb_episode:258541_12_6 #Chicago Fire
-tvdb_episode:269641_11_5 #Chicago P.D.
-tvdb_episode:258541_12_7 #Chicago Fire
-tvdb_episode:295640_9_6 #Chicago Med
-tvdb_episode:269641_11_6 #Chicago P.D.
-tvdb_episode:269641_11_7 #Chicago P.D.
-tvdb_episode:258541_12_8 #Chicago Fire
-tvdb_episode:269641_11_8 #Chicago P.D.
-tvdb_episode:295640_9_7 #Chicago Med
-tvdb_episode:269641_11_9 #Chicago P.D.
-tvdb_episode:258541_12_9 #Chicago Fire
-tvdb_episode:295640_9_8 #Chicago Med
-tvdb_episode:295640_9_9 #Chicago Med
-tvdb_episode:258541_12_10 #Chicago Fire
-tvdb_episode:269641_11_10 #Chicago P.D.
-tvdb_episode:258541_12_11 #Chicago Fire
-tvdb_episode:295640_9_10 #Chicago Med
-tvdb_episode:269641_11_11 #Chicago P.D.
-tvdb_episode:295640_9_11 #Chicago Med
-tvdb_episode:258541_12_12 #Chicago Fire
-tvdb_episode:295640_9_12 #Chicago Med
-tvdb_episode:269641_11_12 #Chicago P.D.
-tvdb_episode:269641_11_13 #Chicago P.D.
-tvdb_episode:258541_12_13 #Chicago Fire
-tvdb_episode:295640_9_13 #Chicago Med
-tvdb_episode:295640_10_1 #Chicago Med
-tvdb_episode:258541_13_1 #Chicago Fire
-tvdb_episode:269641_12_1 #Chicago P.D.
-tvdb_episode:269641_12_2 #Chicago P.D.
-tvdb_episode:258541_13_2 #Chicago Fire
-tvdb_episode:295640_10_2 #Chicago Med
-tvdb_episode:295640_10_3 #Chicago Med
-tvdb_episode:258541_13_3 #Chicago Fire
-tvdb_episode:269641_12_3 #Chicago P.D.
-tvdb_episode:295640_10_4 #Chicago Med
-tvdb_episode:269641_12_4 #Chicago P.D.
-tvdb_episode:258541_13_4 #Chicago Fire
-tvdb_episode:258541_13_5 #Chicago Fire
-tvdb_episode:269641_12_5 #Chicago P.D.
-tvdb_episode:295640_10_5 #Chicago Med
-tvdb_episode:269641_12_6 #Chicago P.D.
-tvdb_episode:258541_13_6 #Chicago Fire
-tvdb_episode:258541_13_7 #Chicago Fire
-tvdb_episode:269641_12_7 #Chicago P.D.
-tvdb_episode:269641_12_8 #Chicago P.D.
-tvdb_episode:295640_10_6 #Chicago Med
-tvdb_episode:258541_13_8 #Chicago Fire
-tvdb_episode:258541_13_9 #Chicago Fire
-tvdb_episode:258541_13_10 #Chicago Fire
-tvdb_episode:295640_10_7 #Chicago Med
-tvdb_episode:269641_12_9 #Chicago P.D.
-tvdb_episode:295640_10_8 #Chicago Med
-tvdb_episode:295640_10_9 #Chicago Med
-tvdb_episode:269641_12_10 #Chicago P.D.
-tvdb_episode:295640_10_10 #Chicago Med
-tvdb_episode:258541_13_11 #Chicago Fire
-tvdb_episode:295640_10_11 #Chicago Med
-tvdb_episode:269641_12_11 #Chicago P.D.
-tvdb_episode:269641_12_12 #Chicago P.D.
-tvdb_episode:258541_13_12 #Chicago Fire
-tvdb_episode:258541_13_13 #Chicago Fire
-tvdb_episode:295640_10_12 #Chicago Med
-tvdb_episode:295640_10_13 #Chicago Med
-tvdb_episode:269641_12_13 #Chicago P.D.
-tvdb_episode:258541_13_14 #Chicago Fire
-tvdb_episode:269641_12_14 #Chicago P.D.
-tvdb_episode:295640_10_14 #Chicago Med
-tvdb_episode:269641_12_15 #Chicago P.D.
-tvdb_episode:295640_10_15 #Chicago Med
-tvdb_episode:295640_10_16 #Chicago Med
-tvdb_episode:258541_13_15 #Chicago Fire
-tvdb_episode:295640_10_17 #Chicago Med
-tvdb_episode:269641_12_16 #Chicago P.D.
-tvdb_episode:295640_10_18 #Chicago Med
-tvdb_episode:269641_12_17 #Chicago P.D.
-tvdb_episode:258541_13_16 #Chicago Fire
-tvdb_episode:258541_13_17 #Chicago Fire
-tvdb_episode:258541_13_18 #Chicago Fire
-tvdb_episode:269641_12_18 #Chicago P.D.
-tvdb_episode:258541_13_19 #Chicago Fire
-tvdb_episode:269641_12_19 #Chicago P.D.
-tvdb_episode:295640_10_19 #Chicago Med
-tvdb_episode:269641_12_20 #Chicago P.D.
-tvdb_episode:295640_10_20 #Chicago Med
-tvdb_episode:258541_13_20 #Chicago Fire
-tvdb_episode:258541_13_21 #Chicago Fire
-tvdb_episode:258541_13_22 #Chicago Fire
-tvdb_episode:269641_12_21 #Chicago P.D.
-tvdb_episode:269641_12_22 #Chicago P.D.
-tvdb_episode:295640_10_21 #Chicago Med
-tvdb_episode:295640_10_22 #Chicago Med
-tvdb_episode:295640_11_1 #Chicago Med
-tvdb_episode:258541_14_1 #Chicago Fire
-tvdb_episode:295640_11_2 #Chicago Med
-tvdb_episode:295640_11_3 #Chicago Med
-tvdb_episode:258541_14_2 #Chicago Fire
-tvdb_episode:269641_13_1 #Chicago P.D.
-tvdb_episode:258541_14_3 #Chicago Fire
-tvdb_episode:295640_11_4 #Chicago Med
-tvdb_episode:269641_13_2 #Chicago P.D.
-tvdb_episode:258541_14_4 #Chicago Fire
-tvdb_episode:269641_13_3 #Chicago P.D.
-tvdb_episode:258541_14_5 #Chicago Fire
-tvdb_episode:295640_11_5 #Chicago Med
-tvdb_episode:295640_11_6 #Chicago Med
-tvdb_episode:269641_13_4 #Chicago P.D.
-tvdb_episode:269641_13_5 #Chicago P.D.
-tvdb_episode:258541_14_6 #Chicago Fire
-tvdb_episode:295640_11_7 #Chicago Med
-tvdb_episode:295640_11_8 #Chicago Med
-tvdb_episode:269641_13_6 #Chicago P.D.
-tvdb_episode:295640_11_9 #Chicago Med
-tvdb_episode:258541_14_7 #Chicago Fire
-tvdb_episode:258541_14_8 #Chicago Fire
-tvdb_episode:269641_13_7 #Chicago P.D.
-tvdb_episode:269641_13_8 #Chicago P.D.
-tvdb_episode:258541_14_9 #Chicago Fire
-tvdb_episode:269641_13_9 #Chicago P.D.
-tvdb_episode:295640_11_10 #Chicago Med
-tvdb_episode:258541_14_10 #Chicago Fire
-tvdb_episode:269641_13_10 #Chicago P.D.
-tvdb_episode:295640_11_11 #Chicago Med
-tvdb_episode:258541_14_11 #Chicago Fire
-tvdb_episode:269641_13_11 #Chicago P.D.
-tvdb_episode:295640_11_12 #Chicago Med
-tvdb_episode:258541_14_12 #Chicago Fire
-tvdb_episode:269641_13_12 #Chicago P.D.
-tvdb_episode:258541_14_13 #Chicago Fire
-tvdb_episode:295640_11_13 #Chicago Med
-tvdb_episode:269641_13_13 #Chicago P.D.
-tvdb_episode:295640_11_14 #Chicago Med
-tvdb_episode:258541_14_14 #Chicago Fire
-tvdb_episode:269641_13_14 #Chicago P.D.
-tvdb_episode:295640_11_15 #Chicago Med
-tvdb_episode:258541_14_15 #Chicago Fire
-tvdb_episode:269641_13_15 #Chicago P.D.
-tvdb_episode:295640_11_16 #Chicago Med
-tvdb_episode:258541_14_16 #Chicago Fire
-tvdb_episode:269641_13_16 #Chicago P.D.
-tvdb_episode:295640_11_17 #Chicago Med
-tvdb_episode:258541_14_17 #Chicago Fire
-tvdb_episode:269641_13_17 #Chicago P.D.
-tvdb_episode:295640_11_18 #Chicago Med
-tvdb_episode:258541_14_18 #Chicago Fire
-tvdb_episode:269641_13_18 #Chicago P.D.
-tvdb_episode:295640_11_19 #Chicago Med
-tvdb_episode:258541_14_19 #Chicago Fire
-tvdb_episode:269641_13_19 #Chicago P.D.
-tvdb_episode:295640_11_20 #Chicago Med
-tvdb_episode:258541_14_20 #Chicago Fire
-tvdb_episode:269641_13_20 #Chicago P.D.
-tvdb_episode:295640_11_21 #Chicago Med
-tvdb_episode:258541_14_21 #Chicago Fire
-tvdb_episode:269641_13_21 #Chicago P.D.
+﻿# Last updated: 2026-06-28
+# Based on community list: https://docs.google.com/spreadsheets/d/1d6nnW_I3qrWUujOXi1Db2717wUKX86J4wRZdGOYPDog
+tvdb_episode:258541_1_1  # Chicago Fire S01E01 - Pilot
+tvdb_episode:258541_1_2  # Chicago Fire S01E02 - Mon Amour
+tvdb_episode:258541_1_3  # Chicago Fire S01E03 - Professional Courtesy
+tvdb_episode:258541_1_4  # Chicago Fire S01E04 - One Minute
+tvdb_episode:258541_1_5  # Chicago Fire S01E05 - Hanging On
+tvdb_episode:258541_1_6  # Chicago Fire S01E06 - Rear View Mirror
+tvdb_episode:258541_1_7  # Chicago Fire S01E07 - Two Families
+tvdb_episode:258541_1_8  # Chicago Fire S01E08 - Leaving the Station
+tvdb_episode:258541_1_9  # Chicago Fire S01E09 - It Ain't Easy
+tvdb_episode:258541_1_10  # Chicago Fire S01E10 - Merry Christmas, Etc.
+tvdb_episode:258541_1_11  # Chicago Fire S01E11 - God Has Spoken
+tvdb_episode:258541_1_12  # Chicago Fire S01E12 - Under the Knife
+tvdb_episode:258541_1_13  # Chicago Fire S01E13 - Warm and Dead
+tvdb_episode:258541_1_14  # Chicago Fire S01E14 - A Little Taste
+tvdb_episode:258541_1_15  # Chicago Fire S01E15 - Nazdarovya!
+tvdb_episode:258541_1_16  # Chicago Fire S01E16 - Viral
+tvdb_episode:258541_1_17  # Chicago Fire S01E17 - Better to Lie
+tvdb_episode:258541_1_18  # Chicago Fire S01E18 - Fireworks
+tvdb_episode:258541_1_19  # Chicago Fire S01E19 - A Coffin That Small
+tvdb_episode:258541_1_20  # Chicago Fire S01E20 - Ambition
+tvdb_episode:258541_1_21  # Chicago Fire S01E21 - Retaliation Hit
+tvdb_episode:258541_1_22  # Chicago Fire S01E22 - Leaders Lead
+tvdb_episode:258541_1_23  # Chicago Fire S01E23 - Let Her Go
+tvdb_episode:258541_1_24  # Chicago Fire S01E24 - A Hell of a Ride
+tvdb_episode:258541_2_1  # Chicago Fire S02E01 - A Problem House
+tvdb_episode:258541_2_2  # Chicago Fire S02E02 - Prove It
+tvdb_episode:258541_2_3  # Chicago Fire S02E03 - Defcon 1
+tvdb_episode:258541_2_4  # Chicago Fire S02E04 - A Nuisance Call
+tvdb_episode:258541_2_5  # Chicago Fire S02E05 - A Power Move
+tvdb_episode:258541_2_6  # Chicago Fire S02E06 - Joyriding
+tvdb_episode:258541_2_7  # Chicago Fire S02E07 - No Regrets
+tvdb_episode:258541_2_8  # Chicago Fire S02E08 - Rhymes with Shout
+tvdb_episode:258541_2_9  # Chicago Fire S02E09 - You Will Hurt Him
+tvdb_episode:269641_1_1  # Chicago P.D. S01E01 - Stepping Stone
+tvdb_episode:269641_1_2  # Chicago P.D. S01E02 - Wrong Side of the Bars
+tvdb_episode:258541_2_10  # Chicago Fire S02E10 - Not Like This
+tvdb_episode:258541_2_11  # Chicago Fire S02E11 - Shoved in My Face
+tvdb_episode:258541_2_12  # Chicago Fire S02E12 - Out with a Bang
+tvdb_episode:258541_2_13  # Chicago Fire S02E13 - Tonight’s the Night
+tvdb_episode:269641_1_3  # Chicago P.D. S01E03 - Chin Check
+tvdb_episode:258541_2_14  # Chicago Fire S02E14 - Virgin Skin
+tvdb_episode:269641_1_4  # Chicago P.D. S01E04 - Now Is Always Temporary
+tvdb_episode:258541_2_15  # Chicago Fire S02E15 - Keep Your Mouth Shut
+tvdb_episode:269641_1_5  # Chicago P.D. S01E05 - Thirty Balloons
+tvdb_episode:258541_2_16  # Chicago Fire S02E16 - A Rocket Blasting Off
+tvdb_episode:269641_1_6  # Chicago P.D. S01E06 - Conventions
+tvdb_episode:269641_1_7  # Chicago P.D. S01E07 - The Price We Pay
+tvdb_episode:258541_2_17  # Chicago Fire S02E17 - When Things Got Rough
+tvdb_episode:258541_2_18  # Chicago Fire S02E18 - Until Your Feet Leave the Ground
+tvdb_episode:258541_2_19  # Chicago Fire S02E19 - A Heavy Weight
+tvdb_episode:269641_1_8  # Chicago P.D. S01E08 - Different Mistakes
+tvdb_episode:269641_1_9  # Chicago P.D. S01E09 - A Material Witness
+tvdb_episode:269641_1_10  # Chicago P.D. S01E10 - At Least It’s Justice
+tvdb_episode:269641_1_11  # Chicago P.D. S01E11 - Turn the Light Off
+tvdb_episode:258541_2_20  # Chicago Fire S02E20 - A Dark Day
+tvdb_episode:269641_1_12  # Chicago P.D. S01E12 - 8:30 PM
+tvdb_episode:269641_1_13  # Chicago P.D. S01E13 - My Way
+tvdb_episode:269641_1_14  # Chicago P.D. S01E14 - The Docks
+tvdb_episode:258541_2_21  # Chicago Fire S02E21 - One More Shot
+tvdb_episode:269641_1_15  # Chicago P.D. S01E15 - A Beautiful Friendship
+tvdb_episode:258541_2_22  # Chicago Fire S02E22 - Real Never Waits
+tvdb_episode:258541_3_1  # Chicago Fire S03E01 - Always
+tvdb_episode:269641_2_1  # Chicago P.D. S02E01 - Call It Macaroni
+tvdb_episode:258541_3_2  # Chicago Fire S03E02 - Wow Me
+tvdb_episode:269641_2_2  # Chicago P.D. S02E02 - Get My Cigarettes
+tvdb_episode:269641_2_3  # Chicago P.D. S02E03 - The Weigh Station
+tvdb_episode:258541_3_3  # Chicago Fire S03E03 - Just Drive the Truck
+tvdb_episode:258541_3_4  # Chicago Fire S03E04 - Apologies Are Dangerous
+tvdb_episode:269641_2_4  # Chicago P.D. S02E04 - Chicken, Dynamite, Chainsaw
+tvdb_episode:269641_2_5  # Chicago P.D. S02E05 - An Honest Woman
+tvdb_episode:258541_3_5  # Chicago Fire S03E05 - The Nuclear Option
+tvdb_episode:258541_3_6  # Chicago Fire S03E06 - Madmen and Fools
+tvdb_episode:269641_2_6  # Chicago P.D. S02E06 - Prison Ball
+tvdb_episode:258541_3_7  # Chicago Fire S03E07 - Nobody Touches Anything
+tvdb_episode:269641_2_7  # Chicago P.D. S02E07 - They’ll Have to Go Through Me
+tvdb_episode:258541_3_8  # Chicago Fire S03E08 - Chopper
+tvdb_episode:269641_2_8  # Chicago P.D. S02E08 - Assignment of the Year
+tvdb_episode:258541_3_9  # Chicago Fire S03E09 - Arrest in Transit
+tvdb_episode:269641_2_9  # Chicago P.D. S02E09 - Called in Dead
+tvdb_episode:269641_2_10  # Chicago P.D. S02E10 - Shouldn’t Have Been Alone
+tvdb_episode:258541_3_10  # Chicago Fire S03E10 - Santa Bites
+tvdb_episode:258541_3_11  # Chicago Fire S03E11 - Let Him Die
+tvdb_episode:269641_2_11  # Chicago P.D. S02E11 - We Don’t Work Together Anymore
+tvdb_episode:269641_2_12  # Chicago P.D. S02E12 - Disco Bob
+tvdb_episode:258541_3_12  # Chicago Fire S03E12 - Ambush Predator
+tvdb_episode:258541_3_13  # Chicago Fire S03E13 - Three Bells
+tvdb_episode:269641_2_13  # Chicago P.D. S02E13 - A Little Devil Complex
+tvdb_episode:269641_2_14  # Chicago P.D. S02E14 - Erin’s Mom
+tvdb_episode:258541_3_14  # Chicago Fire S03E14 - Call It Paradise
+tvdb_episode:258541_3_15  # Chicago Fire S03E15 - Headlong Toward Disaster
+tvdb_episode:269641_2_15  # Chicago P.D. S02E15 - What Do You Do
+tvdb_episode:258541_3_16  # Chicago Fire S03E16 - Red Rag the Bull
+tvdb_episode:258541_3_17  # Chicago Fire S03E17 - Forgive You Anything
+tvdb_episode:269641_2_16  # Chicago P.D. S02E16 - What Puts You on That Ledge
+tvdb_episode:258541_3_18  # Chicago Fire S03E18 - Forgiving, Relentless, Unconditional
+tvdb_episode:269641_2_17  # Chicago P.D. S02E17 - Say Her Real Name
+tvdb_episode:269641_2_18  # Chicago P.D. S02E18 - Get Back to Even
+tvdb_episode:258541_3_19  # Chicago Fire S03E19 - I Am the Apocalypse
+tvdb_episode:269641_2_19  # Chicago P.D. S02E19 - The Three Gs
+tvdb_episode:258541_3_20  # Chicago Fire S03E20 - You Know Where to Find Me
+tvdb_episode:258541_3_21  # Chicago Fire S03E21 - We Called Her Jellybean
+tvdb_episode:269641_2_20  # Chicago P.D. S02E20 - The Number of Rats
+tvdb_episode:269641_2_21  # Chicago P.D. S02E21 - There’s My Girl
+tvdb_episode:269641_2_22  # Chicago P.D. S02E22 - Push the Pain Away
+tvdb_episode:269641_2_23  # Chicago P.D. S02E23 - Born Into Bad News
+tvdb_episode:258541_3_22  # Chicago Fire S03E22 - Category 5
+tvdb_episode:258541_3_23  # Chicago Fire S03E23 - Spartacus
+tvdb_episode:258541_4_1  # Chicago Fire S04E01 - Let It Burn
+tvdb_episode:258541_4_2  # Chicago Fire S04E02 - A Taste of Panama City
+tvdb_episode:269641_3_1  # Chicago P.D. S03E01 - Life Is Fluid
+tvdb_episode:269641_3_2  # Chicago P.D. S03E02 - Natural Born Storyteller
+tvdb_episode:258541_4_3  # Chicago Fire S04E03 - I Walk Away
+tvdb_episode:258541_4_4  # Chicago Fire S04E04 - Your Day Is Coming
+tvdb_episode:269641_3_3  # Chicago P.D. S03E03 - Actual Physical Violence
+tvdb_episode:269641_3_4  # Chicago P.D. S03E04 - Debts of the Past
+tvdb_episode:269641_3_5  # Chicago P.D. S03E05 - Climbing Into Bed
+tvdb_episode:269641_3_6  # Chicago P.D. S03E06 - You Never Know Who’s Who
+tvdb_episode:269641_3_7  # Chicago P.D. S03E07 - A Dead Kid, a Notebook and a Lot of Maybes
+tvdb_episode:258541_4_5  # Chicago Fire S04E05 - Regarding This Wedding
+tvdb_episode:295640_1_1  # Chicago Med S01E01 - Derailed
+tvdb_episode:269641_3_8  # Chicago P.D. S03E08 - Forget My Name
+tvdb_episode:295640_1_2  # Chicago Med S01E02 - iNO
+tvdb_episode:258541_4_6  # Chicago Fire S04E06 - 2112
+tvdb_episode:258541_4_7  # Chicago Fire S04E07 - Sharp Elbows
+tvdb_episode:295640_1_3  # Chicago Med S01E03 - Fallback
+tvdb_episode:269641_3_9  # Chicago P.D. S03E09 - Never Forget I Love You
+tvdb_episode:295640_1_4  # Chicago Med S01E04 - Mistaken
+tvdb_episode:258541_4_8  # Chicago Fire S04E08 - When Tortoises Fly
+tvdb_episode:258541_4_9  # Chicago Fire S04E09 - Short and Fat
+tvdb_episode:258541_4_10  # Chicago Fire S04E10 - The Beating Heart
+tvdb_episode:295640_1_5  # Chicago Med S01E05 - Malignant
+tvdb_episode:269641_3_10  # Chicago P.D. S03E10 - Now I’m God
+tvdb_episode:295640_1_6  # Chicago Med S01E06 - Bound
+tvdb_episode:295640_1_7  # Chicago Med S01E07 - Saints
+tvdb_episode:258541_4_11  # Chicago Fire S04E11 - The Path of Destruction
+tvdb_episode:258541_4_12  # Chicago Fire S04E12 - Not Everyone Makes It
+tvdb_episode:269641_3_11  # Chicago P.D. S03E11 - Knocked the Family Right Out
+tvdb_episode:269641_3_12  # Chicago P.D. S03E12 - Looking Out for Stateville
+tvdb_episode:258541_4_13  # Chicago Fire S04E13 - The Sky Is Falling
+tvdb_episode:269641_3_13  # Chicago P.D. S03E13 - Hit Me
+tvdb_episode:258541_4_14  # Chicago Fire S04E14 - All Hard Parts
+tvdb_episode:269641_3_14  # Chicago P.D. S03E14 - The Song of Gregory Williams Yates
+tvdb_episode:295640_1_8  # Chicago Med S01E08 - Reunion
+tvdb_episode:258541_4_15  # Chicago Fire S04E15 - Bad for the Soul
+tvdb_episode:269641_3_15  # Chicago P.D. S03E15 - A Night Owl
+tvdb_episode:295640_1_9  # Chicago Med S01E09 - Choices
+tvdb_episode:258541_4_16  # Chicago Fire S04E16 - Two Ts
+tvdb_episode:269641_3_16  # Chicago P.D. S03E16 - The Cases That Need to Be Solved
+tvdb_episode:295640_1_10  # Chicago Med S01E10 - Clarity
+tvdb_episode:295640_1_11  # Chicago Med S01E11 - Intervention
+tvdb_episode:269641_3_17  # Chicago P.D. S03E17 - Forty-Caliber Bread Crumb
+tvdb_episode:258541_4_17  # Chicago Fire S04E17 - What Happened to Courtney?
+tvdb_episode:295640_1_12  # Chicago Med S01E12 - Guilty
+tvdb_episode:269641_3_18  # Chicago P.D. S03E18 - Kasual with a K
+tvdb_episode:269641_3_19  # Chicago P.D. S03E19 - If We Were Normal
+tvdb_episode:295640_1_13  # Chicago Med S01E13 - Us
+tvdb_episode:295640_1_14  # Chicago Med S01E14 - Hearts
+tvdb_episode:258541_4_18  # Chicago Fire S04E18 - On the Warpath
+tvdb_episode:295640_1_15  # Chicago Med S01E15 - Inheritance
+tvdb_episode:258541_4_19  # Chicago Fire S04E19 - I Will Be Walking
+tvdb_episode:258541_4_20  # Chicago Fire S04E20 - The Last One for Mom
+tvdb_episode:295640_1_16  # Chicago Med S01E16 - Disorder
+tvdb_episode:269641_3_20  # Chicago P.D. S03E20 - In a Duffel Bag
+tvdb_episode:269641_3_21  # Chicago P.D. S03E21 - Justice
+tvdb_episode:258541_4_21  # Chicago Fire S04E21 - Kind of a Crazy Idea
+tvdb_episode:295640_1_17  # Chicago Med S01E17 - Withdrawal
+tvdb_episode:295640_1_18  # Chicago Med S01E18 - Timing
+tvdb_episode:269641_3_22  # Chicago P.D. S03E22 - She’s Got Us
+tvdb_episode:258541_4_22  # Chicago Fire S04E22 - Where the Collapse Started
+tvdb_episode:269641_3_23  # Chicago P.D. S03E23 - Start Digging
+tvdb_episode:258541_4_23  # Chicago Fire S04E23 - Superhero
+tvdb_episode:258541_5_1  # Chicago Fire S05E01 - The Hose or the Animal
+tvdb_episode:258541_5_2  # Chicago Fire S05E02 - A Real Wake-Up Call
+tvdb_episode:269641_4_1  # Chicago P.D. S04E01 - The Silos
+tvdb_episode:269641_4_2  # Chicago P.D. S04E02 - Made a Wrong Turn
+tvdb_episode:295640_2_1  # Chicago Med S02E01 - Soul Care
+tvdb_episode:295640_2_2  # Chicago Med S02E02 - Win Loss
+tvdb_episode:269641_4_3  # Chicago P.D. S04E03 - All Cylinders Firing
+tvdb_episode:295640_2_3  # Chicago Med S02E03 - Natural History
+tvdb_episode:269641_4_4  # Chicago P.D. S04E04 - Big Friends, Big Enemies
+tvdb_episode:295640_2_4  # Chicago Med S02E04 - Brother’s Keeper
+tvdb_episode:258541_5_3  # Chicago Fire S05E03 - Scorched Earth
+tvdb_episode:269641_4_5  # Chicago P.D. S04E05 - A War Zone
+tvdb_episode:295640_2_5  # Chicago Med S02E05 - Extreme Measures
+tvdb_episode:258541_5_4  # Chicago Fire S05E04 - Nobody Else Is Dying Today
+tvdb_episode:269641_4_6  # Chicago P.D. S04E06 - Some Friend
+tvdb_episode:295640_2_6  # Chicago Med S02E06 - Alternative Medicine
+tvdb_episode:258541_5_5  # Chicago Fire S05E05 - I Held Her Hand
+tvdb_episode:269641_4_7  # Chicago P.D. S04E07 - 300,000 Likes
+tvdb_episode:269641_4_8  # Chicago P.D. S04E08 - A Shot Heard Around the World
+tvdb_episode:258541_5_6  # Chicago Fire S05E06 - That Day
+tvdb_episode:258541_5_7  # Chicago Fire S05E07 - Lift Each Other
+tvdb_episode:295640_2_7  # Chicago Med S02E07 - Inherent Bias
+tvdb_episode:295640_2_8  # Chicago Med S02E08 - Free Will
+tvdb_episode:258541_5_8  # Chicago Fire S05E08 - One Hundred
+tvdb_episode:258541_5_9  # Chicago Fire S05E09 - Some Make It, Some Don’t
+tvdb_episode:269641_4_9  # Chicago P.D. S04E09 - Don’t Bury This Case
+tvdb_episode:269641_4_10  # Chicago P.D. S04E10 - Don’t Read the News
+tvdb_episode:258541_5_10  # Chicago Fire S05E10 - The People We Meet
+tvdb_episode:295640_2_9  # Chicago Med S02E09 - Uncharted Territory
+tvdb_episode:269641_4_11  # Chicago P.D. S04E11 - You Wish
+tvdb_episode:258541_5_11  # Chicago Fire S05E11 - Who Lives and Who Dies
+tvdb_episode:295640_2_10  # Chicago Med S02E10 - Heart Matters
+tvdb_episode:258541_5_12  # Chicago Fire S05E12 - An Agent of the Machine
+tvdb_episode:295640_2_11  # Chicago Med S02E11 - Graveyard Shift
+tvdb_episode:258541_5_13  # Chicago Fire S05E13 - Trading in Scuttlebutt
+tvdb_episode:258541_5_14  # Chicago Fire S05E14 - Purgatory
+tvdb_episode:269641_4_12  # Chicago P.D. S04E12 - Sanctuary
+tvdb_episode:295640_2_12  # Chicago Med S02E12 - Mirror Mirror
+tvdb_episode:269641_4_13  # Chicago P.D. S04E13 - I Remember Her Now
+tvdb_episode:295640_2_13  # Chicago Med S02E13 - Theseus’ Ship
+tvdb_episode:269641_4_14  # Chicago P.D. S04E14 - Seven Indictments
+tvdb_episode:269641_4_15  # Chicago P.D. S04E15 - Favor, Affection, Malice or Ill-Will
+tvdb_episode:295640_2_14  # Chicago Med S02E14 - Cold Front
+tvdb_episode:258541_5_15  # Chicago Fire S05E15 - Deathtrap
+tvdb_episode:269641_4_16  # Chicago P.D. S04E16 - Emotional Proximity
+tvdb_episode:311896_1_1  # Chicago Justice S01E01 - Fake
+tvdb_episode:295640_2_15  # Chicago Med S02E15 - Lose Yourself
+tvdb_episode:258541_5_16  # Chicago Fire S05E16 - Telling Her Goodbye
+tvdb_episode:311896_1_2  # Chicago Justice S01E02 - Uncertainty Principle
+tvdb_episode:311896_1_3  # Chicago Justice S01E03 - See Something
+tvdb_episode:295640_2_16  # Chicago Med S02E16 - Prisoner’s Dilemma
+tvdb_episode:311896_1_4  # Chicago Justice S01E04 - Judge Not
+tvdb_episode:269641_4_17  # Chicago P.D. S04E17 - Remember the Devil
+tvdb_episode:295640_2_17  # Chicago Med S02E17 - Monday Mourning
+tvdb_episode:311896_1_5  # Chicago Justice S01E05 - Friendly Fire
+tvdb_episode:269641_4_18  # Chicago P.D. S04E18 - A Little Bit of Light
+tvdb_episode:269641_4_19  # Chicago P.D. S04E19 - Last Minute Resistance
+tvdb_episode:311896_1_6  # Chicago Justice S01E06 - Dead Meat
+tvdb_episode:295640_2_18  # Chicago Med S02E18 - Lesson Learned
+tvdb_episode:258541_5_17  # Chicago Fire S05E17 - Babies and Fools
+tvdb_episode:311896_1_7  # Chicago Justice S01E07 - Double Helix
+tvdb_episode:311896_1_8  # Chicago Justice S01E08 - Lily’s Law
+tvdb_episode:269641_4_20  # Chicago P.D. S04E20 - Grasping for Salvation
+tvdb_episode:311896_1_9  # Chicago Justice S01E09 - Comma
+tvdb_episode:295640_2_19  # Chicago Med S02E19 - Ctrl Alt
+tvdb_episode:311896_1_10  # Chicago Justice S01E10 - Drill
+tvdb_episode:258541_5_18  # Chicago Fire S05E18 - Take a Knee
+tvdb_episode:258541_5_19  # Chicago Fire S05E19 - Carry Their Legacy
+tvdb_episode:295640_2_20  # Chicago Med S02E20 - Generation Gap
+tvdb_episode:295640_2_21  # Chicago Med S02E21 - Deliver Us
+tvdb_episode:311896_1_11  # Chicago Justice S01E11 - AQD
+tvdb_episode:269641_4_21  # Chicago P.D. S04E21 - Fagin
+tvdb_episode:258541_5_20  # Chicago Fire S05E20 - Carry Me
+tvdb_episode:258541_5_21  # Chicago Fire S05E21 - Sixty Days
+tvdb_episode:311896_1_12  # Chicago Justice S01E12 - Fool Me Twice
+tvdb_episode:295640_2_22  # Chicago Med S02E22 - White Butterflies
+tvdb_episode:295640_2_23  # Chicago Med S02E23 - Love Hurts
+tvdb_episode:311896_1_13  # Chicago Justice S01E13 - Tycoon
+tvdb_episode:269641_4_22  # Chicago P.D. S04E22 - Army of One
+tvdb_episode:269641_4_23  # Chicago P.D. S04E23 - Fork in the Road
+tvdb_episode:258541_5_22  # Chicago Fire S05E22 - My Miracle
+tvdb_episode:258541_6_1  # Chicago Fire S06E01 - It Wasn’t Enough
+tvdb_episode:295640_3_1  # Chicago Med S03E01 - Speak Your Truth
+tvdb_episode:258541_6_2  # Chicago Fire S06E02 - Ignite on Contact
+tvdb_episode:269641_5_1  # Chicago P.D. S05E01 - Reform
+tvdb_episode:295640_3_2  # Chicago Med S03E02 - Nothing to Fear
+tvdb_episode:295640_3_3  # Chicago Med S03E03 - Trust Your Gut
+tvdb_episode:258541_6_3  # Chicago Fire S06E03 - An Even Bigger Surprise
+tvdb_episode:269641_5_2  # Chicago P.D. S05E02 - The Thing About Heroes
+tvdb_episode:258541_6_4  # Chicago Fire S06E04 - A Breaking Point
+tvdb_episode:269641_5_3  # Chicago P.D. S05E03 - Promise
+tvdb_episode:269641_5_4  # Chicago P.D. S05E04 - Snitch
+tvdb_episode:295640_3_4  # Chicago Med S03E04 - Naughty or Nice
+tvdb_episode:258541_6_5  # Chicago Fire S06E05 - Devil’s Bargain
+tvdb_episode:269641_5_5  # Chicago P.D. S05E05 - Home
+tvdb_episode:269641_5_6  # Chicago P.D. S05E06 - Fallen
+tvdb_episode:269641_5_7  # Chicago P.D. S05E07 - Care Under Fire
+tvdb_episode:295640_3_5  # Chicago Med S03E05 - Mountains and Molehills
+tvdb_episode:269641_5_8  # Chicago P.D. S05E08 - Politics
+tvdb_episode:295640_3_6  # Chicago Med S03E06 - Ties That Bind
+tvdb_episode:269641_5_9  # Chicago P.D. S05E09 - Monster
+tvdb_episode:269641_5_10  # Chicago P.D. S05E10 - Rabbit Hole
+tvdb_episode:269641_5_11  # Chicago P.D. S05E11 - Confidential
+tvdb_episode:258541_6_6  # Chicago Fire S06E06 - Down Is Better
+tvdb_episode:258541_6_7  # Chicago Fire S06E07 - A Man’s Legacy
+tvdb_episode:258541_6_8  # Chicago Fire S06E08 - The Whole Point of Being Roommates
+tvdb_episode:258541_6_9  # Chicago Fire S06E09 - Foul Is Fair
+tvdb_episode:258541_6_10  # Chicago Fire S06E10 - Slamigan
+tvdb_episode:295640_3_7  # Chicago Med S03E07 - Over Troubled Water
+tvdb_episode:269641_5_12  # Chicago P.D. S05E12 - Captive
+tvdb_episode:295640_3_8  # Chicago Med S03E08 - Lemons and Lemonade
+tvdb_episode:269641_5_13  # Chicago P.D. S05E13 - Chasing Monsters
+tvdb_episode:295640_3_9  # Chicago Med S03E09 - On Shaky Ground
+tvdb_episode:269641_5_14  # Chicago P.D. S05E14 - Anthem
+tvdb_episode:295640_3_10  # Chicago Med S03E10 - Down by Law
+tvdb_episode:269641_5_15  # Chicago P.D. S05E15 - Sisterhood
+tvdb_episode:258541_6_11  # Chicago Fire S06E11 - Law of the Jungle
+tvdb_episode:258541_6_12  # Chicago Fire S06E12 - The F Is For
+tvdb_episode:295640_3_11  # Chicago Med S03E11 - Folie à Deux
+tvdb_episode:269641_5_16  # Chicago P.D. S05E16 - Profiles
+tvdb_episode:258541_6_13  # Chicago Fire S06E13 - Hiding Not Seeking
+tvdb_episode:269641_5_17  # Chicago P.D. S05E17 - Breaking Point
+tvdb_episode:295640_3_12  # Chicago Med S03E12 - Born This Way
+tvdb_episode:269641_5_18  # Chicago P.D. S05E18 - Ghosts
+tvdb_episode:295640_3_13  # Chicago Med S03E13 - Best Laid Plans
+tvdb_episode:258541_6_14  # Chicago Fire S06E14 - Looking for a Lifeline
+tvdb_episode:258541_6_15  # Chicago Fire S06E15 - The Chance to Forgive
+tvdb_episode:258541_6_16  # Chicago Fire S06E16 - The One That Matters the Most
+tvdb_episode:295640_3_14  # Chicago Med S03E14 - Lock It Down
+tvdb_episode:258541_6_17  # Chicago Fire S06E17 - Put White on Me
+tvdb_episode:269641_5_19  # Chicago P.D. S05E19 - Payback
+tvdb_episode:258541_6_18  # Chicago Fire S06E18 - When They See Us Coming
+tvdb_episode:295640_3_15  # Chicago Med S03E15 - Devil in Disguise
+tvdb_episode:295640_3_16  # Chicago Med S03E16 - An Inconvenient Truth
+tvdb_episode:269641_5_20  # Chicago P.D. S05E20 - Saved
+tvdb_episode:295640_3_17  # Chicago Med S03E17 - The Parent Trap
+tvdb_episode:258541_6_19  # Chicago Fire S06E19 - Where I Want to Be
+tvdb_episode:258541_6_20  # Chicago Fire S06E20 - The Strongest Among Us
+tvdb_episode:295640_3_18  # Chicago Med S03E18 - This Is Now
+tvdb_episode:258541_6_21  # Chicago Fire S06E21 - The Unrivaled Standard
+tvdb_episode:295640_3_19  # Chicago Med S03E19 - Crisis of Confidence
+tvdb_episode:258541_6_22  # Chicago Fire S06E22 - One for the Ages
+tvdb_episode:258541_6_23  # Chicago Fire S06E23 - The Grand Gesture
+tvdb_episode:295640_3_20  # Chicago Med S03E20 - The Tipping Point
+tvdb_episode:269641_5_21  # Chicago P.D. S05E21 - Allegiance
+tvdb_episode:269641_5_22  # Chicago P.D. S05E22 - Homecoming
+tvdb_episode:269641_6_1  # Chicago P.D. S06E01 - New Normal
+tvdb_episode:295640_4_1  # Chicago Med S04E01 - Be My Better Half
+tvdb_episode:258541_7_1  # Chicago Fire S07E01 - A Closer Eye
+tvdb_episode:258541_7_2  # Chicago Fire S07E02 - Going to War
+tvdb_episode:295640_4_2  # Chicago Med S04E02 - When to Let Go
+tvdb_episode:269641_6_2  # Chicago P.D. S06E02 - Endings
+tvdb_episode:295640_4_3  # Chicago Med S04E03 - Heavy Is the Head
+tvdb_episode:258541_7_3  # Chicago Fire S07E03 - Thirty Percent Sleight of Hand
+tvdb_episode:269641_6_3  # Chicago P.D. S06E03 - Bad Boys
+tvdb_episode:295640_4_4  # Chicago Med S04E04 - Backed Against the Wall
+tvdb_episode:258541_7_4  # Chicago Fire S07E04 - This Isn’t Charity
+tvdb_episode:269641_6_4  # Chicago P.D. S06E04 - Ride Along
+tvdb_episode:295640_4_5  # Chicago Med S04E05 - What You Don’t Know…
+tvdb_episode:258541_7_5  # Chicago Fire S07E05 - A Volatile Mixture
+tvdb_episode:269641_6_5  # Chicago P.D. S06E05 - Fathers and Sons
+tvdb_episode:295640_4_6  # Chicago Med S04E06 - Lesser of Two Evils
+tvdb_episode:258541_7_6  # Chicago Fire S07E06 - All the Proof
+tvdb_episode:269641_6_6  # Chicago P.D. S06E06 - True or False
+tvdb_episode:295640_4_7  # Chicago Med S04E07 - The Poison Inside Us
+tvdb_episode:258541_7_7  # Chicago Fire S07E07 - What Will Define You
+tvdb_episode:295640_4_8  # Chicago Med S04E08 - Play by My Rules
+tvdb_episode:269641_6_7  # Chicago P.D. S06E07 - Trigger
+tvdb_episode:258541_7_8  # Chicago Fire S07E08 - The Solution to Everything
+tvdb_episode:258541_7_9  # Chicago Fire S07E09 - Always a Catch
+tvdb_episode:258541_7_10  # Chicago Fire S07E10 - Inside These Walls
+tvdb_episode:269641_6_8  # Chicago P.D. S06E08 - Black and Blue
+tvdb_episode:295640_4_9  # Chicago Med S04E09 - Death Do Us Part
+tvdb_episode:269641_6_9  # Chicago P.D. S06E09 - Descent
+tvdb_episode:269641_6_10  # Chicago P.D. S06E10 - Brotherhood
+tvdb_episode:269641_6_11  # Chicago P.D. S06E11 - Trust
+tvdb_episode:295640_4_10  # Chicago Med S04E10 - All the Lonely People
+tvdb_episode:295640_4_11  # Chicago Med S04E11 - Who Can You Trust
+tvdb_episode:258541_7_11  # Chicago Fire S07E11 - You Choose
+tvdb_episode:295640_4_12  # Chicago Med S04E12 - The Things We Do
+tvdb_episode:258541_7_12  # Chicago Fire S07E12 - Make This Right
+tvdb_episode:269641_6_12  # Chicago P.D. S06E12 - Outrage
+tvdb_episode:295640_4_13  # Chicago Med S04E13 - Ghosts in the Attic
+tvdb_episode:258541_7_13  # Chicago Fire S07E13 - The Plunge
+tvdb_episode:269641_6_13  # Chicago P.D. S06E13 - Night in Chicago
+tvdb_episode:295640_4_14  # Chicago Med S04E14 - Can’t Unring That Bell
+tvdb_episode:258541_7_14  # Chicago Fire S07E14 - It Wasn’t About Hockey
+tvdb_episode:269641_6_14  # Chicago P.D. S06E14 - Ties That Bind
+tvdb_episode:295640_4_15  # Chicago Med S04E15 - We Hold These Truths
+tvdb_episode:258541_7_15  # Chicago Fire S07E15 - What I Saw
+tvdb_episode:269641_6_15  # Chicago P.D. S06E15 - Good Men
+tvdb_episode:295640_4_16  # Chicago Med S04E16 - Old Flames, New Sparks
+tvdb_episode:258541_7_16  # Chicago Fire S07E16 - Fault in Him
+tvdb_episode:269641_6_16  # Chicago P.D. S06E16 - The Forgotten
+tvdb_episode:295640_4_17  # Chicago Med S04E17 - The Space Between Us
+tvdb_episode:258541_7_17  # Chicago Fire S07E17 - Move a Wall
+tvdb_episode:269641_6_17  # Chicago P.D. S06E17 - Pain Killer
+tvdb_episode:295640_4_18  # Chicago Med S04E18 - Tell Me the Truth
+tvdb_episode:258541_7_18  # Chicago Fire S07E18 - No Such Thing as Bad Luck
+tvdb_episode:295640_4_19  # Chicago Med S04E19 - Never Let You Go
+tvdb_episode:258541_7_19  # Chicago Fire S07E19 - Until the Weather Breaks
+tvdb_episode:269641_6_18  # Chicago P.D. S06E18 - This City
+tvdb_episode:269641_6_19  # Chicago P.D. S06E19 - What Could Have Been
+tvdb_episode:295640_4_20  # Chicago Med S04E20 - More Harm Than Good
+tvdb_episode:269641_6_20  # Chicago P.D. S06E20 - Sacrifice
+tvdb_episode:295640_4_21  # Chicago Med S04E21 - Forever Hold Your Peace
+tvdb_episode:269641_6_21  # Chicago P.D. S06E21 - Confession
+tvdb_episode:295640_4_22  # Chicago Med S04E22 - With a Brave Heart
+tvdb_episode:295640_5_1  # Chicago Med S05E01 - Never Going Back to Normal
+tvdb_episode:269641_6_22  # Chicago P.D. S06E22 - Reckoning
+tvdb_episode:269641_7_1  # Chicago P.D. S07E01 - Doubt
+tvdb_episode:258541_7_20  # Chicago Fire S07E20 - Try Like Hell
+tvdb_episode:258541_7_21  # Chicago Fire S07E21 - The White Whale
+tvdb_episode:258541_7_22  # Chicago Fire S07E22 - I’m Not Leaving You
+tvdb_episode:258541_8_1  # Chicago Fire S08E01 - Sacred Ground
+tvdb_episode:295640_5_2  # Chicago Med S05E02 - We’re Lost in the Dark
+tvdb_episode:258541_8_2  # Chicago Fire S08E02 - A Real Shot in the Arm
+tvdb_episode:269641_7_2  # Chicago P.D. S07E02 - Assets
+tvdb_episode:295640_5_3  # Chicago Med S05E03 - In the Valley of the Shadows
+tvdb_episode:258541_8_3  # Chicago Fire S08E03 - Badlands
+tvdb_episode:269641_7_3  # Chicago P.D. S07E03 - Familia
+tvdb_episode:258541_8_4  # Chicago Fire S08E04 - Infection: Part I
+tvdb_episode:295640_5_4  # Chicago Med S05E04 - Infection: Part II
+tvdb_episode:269641_7_4  # Chicago P.D. S07E04 - Infection: Part III
+tvdb_episode:258541_8_5  # Chicago Fire S08E05 - Buckle Up
+tvdb_episode:295640_5_5  # Chicago Med S05E05 - Got a Friend in Me
+tvdb_episode:295640_5_6  # Chicago Med S05E06 - It’s All in the Family
+tvdb_episode:269641_7_5  # Chicago P.D. S07E05 - Brother’s Keeper
+tvdb_episode:258541_8_6  # Chicago Fire S08E06 - What Went Wrong
+tvdb_episode:295640_5_7  # Chicago Med S05E07 - Who Knows What Tomorrow Brings
+tvdb_episode:269641_7_6  # Chicago P.D. S07E06 - False Positive
+tvdb_episode:295640_5_8  # Chicago Med S05E08 - Too Close to the Sun
+tvdb_episode:258541_8_7  # Chicago Fire S08E07 - Welcome to Crazytown
+tvdb_episode:295640_5_9  # Chicago Med S05E09 - I Can’t Imagine the Future
+tvdb_episode:269641_7_7  # Chicago P.D. S07E07 - Informant
+tvdb_episode:258541_8_8  # Chicago Fire S08E08 - Seeing Is Believing
+tvdb_episode:269641_7_8  # Chicago P.D. S07E08 - No Regrets
+tvdb_episode:258541_8_9  # Chicago Fire S08E09 - Best Friend Magic
+tvdb_episode:258541_8_10  # Chicago Fire S08E10 - Hold Our Ground
+tvdb_episode:258541_8_11  # Chicago Fire S08E11 - Where We End Up
+tvdb_episode:269641_7_9  # Chicago P.D. S07E09 - Absolution
+tvdb_episode:269641_7_10  # Chicago P.D. S07E10 - Mercy
+tvdb_episode:295640_5_10  # Chicago Med S05E10 - Guess It Doesn’t Matter Anymore
+tvdb_episode:295640_5_11  # Chicago Med S05E11 - The Ground Shifts Beneath Us
+tvdb_episode:269641_7_11  # Chicago P.D. S07E11 - 43rd and Normal
+tvdb_episode:295640_5_12  # Chicago Med S05E12 - Leave the Choice to Solomon
+tvdb_episode:258541_8_12  # Chicago Fire S08E12 - Then Nick Porter Happened
+tvdb_episode:269641_7_12  # Chicago P.D. S07E12 - The Devil You Know
+tvdb_episode:295640_5_13  # Chicago Med S05E13 - Pain Is for the Living
+tvdb_episode:258541_8_13  # Chicago Fire S08E13 - A Chicago Welcome
+tvdb_episode:269641_7_13  # Chicago P.D. S07E13 - I Was Here
+tvdb_episode:269641_7_14  # Chicago P.D. S07E14 - Center Mass
+tvdb_episode:258541_8_14  # Chicago Fire S08E14 - Shut It Down
+tvdb_episode:295640_5_14  # Chicago Med S05E14 - It May Not Be Forever
+tvdb_episode:295640_5_15  # Chicago Med S05E15 - I Will Do No Harm
+tvdb_episode:258541_8_15  # Chicago Fire S08E15 - Off the Grid
+tvdb_episode:269641_7_15  # Chicago P.D. S07E15 - Burden of Truth
+tvdb_episode:295640_5_16  # Chicago Med S05E16 - Who Should Be the Judge
+tvdb_episode:258541_8_16  # Chicago Fire S08E16 - The Tendency of a Drowning Victim
+tvdb_episode:269641_7_16  # Chicago P.D. S07E16 - Intimate Violence
+tvdb_episode:258541_8_17  # Chicago Fire S08E17 - Protect a Child
+tvdb_episode:269641_7_17  # Chicago P.D. S07E17 - Before the Fall
+tvdb_episode:295640_5_17  # Chicago Med S05E17 - The Ghosts of the Past
+tvdb_episode:258541_8_18  # Chicago Fire S08E18 - I’ll Cover You
+tvdb_episode:295640_5_18  # Chicago Med S05E18 - In the Name of Love
+tvdb_episode:269641_7_18  # Chicago P.D. S07E18 - Lines
+tvdb_episode:258541_8_19  # Chicago Fire S08E19 - Light Things Up
+tvdb_episode:269641_7_19  # Chicago P.D. S07E19 - Buried Secrets
+tvdb_episode:295640_5_19  # Chicago Med S05E19 - Just a River in Egypt
+tvdb_episode:258541_8_20  # Chicago Fire S08E20 - 51′s Original Bell
+tvdb_episode:295640_5_20  # Chicago Med S05E20 - A Needle in the Heart
+tvdb_episode:269641_7_20  # Chicago P.D. S07E20 - Silence of the Night
+tvdb_episode:269641_8_1  # Chicago P.D. S08E01 - Fighting Ghosts
+tvdb_episode:269641_8_2  # Chicago P.D. S08E02 - White Knuckle
+tvdb_episode:295640_6_1  # Chicago Med S06E01 - When Did We Begin to Change?
+tvdb_episode:258541_9_1  # Chicago Fire S09E01 - Rattle Second City
+tvdb_episode:258541_9_2  # Chicago Fire S09E02 - That Kind of Heat
+tvdb_episode:295640_6_2  # Chicago Med S06E02 - Those Things Hidden in Plain Sight
+tvdb_episode:258541_9_3  # Chicago Fire S09E03 - Smash Therapy
+tvdb_episode:295640_6_3  # Chicago Med S06E03 - Do You Know the Way Home?
+tvdb_episode:269641_8_3  # Chicago P.D. S08E03 - Tender Age
+tvdb_episode:269641_8_4  # Chicago P.D. S08E04 - Unforgiven
+tvdb_episode:258541_9_4  # Chicago Fire S09E04 - Funny What Things Remind Us
+tvdb_episode:258541_9_5  # Chicago Fire S09E05 - My Lucky Day
+tvdb_episode:269641_8_5  # Chicago P.D. S08E05 - In Your Care
+tvdb_episode:295640_6_4  # Chicago Med S06E04 - In Search of Forgiveness, Not Permission
+tvdb_episode:295640_6_5  # Chicago Med S06E05 - When Your Heart Rules Your Head
+tvdb_episode:295640_6_6  # Chicago Med S06E06 - Don't Want to Face This Now
+tvdb_episode:258541_9_6  # Chicago Fire S09E06 - Blow This Up Somehow
+tvdb_episode:269641_8_6  # Chicago P.D. S08E06 - Equal Justice
+tvdb_episode:295640_6_7  # Chicago Med S06E07 - Better Is the Enemy of Good
+tvdb_episode:258541_9_7  # Chicago Fire S09E07 - Dead of Winter
+tvdb_episode:269641_8_7  # Chicago P.D. S08E07 - Instinct
+tvdb_episode:295640_6_8  # Chicago Med S06E08 - Fathers and Mothers, Daughters and Sons
+tvdb_episode:295640_6_9  # Chicago Med S06E09 - For the Want of a Nail
+tvdb_episode:269641_8_8  # Chicago P.D. S08E08 - Protect and Serve
+tvdb_episode:258541_9_8  # Chicago Fire S09E08 - Escape Route
+tvdb_episode:258541_9_9  # Chicago Fire S09E09 - Double Red
+tvdb_episode:269641_8_9  # Chicago P.D. S08E09 - Impossible Dream
+tvdb_episode:295640_6_10  # Chicago Med S06E10 - So Many Things We've Kept Buried
+tvdb_episode:258541_9_10  # Chicago Fire S09E10 - One Crazy Shift
+tvdb_episode:269641_8_10  # Chicago P.D. S08E10 - The Radical Truth
+tvdb_episode:295640_6_11  # Chicago Med S06E11 - Letting Go Only to Come Together
+tvdb_episode:258541_9_11  # Chicago Fire S09E11 - A Couple Hundred Degrees
+tvdb_episode:269641_8_11  # Chicago P.D. S08E11 - Signs of Violence
+tvdb_episode:295640_6_12  # Chicago Med S06E12 - Some Things Are Worth the Risk
+tvdb_episode:258541_9_12  # Chicago Fire S09E12 - Natural Born Firefighter
+tvdb_episode:269641_8_12  # Chicago P.D. S08E12 - Due Process
+tvdb_episode:295640_6_13  # Chicago Med S06E13 - What a Tangled Web We Weave
+tvdb_episode:269641_8_13  # Chicago P.D. S08E13 - Trouble Dolls
+tvdb_episode:295640_6_14  # Chicago Med S06E14 - A Red Pill, a Blue Pill
+tvdb_episode:269641_8_14  # Chicago P.D. S08E14 - Safe
+tvdb_episode:258541_9_13  # Chicago Fire S09E13 - Don't Hang Up
+tvdb_episode:258541_9_14  # Chicago Fire S09E14 - What Comes Next
+tvdb_episode:269641_8_15  # Chicago P.D. S08E15 - The Right Thing
+tvdb_episode:269641_8_16  # Chicago P.D. S08E16 - The Other Side
+tvdb_episode:269641_9_1  # Chicago P.D. S09E01 - Closure
+tvdb_episode:295640_6_15  # Chicago Med S06E15 - Stories, Secrets, Half Truths and Lies
+tvdb_episode:295640_6_16  # Chicago Med S06E16 - I Will Come to Save You
+tvdb_episode:258541_9_15  # Chicago Fire S09E15 - A White-Knuckle Panic
+tvdb_episode:258541_9_16  # Chicago Fire S09E16 - No Survivors
+tvdb_episode:258541_10_1  # Chicago Fire S10E01 - Mayday
+tvdb_episode:295640_7_1  # Chicago Med S07E01 - You Can't Always Trust What You See
+tvdb_episode:258541_10_2  # Chicago Fire S10E02 - Head Count
+tvdb_episode:258541_10_3  # Chicago Fire S10E03 - Counting Your Breaths
+tvdb_episode:269641_9_2  # Chicago P.D. S09E02 - Rage
+tvdb_episode:295640_7_2  # Chicago Med S07E02 - To Lean In, or to Let Go
+tvdb_episode:295640_7_3  # Chicago Med S07E03 - Be the Change You Want to See
+tvdb_episode:258541_10_4  # Chicago Fire S10E04 - The Right Thing
+tvdb_episode:258541_10_5  # Chicago Fire S10E05 - Two Hundred
+tvdb_episode:295640_7_4  # Chicago Med S07E04 - Status Quo, AKA the Mess We're In
+tvdb_episode:269641_9_3  # Chicago P.D. S09E03 - The One Next to Me
+tvdb_episode:258541_10_6  # Chicago Fire S10E06 - Dead Zone
+tvdb_episode:258541_10_7  # Chicago Fire S10E07 - Whom Shall I Fear?
+tvdb_episode:269641_9_4  # Chicago P.D. S09E04 - In the Dark
+tvdb_episode:269641_9_5  # Chicago P.D. S09E05 - Burnside
+tvdb_episode:258541_10_8  # Chicago Fire S10E08 - What Happened at Whiskey Point?
+tvdb_episode:269641_9_6  # Chicago P.D. S09E06 - End of Watch
+tvdb_episode:295640_7_5  # Chicago Med S07E05 - Change Is a Tough Pill to Swallow
+tvdb_episode:269641_9_7  # Chicago P.D. S09E07 - Trust Me
+tvdb_episode:295640_7_6  # Chicago Med S07E06 - When You're a Hammer Everything's a Nail
+tvdb_episode:269641_9_8  # Chicago P.D. S09E08 - Fractures
+tvdb_episode:269641_9_9  # Chicago P.D. S09E09 - A Way Out
+tvdb_episode:269641_9_10  # Chicago P.D. S09E10 - Home Safe
+tvdb_episode:258541_10_9  # Chicago Fire S10E09 - Winterfest
+tvdb_episode:258541_10_10  # Chicago Fire S10E10 - Back with a Bang
+tvdb_episode:258541_10_11  # Chicago Fire S10E11 - Fog of War
+tvdb_episode:295640_7_7  # Chicago Med S07E07 - A Square Peg in a Round Hole
+tvdb_episode:295640_7_8  # Chicago Med S07E08 - Just as a Snake Sheds Its Skin
+tvdb_episode:295640_7_9  # Chicago Med S07E09 - Secret Santa Has a Gift for You
+tvdb_episode:295640_7_10  # Chicago Med S07E10 - No Good Deed Goes Unpunished… in Chicago
+tvdb_episode:269641_9_11  # Chicago P.D. S09E11 - Lies
+tvdb_episode:295640_7_11  # Chicago Med S07E11 - The Things We Thought We Left Behind
+tvdb_episode:258541_10_12  # Chicago Fire S10E12 - Show of Force
+tvdb_episode:258541_10_13  # Chicago Fire S10E13 - Fire Cop
+tvdb_episode:269641_9_12  # Chicago P.D. S09E12 - To Protect
+tvdb_episode:295640_7_12  # Chicago Med S07E12 - What You Don't Know Can't Hurt You
+tvdb_episode:295640_7_13  # Chicago Med S07E13 - Reality Leaves a Lot to the Imagination
+tvdb_episode:269641_9_13  # Chicago P.D. S09E13 - Still Water
+tvdb_episode:295640_7_14  # Chicago Med S07E14 - All the Things That Could Have Been
+tvdb_episode:258541_10_14  # Chicago Fire S10E14 - An Officer with Grit
+tvdb_episode:258541_10_15  # Chicago Fire S10E15 - The Missing Piece
+tvdb_episode:295640_7_15  # Chicago Med S07E15 - Things Meant to Be Bent Not Broken
+tvdb_episode:269641_9_14  # Chicago P.D. S09E14 - Blood Relation
+tvdb_episode:269641_9_15  # Chicago P.D. S09E15 - Gone
+tvdb_episode:258541_10_16  # Chicago Fire S10E16 - Hot and Fast
+tvdb_episode:295640_7_16  # Chicago Med S07E16 - May Your Choices Reflect Hope, Not Fear
+tvdb_episode:295640_7_17  # Chicago Med S07E17 - If You Love Someone, Set Them Free
+tvdb_episode:269641_9_16  # Chicago P.D. S09E16 - Closer
+tvdb_episode:258541_10_17  # Chicago Fire S10E17 - Keep You Safe
+tvdb_episode:269641_9_17  # Chicago P.D. S09E17 - Adrift
+tvdb_episode:295640_7_18  # Chicago Med S07E18 - Judge Not, For You Will Be Judged
+tvdb_episode:258541_10_18  # Chicago Fire S10E18 - What's Inside You
+tvdb_episode:269641_9_18  # Chicago P.D. S09E18 - New Guard
+tvdb_episode:269641_9_19  # Chicago P.D. S09E19 - Fool's Gold
+tvdb_episode:295640_7_19  # Chicago Med S07E19 - Like a Phoenix Rising from the Ashes
+tvdb_episode:269641_9_20  # Chicago P.D. S09E20 - Memory
+tvdb_episode:295640_7_20  # Chicago Med S07E20 - End of the Day, Anything Can Happen
+tvdb_episode:269641_9_21  # Chicago P.D. S09E21 - House of Cards
+tvdb_episode:269641_9_22  # Chicago P.D. S09E22 - You and Me
+tvdb_episode:258541_10_19  # Chicago Fire S10E19 - Finish What You Started
+tvdb_episode:258541_10_20  # Chicago Fire S10E20 - Halfway to the Moon
+tvdb_episode:258541_10_21  # Chicago Fire S10E21 - Last Chance
+tvdb_episode:258541_10_22  # Chicago Fire S10E22 - The Magnificent City of Chicago
+tvdb_episode:295640_7_21  # Chicago Med S07E21 - Lying Doesn't Protect You from the Truth
+tvdb_episode:295640_7_22  # Chicago Med S07E22 - And Now We Come to the End
+tvdb_episode:295640_8_1  # Chicago Med S08E01 - How Do You Begin to Count the Losses
+tvdb_episode:258541_11_1  # Chicago Fire S11E01 - Hold on Tight
+tvdb_episode:258541_11_2  # Chicago Fire S11E02 - Every Scar Tells a Story
+tvdb_episode:269641_10_1  # Chicago P.D. S10E01 - Let It Bleed
+tvdb_episode:269641_10_2  # Chicago P.D. S10E02 - The Real You
+tvdb_episode:258541_11_3  # Chicago Fire S11E03 - Completely Shattered
+tvdb_episode:295640_8_2  # Chicago Med S08E02 - (Caught Between) The Wrecking Ball and the Butterfly
+tvdb_episode:258541_11_4  # Chicago Fire S11E04 - The Center of the Universe
+tvdb_episode:295640_8_3  # Chicago Med S08E03 - Winning the Battle, But Still Losing the War
+tvdb_episode:269641_10_3  # Chicago P.D. S10E03 - A Good Man
+tvdb_episode:269641_10_4  # Chicago P.D. S10E04 - Dónde Vives
+tvdb_episode:295640_8_4  # Chicago Med S08E04 - The Apple Doesn't Fall Far from the Teacher
+tvdb_episode:295640_8_5  # Chicago Med S08E05 - Yep, This Is the World We Live In
+tvdb_episode:258541_11_5  # Chicago Fire S11E05 - Haunted House
+tvdb_episode:269641_10_5  # Chicago P.D. S10E05 - Pink Cloud
+tvdb_episode:269641_10_6  # Chicago P.D. S10E06 - Sympathetic Reflex
+tvdb_episode:295640_8_6  # Chicago Med S08E06 - Mama Said There Would Be Days Like This
+tvdb_episode:258541_11_6  # Chicago Fire S11E06 - All-Out Mystery
+tvdb_episode:295640_8_7  # Chicago Med S08E07 - The Clothes Make the Man… Or Do They?
+tvdb_episode:269641_10_7  # Chicago P.D. S10E07 - Into the Deep
+tvdb_episode:258541_11_7  # Chicago Fire S11E07 - Angry Is Easier
+tvdb_episode:269641_10_8  # Chicago P.D. S10E08 - Under the Skin
+tvdb_episode:269641_10_9  # Chicago P.D. S10E09 - Proof of Burden
+tvdb_episode:295640_8_8  # Chicago Med S08E08 - Everyone's Fighting a Battle You Know Nothing About
+tvdb_episode:258541_11_8  # Chicago Fire S11E08 - A Beautiful Life
+tvdb_episode:295640_8_9  # Chicago Med S08E09 - This Could Be the Start of Something New
+tvdb_episode:258541_11_9  # Chicago Fire S11E09 - Nemesis
+tvdb_episode:258541_11_10  # Chicago Fire S11E10 - Something for the Pain
+tvdb_episode:295640_8_10  # Chicago Med S08E10 - A Little Change Might Do You Some Good
+tvdb_episode:269641_10_10  # Chicago P.D. S10E10 - This Job
+tvdb_episode:258541_11_11  # Chicago Fire S11E11 - A Guy I Used to Know
+tvdb_episode:295640_8_11  # Chicago Med S08E11 - It Is What It Is, Until It Isn't
+tvdb_episode:269641_10_11  # Chicago P.D. S10E11 - Long Lost
+tvdb_episode:258541_11_12  # Chicago Fire S11E12 - How Does It End?
+tvdb_episode:295640_8_12  # Chicago Med S08E12 - We All Know What They Say About Assumptions
+tvdb_episode:269641_10_12  # Chicago P.D. S10E12 - I Can Let You Go
+tvdb_episode:258541_11_13  # Chicago Fire S11E13 - The Man of the Moment
+tvdb_episode:295640_8_13  # Chicago Med S08E13 - It's an Ill Wind That Blows Nobody Good
+tvdb_episode:269641_10_13  # Chicago P.D. S10E13 - The Ghost in You
+tvdb_episode:295640_8_14  # Chicago Med S08E14 - On Days Like Today… Silver Linings Become Lifelines
+tvdb_episode:258541_11_14  # Chicago Fire S11E14 - Run Like Hell
+tvdb_episode:258541_11_15  # Chicago Fire S11E15 - Damage Control
+tvdb_episode:269641_10_14  # Chicago P.D. S10E14 - Trapped
+tvdb_episode:295640_8_15  # Chicago Med S08E15 - Those Times You Have to Cross the Line
+tvdb_episode:269641_10_15  # Chicago P.D. S10E15 - Blood and Honor
+tvdb_episode:295640_8_16  # Chicago Med S08E16 - What You See Isn't Always What You Get
+tvdb_episode:258541_11_16  # Chicago Fire S11E16 - Acting Up
+tvdb_episode:295640_8_17  # Chicago Med S08E17 - Know When to Hold and When to Fold
+tvdb_episode:269641_10_16  # Chicago P.D. S10E16 - Deadlocked
+tvdb_episode:258541_11_17  # Chicago Fire S11E17 - The First Symptom
+tvdb_episode:295640_8_18  # Chicago Med S08E18 - I Could See the Writing on the Wall
+tvdb_episode:269641_10_17  # Chicago P.D. S10E17 - Out of the Depths
+tvdb_episode:269641_10_18  # Chicago P.D. S10E18 - You Only Die Twice
+tvdb_episode:295640_8_19  # Chicago Med S08E19 - Look Closely and You Might Hear the Truth
+tvdb_episode:258541_11_18  # Chicago Fire S11E18 - Danger Is All Around
+tvdb_episode:258541_11_19  # Chicago Fire S11E19 - Take a Shot at the King
+tvdb_episode:269641_10_19  # Chicago P.D. S10E19 - The Bleed Valve
+tvdb_episode:295640_8_20  # Chicago Med S08E20 - The Winds of Change Are Starting to Blow
+tvdb_episode:269641_10_20  # Chicago P.D. S10E20 - Fight
+tvdb_episode:295640_8_21  # Chicago Med S08E21 - Might Feel Like It's Time for a Change
+tvdb_episode:295640_8_22  # Chicago Med S08E22 - Does One Door Close and Another One Open?
+tvdb_episode:269641_10_21  # Chicago P.D. S10E21 - New Life
+tvdb_episode:269641_10_22  # Chicago P.D. S10E22 - A Better Place
+tvdb_episode:258541_11_20  # Chicago Fire S11E20 - Never, Ever Make a Mistake
+tvdb_episode:258541_11_21  # Chicago Fire S11E21 - Change of Plans
+tvdb_episode:258541_11_22  # Chicago Fire S11E22 - Red Waterfall
+tvdb_episode:258541_12_1  # Chicago Fire S12E01 - Barely Gone
+tvdb_episode:269641_11_1  # Chicago P.D. S11E01 - Unpacking
+tvdb_episode:258541_12_2  # Chicago Fire S12E02 - Call Me McHolland
+tvdb_episode:269641_11_2  # Chicago P.D. S11E02 - Retread
+tvdb_episode:295640_9_1  # Chicago Med S09E01 - Row Row Row Your Boat on a Rocky Sea
+tvdb_episode:295640_9_2  # Chicago Med S09E02 - This Town Ain't Big Enough for the Both of Us
+tvdb_episode:258541_12_3  # Chicago Fire S12E03 - Trapped
+tvdb_episode:295640_9_3  # Chicago Med S09E03 - What Happens in the Dark Always Comes to Light
+tvdb_episode:258541_12_4  # Chicago Fire S12E04 - The Little Things
+tvdb_episode:269641_11_3  # Chicago P.D. S11E03 - Safe Harbor
+tvdb_episode:269641_11_4  # Chicago P.D. S11E04 - Escape
+tvdb_episode:295640_9_4  # Chicago Med S09E04 - These Are Not the Droids You Are Looking For
+tvdb_episode:258541_12_5  # Chicago Fire S12E05 - On the Hook
+tvdb_episode:295640_9_5  # Chicago Med S09E05 - I Make a Promise, I Will Never Leave You
+tvdb_episode:258541_12_6  # Chicago Fire S12E06 - Port in the Storm
+tvdb_episode:269641_11_5  # Chicago P.D. S11E05 - Split Second
+tvdb_episode:258541_12_7  # Chicago Fire S12E07 - Red Flag
+tvdb_episode:295640_9_6  # Chicago Med S09E06 - I Told Myself That I Was Done with You
+tvdb_episode:269641_11_6  # Chicago P.D. S11E06 - Survival
+tvdb_episode:269641_11_7  # Chicago P.D. S11E07 - The Living and the Dead
+tvdb_episode:258541_12_8  # Chicago Fire S12E08 - All the Dark
+tvdb_episode:269641_11_8  # Chicago P.D. S11E08 - On Paper
+tvdb_episode:295640_9_7  # Chicago Med S09E07 - Step on a Crack and Break Your Mother's Back
+tvdb_episode:269641_11_9  # Chicago P.D. S11E09 - Somos Uno
+tvdb_episode:258541_12_9  # Chicago Fire S12E09 - Something About Her
+tvdb_episode:295640_9_8  # Chicago Med S09E08 - A Penny for Your Thoughts, Dollar for Your Dreams
+tvdb_episode:295640_9_9  # Chicago Med S09E09 - Spin a Yarn, Get Stuck in Your Own String
+tvdb_episode:258541_12_10  # Chicago Fire S12E10 - The Wrong Guy
+tvdb_episode:269641_11_10  # Chicago P.D. S11E10 - Buried Pieces
+tvdb_episode:258541_12_11  # Chicago Fire S12E11 - Inside Man
+tvdb_episode:295640_9_10  # Chicago Med S09E10 - You Just Might Find You Get What You Need
+tvdb_episode:269641_11_11  # Chicago P.D. S11E11 - The Water Line
+tvdb_episode:295640_9_11  # Chicago Med S09E11 - I Think There Is Something You're Not Telling Me
+tvdb_episode:258541_12_12  # Chicago Fire S12E12 - Under Pressure
+tvdb_episode:295640_9_12  # Chicago Med S09E12 - Get By with a Little Help from My Friends
+tvdb_episode:269641_11_12  # Chicago P.D. S11E12 - Inventory
+tvdb_episode:269641_11_13  # Chicago P.D. S11E13 - More
+tvdb_episode:258541_12_13  # Chicago Fire S12E13 - Never Say Goodbye
+tvdb_episode:295640_9_13  # Chicago Med S09E13 - I Think I Know You, But Do I Really?
+tvdb_episode:295640_10_1  # Chicago Med S10E01 - Sink or Swim
+tvdb_episode:258541_13_1  # Chicago Fire S13E01 - A Monster in the Field
+tvdb_episode:269641_12_1  # Chicago P.D. S12E01 - Ten Ninety-Nine
+tvdb_episode:269641_12_2  # Chicago P.D. S12E02 - Blood Bleeds Blue
+tvdb_episode:258541_13_2  # Chicago Fire S13E02 - Ride the Blade
+tvdb_episode:295640_10_2  # Chicago Med S10E02 - Bite Your Tongue
+tvdb_episode:295640_10_3  # Chicago Med S10E03 - Trust Fall
+tvdb_episode:258541_13_3  # Chicago Fire S13E03 - All Kinds of Crazy
+tvdb_episode:269641_12_3  # Chicago P.D. S12E03 - Off Switch
+tvdb_episode:295640_10_4  # Chicago Med S10E04 - Blurred Lines
+tvdb_episode:269641_12_4  # Chicago P.D. S12E04 - The After
+tvdb_episode:258541_13_4  # Chicago Fire S13E04 - Through the Skin
+tvdb_episode:258541_13_5  # Chicago Fire S13E05 - Down the Rabbit Hole
+tvdb_episode:269641_12_5  # Chicago P.D. S12E05 - Water and Honey
+tvdb_episode:295640_10_5  # Chicago Med S10E05 - Bad Habits
+tvdb_episode:269641_12_6  # Chicago P.D. S12E06 - Pawns
+tvdb_episode:258541_13_6  # Chicago Fire S13E06 - Birds of Prey
+tvdb_episode:258541_13_7  # Chicago Fire S13E07 - Untouchable
+tvdb_episode:269641_12_7  # Chicago P.D. S12E07 - Contrition
+tvdb_episode:269641_12_8  # Chicago P.D. S12E08 - Penance
+tvdb_episode:295640_10_6  # Chicago Med S10E06 - Forget Me Not
+tvdb_episode:258541_13_8  # Chicago Fire S13E08 - Quicksand
+tvdb_episode:258541_13_9  # Chicago Fire S13E09 - A Favor
+tvdb_episode:258541_13_10  # Chicago Fire S13E10 - Chaos Theory
+tvdb_episode:295640_10_7  # Chicago Med S10E07 - Family Matters
+tvdb_episode:269641_12_9  # Chicago P.D. S12E09 - Friends and Family
+tvdb_episode:295640_10_8  # Chicago Med S10E08 - Love Will Tear Us Apart
+tvdb_episode:295640_10_9  # Chicago Med S10E09 - No Love Lost
+tvdb_episode:269641_12_10  # Chicago P.D. S12E10 - Zoe
+tvdb_episode:295640_10_10  # Chicago Med S10E10 - Broken Hearts
+tvdb_episode:258541_13_11  # Chicago Fire S13E11 - In the Trenches: Part I
+tvdb_episode:295640_10_11  # Chicago Med S10E11 - In the Trenches: Part II
+tvdb_episode:269641_12_11  # Chicago P.D. S12E11 - In the Trenches: Part III
+tvdb_episode:269641_12_12  # Chicago P.D. S12E12 - The Good Shepherd
+tvdb_episode:258541_13_12  # Chicago Fire S13E12 - Relief Cut
+tvdb_episode:258541_13_13  # Chicago Fire S13E13 - Born of Fire
+tvdb_episode:295640_10_12  # Chicago Med S10E12 - In the Wake
+tvdb_episode:295640_10_13  # Chicago Med S10E13 - Take a Look in the Mirror
+tvdb_episode:269641_12_13  # Chicago P.D. S12E13 - Street Jesus
+tvdb_episode:258541_13_14  # Chicago Fire S13E14 - Bar Time
+tvdb_episode:269641_12_14  # Chicago P.D. S12E14 - Marie
+tvdb_episode:295640_10_14  # Chicago Med S10E14 - Acid Test
+tvdb_episode:269641_12_15  # Chicago P.D. S12E15 - Greater Good
+tvdb_episode:295640_10_15  # Chicago Med S10E15 - Down in a Hole
+tvdb_episode:295640_10_16  # Chicago Med S10E16 - Poster Child
+tvdb_episode:258541_13_15  # Chicago Fire S13E15 - Too Close
+tvdb_episode:295640_10_17  # Chicago Med S10E17 - The Book of Archer
+tvdb_episode:269641_12_16  # Chicago P.D. S12E16 - Seen and Unseen
+tvdb_episode:295640_10_18  # Chicago Med S10E18 - Together One Last Time
+tvdb_episode:269641_12_17  # Chicago P.D. S12E17 - Transference
+tvdb_episode:258541_13_16  # Chicago Fire S13E16 - In the Rubble
+tvdb_episode:258541_13_17  # Chicago Fire S13E17 - A Beast Like This
+tvdb_episode:258541_13_18  # Chicago Fire S13E18 - Post-Mortem
+tvdb_episode:269641_12_18  # Chicago P.D. S12E18 - Demons
+tvdb_episode:258541_13_19  # Chicago Fire S13E19 - Permanent Damage
+tvdb_episode:269641_12_19  # Chicago P.D. S12E19 - Name Image Likeness
+tvdb_episode:295640_10_19  # Chicago Med S10E19 - The Stories We Tell Ourselves
+tvdb_episode:269641_12_20  # Chicago P.D. S12E20 - Black Ice
+tvdb_episode:295640_10_20  # Chicago Med S10E20 - The Invisible Hand
+tvdb_episode:258541_13_20  # Chicago Fire S13E20 - Cut Me Open
+tvdb_episode:258541_13_21  # Chicago Fire S13E21 - The Bad Guy
+tvdb_episode:258541_13_22  # Chicago Fire S13E22 - It Had to End This Way
+tvdb_episode:269641_12_21  # Chicago P.D. S12E21 - Open Casket
+tvdb_episode:269641_12_22  # Chicago P.D. S12E22 - Vows
+tvdb_episode:295640_10_21  # Chicago Med S10E21 - Baby Mine…
+tvdb_episode:295640_10_22  # Chicago Med S10E22 - …Don't You Cry
+tvdb_episode:295640_11_1  # Chicago Med S11E01 - We All Fall Down
+tvdb_episode:258541_14_1  # Chicago Fire S14E01 - Kicking Down Doors
+tvdb_episode:295640_11_2  # Chicago Med S11E02 - A Game of Inches
+tvdb_episode:295640_11_3  # Chicago Med S11E03 - Horseshoes and Hand Grenades
+tvdb_episode:258541_14_2  # Chicago Fire S14E02 - Primary Search
+tvdb_episode:269641_13_1  # Chicago P.D. S13E01 - Consequences
+tvdb_episode:258541_14_3  # Chicago Fire S14E03 - In the Blood
+tvdb_episode:295640_11_4  # Chicago Med S11E04 - Found Family
+tvdb_episode:269641_13_2  # Chicago P.D. S13E02 - Open Wounds
+tvdb_episode:258541_14_4  # Chicago Fire S14E04 - Mercy
+tvdb_episode:269641_13_3  # Chicago P.D. S13E03 - Canaryville
+tvdb_episode:258541_14_5  # Chicago Fire S14E05 - Ghosts
+tvdb_episode:295640_11_5  # Chicago Med S11E05 - What's Hiding in the Dark
+tvdb_episode:295640_11_6  # Chicago Med S11E06 - The Story of Us
+tvdb_episode:269641_13_4  # Chicago P.D. S13E04 - Root Cause
+tvdb_episode:269641_13_5  # Chicago P.D. S13E05 - Miami
+tvdb_episode:258541_14_6  # Chicago Fire S14E06 - Broken Things
+tvdb_episode:295640_11_7  # Chicago Med S11E07 - Double Down
+tvdb_episode:295640_11_8  # Chicago Med S11E08 - Triple Threat
+tvdb_episode:269641_13_6  # Chicago P.D. S13E06 - Send Me
+tvdb_episode:295640_11_9  # Chicago Med S11E09 - Blindsided
+tvdb_episode:258541_14_7  # Chicago Fire S14E07 - Pierce the Vein
+tvdb_episode:258541_14_8  # Chicago Fire S14E08 - A Man Possessed
+tvdb_episode:269641_13_7  # Chicago P.D. S13E07 - Impulse Control
+tvdb_episode:269641_13_8  # Chicago P.D. S13E08 - Born Screaming
+tvdb_episode:258541_14_9  # Chicago Fire S14E09 - Crime of Passion
+tvdb_episode:269641_13_9  # Chicago P.D. S13E09 - Heroes
+tvdb_episode:295640_11_10  # Chicago Med S11E10 - Frost on Fire
+tvdb_episode:258541_14_10  # Chicago Fire S14E10 - Carry a Torch
+tvdb_episode:269641_13_10  # Chicago P.D. S13E10 - Faith
+tvdb_episode:295640_11_11  # Chicago Med S11E11 - Our So-Called Lives
+tvdb_episode:258541_14_11  # Chicago Fire S14E11 - Frostbite Blue
+tvdb_episode:269641_13_11  # Chicago P.D. S13E11 - On the Way
+tvdb_episode:295640_11_12  # Chicago Med S11E12 - Spill Your Guts
+tvdb_episode:258541_14_12  # Chicago Fire S14E12 - Coming in Hot
+tvdb_episode:269641_13_12  # Chicago P.D. S13E12 - Missing
+tvdb_episode:258541_14_13  # Chicago Fire S14E13 - Reckoning, Part I
+tvdb_episode:295640_11_13  # Chicago Med S11E13 - Reckoning, Part II
+tvdb_episode:269641_13_13  # Chicago P.D. S13E13 - Reckoning, Part III
+tvdb_episode:295640_11_14  # Chicago Med S11E14 - Twist & Shout
+tvdb_episode:258541_14_14  # Chicago Fire S14E14 - Hit and Run
+tvdb_episode:269641_13_14  # Chicago P.D. S13E14 - Meant to Be
+tvdb_episode:295640_11_15  # Chicago Med S11E15 - The Cost of Living
+tvdb_episode:258541_14_15  # Chicago Fire S14E15 - Do Not Resuscitate
+tvdb_episode:269641_13_15  # Chicago P.D. S13E15 - Live or Die by Your CI
+tvdb_episode:295640_11_16  # Chicago Med S11E16 - The Book of Charles
+tvdb_episode:258541_14_16  # Chicago Fire S14E16 - Firehouse 66
+tvdb_episode:269641_13_16  # Chicago P.D. S13E16 - Restored
+tvdb_episode:295640_11_17  # Chicago Med S11E17 - Altered States
+tvdb_episode:258541_14_17  # Chicago Fire S14E17 - Sway
+tvdb_episode:269641_13_17  # Chicago P.D. S13E17 - Partners
+tvdb_episode:295640_11_18  # Chicago Med S11E18 - Things Left Unsaid
+tvdb_episode:258541_14_18  # Chicago Fire S14E18 - Instinct
+tvdb_episode:269641_13_18  # Chicago P.D. S13E18 - The Wicked River
+tvdb_episode:295640_11_19  # Chicago Med S11E19 - Exit Strategies
+tvdb_episode:258541_14_19  # Chicago Fire S14E19 - Exit Point
+tvdb_episode:269641_13_19  # Chicago P.D. S13E19 - Going Back
+tvdb_episode:295640_11_20  # Chicago Med S11E20 - Hell Breaks Loose
+tvdb_episode:258541_14_20  # Chicago Fire S14E20 - Speak of the Devil
+tvdb_episode:269641_13_20  # Chicago P.D. S13E20 - The Lost Years
+tvdb_episode:295640_11_21  # Chicago Med S11E21 - Heaven Help Us
+tvdb_episode:258541_14_21  # Chicago Fire S14E21 - Thank You
+tvdb_episode:269641_13_21  # Chicago P.D. S13E21 - Born or Made
