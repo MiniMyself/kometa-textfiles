@@ -1,346 +1,346 @@
-#Last update 30-04-2026
-#Includes FBI, FBI: Most Wanted & FBI: International
-#Does not take into consideration other shows
-tvdb_episode:350071_1_1 #FBI
-tvdb_episode:350071_1_2 #FBI
-tvdb_episode:350071_1_3 #FBI
-tvdb_episode:350071_1_4 #FBI
-tvdb_episode:350071_1_5 #FBI
-tvdb_episode:350071_1_6 #FBI
-tvdb_episode:350071_1_7 #FBI
-tvdb_episode:350071_1_8 #FBI
-tvdb_episode:350071_1_9 #FBI
-tvdb_episode:350071_1_10 #FBI
-tvdb_episode:350071_1_11 #FBI
-tvdb_episode:350071_1_12 #FBI
-tvdb_episode:350071_1_13 #FBI
-tvdb_episode:350071_1_14 #FBI
-tvdb_episode:350071_1_15 #FBI
-tvdb_episode:350071_1_16 #FBI
-tvdb_episode:350071_1_17 #FBI
-tvdb_episode:350071_1_18 #FBI
-tvdb_episode:350071_1_19 #FBI
-tvdb_episode:350071_1_20 #FBI
-tvdb_episode:350071_1_21 #FBI
-tvdb_episode:350071_1_22 #FBI
-tvdb_episode:350071_2_1 #FBI
-tvdb_episode:350071_2_2 #FBI
-tvdb_episode:350071_2_3 #FBI
-tvdb_episode:350071_2_4 #FBI
-tvdb_episode:350071_2_5 #FBI
-tvdb_episode:350071_2_6 #FBI
-tvdb_episode:350071_2_7 #FBI
-tvdb_episode:350071_2_8 #FBI
-tvdb_episode:350071_2_9 #FBI
-tvdb_episode:350071_2_10 #FBI
-tvdb_episode:350071_2_11 #FBI
-tvdb_episode:364088_1_1 #FBI Most Wanted
-tvdb_episode:350071_2_12 #FBI
-tvdb_episode:364088_1_2 #FBI Most Wanted
-tvdb_episode:350071_2_13 #FBI
-tvdb_episode:364088_1_3 #FBI Most Wanted
-tvdb_episode:350071_2_14 #FBI
-tvdb_episode:364088_1_4 #FBI Most Wanted
-tvdb_episode:350071_2_15 #FBI
-tvdb_episode:364088_1_5 #FBI Most Wanted
-tvdb_episode:350071_2_16 #FBI
-tvdb_episode:364088_1_6 #FBI Most Wanted
-tvdb_episode:350071_2_17 #FBI
-tvdb_episode:364088_1_7 #FBI Most Wanted
-tvdb_episode:364088_1_8 #FBI Most Wanted
-tvdb_episode:350071_2_18 #FBI
-tvdb_episode:364088_1_9 #FBI Most Wanted
-tvdb_episode:350071_2_19 #FBI
-tvdb_episode:364088_1_10 #FBI Most Wanted
-tvdb_episode:364088_1_11 #FBI Most Wanted
-tvdb_episode:364088_1_12 #FBI Most Wanted
-tvdb_episode:364088_1_13 #FBI Most Wanted
-tvdb_episode:364088_1_14 #FBI Most Wanted
-tvdb_episode:350071_3_1 #FBI
-tvdb_episode:364088_2_1 #FBI Most Wanted
-tvdb_episode:350071_3_2 #FBI
-tvdb_episode:364088_2_2 #FBI Most Wanted
-tvdb_episode:350071_3_3 #FBI
-tvdb_episode:364088_2_3 #FBI Most Wanted
-tvdb_episode:350071_3_4 #FBI
-tvdb_episode:364088_2_4 #FBI Most Wanted
-tvdb_episode:350071_3_5 #FBI
-tvdb_episode:364088_2_5 #FBI Most Wanted
-tvdb_episode:350071_3_6 #FBI
-tvdb_episode:364088_2_6 #FBI Most Wanted
-tvdb_episode:350071_3_7 #FBI
-tvdb_episode:364088_2_7 #FBI Most Wanted
-tvdb_episode:350071_3_8 #FBI
-tvdb_episode:364088_2_8 #FBI Most Wanted
-tvdb_episode:350071_3_9 #FBI
-tvdb_episode:364088_2_9 #FBI Most Wanted
-tvdb_episode:350071_3_10 #FBI
-tvdb_episode:364088_2_10 #FBI Most Wanted
-tvdb_episode:350071_3_11 #FBI
-tvdb_episode:364088_2_11 #FBI Most Wanted
-tvdb_episode:350071_3_12 #FBI
-tvdb_episode:364088_2_12 #FBI Most Wanted
-tvdb_episode:350071_3_13 #FBI
-tvdb_episode:364088_2_13 #FBI Most Wanted
-tvdb_episode:350071_3_14 #FBI
-tvdb_episode:364088_2_14 #FBI Most Wanted
-tvdb_episode:350071_3_15 #FBI
-tvdb_episode:364088_2_15 #FBI Most Wanted
-tvdb_episode:350071_4_1 #FBI
-tvdb_episode:364088_3_1 #FBI Most Wanted
-tvdb_episode:399863_1_1 #FBI International
-tvdb_episode:350071_4_2 #FBI
-tvdb_episode:399863_1_2 #FBI International 
-tvdb_episode:364088_3_2 #FBI Most Wanted
-tvdb_episode:350071_4_3 #FBI
-tvdb_episode:399863_1_3 #FBI International 
-tvdb_episode:364088_3_3 #FBI Most Wanted
-tvdb_episode:350071_4_4 #FBI
-tvdb_episode:399863_1_4 #FBI International 
-tvdb_episode:364088_3_4 #FBI Most Wanted
-tvdb_episode:350071_4_5 #FBI
-tvdb_episode:399863_1_5 #FBI International 
-tvdb_episode:364088_3_5 #FBI Most Wanted
-tvdb_episode:350071_4_6 #FBI
-tvdb_episode:399863_1_6 #FBI International 
-tvdb_episode:364088_3_6 #FBI Most Wanted
-tvdb_episode:350071_4_7 #FBI
-tvdb_episode:399863_1_7 #FBI International 
-tvdb_episode:364088_3_7 #FBI Most Wanted
-tvdb_episode:350071_4_8 #FBI
-tvdb_episode:399863_1_8 #FBI International
-tvdb_episode:364088_3_8 #FBI Most Wanted
-tvdb_episode:350071_4_9 #FBI
-tvdb_episode:364088_3_9 #FBI Most Wanted
-tvdb_episode:350071_4_10 #FBI
-tvdb_episode:399863_1_9 #FBI International
-tvdb_episode:364088_3_10 #FBI Most Wanted
-tvdb_episode:350071_4_11 #FBI
-tvdb_episode:399863_1_10 #FBI International
-tvdb_episode:364088_3_11 #FBI Most Wanted
-tvdb_episode:350071_4_12 #FBI
-tvdb_episode:399863_1_11 #FBI International
-tvdb_episode:364088_3_12 #FBI Most Wanted
-tvdb_episode:350071_4_13 #FBI
-tvdb_episode:399863_1_12 #FBI International
-tvdb_episode:364088_3_13 #FBI Most Wanted
-tvdb_episode:350071_4_14 #FBI
-tvdb_episode:399863_1_13 #FBI International
-tvdb_episode:364088_3_14 #FBI Most Wanted
-tvdb_episode:350071_4_15 #FBI
-tvdb_episode:399863_1_14 #FBI International
-tvdb_episode:364088_3_15 #FBI Most Wanted
-tvdb_episode:350071_4_16 #FBI
-tvdb_episode:399863_1_15 #FBI International
-tvdb_episode:364088_3_16 #FBI Most Wanted
-tvdb_episode:350071_4_17 #FBI
-tvdb_episode:399863_1_16 #FBI International
-tvdb_episode:364088_3_17 #FBI Most Wanted
-tvdb_episode:350071_4_18 #FBI
-tvdb_episode:399863_1_17 #FBI International
-tvdb_episode:364088_3_18 #FBI Most Wanted
-tvdb_episode:350071_4_19 #FBI
-tvdb_episode:399863_1_18 #FBI International
-tvdb_episode:364088_3_19 #FBI Most Wanted
-tvdb_episode:350071_4_20 #FBI
-tvdb_episode:399863_1_19 #FBI International
-tvdb_episode:364088_3_20 #FBI Most Wanted
-tvdb_episode:350071_4_21 #FBI
-tvdb_episode:399863_1_20 #FBI International
-tvdb_episode:364088_3_21 #FBI Most Wanted
-tvdb_episode:399863_1_21 #FBI International
-tvdb_episode:364088_3_22 #FBI Most Wanted
-tvdb_episode:350071_5_1 #FBI
-tvdb_episode:399863_2_1 #FBI International
-tvdb_episode:364088_4_1 #FBI Most Wanted
-tvdb_episode:350071_5_2 #FBI
-tvdb_episode:399863_2_2 #FBI International
-tvdb_episode:364088_4_2 #FBI Most Wanted
-tvdb_episode:350071_5_3 #FBI
-tvdb_episode:399863_2_3 #FBI International
-tvdb_episode:364088_4_3 #FBI Most Wanted
-tvdb_episode:350071_5_4 #FBI
-tvdb_episode:399863_2_4 #FBI International
-tvdb_episode:364088_4_4 #FBI Most Wanted
-tvdb_episode:350071_5_5 #FBI
-tvdb_episode:399863_2_5 #FBI International
-tvdb_episode:364088_4_5 #FBI Most Wanted
-tvdb_episode:350071_5_6 #FBI
-tvdb_episode:350071_5_7 #FBI
-tvdb_episode:399863_2_6 #FBI International
-tvdb_episode:364088_4_6 #FBI Most Wanted
-tvdb_episode:350071_5_8 #FBI
-tvdb_episode:399863_2_7 #FBI International
-tvdb_episode:364088_4_7 #FBI Most Wanted
-tvdb_episode:350071_5_9 #FBI
-tvdb_episode:399863_2_8 #FBI International
-tvdb_episode:364088_4_8 #FBI Most Wanted
-tvdb_episode:350071_5_10 #FBI
-tvdb_episode:399863_2_9 #FBI International
-tvdb_episode:364088_4_9 #FBI Most Wanted
-tvdb_episode:350071_5_11 #FBI
-tvdb_episode:399863_2_10 #FBI International
-tvdb_episode:364088_4_10 #FBI Most Wanted
-tvdb_episode:350071_5_12 #FBI
-tvdb_episode:399863_2_11 #FBI International
-tvdb_episode:364088_4_11 #FBI Most Wanted
-tvdb_episode:350071_5_13 #FBI
-tvdb_episode:399863_2_12 #FBI International
-tvdb_episode:364088_4_12 #FBI Most Wanted
-tvdb_episode:350071_5_14 #FBI
-tvdb_episode:399863_2_13 #FBI International
-tvdb_episode:364088_4_13 #FBI Most Wanted
-tvdb_episode:350071_5_15 #FBI
-tvdb_episode:399863_2_14 #FBI International
-tvdb_episode:364088_4_14 #FBI Most Wanted
-tvdb_episode:350071_5_16 #FBI
-tvdb_episode:399863_2_15 #FBI International
-tvdb_episode:364088_4_15 #FBI Most Wanted
-tvdb_episode:399863_2_16 #FBI International
-tvdb_episode:350071_5_17 #FBI
-tvdb_episode:364088_4_16 #FBI Most Wanted
-tvdb_episode:350071_5_18 #FBI
-tvdb_episode:399863_2_17 #FBI International
-tvdb_episode:364088_4_17 #FBI Most Wanted
-tvdb_episode:350071_5_19 #FBI
-tvdb_episode:399863_2_18 #FBI International
-tvdb_episode:364088_4_18 #FBI Most Wanted
-tvdb_episode:350071_5_20 #FBI
-tvdb_episode:399863_2_19 #FBI International
-tvdb_episode:364088_4_19 #FBI Most Wanted
-tvdb_episode:350071_5_21 #FBI
-tvdb_episode:399863_2_20 #FBI International
-tvdb_episode:364088_4_20 #FBI Most Wanted
-tvdb_episode:350071_5_22 #FBI
-tvdb_episode:399863_2_21 #FBI International
-tvdb_episode:364088_4_21 #FBI Most Wanted
-tvdb_episode:350071_5_23 #FBI
-tvdb_episode:399863_2_22 #FBI International
-tvdb_episode:364088_4_22 #FBI Most Wanted
-tvdb_episode:350071_6_1 #FBI
-tvdb_episode:399863_3_1 #FBI International
-tvdb_episode:364088_5_1 #FBI Most Wanted
-tvdb_episode:350071_6_2 #FBI
-tvdb_episode:399863_3_2 #FBI International
-tvdb_episode:364088_5_2 #FBI Most Wanted
-tvdb_episode:350071_6_3 #FBI
-tvdb_episode:399863_3_3 #FBI International
-tvdb_episode:364088_5_3 #FBI Most Wanted
-tvdb_episode:350071_6_4 #FBI
-tvdb_episode:399863_3_4 #FBI International
-tvdb_episode:364088_5_4 #FBI Most Wanted
-tvdb_episode:350071_6_5 #FBI
-tvdb_episode:399863_3_5 #FBI International
-tvdb_episode:364088_5_5 #FBI Most Wanted
-tvdb_episode:350071_6_6 #FBI
-tvdb_episode:399863_3_6 #FBI International
-tvdb_episode:364088_5_6 #FBI Most Wanted
-tvdb_episode:350071_6_7 #FBI
-tvdb_episode:399863_3_7 #FBI International
-tvdb_episode:364088_5_7 #FBI Most Wanted
-tvdb_episode:350071_6_8 #FBI
-tvdb_episode:399863_3_8 #FBI International
-tvdb_episode:364088_5_8 #FBI Most Wanted
-tvdb_episode:350071_6_9 #FBI
-tvdb_episode:399863_3_9 #FBI International
-tvdb_episode:364088_5_9 #FBI Most Wanted
-tvdb_episode:350071_6_10 #FBI
-tvdb_episode:399863_3_10 #FBI International
-tvdb_episode:364088_5_10 #FBI Most Wanted
-tvdb_episode:350071_6_11 #FBI
-tvdb_episode:399863_3_11 #FBI International
-tvdb_episode:364088_5_11 #FBI Most Wanted
-tvdb_episode:350071_6_12 #FBI
-tvdb_episode:399863_3_12 #FBI International
-tvdb_episode:364088_5_12 #FBI Most Wanted
-tvdb_episode:350071_6_13 #FBI
-tvdb_episode:399863_3_13 #FBI International
-tvdb_episode:364088_5_13 #FBI Most Wanted
-tvdb_episode:350071_7_1 #FBI
-tvdb_episode:399863_4_1 #FBI International
-tvdb_episode:364088_6_1 #FBI Most Wanted
-tvdb_episode:350071_7_2 #FBI
-tvdb_episode:399863_4_2 #FBI International
-tvdb_episode:364088_6_2 #FBI Most Wanted
-tvdb_episode:350071_7_3 #FBI
-tvdb_episode:399863_4_3 #FBI International
-tvdb_episode:364088_6_3 #FBI Most Wanted
-tvdb_episode:350071_7_4 #FBI
-tvdb_episode:399863_4_4 #FBI International
-tvdb_episode:364088_6_4 #FBI Most Wanted
-tvdb_episode:350071_7_5 #FBI
-tvdb_episode:399863_4_5 #FBI International
-tvdb_episode:364088_6_5 #FBI Most Wanted
-tvdb_episode:350071_7_6 #FBI
-tvdb_episode:399863_4_6 #FBI International
-tvdb_episode:364088_6_6 #FBI Most Wanted
-tvdb_episode:350071_7_7 #FBI
-tvdb_episode:399863_4_7 #FBI International
-tvdb_episode:364088_6_7 #FBI Most Wanted
-tvdb_episode:350071_7_8 #FBI
-tvdb_episode:399863_4_8 #FBI International
-tvdb_episode:364088_6_8 #FBI Most Wanted
-tvdb_episode:350071_7_9 #FBI
-tvdb_episode:399863_4_9 #FBI International
-tvdb_episode:364088_6_9 #FBI Most Wanted
-tvdb_episode:350071_7_10 #FBI
-tvdb_episode:399863_4_10 #FBI International
-tvdb_episode:364088_6_10 #FBI Most Wanted
-tvdb_episode:350071_7_11 #FBI
-tvdb_episode:399863_4_11 #FBI International
-tvdb_episode:364088_6_11 #FBI Most Wanted
-tvdb_episode:350071_7_12 #FBI
-tvdb_episode:399863_4_12 #FBI International
-tvdb_episode:364088_6_12 #FBI Most Wanted
-tvdb_episode:350071_7_13 #FBI
-tvdb_episode:399863_4_13 #FBI International
-tvdb_episode:364088_6_13 #FBI Most Wanted
-tvdb_episode:350071_7_14 #FBI
-tvdb_episode:399863_4_14 #FBI International
-tvdb_episode:364088_6_14 #FBI Most Wanted
-tvdb_episode:350071_7_15 #FBI
-tvdb_episode:399863_4_15 #FBI International
-tvdb_episode:364088_6_15 #FBI Most Wanted
-tvdb_episode:350071_7_16 #FBI
-tvdb_episode:364088_6_16 #FBI Most Wanted
-tvdb_episode:399863_4_16 #FBI International
-tvdb_episode:350071_7_17 #FBI
-tvdb_episode:364088_6_17 #FBI Most Wanted
-tvdb_episode:399863_4_17 #FBI International
-tvdb_episode:350071_7_18 #FBI
-tvdb_episode:364088_6_18 #FBI Most Wanted
-tvdb_episode:399863_4_18 #FBI International
-tvdb_episode:350071_7_19 #FBI
-tvdb_episode:364088_6_19 #FBI Most Wanted
-tvdb_episode:399863_4_19 #FBI International
-tvdb_episode:350071_7_20 #FBI
-tvdb_episode:364088_6_20 #FBI Most Wanted
-tvdb_episode:399863_4_20 #FBI International
-tvdb_episode:350071_7_21 #FBI
-tvdb_episode:364088_6_21 #FBI Most Wanted
-tvdb_episode:399863_4_21 #FBI International
-tvdb_episode:350071_7_22 #FBI
-tvdb_episode:364088_6_22 #FBI Most Wanted
-tvdb_episode:399863_4_22 #FBI International
-tvdb_episode:350071_8_1 #FBI
-tvdb_episode:350071_8_2 #FBI
-tvdb_episode:350071_8_3 #FBI
-tvdb_episode:350071_8_4 #FBI
-tvdb_episode:350071_8_5 #FBI
-tvdb_episode:350071_8_6 #FBI
-tvdb_episode:350071_8_7 #FBI
-tvdb_episode:350071_8_8 #FBI
-tvdb_episode:350071_8_9 #FBI
-tvdb_episode:350071_8_10 #FBI
-tvdb_episode:350071_8_11 #FBI
-tvdb_episode:350071_8_12 #FBI
-tvdb_episode:350071_8_13 #FBI
-tvdb_episode:350071_8_14 #FBI
-tvdb_episode:350071_8_15 #FBI
-tvdb_episode:350071_8_16 #FBI
-tvdb_episode:350071_8_17 #FBI
-tvdb_episode:350071_8_18 #FBI
-tvdb_episode:350071_8_19 #FBI
-tvdb_episode:350071_8_20 #FBI
-tvdb_episode:350071_8_21 #FBI
-tvdb_episode:350071_8_22 #FBI
+﻿# Last updated: 2026-06-28
+# Scope: This list covers FBI, FBI: Most Wanted, and FBI: International only. Other shows in the wider Dick Wolf universe (e.g. Law & Order, NCIS) are not included.
+# Ordered by actual air date and time per TVmaze (airtimes verified per episode)
+tvdb_episode:350071_1_1  # FBI S01E01 - Pilot
+tvdb_episode:350071_1_2  # FBI S01E02 - Green Birds
+tvdb_episode:350071_1_3  # FBI S01E03 - Prey
+tvdb_episode:350071_1_4  # FBI S01E04 - Crossfire
+tvdb_episode:350071_1_5  # FBI S01E05 - Doomsday
+tvdb_episode:350071_1_6  # FBI S01E06 - Family Man
+tvdb_episode:350071_1_7  # FBI S01E07 - Cops and Robbers
+tvdb_episode:350071_1_8  # FBI S01E08 - This Land is Your Land
+tvdb_episode:350071_1_9  # FBI S01E09 - Compromised
+tvdb_episode:350071_1_10  # FBI S01E10 - The Armorer's Faith
+tvdb_episode:350071_1_11  # FBI S01E11 - Identity Crisis
+tvdb_episode:350071_1_12  # FBI S01E12 - A New Dawn
+tvdb_episode:350071_1_13  # FBI S01E13 - Partners in Crime
+tvdb_episode:350071_1_14  # FBI S01E14 - Exposed
+tvdb_episode:350071_1_15  # FBI S01E15 - Scorched Earth
+tvdb_episode:350071_1_16  # FBI S01E16 - Invisible
+tvdb_episode:350071_1_17  # FBI S01E17 - Apex
+tvdb_episode:350071_1_18  # FBI S01E18 - Most Wanted
+tvdb_episode:350071_1_19  # FBI S01E19 - Conflict of Interest
+tvdb_episode:350071_1_20  # FBI S01E20 - What Lies Beneath
+tvdb_episode:350071_1_21  # FBI S01E21 - Appearances
+tvdb_episode:350071_1_22  # FBI S01E22 - Closure
+tvdb_episode:350071_2_1  # FBI S02E01 - Little Egypt
+tvdb_episode:350071_2_2  # FBI S02E02 - The Lives of Others
+tvdb_episode:350071_2_3  # FBI S02E03 - American Idol
+tvdb_episode:350071_2_4  # FBI S02E04 - An Imperfect Science
+tvdb_episode:350071_2_5  # FBI S02E05 - Crossroads
+tvdb_episode:350071_2_6  # FBI S02E06 - Outsider
+tvdb_episode:350071_2_7  # FBI S02E07 - Undisclosed
+tvdb_episode:350071_2_8  # FBI S02E08 - Codename: Ferdinand
+tvdb_episode:350071_2_9  # FBI S02E09 - Salvation
+tvdb_episode:350071_2_10  # FBI S02E10 - Ties That Bind
+tvdb_episode:350071_2_11  # FBI S02E11 - Fallout
+tvdb_episode:364088_1_1  # FBI: Most Wanted S01E01 - Dopesick
+tvdb_episode:350071_2_12  # FBI S02E12 - Hard Decisions
+tvdb_episode:364088_1_2  # FBI: Most Wanted S01E02 - Defender
+tvdb_episode:350071_2_13  # FBI S02E13 - Payback
+tvdb_episode:364088_1_3  # FBI: Most Wanted S01E03 - Hairtrigger
+tvdb_episode:350071_2_14  # FBI S02E14 - Studio Gangster
+tvdb_episode:364088_1_4  # FBI: Most Wanted S01E04 - Caesar
+tvdb_episode:350071_2_15  # FBI S02E15 - Legacy
+tvdb_episode:364088_1_5  # FBI: Most Wanted S01E05 - Invisible
+tvdb_episode:350071_2_16  # FBI S02E16 - Safe Room
+tvdb_episode:364088_1_6  # FBI: Most Wanted S01E06 - Prophet
+tvdb_episode:350071_2_17  # FBI S02E17 - Broken Promises
+tvdb_episode:364088_1_7  # FBI: Most Wanted S01E07 - Ghosts
+tvdb_episode:364088_1_8  # FBI: Most Wanted S01E08 - Predators
+tvdb_episode:350071_2_18  # FBI S02E18 - American Dreams
+tvdb_episode:364088_1_9  # FBI: Most Wanted S01E09 - Reveille (2)
+tvdb_episode:350071_2_19  # FBI S02E19 - Emotional Rescue
+tvdb_episode:364088_1_10  # FBI: Most Wanted S01E10 - Silkworm
+tvdb_episode:364088_1_11  # FBI: Most Wanted S01E11 - Ironbound
+tvdb_episode:364088_1_12  # FBI: Most Wanted S01E12 - Ride or Die
+tvdb_episode:364088_1_13  # FBI: Most Wanted S01E13 - Grudge
+tvdb_episode:364088_1_14  # FBI: Most Wanted S01E14 - Getaway
+tvdb_episode:350071_3_1  # FBI S03E01 - Never Trust a Stranger
+tvdb_episode:364088_2_1  # FBI: Most Wanted S02E01 - Rampage
+tvdb_episode:350071_3_2  # FBI S03E02 - Unreasonable Doubt
+tvdb_episode:364088_2_2  # FBI: Most Wanted S02E02 - Execute
+tvdb_episode:350071_3_3  # FBI S03E03 - Liar's Poker
+tvdb_episode:364088_2_3  # FBI: Most Wanted S02E03 - Deconflict
+tvdb_episode:364088_2_4  # FBI: Most Wanted S02E04 - Anonymous
+tvdb_episode:350071_3_4  # FBI S03E04 - Crazy Love
+tvdb_episode:350071_3_5  # FBI S03E05 - Clean Slate
+tvdb_episode:364088_2_5  # FBI: Most Wanted S02E05 - The Line
+tvdb_episode:350071_3_6  # FBI S03E06 - Uncovered
+tvdb_episode:364088_2_6  # FBI: Most Wanted S02E06 - Dysfunction
+tvdb_episode:350071_3_7  # FBI S03E07 - Discord
+tvdb_episode:364088_2_7  # FBI: Most Wanted S02E07 - Winner
+tvdb_episode:350071_3_8  # FBI S03E08 - Walk the Line
+tvdb_episode:364088_2_8  # FBI: Most Wanted S02E08 - Vanished
+tvdb_episode:350071_3_9  # FBI S03E09 - Leverage
+tvdb_episode:364088_2_9  # FBI: Most Wanted S02E09 - One-Zero
+tvdb_episode:350071_3_10  # FBI S03E10 - Checks and Balances
+tvdb_episode:364088_2_10  # FBI: Most Wanted S02E10 - Spiderwebs
+tvdb_episode:350071_3_11  # FBI S03E11 - Brother's Keeper
+tvdb_episode:364088_2_11  # FBI: Most Wanted S02E11 - Obstruction
+tvdb_episode:350071_3_12  # FBI S03E12 - Fathers and Sons
+tvdb_episode:364088_2_12  # FBI: Most Wanted S02E12 - Criminal Justice
+tvdb_episode:350071_3_13  # FBI S03E13 - Short Squeeze
+tvdb_episode:364088_2_13  # FBI: Most Wanted S02E13 - Toxic
+tvdb_episode:350071_3_14  # FBI S03E14 - Trigger Effect
+tvdb_episode:364088_2_14  # FBI: Most Wanted S02E14 - Hustler
+tvdb_episode:350071_3_15  # FBI S03E15 - Straight Flush
+tvdb_episode:364088_2_15  # FBI: Most Wanted S02E15 - Chattaboogie
+tvdb_episode:350071_4_1  # FBI S04E01 - All That Glitters
+tvdb_episode:364088_3_1  # FBI: Most Wanted S03E01 - Exposed (2)
+tvdb_episode:399863_1_1  # FBI: International S01E01 - Pilot (3)
+tvdb_episode:350071_4_2  # FBI S04E02 - Hacktivist
+tvdb_episode:399863_1_2  # FBI: International S01E02 - The Edge
+tvdb_episode:364088_3_2  # FBI: Most Wanted S03E02 - Patriots
+tvdb_episode:350071_4_3  # FBI S04E03 - Trauma
+tvdb_episode:399863_1_3  # FBI: International S01E03 - Secrets as Weapons
+tvdb_episode:364088_3_3  # FBI: Most Wanted S03E03 - Tough Love
+tvdb_episode:350071_4_4  # FBI S04E04 - Know Thyself
+tvdb_episode:399863_1_4  # FBI: International S01E04 - American Optimism
+tvdb_episode:364088_3_4  # FBI: Most Wanted S03E04 - Inherited
+tvdb_episode:350071_4_5  # FBI S04E05 - Charlotte's Web
+tvdb_episode:399863_1_5  # FBI: International S01E05 - The Soul of Chess
+tvdb_episode:364088_3_5  # FBI: Most Wanted S03E05 - Unhinged
+tvdb_episode:350071_4_6  # FBI S04E06 - Allegiance
+tvdb_episode:399863_1_6  # FBI: International S01E06 - The Secrets She Knows
+tvdb_episode:364088_3_6  # FBI: Most Wanted S03E06 - Lovesick
+tvdb_episode:350071_4_7  # FBI S04E07 - Gone Baby Gone
+tvdb_episode:399863_1_7  # FBI: International S01E07 - Trying to Grab Smoke
+tvdb_episode:364088_3_7  # FBI: Most Wanted S03E07 - Gladiator
+tvdb_episode:350071_4_8  # FBI S04E08 - Fire and Rain
+tvdb_episode:399863_1_8  # FBI: International S01E08 - Voice of the People
+tvdb_episode:364088_3_8  # FBI: Most Wanted S03E08 - Sport of Kings
+tvdb_episode:350071_4_9  # FBI S04E09 - Unfinished Business
+tvdb_episode:364088_3_9  # FBI: Most Wanted S03E09 - Run-Hide-Fight
+tvdb_episode:350071_4_10  # FBI S04E10 - Fostered
+tvdb_episode:399863_1_9  # FBI: International S01E09 - One Kind of Madman
+tvdb_episode:364088_3_10  # FBI: Most Wanted S03E10 - Incendiary
+tvdb_episode:350071_4_11  # FBI S04E11 - Grief
+tvdb_episode:399863_1_10  # FBI: International S01E10 - Close to the Sun
+tvdb_episode:364088_3_11  # FBI: Most Wanted S03E11 - Hunter
+tvdb_episode:350071_4_12  # FBI S04E12 - Under Pressure
+tvdb_episode:399863_1_11  # FBI: International S01E11 - Chew Toy
+tvdb_episode:364088_3_12  # FBI: Most Wanted S03E12 - El Pincho
+tvdb_episode:350071_4_13  # FBI S04E13 - Pride and Prejudice
+tvdb_episode:399863_1_12  # FBI: International S01E12 - One Point One Million Followers
+tvdb_episode:364088_3_13  # FBI: Most Wanted S03E13 - Overlooked
+tvdb_episode:350071_4_14  # FBI S04E14 - Ambition
+tvdb_episode:399863_1_13  # FBI: International S01E13 - Snakes
+tvdb_episode:364088_3_14  # FBI: Most Wanted S03E14 - Shattered
+tvdb_episode:350071_4_15  # FBI S04E15 - Scar Tissue
+tvdb_episode:399863_1_14  # FBI: International S01E14 - The Kill List
+tvdb_episode:364088_3_15  # FBI: Most Wanted S03E15 - Incel
+tvdb_episode:350071_4_16  # FBI S04E16 - Protective Details
+tvdb_episode:399863_1_15  # FBI: International S01E15 - Shouldn't Have Left Her
+tvdb_episode:364088_3_16  # FBI: Most Wanted S03E16 - Decriminalized
+tvdb_episode:350071_4_17  # FBI S04E17 - One Night Stand
+tvdb_episode:399863_1_16  # FBI: International S01E16 - Left of Boom
+tvdb_episode:364088_3_17  # FBI: Most Wanted S03E17 - Covenant
+tvdb_episode:350071_4_18  # FBI S04E18 - Fear Nothing
+tvdb_episode:399863_1_17  # FBI: International S01E17 - Uprooting
+tvdb_episode:364088_3_18  # FBI: Most Wanted S03E18 - Reaper
+tvdb_episode:350071_4_19  # FBI S04E19 - Face Off
+tvdb_episode:399863_1_18  # FBI: International S01E18 - On These Waters
+tvdb_episode:364088_3_19  # FBI: Most Wanted S03E19 - Whack Job
+tvdb_episode:350071_4_20  # FBI S04E20 - Ghost from the Past
+tvdb_episode:399863_1_19  # FBI: International S01E19 - Get That Revolution Started
+tvdb_episode:364088_3_20  # FBI: Most Wanted S03E20 - Greatest Hits
+tvdb_episode:350071_4_21  # FBI S04E21 - Kayla
+tvdb_episode:399863_1_20  # FBI: International S01E20 - Black Penguin
+tvdb_episode:364088_3_21  # FBI: Most Wanted S03E21 - Inheritance
+tvdb_episode:399863_1_21  # FBI: International S01E21 - Crestfallen
+tvdb_episode:364088_3_22  # FBI: Most Wanted S03E22 - A Man Without a Country
+tvdb_episode:350071_5_1  # FBI S05E01 - Hero's Journey
+tvdb_episode:399863_2_1  # FBI: International S02E01 - Unburdened
+tvdb_episode:364088_4_1  # FBI: Most Wanted S04E01 - Iron Pipeline
+tvdb_episode:350071_5_2  # FBI S05E02 - Love is Blind
+tvdb_episode:399863_2_2  # FBI: International S02E02 - Don't Say Her Name Again
+tvdb_episode:364088_4_2  # FBI: Most Wanted S04E02 - Taxman
+tvdb_episode:350071_5_3  # FBI S05E03 - Prodigal Son
+tvdb_episode:399863_2_3  # FBI: International S02E03 - Money Is Meaningless
+tvdb_episode:364088_4_3  # FBI: Most Wanted S04E03 - Succession
+tvdb_episode:350071_5_4  # FBI S05E04 - Victim
+tvdb_episode:399863_2_4  # FBI: International S02E04 - Copper Pots and Daggers
+tvdb_episode:364088_4_4  # FBI: Most Wanted S04E04 - Gold Diggers
+tvdb_episode:350071_5_5  # FBI S05E05 - Flopped Cop
+tvdb_episode:399863_2_5  # FBI: International S02E05 - Yesterday's Miracle
+tvdb_episode:364088_4_5  # FBI: Most Wanted S04E05 - Chains
+tvdb_episode:350071_5_6  # FBI S05E06 - Double Blind
+tvdb_episode:350071_5_7  # FBI S05E07 - Ready or Not
+tvdb_episode:399863_2_6  # FBI: International S02E06 - Call it Anarchy
+tvdb_episode:364088_4_6  # FBI: Most Wanted S04E06 - Patent Pending
+tvdb_episode:350071_5_8  # FBI S05E08 - Into the Fire
+tvdb_episode:399863_2_7  # FBI: International S02E07 - A Proven Liar
+tvdb_episode:364088_4_7  # FBI: Most Wanted S04E07 - Karma
+tvdb_episode:350071_5_9  # FBI S05E09 - Fortunate Son
+tvdb_episode:399863_2_8  # FBI: International S02E08 - Hail Mary
+tvdb_episode:364088_4_8  # FBI: Most Wanted S04E08 - Appeal
+tvdb_episode:350071_5_10  # FBI S05E10 - Second Life
+tvdb_episode:399863_2_9  # FBI: International S02E09 - Wheelman
+tvdb_episode:364088_4_9  # FBI: Most Wanted S04E09 - Processed
+tvdb_episode:350071_5_11  # FBI S05E11 - Heroes
+tvdb_episode:399863_2_10  # FBI: International S02E10 - BHITW
+tvdb_episode:364088_4_10  # FBI: Most Wanted S04E10 - False Flag
+tvdb_episode:350071_5_12  # FBI S05E12 - Breakdown
+tvdb_episode:399863_2_11  # FBI: International S02E11 - Someone She Knew
+tvdb_episode:364088_4_11  # FBI: Most Wanted S04E11 - Crypto Wars
+tvdb_episode:350071_5_13  # FBI S05E13 - Protégé
+tvdb_episode:399863_2_12  # FBI: International S02E12 - Glimmers and Ghosts
+tvdb_episode:364088_4_12  # FBI: Most Wanted S04E12 - Black Mirror
+tvdb_episode:350071_5_14  # FBI S05E14 - Money for Nothing
+tvdb_episode:399863_2_13  # FBI: International S02E13 - Indefensible
+tvdb_episode:364088_4_13  # FBI: Most Wanted S04E13 - Transaction
+tvdb_episode:350071_5_15  # FBI S05E15 - The Lies We Tell
+tvdb_episode:399863_2_14  # FBI: International S02E14 - He Who Speaks Dies
+tvdb_episode:364088_4_14  # FBI: Most Wanted S04E14 - Wanted: America
+tvdb_episode:350071_5_16  # FBI S05E16 - Family First
+tvdb_episode:399863_2_15  # FBI: International S02E15 - Trust
+tvdb_episode:364088_4_15  # FBI: Most Wanted S04E15 - Double Fault
+tvdb_episode:399863_2_16  # FBI: International S02E16 - Imminent Threat (1)
+tvdb_episode:350071_5_17  # FBI S05E17 - Imminent Threat
+tvdb_episode:364088_4_16  # FBI: Most Wanted S04E16 - Imminent Threat (3)
+tvdb_episode:350071_5_18  # FBI S05E18 - Obligation
+tvdb_episode:399863_2_17  # FBI: International S02E17 - Jealous Mistress
+tvdb_episode:364088_4_17  # FBI: Most Wanted S04E17 - The Miseducation of Metcalf 2
+tvdb_episode:350071_5_19  # FBI S05E19 - Sins of the Past
+tvdb_episode:399863_2_18  # FBI: International S02E18 - Blood Feud
+tvdb_episode:364088_4_18  # FBI: Most Wanted S04E18 - Rangeland
+tvdb_episode:350071_5_20  # FBI S05E20 - Sisterhood
+tvdb_episode:399863_2_19  # FBI: International S02E19 - Dead Sprint
+tvdb_episode:364088_4_19  # FBI: Most Wanted S04E19 - Bad Seed
+tvdb_episode:350071_5_21  # FBI S05E21 - Privilege
+tvdb_episode:399863_2_20  # FBI: International S02E20 - A Tradition of Secrets
+tvdb_episode:364088_4_20  # FBI: Most Wanted S04E20 - These Walls
+tvdb_episode:350071_5_22  # FBI S05E22 - Torn
+tvdb_episode:399863_2_21  # FBI: International S02E21 - Fed to the Sharks
+tvdb_episode:364088_4_21  # FBI: Most Wanted S04E21 - Clean House
+tvdb_episode:350071_5_23  # FBI S05E23 - God Complex
+tvdb_episode:399863_2_22  # FBI: International S02E22 - Fencing the Mona Lisa
+tvdb_episode:364088_4_22  # FBI: Most Wanted S04E22 - Heaven Falling
+tvdb_episode:350071_6_1  # FBI S06E01 - All the Rage
+tvdb_episode:399863_3_1  # FBI: International S03E01 - June
+tvdb_episode:364088_5_1  # FBI: Most Wanted S05E01 - Above & Beyond
+tvdb_episode:350071_6_2  # FBI S06E02 - Remorse
+tvdb_episode:399863_3_2  # FBI: International S03E02 - The Last Stop
+tvdb_episode:364088_5_2  # FBI: Most Wanted S05E02 - Footsteps
+tvdb_episode:350071_6_3  # FBI S06E03 - Stay in Your Lane
+tvdb_episode:399863_3_3  # FBI: International S03E03 - Magpie
+tvdb_episode:364088_5_3  # FBI: Most Wanted S05E03 - Ghost in the Machine
+tvdb_episode:350071_6_4  # FBI S06E04 - Creating a Monster
+tvdb_episode:399863_3_4  # FBI: International S03E04 - Cowboy Behavior
+tvdb_episode:364088_5_4  # FBI: Most Wanted S05E04 - Hollow
+tvdb_episode:350071_6_5  # FBI S06E05 - Sacrifice
+tvdb_episode:399863_3_5  # FBI: International S03E05 - Death by Inches
+tvdb_episode:364088_5_5  # FBI: Most Wanted S05E05 - Desperate
+tvdb_episode:350071_6_6  # FBI S06E06 - Unforeseen
+tvdb_episode:399863_3_6  # FBI: International S03E06 - Fire Starter
+tvdb_episode:364088_5_6  # FBI: Most Wanted S05E06 - Fouled Out
+tvdb_episode:350071_6_7  # FBI S06E07 - Behind the Veil
+tvdb_episode:399863_3_7  # FBI: International S03E07 - Andiamo!
+tvdb_episode:364088_5_7  # FBI: Most Wanted S05E07 - Rendition
+tvdb_episode:350071_6_8  # FBI S06E08 - Phantom
+tvdb_episode:399863_3_8  # FBI: International S03E08 - Remove the Compromise
+tvdb_episode:364088_5_8  # FBI: Most Wanted S05E08 - Supply Chain
+tvdb_episode:350071_6_9  # FBI S06E09 - Best Laid Plans
+tvdb_episode:399863_3_9  # FBI: International S03E09 - Rules of Blackjack
+tvdb_episode:364088_5_9  # FBI: Most Wanted S05E09 - The Return
+tvdb_episode:350071_6_10  # FBI S06E10 - Family Affair
+tvdb_episode:399863_3_10  # FBI: International S03E10 - Red Light
+tvdb_episode:364088_5_10  # FBI: Most Wanted S05E10 - Bonne Terre
+tvdb_episode:350071_6_11  # FBI S06E11 - No One Left Behind
+tvdb_episode:399863_3_11  # FBI: International S03E11 - Touts
+tvdb_episode:364088_5_11  # FBI: Most Wanted S05E11 - Radio Silence
+tvdb_episode:350071_6_12  # FBI S06E12 - Consequences
+tvdb_episode:399863_3_12  # FBI: International S03E12 - Gift
+tvdb_episode:364088_5_12  # FBI: Most Wanted S05E12 - Derby Day
+tvdb_episode:350071_6_13  # FBI S06E13 - Ring of Fire
+tvdb_episode:399863_3_13  # FBI: International S03E13 - Tuxhorn
+tvdb_episode:364088_5_13  # FBI: Most Wanted S05E13 - Powderfinger
+tvdb_episode:350071_7_1  # FBI S07E01 - Abandoned
+tvdb_episode:399863_4_1  # FBI: International S04E01 - A Leader, Not a Tourist
+tvdb_episode:364088_6_1  # FBI: Most Wanted S06E01 - Aquarium Drinker
+tvdb_episode:350071_7_2  # FBI S07E02 - Trusted
+tvdb_episode:399863_4_2  # FBI: International S04E02 - The Other Hard Part
+tvdb_episode:364088_6_2  # FBI: Most Wanted S06E02 - Varsity Blues
+tvdb_episode:350071_7_3  # FBI S07E03 - Détente
+tvdb_episode:399863_4_3  # FBI: International S04E03 - Nothing Sudden About It
+tvdb_episode:364088_6_3  # FBI: Most Wanted S06E03 - White Buffalo
+tvdb_episode:350071_7_4  # FBI S07E04 - Doubted
+tvdb_episode:399863_4_4  # FBI: International S04E04 - The Unwinnable War
+tvdb_episode:364088_6_4  # FBI: Most Wanted S06E04 - Pig Butchering
+tvdb_episode:350071_7_5  # FBI S07E05 - Pledges
+tvdb_episode:399863_4_5  # FBI: International S04E05 - The Future's Looking Bright
+tvdb_episode:364088_6_5  # FBI: Most Wanted S06E05 - Money Moves
+tvdb_episode:350071_7_6  # FBI S07E06 - Perfect
+tvdb_episode:399863_4_6  # FBI: International S04E06 - They Paid More
+tvdb_episode:364088_6_6  # FBI: Most Wanted S06E06 - Pageantry
+tvdb_episode:350071_7_7  # FBI S07E07 - Monumental
+tvdb_episode:399863_4_7  # FBI: International S04E07 - Keen as a Bean
+tvdb_episode:364088_6_7  # FBI: Most Wanted S06E07 - Highway to Hell
+tvdb_episode:350071_7_8  # FBI S07E08 - Riptide
+tvdb_episode:399863_4_8  # FBI: International S04E08 - You'll Never See it Coming
+tvdb_episode:364088_6_8  # FBI: Most Wanted S06E08 - The Electric Company
+tvdb_episode:350071_7_9  # FBI S07E09 - Descent
+tvdb_episode:399863_4_9  # FBI: International S04E09 - The Kill Floor
+tvdb_episode:364088_6_9  # FBI: Most Wanted S06E09 - Moving On
+tvdb_episode:350071_7_10  # FBI S07E10 - Redoubt
+tvdb_episode:399863_4_10  # FBI: International S04E10 - Keep Calm and Deliver the Biotoxin
+tvdb_episode:364088_6_10  # FBI: Most Wanted S06E10 - Ars Moriendi
+tvdb_episode:350071_7_11  # FBI S07E11 - Shelter
+tvdb_episode:399863_4_11  # FBI: International S04E11 - Veritas Fidelis
+tvdb_episode:364088_6_11  # FBI: Most Wanted S06E11 - Do You Realize??
+tvdb_episode:350071_7_12  # FBI S07E12 - Manhunt
+tvdb_episode:399863_4_12  # FBI: International S04E12 - Blood Doesn't Become Water
+tvdb_episode:364088_6_12  # FBI: Most Wanted S06E12 - 68 Seconds
+tvdb_episode:350071_7_13  # FBI S07E13 - Unearth
+tvdb_episode:399863_4_13  # FBI: International S04E13 - You've Been Greenlit
+tvdb_episode:364088_6_13  # FBI: Most Wanted S06E13 - Greek Tragedy
+tvdb_episode:350071_7_14  # FBI S07E14 - Hitched
+tvdb_episode:399863_4_14  # FBI: International S04E14 - A Winged Lion for Protection
+tvdb_episode:364088_6_14  # FBI: Most Wanted S06E14 - 100%
+tvdb_episode:350071_7_15  # FBI S07E15 - Acolyte
+tvdb_episode:399863_4_15  # FBI: International S04E15 - They May Get Their Wish
+tvdb_episode:364088_6_15  # FBI: Most Wanted S06E15 - Four Bodies
+tvdb_episode:350071_7_16  # FBI S07E16 - Covered
+tvdb_episode:399863_4_16  # FBI: International S04E16 - Little Angel
+tvdb_episode:364088_6_16  # FBI: Most Wanted S06E16 - Toxic Behavior
+tvdb_episode:350071_7_17  # FBI S07E17 - Lineage
+tvdb_episode:399863_4_17  # FBI: International S04E17 - Dead Dead
+tvdb_episode:364088_6_17  # FBI: Most Wanted S06E17 - Gut Job
+tvdb_episode:350071_7_18  # FBI S07E18 - Blkpill
+tvdb_episode:399863_4_18  # FBI: International S04E18 - Lone Wolf
+tvdb_episode:364088_6_18  # FBI: Most Wanted S06E18 - Trust
+tvdb_episode:350071_7_19  # FBI S07E19 - Partner
+tvdb_episode:399863_4_19  # FBI: International S04E19 - Flinch Now and It's Over
+tvdb_episode:364088_6_19  # FBI: Most Wanted S06E19 - Starman
+tvdb_episode:350071_7_20  # FBI S07E20 - Startup
+tvdb_episode:399863_4_20  # FBI: International S04E20 - We're Out of Here
+tvdb_episode:364088_6_20  # FBI: Most Wanted S06E20 - Trash Day
+tvdb_episode:350071_7_21  # FBI S07E21 - Devoted
+tvdb_episode:399863_4_21  # FBI: International S04E21 - Herbivore Man (1)
+tvdb_episode:364088_6_21  # FBI: Most Wanted S06E21 - Souls on ICE
+tvdb_episode:350071_7_22  # FBI S07E22 - A New Day
+tvdb_episode:399863_4_22  # FBI: International S04E22 - Gaijin (2)
+tvdb_episode:364088_6_22  # FBI: Most Wanted S06E22 - The Circle Game
+tvdb_episode:350071_8_1  # FBI S08E01 - Takeover
+tvdb_episode:350071_8_2  # FBI S08E02 - Captured
+tvdb_episode:350071_8_3  # FBI S08E03 - Boy Scout
+tvdb_episode:350071_8_4  # FBI S08E04 - Manifest
+tvdb_episode:350071_8_5  # FBI S08E05 - Falsetto
+tvdb_episode:350071_8_6  # FBI S08E06 - Parental
+tvdb_episode:350071_8_7  # FBI S08E07 - Fadeaway
+tvdb_episode:350071_8_8  # FBI S08E08 - Ratlined
+tvdb_episode:350071_8_9  # FBI S08E09 - Lone Wolf
+tvdb_episode:350071_8_10  # FBI S08E10 - Wolf Pack
+tvdb_episode:350071_8_11  # FBI S08E11 - Confetti
+tvdb_episode:350071_8_12  # FBI S08E12 - Daybreak
+tvdb_episode:350071_8_13  # FBI S08E13 - Fanatics
+tvdb_episode:350071_8_14  # FBI S08E14 - Forgiven
+tvdb_episode:350071_8_15  # FBI S08E15 - Crusader
+tvdb_episode:350071_8_16  # FBI S08E16 - 3 Up, 3 Down
+tvdb_episode:350071_8_17  # FBI S08E17 - Shahadah
+tvdb_episode:350071_8_18  # FBI S08E18 - Behavior
+tvdb_episode:350071_8_19  # FBI S08E19 - Fidelity
+tvdb_episode:350071_8_20  # FBI S08E20 - Roleplay
+tvdb_episode:350071_8_21  # FBI S08E21 - Long Shot
+tvdb_episode:350071_8_22  # FBI S08E22 - Defector
