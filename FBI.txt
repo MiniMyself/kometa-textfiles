@@ -1,0 +1,346 @@
+#Last update 30-04-2026
+#Includes FBI, FBI: Most Wanted & FBI: International
+#Does not take into consideration other shows
+tvdb_episode:350071_1_1 #FBI
+tvdb_episode:350071_1_2 #FBI
+tvdb_episode:350071_1_3 #FBI
+tvdb_episode:350071_1_4 #FBI
+tvdb_episode:350071_1_5 #FBI
+tvdb_episode:350071_1_6 #FBI
+tvdb_episode:350071_1_7 #FBI
+tvdb_episode:350071_1_8 #FBI
+tvdb_episode:350071_1_9 #FBI
+tvdb_episode:350071_1_10 #FBI
+tvdb_episode:350071_1_11 #FBI
+tvdb_episode:350071_1_12 #FBI
+tvdb_episode:350071_1_13 #FBI
+tvdb_episode:350071_1_14 #FBI
+tvdb_episode:350071_1_15 #FBI
+tvdb_episode:350071_1_16 #FBI
+tvdb_episode:350071_1_17 #FBI
+tvdb_episode:350071_1_18 #FBI
+tvdb_episode:350071_1_19 #FBI
+tvdb_episode:350071_1_20 #FBI
+tvdb_episode:350071_1_21 #FBI
+tvdb_episode:350071_1_22 #FBI
+tvdb_episode:350071_2_1 #FBI
+tvdb_episode:350071_2_2 #FBI
+tvdb_episode:350071_2_3 #FBI
+tvdb_episode:350071_2_4 #FBI
+tvdb_episode:350071_2_5 #FBI
+tvdb_episode:350071_2_6 #FBI
+tvdb_episode:350071_2_7 #FBI
+tvdb_episode:350071_2_8 #FBI
+tvdb_episode:350071_2_9 #FBI
+tvdb_episode:350071_2_10 #FBI
+tvdb_episode:350071_2_11 #FBI
+tvdb_episode:364088_1_1 #FBI Most Wanted
+tvdb_episode:350071_2_12 #FBI
+tvdb_episode:364088_1_2 #FBI Most Wanted
+tvdb_episode:350071_2_13 #FBI
+tvdb_episode:364088_1_3 #FBI Most Wanted
+tvdb_episode:350071_2_14 #FBI
+tvdb_episode:364088_1_4 #FBI Most Wanted
+tvdb_episode:350071_2_15 #FBI
+tvdb_episode:364088_1_5 #FBI Most Wanted
+tvdb_episode:350071_2_16 #FBI
+tvdb_episode:364088_1_6 #FBI Most Wanted
+tvdb_episode:350071_2_17 #FBI
+tvdb_episode:364088_1_7 #FBI Most Wanted
+tvdb_episode:364088_1_8 #FBI Most Wanted
+tvdb_episode:350071_2_18 #FBI
+tvdb_episode:364088_1_9 #FBI Most Wanted
+tvdb_episode:350071_2_19 #FBI
+tvdb_episode:364088_1_10 #FBI Most Wanted
+tvdb_episode:364088_1_11 #FBI Most Wanted
+tvdb_episode:364088_1_12 #FBI Most Wanted
+tvdb_episode:364088_1_13 #FBI Most Wanted
+tvdb_episode:364088_1_14 #FBI Most Wanted
+tvdb_episode:350071_3_1 #FBI
+tvdb_episode:364088_2_1 #FBI Most Wanted
+tvdb_episode:350071_3_2 #FBI
+tvdb_episode:364088_2_2 #FBI Most Wanted
+tvdb_episode:350071_3_3 #FBI
+tvdb_episode:364088_2_3 #FBI Most Wanted
+tvdb_episode:350071_3_4 #FBI
+tvdb_episode:364088_2_4 #FBI Most Wanted
+tvdb_episode:350071_3_5 #FBI
+tvdb_episode:364088_2_5 #FBI Most Wanted
+tvdb_episode:350071_3_6 #FBI
+tvdb_episode:364088_2_6 #FBI Most Wanted
+tvdb_episode:350071_3_7 #FBI
+tvdb_episode:364088_2_7 #FBI Most Wanted
+tvdb_episode:350071_3_8 #FBI
+tvdb_episode:364088_2_8 #FBI Most Wanted
+tvdb_episode:350071_3_9 #FBI
+tvdb_episode:364088_2_9 #FBI Most Wanted
+tvdb_episode:350071_3_10 #FBI
+tvdb_episode:364088_2_10 #FBI Most Wanted
+tvdb_episode:350071_3_11 #FBI
+tvdb_episode:364088_2_11 #FBI Most Wanted
+tvdb_episode:350071_3_12 #FBI
+tvdb_episode:364088_2_12 #FBI Most Wanted
+tvdb_episode:350071_3_13 #FBI
+tvdb_episode:364088_2_13 #FBI Most Wanted
+tvdb_episode:350071_3_14 #FBI
+tvdb_episode:364088_2_14 #FBI Most Wanted
+tvdb_episode:350071_3_15 #FBI
+tvdb_episode:364088_2_15 #FBI Most Wanted
+tvdb_episode:350071_4_1 #FBI
+tvdb_episode:364088_3_1 #FBI Most Wanted
+tvdb_episode:399863_1_1 #FBI International
+tvdb_episode:350071_4_2 #FBI
+tvdb_episode:399863_1_2 #FBI International 
+tvdb_episode:364088_3_2 #FBI Most Wanted
+tvdb_episode:350071_4_3 #FBI
+tvdb_episode:399863_1_3 #FBI International 
+tvdb_episode:364088_3_3 #FBI Most Wanted
+tvdb_episode:350071_4_4 #FBI
+tvdb_episode:399863_1_4 #FBI International 
+tvdb_episode:364088_3_4 #FBI Most Wanted
+tvdb_episode:350071_4_5 #FBI
+tvdb_episode:399863_1_5 #FBI International 
+tvdb_episode:364088_3_5 #FBI Most Wanted
+tvdb_episode:350071_4_6 #FBI
+tvdb_episode:399863_1_6 #FBI International 
+tvdb_episode:364088_3_6 #FBI Most Wanted
+tvdb_episode:350071_4_7 #FBI
+tvdb_episode:399863_1_7 #FBI International 
+tvdb_episode:364088_3_7 #FBI Most Wanted
+tvdb_episode:350071_4_8 #FBI
+tvdb_episode:399863_1_8 #FBI International
+tvdb_episode:364088_3_8 #FBI Most Wanted
+tvdb_episode:350071_4_9 #FBI
+tvdb_episode:364088_3_9 #FBI Most Wanted
+tvdb_episode:350071_4_10 #FBI
+tvdb_episode:399863_1_9 #FBI International
+tvdb_episode:364088_3_10 #FBI Most Wanted
+tvdb_episode:350071_4_11 #FBI
+tvdb_episode:399863_1_10 #FBI International
+tvdb_episode:364088_3_11 #FBI Most Wanted
+tvdb_episode:350071_4_12 #FBI
+tvdb_episode:399863_1_11 #FBI International
+tvdb_episode:364088_3_12 #FBI Most Wanted
+tvdb_episode:350071_4_13 #FBI
+tvdb_episode:399863_1_12 #FBI International
+tvdb_episode:364088_3_13 #FBI Most Wanted
+tvdb_episode:350071_4_14 #FBI
+tvdb_episode:399863_1_13 #FBI International
+tvdb_episode:364088_3_14 #FBI Most Wanted
+tvdb_episode:350071_4_15 #FBI
+tvdb_episode:399863_1_14 #FBI International
+tvdb_episode:364088_3_15 #FBI Most Wanted
+tvdb_episode:350071_4_16 #FBI
+tvdb_episode:399863_1_15 #FBI International
+tvdb_episode:364088_3_16 #FBI Most Wanted
+tvdb_episode:350071_4_17 #FBI
+tvdb_episode:399863_1_16 #FBI International
+tvdb_episode:364088_3_17 #FBI Most Wanted
+tvdb_episode:350071_4_18 #FBI
+tvdb_episode:399863_1_17 #FBI International
+tvdb_episode:364088_3_18 #FBI Most Wanted
+tvdb_episode:350071_4_19 #FBI
+tvdb_episode:399863_1_18 #FBI International
+tvdb_episode:364088_3_19 #FBI Most Wanted
+tvdb_episode:350071_4_20 #FBI
+tvdb_episode:399863_1_19 #FBI International
+tvdb_episode:364088_3_20 #FBI Most Wanted
+tvdb_episode:350071_4_21 #FBI
+tvdb_episode:399863_1_20 #FBI International
+tvdb_episode:364088_3_21 #FBI Most Wanted
+tvdb_episode:399863_1_21 #FBI International
+tvdb_episode:364088_3_22 #FBI Most Wanted
+tvdb_episode:350071_5_1 #FBI
+tvdb_episode:399863_2_1 #FBI International
+tvdb_episode:364088_4_1 #FBI Most Wanted
+tvdb_episode:350071_5_2 #FBI
+tvdb_episode:399863_2_2 #FBI International
+tvdb_episode:364088_4_2 #FBI Most Wanted
+tvdb_episode:350071_5_3 #FBI
+tvdb_episode:399863_2_3 #FBI International
+tvdb_episode:364088_4_3 #FBI Most Wanted
+tvdb_episode:350071_5_4 #FBI
+tvdb_episode:399863_2_4 #FBI International
+tvdb_episode:364088_4_4 #FBI Most Wanted
+tvdb_episode:350071_5_5 #FBI
+tvdb_episode:399863_2_5 #FBI International
+tvdb_episode:364088_4_5 #FBI Most Wanted
+tvdb_episode:350071_5_6 #FBI
+tvdb_episode:350071_5_7 #FBI
+tvdb_episode:399863_2_6 #FBI International
+tvdb_episode:364088_4_6 #FBI Most Wanted
+tvdb_episode:350071_5_8 #FBI
+tvdb_episode:399863_2_7 #FBI International
+tvdb_episode:364088_4_7 #FBI Most Wanted
+tvdb_episode:350071_5_9 #FBI
+tvdb_episode:399863_2_8 #FBI International
+tvdb_episode:364088_4_8 #FBI Most Wanted
+tvdb_episode:350071_5_10 #FBI
+tvdb_episode:399863_2_9 #FBI International
+tvdb_episode:364088_4_9 #FBI Most Wanted
+tvdb_episode:350071_5_11 #FBI
+tvdb_episode:399863_2_10 #FBI International
+tvdb_episode:364088_4_10 #FBI Most Wanted
+tvdb_episode:350071_5_12 #FBI
+tvdb_episode:399863_2_11 #FBI International
+tvdb_episode:364088_4_11 #FBI Most Wanted
+tvdb_episode:350071_5_13 #FBI
+tvdb_episode:399863_2_12 #FBI International
+tvdb_episode:364088_4_12 #FBI Most Wanted
+tvdb_episode:350071_5_14 #FBI
+tvdb_episode:399863_2_13 #FBI International
+tvdb_episode:364088_4_13 #FBI Most Wanted
+tvdb_episode:350071_5_15 #FBI
+tvdb_episode:399863_2_14 #FBI International
+tvdb_episode:364088_4_14 #FBI Most Wanted
+tvdb_episode:350071_5_16 #FBI
+tvdb_episode:399863_2_15 #FBI International
+tvdb_episode:364088_4_15 #FBI Most Wanted
+tvdb_episode:399863_2_16 #FBI International
+tvdb_episode:350071_5_17 #FBI
+tvdb_episode:364088_4_16 #FBI Most Wanted
+tvdb_episode:350071_5_18 #FBI
+tvdb_episode:399863_2_17 #FBI International
+tvdb_episode:364088_4_17 #FBI Most Wanted
+tvdb_episode:350071_5_19 #FBI
+tvdb_episode:399863_2_18 #FBI International
+tvdb_episode:364088_4_18 #FBI Most Wanted
+tvdb_episode:350071_5_20 #FBI
+tvdb_episode:399863_2_19 #FBI International
+tvdb_episode:364088_4_19 #FBI Most Wanted
+tvdb_episode:350071_5_21 #FBI
+tvdb_episode:399863_2_20 #FBI International
+tvdb_episode:364088_4_20 #FBI Most Wanted
+tvdb_episode:350071_5_22 #FBI
+tvdb_episode:399863_2_21 #FBI International
+tvdb_episode:364088_4_21 #FBI Most Wanted
+tvdb_episode:350071_5_23 #FBI
+tvdb_episode:399863_2_22 #FBI International
+tvdb_episode:364088_4_22 #FBI Most Wanted
+tvdb_episode:350071_6_1 #FBI
+tvdb_episode:399863_3_1 #FBI International
+tvdb_episode:364088_5_1 #FBI Most Wanted
+tvdb_episode:350071_6_2 #FBI
+tvdb_episode:399863_3_2 #FBI International
+tvdb_episode:364088_5_2 #FBI Most Wanted
+tvdb_episode:350071_6_3 #FBI
+tvdb_episode:399863_3_3 #FBI International
+tvdb_episode:364088_5_3 #FBI Most Wanted
+tvdb_episode:350071_6_4 #FBI
+tvdb_episode:399863_3_4 #FBI International
+tvdb_episode:364088_5_4 #FBI Most Wanted
+tvdb_episode:350071_6_5 #FBI
+tvdb_episode:399863_3_5 #FBI International
+tvdb_episode:364088_5_5 #FBI Most Wanted
+tvdb_episode:350071_6_6 #FBI
+tvdb_episode:399863_3_6 #FBI International
+tvdb_episode:364088_5_6 #FBI Most Wanted
+tvdb_episode:350071_6_7 #FBI
+tvdb_episode:399863_3_7 #FBI International
+tvdb_episode:364088_5_7 #FBI Most Wanted
+tvdb_episode:350071_6_8 #FBI
+tvdb_episode:399863_3_8 #FBI International
+tvdb_episode:364088_5_8 #FBI Most Wanted
+tvdb_episode:350071_6_9 #FBI
+tvdb_episode:399863_3_9 #FBI International
+tvdb_episode:364088_5_9 #FBI Most Wanted
+tvdb_episode:350071_6_10 #FBI
+tvdb_episode:399863_3_10 #FBI International
+tvdb_episode:364088_5_10 #FBI Most Wanted
+tvdb_episode:350071_6_11 #FBI
+tvdb_episode:399863_3_11 #FBI International
+tvdb_episode:364088_5_11 #FBI Most Wanted
+tvdb_episode:350071_6_12 #FBI
+tvdb_episode:399863_3_12 #FBI International
+tvdb_episode:364088_5_12 #FBI Most Wanted
+tvdb_episode:350071_6_13 #FBI
+tvdb_episode:399863_3_13 #FBI International
+tvdb_episode:364088_5_13 #FBI Most Wanted
+tvdb_episode:350071_7_1 #FBI
+tvdb_episode:399863_4_1 #FBI International
+tvdb_episode:364088_6_1 #FBI Most Wanted
+tvdb_episode:350071_7_2 #FBI
+tvdb_episode:399863_4_2 #FBI International
+tvdb_episode:364088_6_2 #FBI Most Wanted
+tvdb_episode:350071_7_3 #FBI
+tvdb_episode:399863_4_3 #FBI International
+tvdb_episode:364088_6_3 #FBI Most Wanted
+tvdb_episode:350071_7_4 #FBI
+tvdb_episode:399863_4_4 #FBI International
+tvdb_episode:364088_6_4 #FBI Most Wanted
+tvdb_episode:350071_7_5 #FBI
+tvdb_episode:399863_4_5 #FBI International
+tvdb_episode:364088_6_5 #FBI Most Wanted
+tvdb_episode:350071_7_6 #FBI
+tvdb_episode:399863_4_6 #FBI International
+tvdb_episode:364088_6_6 #FBI Most Wanted
+tvdb_episode:350071_7_7 #FBI
+tvdb_episode:399863_4_7 #FBI International
+tvdb_episode:364088_6_7 #FBI Most Wanted
+tvdb_episode:350071_7_8 #FBI
+tvdb_episode:399863_4_8 #FBI International
+tvdb_episode:364088_6_8 #FBI Most Wanted
+tvdb_episode:350071_7_9 #FBI
+tvdb_episode:399863_4_9 #FBI International
+tvdb_episode:364088_6_9 #FBI Most Wanted
+tvdb_episode:350071_7_10 #FBI
+tvdb_episode:399863_4_10 #FBI International
+tvdb_episode:364088_6_10 #FBI Most Wanted
+tvdb_episode:350071_7_11 #FBI
+tvdb_episode:399863_4_11 #FBI International
+tvdb_episode:364088_6_11 #FBI Most Wanted
+tvdb_episode:350071_7_12 #FBI
+tvdb_episode:399863_4_12 #FBI International
+tvdb_episode:364088_6_12 #FBI Most Wanted
+tvdb_episode:350071_7_13 #FBI
+tvdb_episode:399863_4_13 #FBI International
+tvdb_episode:364088_6_13 #FBI Most Wanted
+tvdb_episode:350071_7_14 #FBI
+tvdb_episode:399863_4_14 #FBI International
+tvdb_episode:364088_6_14 #FBI Most Wanted
+tvdb_episode:350071_7_15 #FBI
+tvdb_episode:399863_4_15 #FBI International
+tvdb_episode:364088_6_15 #FBI Most Wanted
+tvdb_episode:350071_7_16 #FBI
+tvdb_episode:364088_6_16 #FBI Most Wanted
+tvdb_episode:399863_4_16 #FBI International
+tvdb_episode:350071_7_17 #FBI
+tvdb_episode:364088_6_17 #FBI Most Wanted
+tvdb_episode:399863_4_17 #FBI International
+tvdb_episode:350071_7_18 #FBI
+tvdb_episode:364088_6_18 #FBI Most Wanted
+tvdb_episode:399863_4_18 #FBI International
+tvdb_episode:350071_7_19 #FBI
+tvdb_episode:364088_6_19 #FBI Most Wanted
+tvdb_episode:399863_4_19 #FBI International
+tvdb_episode:350071_7_20 #FBI
+tvdb_episode:364088_6_20 #FBI Most Wanted
+tvdb_episode:399863_4_20 #FBI International
+tvdb_episode:350071_7_21 #FBI
+tvdb_episode:364088_6_21 #FBI Most Wanted
+tvdb_episode:399863_4_21 #FBI International
+tvdb_episode:350071_7_22 #FBI
+tvdb_episode:364088_6_22 #FBI Most Wanted
+tvdb_episode:399863_4_22 #FBI International
+tvdb_episode:350071_8_1 #FBI
+tvdb_episode:350071_8_2 #FBI
+tvdb_episode:350071_8_3 #FBI
+tvdb_episode:350071_8_4 #FBI
+tvdb_episode:350071_8_5 #FBI
+tvdb_episode:350071_8_6 #FBI
+tvdb_episode:350071_8_7 #FBI
+tvdb_episode:350071_8_8 #FBI
+tvdb_episode:350071_8_9 #FBI
+tvdb_episode:350071_8_10 #FBI
+tvdb_episode:350071_8_11 #FBI
+tvdb_episode:350071_8_12 #FBI
+tvdb_episode:350071_8_13 #FBI
+tvdb_episode:350071_8_14 #FBI
+tvdb_episode:350071_8_15 #FBI
+tvdb_episode:350071_8_16 #FBI
+tvdb_episode:350071_8_17 #FBI
+tvdb_episode:350071_8_18 #FBI
+tvdb_episode:350071_8_19 #FBI
+tvdb_episode:350071_8_20 #FBI
+tvdb_episode:350071_8_21 #FBI
+tvdb_episode:350071_8_22 #FBI
