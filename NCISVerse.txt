@@ -1,0 +1,1128 @@
+# Last updated: 2026-07-11
+# Scope: Covers the entire NCIS franchise of scripted series: NCIS, NCIS: Los Angeles, NCIS: New Orleans, NCIS: Hawaiʻi, NCIS: Sydney, NCIS: Origins, NCIS: Tony & Ziva, and NCIS: New York. JAG (the parent/backdoor-pilot show) is excluded. Recap/clip specials are excluded.
+# Ordered by actual air date and time per TVmaze (airtimes verified per episode)
+tvdb_episode:72108_1_1  # NCIS S01E01 - Yankee White
+tvdb_episode:72108_1_2  # NCIS S01E02 - Hung Out to Dry
+tvdb_episode:72108_1_3  # NCIS S01E03 - Seadog
+tvdb_episode:72108_1_4  # NCIS S01E04 - The Immortals
+tvdb_episode:72108_1_5  # NCIS S01E05 - The Curse
+tvdb_episode:72108_1_6  # NCIS S01E06 - High Seas
+tvdb_episode:72108_1_7  # NCIS S01E07 - Sub Rosa
+tvdb_episode:72108_1_8  # NCIS S01E08 - Minimum Security
+tvdb_episode:72108_1_9  # NCIS S01E09 - Marine Down
+tvdb_episode:72108_1_10  # NCIS S01E10 - Left for Dead
+tvdb_episode:72108_1_11  # NCIS S01E11 - Eye Spy
+tvdb_episode:72108_1_12  # NCIS S01E12 - My Other Left Foot
+tvdb_episode:72108_1_13  # NCIS S01E13 - One Shot, One Kill
+tvdb_episode:72108_1_14  # NCIS S01E14 - The Good Samaritan
+tvdb_episode:72108_1_15  # NCIS S01E15 - Enigma
+tvdb_episode:72108_1_16  # NCIS S01E16 - BÃªte Noire
+tvdb_episode:72108_1_17  # NCIS S01E17 - The Truth Is Out There
+tvdb_episode:72108_1_18  # NCIS S01E18 - UnSEALed
+tvdb_episode:72108_1_19  # NCIS S01E19 - Dead Man Talking
+tvdb_episode:72108_1_20  # NCIS S01E20 - Missing
+tvdb_episode:72108_1_21  # NCIS S01E21 - Split Decision
+tvdb_episode:72108_1_22  # NCIS S01E22 - A Weak Link
+tvdb_episode:72108_1_23  # NCIS S01E23 - Reveille
+tvdb_episode:72108_2_1  # NCIS S02E01 - See No Evil
+tvdb_episode:72108_2_2  # NCIS S02E02 - The Good Wives Club
+tvdb_episode:72108_2_3  # NCIS S02E03 - Vanished
+tvdb_episode:72108_2_4  # NCIS S02E04 - Lt. Jane Doe
+tvdb_episode:72108_2_5  # NCIS S02E05 - The Bone Yard
+tvdb_episode:72108_2_6  # NCIS S02E06 - Terminal Leave
+tvdb_episode:72108_2_7  # NCIS S02E07 - Call of Silence
+tvdb_episode:72108_2_8  # NCIS S02E08 - Heart Break
+tvdb_episode:72108_2_9  # NCIS S02E09 - Forced Entry
+tvdb_episode:72108_2_10  # NCIS S02E10 - Chained
+tvdb_episode:72108_2_11  # NCIS S02E11 - Blackwater
+tvdb_episode:72108_2_12  # NCIS S02E12 - DoppelgÃ¤nger
+tvdb_episode:72108_2_13  # NCIS S02E13 - The Meat Puzzle
+tvdb_episode:72108_2_14  # NCIS S02E14 - Witness
+tvdb_episode:72108_2_15  # NCIS S02E15 - Caught on Tape
+tvdb_episode:72108_2_16  # NCIS S02E16 - Pop Life
+tvdb_episode:72108_2_17  # NCIS S02E17 - An Eye for an Eye
+tvdb_episode:72108_2_18  # NCIS S02E18 - Bikini Wax
+tvdb_episode:72108_2_19  # NCIS S02E19 - Conspiracy Theory
+tvdb_episode:72108_2_20  # NCIS S02E20 - Red Cell
+tvdb_episode:72108_2_21  # NCIS S02E21 - Hometown Hero
+tvdb_episode:72108_2_22  # NCIS S02E22 - SWAK
+tvdb_episode:72108_2_23  # NCIS S02E23 - Twilight
+tvdb_episode:72108_3_1  # NCIS S03E01 - Kill Ari (Part I)
+tvdb_episode:72108_3_2  # NCIS S03E02 - Kill Ari (Part II)
+tvdb_episode:72108_3_3  # NCIS S03E03 - Mind Games
+tvdb_episode:72108_3_4  # NCIS S03E04 - Silver War
+tvdb_episode:72108_3_5  # NCIS S03E05 - Switch
+tvdb_episode:72108_3_6  # NCIS S03E06 - The Voyeur's Web
+tvdb_episode:72108_3_7  # NCIS S03E07 - Honor Code
+tvdb_episode:72108_3_8  # NCIS S03E08 - Under Covers
+tvdb_episode:72108_3_9  # NCIS S03E09 - Frame-Up
+tvdb_episode:72108_3_10  # NCIS S03E10 - Probie
+tvdb_episode:72108_3_11  # NCIS S03E11 - Model Behavior
+tvdb_episode:72108_3_12  # NCIS S03E12 - Boxed In
+tvdb_episode:72108_3_13  # NCIS S03E13 - Deception
+tvdb_episode:72108_3_14  # NCIS S03E14 - Light Sleeper
+tvdb_episode:72108_3_15  # NCIS S03E15 - Head Case
+tvdb_episode:72108_3_16  # NCIS S03E16 - Family Secret
+tvdb_episode:72108_3_17  # NCIS S03E17 - Ravenous
+tvdb_episode:72108_3_18  # NCIS S03E18 - Bait
+tvdb_episode:72108_3_19  # NCIS S03E19 - Iced
+tvdb_episode:72108_3_20  # NCIS S03E20 - Untouchable
+tvdb_episode:72108_3_21  # NCIS S03E21 - Bloodbath
+tvdb_episode:72108_3_22  # NCIS S03E22 - Jeopardy
+tvdb_episode:72108_3_23  # NCIS S03E23 - Hiatus (Part I)
+tvdb_episode:72108_3_24  # NCIS S03E24 - Hiatus (Part II)
+tvdb_episode:72108_4_1  # NCIS S04E01 - Shalom
+tvdb_episode:72108_4_2  # NCIS S04E02 - Escaped
+tvdb_episode:72108_4_3  # NCIS S04E03 - Singled Out
+tvdb_episode:72108_4_4  # NCIS S04E04 - Faking It
+tvdb_episode:72108_4_5  # NCIS S04E05 - Dead and Unburied
+tvdb_episode:72108_4_6  # NCIS S04E06 - Witch Hunt
+tvdb_episode:72108_4_7  # NCIS S04E07 - Sandblast
+tvdb_episode:72108_4_8  # NCIS S04E08 - Once a Hero
+tvdb_episode:72108_4_9  # NCIS S04E09 - Twisted Sister
+tvdb_episode:72108_4_10  # NCIS S04E10 - Smoked
+tvdb_episode:72108_4_11  # NCIS S04E11 - Driven
+tvdb_episode:72108_4_12  # NCIS S04E12 - Suspicion
+tvdb_episode:72108_4_13  # NCIS S04E13 - Sharif Returns
+tvdb_episode:72108_4_14  # NCIS S04E14 - Blowback
+tvdb_episode:72108_4_15  # NCIS S04E15 - Friends and Lovers
+tvdb_episode:72108_4_16  # NCIS S04E16 - Dead Man Walking
+tvdb_episode:72108_4_17  # NCIS S04E17 - Skeletons
+tvdb_episode:72108_4_18  # NCIS S04E18 - Iceman
+tvdb_episode:72108_4_19  # NCIS S04E19 - Grace Period
+tvdb_episode:72108_4_20  # NCIS S04E20 - Cover Story
+tvdb_episode:72108_4_21  # NCIS S04E21 - Brothers in Arms
+tvdb_episode:72108_4_22  # NCIS S04E22 - In the Dark
+tvdb_episode:72108_4_23  # NCIS S04E23 - Trojan Horse
+tvdb_episode:72108_4_24  # NCIS S04E24 - Angel of Death
+tvdb_episode:72108_5_1  # NCIS S05E01 - Bury Your Dead
+tvdb_episode:72108_5_2  # NCIS S05E02 - Family
+tvdb_episode:72108_5_3  # NCIS S05E03 - Ex-File
+tvdb_episode:72108_5_4  # NCIS S05E04 - Identity Crisis
+tvdb_episode:72108_5_5  # NCIS S05E05 - Leap of Faith
+tvdb_episode:72108_5_6  # NCIS S05E06 - Chimera
+tvdb_episode:72108_5_7  # NCIS S05E07 - Requiem
+tvdb_episode:72108_5_8  # NCIS S05E08 - Designated Target
+tvdb_episode:72108_5_9  # NCIS S05E09 - Lost and Found
+tvdb_episode:72108_5_10  # NCIS S05E10 - Corporal Punishment
+tvdb_episode:72108_5_11  # NCIS S05E11 - Tribes
+tvdb_episode:72108_5_12  # NCIS S05E12 - Stakeout
+tvdb_episode:72108_5_13  # NCIS S05E13 - Dog Tags
+tvdb_episode:72108_5_14  # NCIS S05E14 - Internal Affairs
+tvdb_episode:72108_5_15  # NCIS S05E15 - In the Zone
+tvdb_episode:72108_5_16  # NCIS S05E16 - Recoil
+tvdb_episode:72108_5_17  # NCIS S05E17 - About Face
+tvdb_episode:72108_5_18  # NCIS S05E18 - Judgment Day Part I
+tvdb_episode:72108_5_19  # NCIS S05E19 - Judgment Day Part II
+tvdb_episode:72108_6_1  # NCIS S06E01 - Last Man Standing
+tvdb_episode:72108_6_2  # NCIS S06E02 - Agent Afloat
+tvdb_episode:72108_6_3  # NCIS S06E03 - Capitol Offense
+tvdb_episode:72108_6_4  # NCIS S06E04 - Heartland
+tvdb_episode:72108_6_5  # NCIS S06E05 - Nine Lives
+tvdb_episode:72108_6_6  # NCIS S06E06 - Murder 2.0
+tvdb_episode:72108_6_7  # NCIS S06E07 - Collateral Damage
+tvdb_episode:72108_6_8  # NCIS S06E08 - Cloak
+tvdb_episode:72108_6_9  # NCIS S06E09 - Dagger
+tvdb_episode:72108_6_10  # NCIS S06E10 - Road Kill
+tvdb_episode:72108_6_11  # NCIS S06E11 - Silent Night
+tvdb_episode:72108_6_12  # NCIS S06E12 - Caged
+tvdb_episode:72108_6_13  # NCIS S06E13 - Broken Bird
+tvdb_episode:72108_6_14  # NCIS S06E14 - Love & War
+tvdb_episode:72108_6_15  # NCIS S06E15 - Deliverance
+tvdb_episode:72108_6_16  # NCIS S06E16 - Bounce
+tvdb_episode:72108_6_17  # NCIS S06E17 - South by Southwest
+tvdb_episode:72108_6_18  # NCIS S06E18 - Knockout
+tvdb_episode:72108_6_19  # NCIS S06E19 - Hide and Seek
+tvdb_episode:72108_6_20  # NCIS S06E20 - Dead Reckoning
+tvdb_episode:72108_6_21  # NCIS S06E21 - Toxic
+tvdb_episode:72108_6_22  # NCIS S06E22 - Legend (Part I)
+tvdb_episode:72108_6_23  # NCIS S06E23 - Legend (Part II)
+tvdb_episode:72108_6_24  # NCIS S06E24 - Semper Fidelis
+tvdb_episode:72108_6_25  # NCIS S06E25 - Aliyah
+tvdb_episode:72108_7_1  # NCIS S07E01 - Truth or Consequences
+tvdb_episode:95441_1_1  # NCIS: Los Angeles S01E01 - Identity
+tvdb_episode:72108_7_2  # NCIS S07E02 - Reunion
+tvdb_episode:95441_1_2  # NCIS: Los Angeles S01E02 - The Only Easy Day
+tvdb_episode:72108_7_3  # NCIS S07E03 - The Inside Man
+tvdb_episode:95441_1_3  # NCIS: Los Angeles S01E03 - Predator
+tvdb_episode:72108_7_4  # NCIS S07E04 - Good Cop, Bad Cop
+tvdb_episode:95441_1_4  # NCIS: Los Angeles S01E04 - Search and Destroy
+tvdb_episode:72108_7_5  # NCIS S07E05 - Code of Conduct
+tvdb_episode:95441_1_5  # NCIS: Los Angeles S01E05 - Killshot
+tvdb_episode:72108_7_6  # NCIS S07E06 - Outlaws and In-Laws
+tvdb_episode:95441_1_6  # NCIS: Los Angeles S01E06 - Keepin' It Real
+tvdb_episode:72108_7_7  # NCIS S07E07 - Endgame
+tvdb_episode:95441_1_7  # NCIS: Los Angeles S01E07 - Pushback
+tvdb_episode:72108_7_8  # NCIS S07E08 - Power Down
+tvdb_episode:95441_1_8  # NCIS: Los Angeles S01E08 - Ambush
+tvdb_episode:72108_7_9  # NCIS S07E09 - Child's Play
+tvdb_episode:95441_1_9  # NCIS: Los Angeles S01E09 - Random on Purpose
+tvdb_episode:72108_7_10  # NCIS S07E10 - Faith
+tvdb_episode:95441_1_10  # NCIS: Los Angeles S01E10 - Brimstone
+tvdb_episode:72108_7_11  # NCIS S07E11 - Ignition
+tvdb_episode:95441_1_11  # NCIS: Los Angeles S01E11 - Breach
+tvdb_episode:72108_7_12  # NCIS S07E12 - Flesh and Blood
+tvdb_episode:95441_1_12  # NCIS: Los Angeles S01E12 - Past Lives
+tvdb_episode:72108_7_13  # NCIS S07E13 - Jet Lag
+tvdb_episode:95441_1_13  # NCIS: Los Angeles S01E13 - Missing
+tvdb_episode:72108_7_14  # NCIS S07E14 - Masquerade
+tvdb_episode:95441_1_14  # NCIS: Los Angeles S01E14 - LD50
+tvdb_episode:72108_7_15  # NCIS S07E15 - Jack Knife
+tvdb_episode:95441_1_15  # NCIS: Los Angeles S01E15 - The Bank Job
+tvdb_episode:72108_7_16  # NCIS S07E16 - Mother's Day
+tvdb_episode:95441_1_16  # NCIS: Los Angeles S01E16 - Chinatown
+tvdb_episode:72108_7_17  # NCIS S07E17 - Double Identity
+tvdb_episode:95441_1_17  # NCIS: Los Angeles S01E17 - Full Throttle
+tvdb_episode:72108_7_18  # NCIS S07E18 - Jurisdiction
+tvdb_episode:95441_1_18  # NCIS: Los Angeles S01E18 - Blood Brothers
+tvdb_episode:72108_7_19  # NCIS S07E19 - Guilty Pleasure
+tvdb_episode:95441_1_19  # NCIS: Los Angeles S01E19 - Hand-to-Hand
+tvdb_episode:72108_7_20  # NCIS S07E20 - Moonlighting
+tvdb_episode:95441_1_20  # NCIS: Los Angeles S01E20 - Fame
+tvdb_episode:72108_7_21  # NCIS S07E21 - Obsession
+tvdb_episode:95441_1_21  # NCIS: Los Angeles S01E21 - Found
+tvdb_episode:72108_7_22  # NCIS S07E22 - Borderland
+tvdb_episode:95441_1_22  # NCIS: Los Angeles S01E22 - Hunted
+tvdb_episode:72108_7_23  # NCIS S07E23 - Patriot Down
+tvdb_episode:95441_1_23  # NCIS: Los Angeles S01E23 - Burned
+tvdb_episode:72108_7_24  # NCIS S07E24 - Rule Fifty-One
+tvdb_episode:95441_1_24  # NCIS: Los Angeles S01E24 - Callen, G
+tvdb_episode:72108_8_1  # NCIS S08E01 - Spider and the Fly
+tvdb_episode:95441_2_1  # NCIS: Los Angeles S02E01 - Human Traffic
+tvdb_episode:95441_2_2  # NCIS: Los Angeles S02E02 - Black Widow
+tvdb_episode:72108_8_2  # NCIS S08E02 - Worst Nightmare
+tvdb_episode:95441_2_3  # NCIS: Los Angeles S02E03 - Borderline
+tvdb_episode:72108_8_3  # NCIS S08E03 - Short Fuse
+tvdb_episode:95441_2_4  # NCIS: Los Angeles S02E04 - Special Delivery
+tvdb_episode:72108_8_4  # NCIS S08E04 - Royals & Loyals
+tvdb_episode:95441_2_5  # NCIS: Los Angeles S02E05 - Little Angels
+tvdb_episode:72108_8_5  # NCIS S08E05 - Dead Air
+tvdb_episode:95441_2_6  # NCIS: Los Angeles S02E06 - Standoff
+tvdb_episode:72108_8_6  # NCIS S08E06 - Cracked
+tvdb_episode:95441_2_7  # NCIS: Los Angeles S02E07 - Anonymous
+tvdb_episode:72108_8_7  # NCIS S08E07 - Broken Arrow
+tvdb_episode:95441_2_8  # NCIS: Los Angeles S02E08 - Bounty
+tvdb_episode:72108_8_8  # NCIS S08E08 - Enemies Foreign
+tvdb_episode:95441_2_9  # NCIS: Los Angeles S02E09 - Absolution
+tvdb_episode:72108_8_9  # NCIS S08E09 - Enemies Domestic
+tvdb_episode:95441_2_10  # NCIS: Los Angeles S02E10 - Deliverance
+tvdb_episode:72108_8_10  # NCIS S08E10 - False Witness
+tvdb_episode:95441_2_11  # NCIS: Los Angeles S02E11 - Disorder
+tvdb_episode:72108_8_11  # NCIS S08E11 - Ships in the Night
+tvdb_episode:95441_2_12  # NCIS: Los Angeles S02E12 - Overwatch
+tvdb_episode:72108_8_12  # NCIS S08E12 - Recruited
+tvdb_episode:95441_2_13  # NCIS: Los Angeles S02E13 - Archangel
+tvdb_episode:72108_8_13  # NCIS S08E13 - Freedom
+tvdb_episode:95441_2_14  # NCIS: Los Angeles S02E14 - Lockup
+tvdb_episode:72108_8_14  # NCIS S08E14 - A Man Walks Into a Barâ€¦
+tvdb_episode:95441_2_15  # NCIS: Los Angeles S02E15 - Tin Soldiers
+tvdb_episode:72108_8_15  # NCIS S08E15 - Defiance
+tvdb_episode:95441_2_16  # NCIS: Los Angeles S02E16 - Empty Quiver
+tvdb_episode:72108_8_16  # NCIS S08E16 - Kill Screen
+tvdb_episode:95441_2_17  # NCIS: Los Angeles S02E17 - Personal
+tvdb_episode:72108_8_17  # NCIS S08E17 - One Last Score
+tvdb_episode:95441_2_18  # NCIS: Los Angeles S02E18 - Harm's Way
+tvdb_episode:72108_8_18  # NCIS S08E18 - Out of the Frying Panâ€¦
+tvdb_episode:95441_2_19  # NCIS: Los Angeles S02E19 - Enemy Within
+tvdb_episode:72108_8_19  # NCIS S08E19 - Tell-All
+tvdb_episode:95441_2_20  # NCIS: Los Angeles S02E20 - The Job
+tvdb_episode:72108_8_20  # NCIS S08E20 - Two-Faced
+tvdb_episode:72108_8_21  # NCIS S08E21 - Dead Reflection
+tvdb_episode:95441_2_21  # NCIS: Los Angeles S02E21 - Rocket Man
+tvdb_episode:72108_8_22  # NCIS S08E22 - Baltimore
+tvdb_episode:95441_2_22  # NCIS: Los Angeles S02E22 - Plan B
+tvdb_episode:72108_8_23  # NCIS S08E23 - Swan Song
+tvdb_episode:95441_2_23  # NCIS: Los Angeles S02E23 - Imposters
+tvdb_episode:72108_8_24  # NCIS S08E24 - Pyramid
+tvdb_episode:95441_2_24  # NCIS: Los Angeles S02E24 - Familia
+tvdb_episode:72108_9_1  # NCIS S09E01 - Nature of the Beast
+tvdb_episode:95441_3_1  # NCIS: Los Angeles S03E01 - Lange, H.
+tvdb_episode:72108_9_2  # NCIS S09E02 - Restless
+tvdb_episode:95441_3_2  # NCIS: Los Angeles S03E02 - Cyber Threat
+tvdb_episode:72108_9_3  # NCIS S09E03 - The Penelope Papers
+tvdb_episode:95441_3_3  # NCIS: Los Angeles S03E03 - Backstopped
+tvdb_episode:72108_9_4  # NCIS S09E04 - Enemy on the Hill
+tvdb_episode:95441_3_4  # NCIS: Los Angeles S03E04 - Deadline
+tvdb_episode:72108_9_5  # NCIS S09E05 - Safe Harbor
+tvdb_episode:95441_3_5  # NCIS: Los Angeles S03E05 - Sacrifice
+tvdb_episode:72108_9_6  # NCIS S09E06 - Thirst
+tvdb_episode:95441_3_6  # NCIS: Los Angeles S03E06 - Lone Wolf
+tvdb_episode:72108_9_7  # NCIS S09E07 - Devil's Triangle
+tvdb_episode:95441_3_7  # NCIS: Los Angeles S03E07 - Honor
+tvdb_episode:72108_9_8  # NCIS S09E08 - Engaged (Part I)
+tvdb_episode:95441_3_8  # NCIS: Los Angeles S03E08 - Greed
+tvdb_episode:72108_9_9  # NCIS S09E09 - Engaged (Part II)
+tvdb_episode:95441_3_9  # NCIS: Los Angeles S03E09 - Betrayal
+tvdb_episode:72108_9_10  # NCIS S09E10 - Sins of the Father
+tvdb_episode:95441_3_10  # NCIS: Los Angeles S03E10 - The Debt
+tvdb_episode:72108_9_11  # NCIS S09E11 - Newborn King
+tvdb_episode:95441_3_11  # NCIS: Los Angeles S03E11 - Higher Power
+tvdb_episode:72108_9_12  # NCIS S09E12 - Housekeeping
+tvdb_episode:95441_3_12  # NCIS: Los Angeles S03E12 - The Watchers
+tvdb_episode:72108_9_13  # NCIS S09E13 - A Desperate Man
+tvdb_episode:95441_3_13  # NCIS: Los Angeles S03E13 - Exit Strategy
+tvdb_episode:72108_9_14  # NCIS S09E14 - Life Before His Eyes
+tvdb_episode:95441_3_14  # NCIS: Los Angeles S03E14 - Partners
+tvdb_episode:72108_9_15  # NCIS S09E15 - Secrets
+tvdb_episode:95441_3_15  # NCIS: Los Angeles S03E15 - Crimeleon
+tvdb_episode:72108_9_16  # NCIS S09E16 - Psych Out
+tvdb_episode:95441_3_16  # NCIS: Los Angeles S03E16 - Blye, K.
+tvdb_episode:72108_9_17  # NCIS S09E17 - Need to Know
+tvdb_episode:95441_3_17  # NCIS: Los Angeles S03E17 - Blye, K., Part 2
+tvdb_episode:72108_9_18  # NCIS S09E18 - The Tell
+tvdb_episode:95441_3_18  # NCIS: Los Angeles S03E18 - The Dragon and the Fairy
+tvdb_episode:72108_9_19  # NCIS S09E19 - The Good Son
+tvdb_episode:95441_3_19  # NCIS: Los Angeles S03E19 - Vengeance
+tvdb_episode:72108_9_20  # NCIS S09E20 - The Missionary Position
+tvdb_episode:95441_3_20  # NCIS: Los Angeles S03E20 - Patriot Acts
+tvdb_episode:72108_9_21  # NCIS S09E21 - Rekindled
+tvdb_episode:72108_9_22  # NCIS S09E22 - Playing with Fire
+tvdb_episode:95441_3_21  # NCIS: Los Angeles S03E21 - Touch of Death
+tvdb_episode:72108_9_23  # NCIS S09E23 - Up in Smoke
+tvdb_episode:95441_3_22  # NCIS: Los Angeles S03E22 - Neighborhood Watch
+tvdb_episode:72108_9_24  # NCIS S09E24 - Till Death Do Us Part
+tvdb_episode:95441_3_23  # NCIS: Los Angeles S03E23 - Sans Voir
+tvdb_episode:95441_3_24  # NCIS: Los Angeles S03E24 - Sans Voir, Part 2
+tvdb_episode:72108_10_1  # NCIS S10E01 - Extreme Prejudice
+tvdb_episode:95441_4_1  # NCIS: Los Angeles S04E01 - Endgame
+tvdb_episode:72108_10_2  # NCIS S10E02 - Recovery
+tvdb_episode:95441_4_2  # NCIS: Los Angeles S04E02 - Recruit
+tvdb_episode:72108_10_3  # NCIS S10E03 - Phoenix
+tvdb_episode:95441_4_3  # NCIS: Los Angeles S04E03 - The Fifth Man
+tvdb_episode:72108_10_4  # NCIS S10E04 - Lost at Sea
+tvdb_episode:95441_4_4  # NCIS: Los Angeles S04E04 - Dead Body Politic
+tvdb_episode:72108_10_5  # NCIS S10E05 - The Namesake
+tvdb_episode:95441_4_5  # NCIS: Los Angeles S04E05 - Out of the Past
+tvdb_episode:72108_10_6  # NCIS S10E06 - Shell Shock (Part I)
+tvdb_episode:95441_4_6  # NCIS: Los Angeles S04E06 - Rude Awakenings
+tvdb_episode:72108_10_7  # NCIS S10E07 - Shell Shock (Part II)
+tvdb_episode:95441_4_7  # NCIS: Los Angeles S04E07 - Skin Deep
+tvdb_episode:72108_10_8  # NCIS S10E08 - Gone
+tvdb_episode:95441_4_8  # NCIS: Los Angeles S04E08 - Collateral
+tvdb_episode:72108_10_9  # NCIS S10E09 - Devil's Trifecta
+tvdb_episode:95441_4_9  # NCIS: Los Angeles S04E09 - The Gold Standard
+tvdb_episode:72108_10_10  # NCIS S10E10 - You Better Watch Out
+tvdb_episode:95441_4_10  # NCIS: Los Angeles S04E10 - Free Ride
+tvdb_episode:72108_10_11  # NCIS S10E11 - Shabbat Shalom
+tvdb_episode:95441_4_11  # NCIS: Los Angeles S04E11 - Drive
+tvdb_episode:72108_10_12  # NCIS S10E12 - Shiva
+tvdb_episode:95441_4_12  # NCIS: Los Angeles S04E12 - Paper Soldiers
+tvdb_episode:72108_10_13  # NCIS S10E13 - Hit and Run
+tvdb_episode:95441_4_13  # NCIS: Los Angeles S04E13 - The Chosen One
+tvdb_episode:72108_10_14  # NCIS S10E14 - Canary
+tvdb_episode:95441_4_14  # NCIS: Los Angeles S04E14 - Kill House
+tvdb_episode:72108_10_15  # NCIS S10E15 - Hereafter
+tvdb_episode:95441_4_15  # NCIS: Los Angeles S04E15 - History
+tvdb_episode:72108_10_16  # NCIS S10E16 - Detour
+tvdb_episode:95441_4_16  # NCIS: Los Angeles S04E16 - Lokhay
+tvdb_episode:72108_10_17  # NCIS S10E17 - Prime Suspect
+tvdb_episode:95441_4_17  # NCIS: Los Angeles S04E17 - Wanted
+tvdb_episode:72108_10_18  # NCIS S10E18 - Seek
+tvdb_episode:95441_4_18  # NCIS: Los Angeles S04E18 - Red
+tvdb_episode:72108_10_19  # NCIS S10E19 - Squall
+tvdb_episode:95441_4_19  # NCIS: Los Angeles S04E19 - Red-2
+tvdb_episode:72108_10_20  # NCIS S10E20 - Chasing Ghosts
+tvdb_episode:95441_4_20  # NCIS: Los Angeles S04E20 - Purity
+tvdb_episode:72108_10_21  # NCIS S10E21 - Berlin
+tvdb_episode:95441_4_21  # NCIS: Los Angeles S04E21 - Resurrection
+tvdb_episode:72108_10_22  # NCIS S10E22 - Revenge
+tvdb_episode:95441_4_22  # NCIS: Los Angeles S04E22 - Raven & The Swans
+tvdb_episode:72108_10_23  # NCIS S10E23 - Double Blind
+tvdb_episode:95441_4_23  # NCIS: Los Angeles S04E23 - Parley
+tvdb_episode:72108_10_24  # NCIS S10E24 - Damned If You Do
+tvdb_episode:95441_4_24  # NCIS: Los Angeles S04E24 - Descent
+tvdb_episode:72108_11_1  # NCIS S11E01 - Whiskey Tango Foxtrot
+tvdb_episode:95441_5_1  # NCIS: Los Angeles S05E01 - Ascension
+tvdb_episode:72108_11_2  # NCIS S11E02 - Past, Present, and Future
+tvdb_episode:95441_5_2  # NCIS: Los Angeles S05E02 - Impact
+tvdb_episode:72108_11_3  # NCIS S11E03 - Under the Radar
+tvdb_episode:95441_5_3  # NCIS: Los Angeles S05E03 - Omni
+tvdb_episode:72108_11_4  # NCIS S11E04 - Anonymous Was a Woman
+tvdb_episode:95441_5_4  # NCIS: Los Angeles S05E04 - Reznikov, N.
+tvdb_episode:72108_11_5  # NCIS S11E05 - Once a Crook
+tvdb_episode:95441_5_5  # NCIS: Los Angeles S05E05 - Unwritten Rule
+tvdb_episode:72108_11_6  # NCIS S11E06 - Oil & Water
+tvdb_episode:95441_5_6  # NCIS: Los Angeles S05E06 - Big Brother
+tvdb_episode:72108_11_7  # NCIS S11E07 - Better Angels
+tvdb_episode:95441_5_7  # NCIS: Los Angeles S05E07 - The Livelong Day
+tvdb_episode:72108_11_8  # NCIS S11E08 - Alibi
+tvdb_episode:95441_5_8  # NCIS: Los Angeles S05E08 - Fallout
+tvdb_episode:72108_11_9  # NCIS S11E09 - Gut Check
+tvdb_episode:95441_5_9  # NCIS: Los Angeles S05E09 - Recovery
+tvdb_episode:95441_5_10  # NCIS: Los Angeles S05E10 - The Frozen Lake
+tvdb_episode:72108_11_10  # NCIS S11E10 - Devil's Triad
+tvdb_episode:95441_5_11  # NCIS: Los Angeles S05E11 - Iron Curtain Rising
+tvdb_episode:72108_11_11  # NCIS S11E11 - Homesick
+tvdb_episode:95441_5_12  # NCIS: Los Angeles S05E12 - Merry Evasion
+tvdb_episode:72108_11_12  # NCIS S11E12 - Kill Chain
+tvdb_episode:72108_11_13  # NCIS S11E13 - Double Back
+tvdb_episode:95441_5_13  # NCIS: Los Angeles S05E13 - Allegiance
+tvdb_episode:72108_11_14  # NCIS S11E14 - Monsters and Men
+tvdb_episode:95441_5_14  # NCIS: Los Angeles S05E14 - War Cries
+tvdb_episode:72108_11_15  # NCIS S11E15 - Bulletproof
+tvdb_episode:95441_5_15  # NCIS: Los Angeles S05E15 - Tuhon
+tvdb_episode:72108_11_16  # NCIS S11E16 - Dressed to Kill
+tvdb_episode:95441_5_16  # NCIS: Los Angeles S05E16 - Fish Out of Water
+tvdb_episode:72108_11_17  # NCIS S11E17 - Rock and a Hard Place
+tvdb_episode:95441_5_17  # NCIS: Los Angeles S05E17 - Between the Lines
+tvdb_episode:72108_11_18  # NCIS S11E18 - Crescent City (Part I)
+tvdb_episode:95441_5_18  # NCIS: Los Angeles S05E18 - Zero Days
+tvdb_episode:72108_11_19  # NCIS S11E19 - Crescent City (Part II)
+tvdb_episode:95441_5_19  # NCIS: Los Angeles S05E19 - Spoils of War
+tvdb_episode:72108_11_20  # NCIS S11E20 - Page Not Found
+tvdb_episode:95441_5_20  # NCIS: Los Angeles S05E20 - Windfall
+tvdb_episode:72108_11_21  # NCIS S11E21 - Alleged
+tvdb_episode:95441_5_21  # NCIS: Los Angeles S05E21 - Three Hearts
+tvdb_episode:72108_11_22  # NCIS S11E22 - Shooter
+tvdb_episode:95441_5_22  # NCIS: Los Angeles S05E22 - One More Chance
+tvdb_episode:72108_11_23  # NCIS S11E23 - The Admiral's Daughter
+tvdb_episode:95441_5_23  # NCIS: Los Angeles S05E23 - Exposure
+tvdb_episode:72108_11_24  # NCIS S11E24 - Honor Thy Father
+tvdb_episode:95441_5_24  # NCIS: Los Angeles S05E24 - Deep Trouble
+tvdb_episode:72108_12_1  # NCIS S12E01 - Twenty Klicks
+tvdb_episode:278125_1_1  # NCIS: New Orleans S01E01 - Musician Heal Thyself
+tvdb_episode:95441_6_1  # NCIS: Los Angeles S06E01 - Deep Trouble, Pt. II
+tvdb_episode:72108_12_2  # NCIS S12E02 - Kill the Messenger
+tvdb_episode:278125_1_2  # NCIS: New Orleans S01E02 - Carrier
+tvdb_episode:95441_6_2  # NCIS: Los Angeles S06E02 - Inelegant Heart
+tvdb_episode:72108_12_3  # NCIS S12E03 - So It Goes
+tvdb_episode:278125_1_3  # NCIS: New Orleans S01E03 - Breaking Brig
+tvdb_episode:95441_6_3  # NCIS: Los Angeles S06E03 - Praesidium
+tvdb_episode:72108_12_4  # NCIS S12E04 - Choke Hold
+tvdb_episode:278125_1_4  # NCIS: New Orleans S01E04 - The Recruits
+tvdb_episode:95441_6_4  # NCIS: Los Angeles S06E04 - The 3rd Choir
+tvdb_episode:72108_12_5  # NCIS S12E05 - The San Dominick
+tvdb_episode:278125_1_5  # NCIS: New Orleans S01E05 - It Happened Last Night
+tvdb_episode:95441_6_5  # NCIS: Los Angeles S06E05 - Black Budget
+tvdb_episode:72108_12_6  # NCIS S12E06 - Parental Guidance Suggested
+tvdb_episode:278125_1_6  # NCIS: New Orleans S01E06 - Master of Horror
+tvdb_episode:95441_6_6  # NCIS: Los Angeles S06E06 - SEAL Hunter
+tvdb_episode:95441_6_7  # NCIS: Los Angeles S06E07 - Leipei
+tvdb_episode:72108_12_7  # NCIS S12E07 - The Searchers
+tvdb_episode:278125_1_7  # NCIS: New Orleans S01E07 - Watch Over Me
+tvdb_episode:95441_6_8  # NCIS: Los Angeles S06E08 - The Grey Man
+tvdb_episode:72108_12_8  # NCIS S12E08 - Semper Fortis
+tvdb_episode:278125_1_8  # NCIS: New Orleans S01E08 - Love Hurts
+tvdb_episode:95441_6_9  # NCIS: Los Angeles S06E09 - Traitor
+tvdb_episode:72108_12_9  # NCIS S12E09 - Grounded
+tvdb_episode:278125_1_9  # NCIS: New Orleans S01E09 - Chasing Ghosts
+tvdb_episode:95441_6_10  # NCIS: Los Angeles S06E10 - Reign Fall
+tvdb_episode:95441_6_11  # NCIS: Los Angeles S06E11 - Humbug
+tvdb_episode:72108_12_10  # NCIS S12E10 - House Rules
+tvdb_episode:278125_1_10  # NCIS: New Orleans S01E10 - Stolen Valor
+tvdb_episode:95441_6_12  # NCIS: Los Angeles S06E12 - Spiral
+tvdb_episode:72108_12_11  # NCIS S12E11 - Check
+tvdb_episode:278125_1_11  # NCIS: New Orleans S01E11 - Baitfish
+tvdb_episode:72108_12_12  # NCIS S12E12 - The Enemy Within
+tvdb_episode:278125_1_12  # NCIS: New Orleans S01E12 - The Abyss
+tvdb_episode:95441_6_13  # NCIS: Los Angeles S06E13 - In the Line of Duty
+tvdb_episode:95441_6_14  # NCIS: Los Angeles S06E14 - Black Wind
+tvdb_episode:72108_12_13  # NCIS S12E13 - We Build, We Fight
+tvdb_episode:278125_1_13  # NCIS: New Orleans S01E13 - The Walking Dead
+tvdb_episode:95441_6_15  # NCIS: Los Angeles S06E15 - Forest for the Trees
+tvdb_episode:72108_12_14  # NCIS S12E14 - Cadence
+tvdb_episode:278125_1_14  # NCIS: New Orleans S01E14 - Careful What You Wish For
+tvdb_episode:72108_12_15  # NCIS S12E15 - Cabin Fever
+tvdb_episode:278125_1_15  # NCIS: New Orleans S01E15 - Le Carnival de la Mort
+tvdb_episode:95441_6_16  # NCIS: Los Angeles S06E16 - Expiration Date
+tvdb_episode:72108_12_16  # NCIS S12E16 - Blast from the Past
+tvdb_episode:278125_1_16  # NCIS: New Orleans S01E16 - My Brother's Keeper
+tvdb_episode:95441_6_17  # NCIS: Los Angeles S06E17 - Savoir Faire
+tvdb_episode:72108_12_17  # NCIS S12E17 - The Artful Dodger
+tvdb_episode:278125_1_17  # NCIS: New Orleans S01E17 - More Now
+tvdb_episode:95441_6_18  # NCIS: Los Angeles S06E18 - Fighting Shadows
+tvdb_episode:72108_12_18  # NCIS S12E18 - Status Update
+tvdb_episode:278125_1_18  # NCIS: New Orleans S01E18 - The List
+tvdb_episode:95441_6_19  # NCIS: Los Angeles S06E19 - Blaze of Glory
+tvdb_episode:72108_12_19  # NCIS S12E19 - Patience
+tvdb_episode:72108_12_20  # NCIS S12E20 - No Good Deed
+tvdb_episode:278125_1_19  # NCIS: New Orleans S01E19 - The Insider
+tvdb_episode:95441_6_20  # NCIS: Los Angeles S06E20 - Rage
+tvdb_episode:72108_12_21  # NCIS S12E21 - Lost in Translation
+tvdb_episode:278125_1_20  # NCIS: New Orleans S01E20 - Rock-a-Bye-Baby
+tvdb_episode:95441_6_21  # NCIS: Los Angeles S06E21 - Beacon
+tvdb_episode:95441_6_22  # NCIS: Los Angeles S06E22 - Field of Fire
+tvdb_episode:72108_12_22  # NCIS S12E22 - Troll
+tvdb_episode:278125_1_21  # NCIS: New Orleans S01E21 - You'll Do
+tvdb_episode:72108_12_23  # NCIS S12E23 - The Lost Boys
+tvdb_episode:278125_1_22  # NCIS: New Orleans S01E22 - How Much Pain Can You Take
+tvdb_episode:95441_6_23  # NCIS: Los Angeles S06E23 - Kolcheck, A.
+tvdb_episode:72108_12_24  # NCIS S12E24 - Neverland
+tvdb_episode:278125_1_23  # NCIS: New Orleans S01E23 - My City
+tvdb_episode:95441_6_24  # NCIS: Los Angeles S06E24 - Chernoff, K.
+tvdb_episode:95441_7_1  # NCIS: Los Angeles S07E01 - Active Measures
+tvdb_episode:72108_13_1  # NCIS S13E01 - Stop the Bleeding
+tvdb_episode:278125_2_1  # NCIS: New Orleans S02E01 - Sic Semper Tyranis
+tvdb_episode:95441_7_2  # NCIS: Los Angeles S07E02 - Citadel
+tvdb_episode:72108_13_2  # NCIS S13E02 - Personal Day
+tvdb_episode:278125_2_2  # NCIS: New Orleans S02E02 - Shadow Unit
+tvdb_episode:95441_7_3  # NCIS: Los Angeles S07E03 - Driving Miss Diaz
+tvdb_episode:72108_13_3  # NCIS S13E03 - Incognito
+tvdb_episode:278125_2_3  # NCIS: New Orleans S02E03 - Touched by the Sun
+tvdb_episode:95441_7_4  # NCIS: Los Angeles S07E04 - Command & Control
+tvdb_episode:72108_13_4  # NCIS S13E04 - Double Trouble
+tvdb_episode:278125_2_4  # NCIS: New Orleans S02E04 - I Do
+tvdb_episode:95441_7_5  # NCIS: Los Angeles S07E05 - Blame It on Rio
+tvdb_episode:72108_13_5  # NCIS S13E05 - Lockdown
+tvdb_episode:278125_2_5  # NCIS: New Orleans S02E05 - Foreign Affairs
+tvdb_episode:72108_13_6  # NCIS S13E06 - Viral
+tvdb_episode:278125_2_6  # NCIS: New Orleans S02E06 - Insane in the Membrane
+tvdb_episode:95441_7_6  # NCIS: Los Angeles S07E06 - Unspoken
+tvdb_episode:72108_13_7  # NCIS S13E07 - 16 Years
+tvdb_episode:278125_2_7  # NCIS: New Orleans S02E07 - Broken Hearted
+tvdb_episode:95441_7_7  # NCIS: Los Angeles S07E07 - An Unlocked Mind
+tvdb_episode:72108_13_8  # NCIS S13E08 - Saviors
+tvdb_episode:278125_2_8  # NCIS: New Orleans S02E08 - Confluence
+tvdb_episode:95441_7_8  # NCIS: Los Angeles S07E08 - The Long Goodbye
+tvdb_episode:72108_13_9  # NCIS S13E09 - Day in Court
+tvdb_episode:278125_2_9  # NCIS: New Orleans S02E09 - Darkest Hour
+tvdb_episode:95441_7_9  # NCIS: Los Angeles S07E09 - Defectors
+tvdb_episode:72108_13_10  # NCIS S13E10 - Blood Brothers
+tvdb_episode:278125_2_10  # NCIS: New Orleans S02E10 - Billy and the Kid
+tvdb_episode:95441_7_10  # NCIS: Los Angeles S07E10 - Internal Affairs
+tvdb_episode:95441_7_11  # NCIS: Los Angeles S07E11 - Cancel Christmas
+tvdb_episode:72108_13_11  # NCIS S13E11 - Spinning Wheel
+tvdb_episode:278125_2_11  # NCIS: New Orleans S02E11 - Blue Christmas
+tvdb_episode:95441_7_12  # NCIS: Los Angeles S07E12 - Core Values
+tvdb_episode:72108_13_12  # NCIS S13E12 - Sister City (Part I)
+tvdb_episode:278125_2_12  # NCIS: New Orleans S02E12 - Sister City, Part II
+tvdb_episode:95441_7_13  # NCIS: Los Angeles S07E13 - Angels & Daemons
+tvdb_episode:72108_13_13  # NCIS S13E13 - DÃ©jÃ  Vu
+tvdb_episode:278125_2_13  # NCIS: New Orleans S02E13 - Undocumented
+tvdb_episode:95441_7_14  # NCIS: Los Angeles S07E14 - Come Back
+tvdb_episode:95441_7_15  # NCIS: Los Angeles S07E15 - Matryoshka
+tvdb_episode:72108_13_14  # NCIS S13E14 - Decompressed
+tvdb_episode:278125_2_14  # NCIS: New Orleans S02E14 - Father's Day
+tvdb_episode:72108_13_15  # NCIS S13E15 - React
+tvdb_episode:278125_2_15  # NCIS: New Orleans S02E15 - No Man's Land
+tvdb_episode:95441_7_16  # NCIS: Los Angeles S07E16 - Matryoshka, Part 2
+tvdb_episode:72108_13_16  # NCIS S13E16 - Loose Cannons
+tvdb_episode:278125_2_16  # NCIS: New Orleans S02E16 - Second Chances
+tvdb_episode:95441_7_17  # NCIS: Los Angeles S07E17 - Revenge Deferred
+tvdb_episode:72108_13_17  # NCIS S13E17 - After Hours
+tvdb_episode:278125_2_17  # NCIS: New Orleans S02E17 - Radio Silence
+tvdb_episode:95441_7_18  # NCIS: Los Angeles S07E18 - Exchange Rate
+tvdb_episode:72108_13_18  # NCIS S13E18 - Scope
+tvdb_episode:278125_2_18  # NCIS: New Orleans S02E18 - If It Bleeds, It Leads
+tvdb_episode:95441_7_19  # NCIS: Los Angeles S07E19 - The Seventh Child
+tvdb_episode:72108_13_19  # NCIS S13E19 - Reasonable Doubts
+tvdb_episode:278125_2_19  # NCIS: New Orleans S02E19 - Means to an End
+tvdb_episode:95441_7_20  # NCIS: Los Angeles S07E20 - Seoul Man
+tvdb_episode:72108_13_20  # NCIS S13E20 - Charade
+tvdb_episode:278125_2_20  # NCIS: New Orleans S02E20 - Second Line
+tvdb_episode:95441_7_21  # NCIS: Los Angeles S07E21 - Head of the Snake
+tvdb_episode:95441_7_22  # NCIS: Los Angeles S07E22 - Granger, O.
+tvdb_episode:72108_13_21  # NCIS S13E21 - Return to Sender
+tvdb_episode:278125_2_21  # NCIS: New Orleans S02E21 - Collateral Damage
+tvdb_episode:95441_7_23  # NCIS: Los Angeles S07E23 - Where There's Smoke
+tvdb_episode:95441_7_24  # NCIS: Los Angeles S07E24 - Talion
+tvdb_episode:72108_13_22  # NCIS S13E22 - Homefront
+tvdb_episode:278125_2_22  # NCIS: New Orleans S02E22 - Help Wanted
+tvdb_episode:72108_13_23  # NCIS S13E23 - Dead Letter
+tvdb_episode:278125_2_23  # NCIS: New Orleans S02E23 - The Third Man
+tvdb_episode:72108_13_24  # NCIS S13E24 - Family First
+tvdb_episode:278125_2_24  # NCIS: New Orleans S02E24 - Sleeping with the Enemy
+tvdb_episode:72108_14_1  # NCIS S14E01 - Rogue
+tvdb_episode:278125_3_1  # NCIS: New Orleans S03E01 - Aftershocks
+tvdb_episode:95441_8_1  # NCIS: Los Angeles S08E01 - High-Value Target
+tvdb_episode:95441_8_2  # NCIS: Los Angeles S08E02 - Belly of the Beast
+tvdb_episode:72108_14_2  # NCIS S14E02 - Being Bad
+tvdb_episode:278125_3_2  # NCIS: New Orleans S03E02 - Suspicious Minds
+tvdb_episode:95441_8_3  # NCIS: Los Angeles S08E03 - The Queen's Gambit
+tvdb_episode:72108_14_3  # NCIS S14E03 - Privileged Information
+tvdb_episode:72108_14_4  # NCIS S14E04 - Love Boat
+tvdb_episode:278125_3_3  # NCIS: New Orleans S03E03 - Man on Fire
+tvdb_episode:95441_8_4  # NCIS: Los Angeles S08E04 - Black Market
+tvdb_episode:72108_14_5  # NCIS S14E05 - Philly
+tvdb_episode:278125_3_4  # NCIS: New Orleans S03E04 - Escape Plan
+tvdb_episode:95441_8_5  # NCIS: Los Angeles S08E05 - Ghost Gun
+tvdb_episode:72108_14_6  # NCIS S14E06 - Shell Game
+tvdb_episode:278125_3_5  # NCIS: New Orleans S03E05 - Course Correction
+tvdb_episode:95441_8_6  # NCIS: Los Angeles S08E06 - Home Is Where the Heart Is
+tvdb_episode:95441_8_7  # NCIS: Los Angeles S08E07 - Crazy Train
+tvdb_episode:95441_8_8  # NCIS: Los Angeles S08E08 - Parallel Resistors
+tvdb_episode:72108_14_7  # NCIS S14E07 - Home of the Brave
+tvdb_episode:278125_3_6  # NCIS: New Orleans S03E06 - One Good Man
+tvdb_episode:95441_8_9  # NCIS: Los Angeles S08E09 - Glasnost
+tvdb_episode:72108_14_8  # NCIS S14E08 - Enemy Combatant
+tvdb_episode:278125_3_7  # NCIS: New Orleans S03E07 - Outlaws
+tvdb_episode:95441_8_10  # NCIS: Los Angeles S08E10 - Sirens
+tvdb_episode:72108_14_9  # NCIS S14E09 - Pay to Play
+tvdb_episode:278125_3_8  # NCIS: New Orleans S03E08 - Music to My Ears
+tvdb_episode:72108_14_10  # NCIS S14E10 - The Tie That Binds
+tvdb_episode:278125_3_9  # NCIS: New Orleans S03E09 - Overdrive
+tvdb_episode:95441_8_11  # NCIS: Los Angeles S08E11 - Tidings We Bring
+tvdb_episode:72108_14_11  # NCIS S14E11 - Willoughby
+tvdb_episode:278125_3_10  # NCIS: New Orleans S03E10 - Follow the Money
+tvdb_episode:95441_8_12  # NCIS: Los Angeles S08E12 - Kulinda
+tvdb_episode:95441_8_13  # NCIS: Los Angeles S08E13 - Hot Water
+tvdb_episode:72108_14_12  # NCIS S14E12 - Off the Grid
+tvdb_episode:278125_3_11  # NCIS: New Orleans S03E11 - Let It Ride
+tvdb_episode:72108_14_13  # NCIS S14E13 - Keep Going
+tvdb_episode:278125_3_12  # NCIS: New Orleans S03E12 - Hell on the High Water
+tvdb_episode:95441_8_14  # NCIS: Los Angeles S08E14 - Under Siege
+tvdb_episode:72108_14_14  # NCIS S14E14 - Nonstop
+tvdb_episode:278125_3_13  # NCIS: New Orleans S03E13 - Return of the King
+tvdb_episode:72108_14_15  # NCIS S14E15 - Pandora's Box (Part I)
+tvdb_episode:278125_3_14  # NCIS: New Orleans S03E14 - Pandora's Box, Part II
+tvdb_episode:95441_8_15  # NCIS: Los Angeles S08E15 - Payback
+tvdb_episode:72108_14_16  # NCIS S14E16 - A Many Splendored Thing
+tvdb_episode:278125_3_15  # NCIS: New Orleans S03E15 - End of the Line
+tvdb_episode:95441_8_16  # NCIS: Los Angeles S08E16 - Old Tricks
+tvdb_episode:72108_14_17  # NCIS S14E17 - What Lies Above
+tvdb_episode:278125_3_16  # NCIS: New Orleans S03E16 - The Last Stand
+tvdb_episode:95441_8_17  # NCIS: Los Angeles S08E17 - Queen Pin
+tvdb_episode:72108_14_18  # NCIS S14E18 - M.I.A.
+tvdb_episode:278125_3_17  # NCIS: New Orleans S03E17 - Swift, Silent, Deadly
+tvdb_episode:278125_3_18  # NCIS: New Orleans S03E18 - Slay the Dragon
+tvdb_episode:95441_8_18  # NCIS: Los Angeles S08E18 - Getaway
+tvdb_episode:95441_8_19  # NCIS: Los Angeles S08E19 - 767
+tvdb_episode:72108_14_19  # NCIS S14E19 - The Wall
+tvdb_episode:278125_3_19  # NCIS: New Orleans S03E19 - Quid Pro Quo
+tvdb_episode:72108_14_20  # NCIS S14E20 - A Bowl of Cherries
+tvdb_episode:278125_3_20  # NCIS: New Orleans S03E20 - NOLA Confidential
+tvdb_episode:95441_8_20  # NCIS: Los Angeles S08E20 - From Havana with Love
+tvdb_episode:72108_14_21  # NCIS S14E21 - One Book, Two Covers
+tvdb_episode:278125_3_21  # NCIS: New Orleans S03E21 - Krewe
+tvdb_episode:95441_8_21  # NCIS: Los Angeles S08E21 - Battle Scars
+tvdb_episode:95441_8_22  # NCIS: Los Angeles S08E22 - Golden Days
+tvdb_episode:72108_14_22  # NCIS S14E22 - Beastmaster
+tvdb_episode:278125_3_22  # NCIS: New Orleans S03E22 - Knockout
+tvdb_episode:95441_8_23  # NCIS: Los Angeles S08E23 - Uncaged
+tvdb_episode:72108_14_23  # NCIS S14E23 - Something Blue
+tvdb_episode:278125_3_23  # NCIS: New Orleans S03E23 - Down the Rabbit Hole
+tvdb_episode:95441_8_24  # NCIS: Los Angeles S08E24 - Unleashed
+tvdb_episode:72108_14_24  # NCIS S14E24 - Rendezvous
+tvdb_episode:278125_3_24  # NCIS: New Orleans S03E24 - Poetic Justice
+tvdb_episode:72108_15_1  # NCIS S15E01 - House Divided
+tvdb_episode:278125_4_1  # NCIS: New Orleans S04E01 - Rogue Nation
+tvdb_episode:95441_9_1  # NCIS: Los Angeles S09E01 - Party Crashers
+tvdb_episode:72108_15_2  # NCIS S15E02 - Twofer
+tvdb_episode:278125_4_2  # NCIS: New Orleans S04E02 - #1 Fan
+tvdb_episode:95441_9_2  # NCIS: Los Angeles S09E02 - Se Murio El Payaso
+tvdb_episode:72108_15_3  # NCIS S15E03 - Exit Strategy
+tvdb_episode:278125_4_3  # NCIS: New Orleans S04E03 - The Asset
+tvdb_episode:95441_9_3  # NCIS: Los Angeles S09E03 - Assets
+tvdb_episode:72108_15_4  # NCIS S15E04 - Skeleton Crew
+tvdb_episode:278125_4_4  # NCIS: New Orleans S04E04 - Dead Man Calling
+tvdb_episode:95441_9_4  # NCIS: Los Angeles S09E04 - Plain Sight
+tvdb_episode:72108_15_5  # NCIS S15E05 - Fake It 'Til You Make It
+tvdb_episode:278125_4_5  # NCIS: New Orleans S04E05 - Viral
+tvdb_episode:95441_9_5  # NCIS: Los Angeles S09E05 - Mountebank
+tvdb_episode:72108_15_6  # NCIS S15E06 - Trapped
+tvdb_episode:278125_4_6  # NCIS: New Orleans S04E06 - Acceptable Loss
+tvdb_episode:95441_9_6  # NCIS: Los Angeles S09E06 - Can I Get a Witness?
+tvdb_episode:72108_15_7  # NCIS S15E07 - Burden of Proof
+tvdb_episode:278125_4_7  # NCIS: New Orleans S04E07 - The Accident
+tvdb_episode:95441_9_7  # NCIS: Los Angeles S09E07 - The Silo
+tvdb_episode:72108_15_8  # NCIS S15E08 - Voices
+tvdb_episode:278125_4_8  # NCIS: New Orleans S04E08 - Sins of the Father
+tvdb_episode:95441_9_8  # NCIS: Los Angeles S09E08 - This Is What We Do
+tvdb_episode:72108_15_9  # NCIS S15E09 - Ready or Not
+tvdb_episode:278125_4_9  # NCIS: New Orleans S04E09 - Hard Knock Life
+tvdb_episode:95441_9_9  # NCIS: Los Angeles S09E09 - Fool Me Twice
+tvdb_episode:95441_9_10  # NCIS: Los Angeles S09E10 - Forasteira
+tvdb_episode:72108_15_10  # NCIS S15E10 - Double Down
+tvdb_episode:278125_4_10  # NCIS: New Orleans S04E10 - Mirror, Mirror
+tvdb_episode:95441_9_11  # NCIS: Los Angeles S09E11 - All Is Bright
+tvdb_episode:72108_15_11  # NCIS S15E11 - High Tide
+tvdb_episode:278125_4_11  # NCIS: New Orleans S04E11 - Monster
+tvdb_episode:95441_9_12  # NCIS: Los Angeles S09E12 - Under Pressure
+tvdb_episode:72108_15_12  # NCIS S15E12 - Dark Secrets
+tvdb_episode:278125_4_12  # NCIS: New Orleans S04E12 - Identity Crisis
+tvdb_episode:95441_9_13  # NCIS: Los Angeles S09E13 - CÃ¡c TÃ¹ NhÃ¢n
+tvdb_episode:72108_15_13  # NCIS S15E13 - Family Ties
+tvdb_episode:278125_4_13  # NCIS: New Orleans S04E13 - Ties That Bind
+tvdb_episode:72108_15_14  # NCIS S15E14 - Keep Your Friends Close
+tvdb_episode:278125_4_14  # NCIS: New Orleans S04E14 - A New Dawn
+tvdb_episode:72108_15_15  # NCIS S15E15 - Keep Your Enemies Closer
+tvdb_episode:278125_4_15  # NCIS: New Orleans S04E15 - The Last Mile
+tvdb_episode:72108_15_16  # NCIS S15E16 - Handle with Care
+tvdb_episode:278125_4_16  # NCIS: New Orleans S04E16 - Empathy
+tvdb_episode:95441_9_14  # NCIS: Los Angeles S09E14 - Goodbye, Vietnam
+tvdb_episode:72108_15_17  # NCIS S15E17 - One Man's Trash
+tvdb_episode:278125_4_17  # NCIS: New Orleans S04E17 - Treasure Hunt
+tvdb_episode:95441_9_15  # NCIS: Los Angeles S09E15 - Liabilities
+tvdb_episode:95441_9_16  # NCIS: Los Angeles S09E16 - Warrior of Peace
+tvdb_episode:72108_15_18  # NCIS S15E18 - Death from Above
+tvdb_episode:278125_4_18  # NCIS: New Orleans S04E18 - Welcome to the Jungle
+tvdb_episode:95441_9_17  # NCIS: Los Angeles S09E17 - The Monster
+tvdb_episode:72108_15_19  # NCIS S15E19 - The Numerical Limit
+tvdb_episode:278125_4_19  # NCIS: New Orleans S04E19 - High Stakes
+tvdb_episode:95441_9_18  # NCIS: Los Angeles S09E18 - Vendetta
+tvdb_episode:72108_15_20  # NCIS S15E20 - Sight Unseen
+tvdb_episode:278125_4_20  # NCIS: New Orleans S04E20 - Powder Keg
+tvdb_episode:95441_9_19  # NCIS: Los Angeles S09E19 - Outside the Lines
+tvdb_episode:95441_9_20  # NCIS: Los Angeles S09E20 - Reentry
+tvdb_episode:72108_15_21  # NCIS S15E21 - One Step Forward
+tvdb_episode:278125_4_21  # NCIS: New Orleans S04E21 - Mind Games
+tvdb_episode:95441_9_21  # NCIS: Los Angeles S09E21 - Where Everybody Knows Your Name
+tvdb_episode:72108_15_22  # NCIS S15E22 - Two Steps Back
+tvdb_episode:278125_4_22  # NCIS: New Orleans S04E22 - The Assassination of Dwayne Pride
+tvdb_episode:95441_9_22  # NCIS: Los Angeles S09E22 - Venganza
+tvdb_episode:72108_15_23  # NCIS S15E23 - Fallout
+tvdb_episode:278125_4_23  # NCIS: New Orleans S04E23 - Checkmate, Part I
+tvdb_episode:278125_4_24  # NCIS: New Orleans S04E24 - Checkmate, Part II
+tvdb_episode:95441_9_23  # NCIS: Los Angeles S09E23 - A Line in the Sand
+tvdb_episode:95441_9_24  # NCIS: Los Angeles S09E24 - Ninguna Salida
+tvdb_episode:72108_15_24  # NCIS S15E24 - Date with Destiny
+tvdb_episode:72108_16_1  # NCIS S16E01 - Destiny's Child
+tvdb_episode:278125_5_1  # NCIS: New Orleans S05E01 - See You Soon
+tvdb_episode:95441_10_1  # NCIS: Los Angeles S10E01 - To Live and Die in Mexico
+tvdb_episode:72108_16_2  # NCIS S16E02 - Love Thy Neighbor
+tvdb_episode:278125_5_2  # NCIS: New Orleans S05E02 - Inside Out
+tvdb_episode:95441_10_2  # NCIS: Los Angeles S10E02 - Superhuman
+tvdb_episode:72108_16_3  # NCIS S16E03 - Boom
+tvdb_episode:278125_5_3  # NCIS: New Orleans S05E03 - Diplomatic Immunity
+tvdb_episode:95441_10_3  # NCIS: Los Angeles S10E03 - The Prince
+tvdb_episode:72108_16_4  # NCIS S16E04 - Third Wheel
+tvdb_episode:278125_5_4  # NCIS: New Orleans S05E04 - Legacy
+tvdb_episode:95441_10_4  # NCIS: Los Angeles S10E04 - Hit List
+tvdb_episode:72108_16_5  # NCIS S16E05 - Fragments
+tvdb_episode:278125_5_5  # NCIS: New Orleans S05E05 - In the Blood
+tvdb_episode:95441_10_5  # NCIS: Los Angeles S10E05 - Pro Se
+tvdb_episode:72108_16_6  # NCIS S16E06 - Beneath the Surface
+tvdb_episode:278125_5_6  # NCIS: New Orleans S05E06 - Pound of Flesh
+tvdb_episode:95441_10_6  # NCIS: Los Angeles S10E06 - Asesinos
+tvdb_episode:95441_10_7  # NCIS: Los Angeles S10E07 - One of Us
+tvdb_episode:72108_16_7  # NCIS S16E07 - A Thousand Words
+tvdb_episode:278125_5_7  # NCIS: New Orleans S05E07 - Sheepdogs
+tvdb_episode:95441_10_8  # NCIS: Los Angeles S10E08 - The Patton Project
+tvdb_episode:72108_16_8  # NCIS S16E08 - Friendly Fire
+tvdb_episode:278125_5_8  # NCIS: New Orleans S05E08 - Close to Home
+tvdb_episode:95441_10_9  # NCIS: Los Angeles S10E09 - A Diamond in the Rough
+tvdb_episode:72108_16_9  # NCIS S16E09 - Tailing Angie
+tvdb_episode:278125_5_9  # NCIS: New Orleans S05E09 - Risk Assessment
+tvdb_episode:95441_10_10  # NCIS: Los Angeles S10E10 - Heist
+tvdb_episode:72108_16_10  # NCIS S16E10 - What Child Is This?
+tvdb_episode:278125_5_10  # NCIS: New Orleans S05E10 - Tick Tock
+tvdb_episode:95441_10_11  # NCIS: Los Angeles S10E11 - Joyride
+tvdb_episode:95441_10_12  # NCIS: Los Angeles S10E12 - The Sound of Silence
+tvdb_episode:72108_16_11  # NCIS S16E11 - Toil and Trouble
+tvdb_episode:95441_10_13  # NCIS: Los Angeles S10E13 - Better Angels
+tvdb_episode:72108_16_12  # NCIS S16E12 - The Last Link
+tvdb_episode:278125_5_11  # NCIS: New Orleans S05E11 - Vindicta
+tvdb_episode:278125_5_12  # NCIS: New Orleans S05E12 - Desperate Navy Wives
+tvdb_episode:95441_10_14  # NCIS: Los Angeles S10E14 - Smokescreen
+tvdb_episode:72108_16_13  # NCIS S16E13 - She
+tvdb_episode:278125_5_13  # NCIS: New Orleans S05E13 - X
+tvdb_episode:95441_10_15  # NCIS: Los Angeles S10E15 - Smokescreen, Part II
+tvdb_episode:72108_16_14  # NCIS S16E14 - Once Upon a Tim
+tvdb_episode:278125_5_14  # NCIS: New Orleans S05E14 - Conspiracy Theories
+tvdb_episode:72108_16_15  # NCIS S16E15 - Crossing the Line
+tvdb_episode:278125_5_15  # NCIS: New Orleans S05E15 - Crab Mentality
+tvdb_episode:95441_10_16  # NCIS: Los Angeles S10E16 - Into the Breach
+tvdb_episode:72108_16_16  # NCIS S16E16 - Bears and Cubs
+tvdb_episode:278125_5_16  # NCIS: New Orleans S05E16 - Survivor
+tvdb_episode:95441_10_17  # NCIS: Los Angeles S10E17 - Till Death Do Us Part
+tvdb_episode:95441_10_18  # NCIS: Los Angeles S10E18 - Born to Run
+tvdb_episode:72108_16_17  # NCIS S16E17 - Silent Service
+tvdb_episode:278125_5_17  # NCIS: New Orleans S05E17 - Reckoning
+tvdb_episode:95441_10_19  # NCIS: Los Angeles S10E19 - Searching
+tvdb_episode:72108_16_18  # NCIS S16E18 - Mona Lisa
+tvdb_episode:278125_5_18  # NCIS: New Orleans S05E18 - In Plain Sight
+tvdb_episode:72108_16_19  # NCIS S16E19 - Perennial
+tvdb_episode:278125_5_19  # NCIS: New Orleans S05E19 - A House Divided
+tvdb_episode:95441_10_20  # NCIS: Los Angeles S10E20 - Choke Point
+tvdb_episode:72108_16_20  # NCIS S16E20 - Hail & Farewell
+tvdb_episode:278125_5_20  # NCIS: New Orleans S05E20 - Jackpot
+tvdb_episode:278125_5_21  # NCIS: New Orleans S05E21 - Trust Me
+tvdb_episode:95441_10_21  # NCIS: Los Angeles S10E21 - The One That Got Away
+tvdb_episode:72108_16_21  # NCIS S16E21 - Judge, Juryâ€¦
+tvdb_episode:278125_5_22  # NCIS: New Orleans S05E22 - Chaos Theory
+tvdb_episode:95441_10_22  # NCIS: Los Angeles S10E22 - No More Secrets
+tvdb_episode:72108_16_22  # NCIS S16E22 - ...and Executioner
+tvdb_episode:278125_5_23  # NCIS: New Orleans S05E23 - The River Styx, Part I
+tvdb_episode:95441_10_23  # NCIS: Los Angeles S10E23 - The Guardian
+tvdb_episode:72108_16_23  # NCIS S16E23 - Lost Time
+tvdb_episode:278125_5_24  # NCIS: New Orleans S05E24 - The River Styx, Part II
+tvdb_episode:95441_10_24  # NCIS: Los Angeles S10E24 - False Flag
+tvdb_episode:72108_16_24  # NCIS S16E24 - Daughters
+tvdb_episode:72108_17_1  # NCIS S17E01 - Out of the Darkness
+tvdb_episode:278125_6_1  # NCIS: New Orleans S06E01 - Judgement Call
+tvdb_episode:95441_11_1  # NCIS: Los Angeles S11E01 - Let Fate Decide
+tvdb_episode:72108_17_2  # NCIS S17E02 - Into the Light
+tvdb_episode:278125_6_2  # NCIS: New Orleans S06E02 - The Terminator Conundrum
+tvdb_episode:95441_11_2  # NCIS: Los Angeles S11E02 - Decoy
+tvdb_episode:72108_17_3  # NCIS S17E03 - Going Mobile
+tvdb_episode:278125_6_3  # NCIS: New Orleans S06E03 - Bad Apple
+tvdb_episode:95441_11_3  # NCIS: Los Angeles S11E03 - Hail Mary
+tvdb_episode:72108_17_4  # NCIS S17E04 - Someone Else's Shoes
+tvdb_episode:278125_6_4  # NCIS: New Orleans S06E04 - Overlooked
+tvdb_episode:95441_11_4  # NCIS: Los Angeles S11E04 - Yellow Jack
+tvdb_episode:72108_17_5  # NCIS S17E05 - Wide Awake
+tvdb_episode:278125_6_5  # NCIS: New Orleans S06E05 - Spies and Lies
+tvdb_episode:95441_11_5  # NCIS: Los Angeles S11E05 - Provenance
+tvdb_episode:95441_11_6  # NCIS: Los Angeles S11E06 - A Bloody Brilliant Plan
+tvdb_episode:72108_17_6  # NCIS S17E06 - Institutionalized
+tvdb_episode:278125_6_6  # NCIS: New Orleans S06E06 - Matthew 5:9
+tvdb_episode:95441_11_7  # NCIS: Los Angeles S11E07 - Concours D'Elegance
+tvdb_episode:72108_17_7  # NCIS S17E07 - No Vacancy
+tvdb_episode:278125_6_7  # NCIS: New Orleans S06E07 - Boom-Boom-Boom-Boom
+tvdb_episode:95441_11_8  # NCIS: Los Angeles S11E08 - Human Resources
+tvdb_episode:72108_17_8  # NCIS S17E08 - Musical Chairs
+tvdb_episode:278125_6_8  # NCIS: New Orleans S06E08 - The Order of the Mongoose
+tvdb_episode:95441_11_9  # NCIS: Los Angeles S11E09 - Kill Beale: Vol. 1
+tvdb_episode:72108_17_9  # NCIS S17E09 - IRL
+tvdb_episode:278125_6_9  # NCIS: New Orleans S06E09 - Convicted
+tvdb_episode:95441_11_10  # NCIS: Los Angeles S11E10 - Mother
+tvdb_episode:95441_11_11  # NCIS: Los Angeles S11E11 - Answers
+tvdb_episode:72108_17_10  # NCIS S17E10 - The North Pole
+tvdb_episode:278125_6_10  # NCIS: New Orleans S06E10 - Requital
+tvdb_episode:95441_11_12  # NCIS: Los Angeles S11E12 - Groundwork
+tvdb_episode:72108_17_11  # NCIS S17E11 - In the Wind
+tvdb_episode:95441_11_13  # NCIS: Los Angeles S11E13 - High Society
+tvdb_episode:72108_17_12  # NCIS S17E12 - Flight Plan
+tvdb_episode:72108_17_13  # NCIS S17E13 - Sound Off
+tvdb_episode:72108_17_14  # NCIS S17E14 - On Fire
+tvdb_episode:72108_17_15  # NCIS S17E15 - Lonely Hearts
+tvdb_episode:95441_11_14  # NCIS: Los Angeles S11E14 - Commitment Issues
+tvdb_episode:278125_6_11  # NCIS: New Orleans S06E11 - Bad Moon Rising
+tvdb_episode:72108_17_16  # NCIS S17E16 - Ephemera
+tvdb_episode:95441_11_15  # NCIS: Los Angeles S11E15 - The Circle
+tvdb_episode:278125_6_12  # NCIS: New Orleans S06E12 - Waiting for Monroe
+tvdb_episode:95441_11_16  # NCIS: Los Angeles S11E16 - Alsiyadun
+tvdb_episode:278125_6_13  # NCIS: New Orleans S06E13 - The Root of All Evil
+tvdb_episode:95441_11_17  # NCIS: Los Angeles S11E17 - Watch Over Me
+tvdb_episode:278125_6_14  # NCIS: New Orleans S06E14 - The Man in the Red Suit
+tvdb_episode:72108_17_17  # NCIS S17E17 - In a Nutshell
+tvdb_episode:278125_6_15  # NCIS: New Orleans S06E15 - Relentless
+tvdb_episode:278125_6_16  # NCIS: New Orleans S06E16 - Pride and Prejudice
+tvdb_episode:95441_11_18  # NCIS: Los Angeles S11E18 - Missing Time
+tvdb_episode:278125_6_17  # NCIS: New Orleans S06E17 - Biased
+tvdb_episode:72108_17_18  # NCIS S17E18 - Schooled
+tvdb_episode:95441_11_19  # NCIS: Los Angeles S11E19 - Fortune Favors the Brave
+tvdb_episode:278125_6_18  # NCIS: New Orleans S06E18 - A Changed Woman
+tvdb_episode:72108_17_19  # NCIS S17E19 - Blarney
+tvdb_episode:95441_11_20  # NCIS: Los Angeles S11E20 - Knock Down
+tvdb_episode:278125_6_19  # NCIS: New Orleans S06E19 - Monolith
+tvdb_episode:72108_17_20  # NCIS S17E20 - The Arizona
+tvdb_episode:95441_11_21  # NCIS: Los Angeles S11E21 - Murder of Crows
+tvdb_episode:278125_6_20  # NCIS: New Orleans S06E20 - Predators
+tvdb_episode:95441_11_22  # NCIS: Los Angeles S11E22 - Code of Conduct
+tvdb_episode:95441_12_1  # NCIS: Los Angeles S12E01 - The Bear
+tvdb_episode:278125_7_1  # NCIS: New Orleans S07E01 - Something in the Air, Part I
+tvdb_episode:95441_12_2  # NCIS: Los Angeles S12E02 - War Crimes
+tvdb_episode:278125_7_2  # NCIS: New Orleans S07E02 - Something in the Air, Part II
+tvdb_episode:72108_18_1  # NCIS S18E01 - Sturgeon Season
+tvdb_episode:95441_12_3  # NCIS: Los Angeles S12E03 - Angry Karen
+tvdb_episode:278125_7_3  # NCIS: New Orleans S07E03 - One of Our Own
+tvdb_episode:72108_18_2  # NCIS S18E02 - Everything Starts Somewhere
+tvdb_episode:95441_12_4  # NCIS: Los Angeles S12E04 - Cash Flow
+tvdb_episode:95441_12_5  # NCIS: Los Angeles S12E05 - Raising the Dead
+tvdb_episode:72108_18_3  # NCIS S18E03 - Blood and Treasure
+tvdb_episode:95441_12_6  # NCIS: Los Angeles S12E06 - If The Fates Allow
+tvdb_episode:278125_7_4  # NCIS: New Orleans S07E04 - We All Fallâ€¦
+tvdb_episode:95441_12_7  # NCIS: Los Angeles S12E07 - Overdue
+tvdb_episode:278125_7_5  # NCIS: New Orleans S07E05 - Operation Drano, Part I
+tvdb_episode:95441_12_8  # NCIS: Los Angeles S12E08 - Love Kills
+tvdb_episode:278125_7_6  # NCIS: New Orleans S07E06 - Operation Drano, Part II
+tvdb_episode:95441_12_9  # NCIS: Los Angeles S12E09 - A Fait Accompli
+tvdb_episode:278125_7_7  # NCIS: New Orleans S07E07 - Leda and the Swan, Part I
+tvdb_episode:72108_18_4  # NCIS S18E04 - Sunburn
+tvdb_episode:72108_18_5  # NCIS S18E05 - Head of the Snake
+tvdb_episode:72108_18_6  # NCIS S18E06 - 1mm
+tvdb_episode:72108_18_7  # NCIS S18E07 - The First Day
+tvdb_episode:95441_12_10  # NCIS: Los Angeles S12E10 - The Frogman's Daughter
+tvdb_episode:278125_7_8  # NCIS: New Orleans S07E08 - Leda and the Swan, Part II
+tvdb_episode:95441_12_11  # NCIS: Los Angeles S12E11 - Russia, Russia, Russia
+tvdb_episode:278125_7_9  # NCIS: New Orleans S07E09 - Into Thin Air
+tvdb_episode:95441_12_12  # NCIS: Los Angeles S12E12 - Can't Take My Eyes Off You
+tvdb_episode:278125_7_10  # NCIS: New Orleans S07E10 - Homeward Bound
+tvdb_episode:72108_18_8  # NCIS S18E08 - True Believer
+tvdb_episode:72108_18_9  # NCIS S18E09 - Winter Chill
+tvdb_episode:72108_18_10  # NCIS S18E10 - Watchdog
+tvdb_episode:95441_12_13  # NCIS: Los Angeles S12E13 - Red Rover, Red Rover
+tvdb_episode:278125_7_11  # NCIS: New Orleans S07E11 - Stashed
+tvdb_episode:95441_12_14  # NCIS: Los Angeles S12E14 - The Noble Maidens
+tvdb_episode:278125_7_12  # NCIS: New Orleans S07E12 - Once Upon a Time
+tvdb_episode:72108_18_11  # NCIS S18E11 - Gut Punch
+tvdb_episode:72108_18_12  # NCIS S18E12 - Sangre
+tvdb_episode:95441_12_15  # NCIS: Los Angeles S12E15 - Imposter Syndrome
+tvdb_episode:278125_7_13  # NCIS: New Orleans S07E13 - Choices
+tvdb_episode:72108_18_13  # NCIS S18E13 - Misconduct
+tvdb_episode:95441_12_16  # NCIS: Los Angeles S12E16 - Signs of Change
+tvdb_episode:278125_7_14  # NCIS: New Orleans S07E14 - Illusions
+tvdb_episode:72108_18_14  # NCIS S18E14 - Unseen Improvements
+tvdb_episode:95441_12_17  # NCIS: Los Angeles S12E17 - Through the Looking Glass
+tvdb_episode:278125_7_15  # NCIS: New Orleans S07E15 - Runs in the Family
+tvdb_episode:72108_18_15  # NCIS S18E15 - Blown Away
+tvdb_episode:95441_12_18  # NCIS: Los Angeles S12E18 - A Tale of Two Igors
+tvdb_episode:278125_7_16  # NCIS: New Orleans S07E16 - Laissez Les Bons Temps Rouler
+tvdb_episode:72108_18_16  # NCIS S18E16 - Rule 91
+tvdb_episode:72108_19_1  # NCIS S19E01 - Blood in the Water
+tvdb_episode:401630_1_1  # NCIS: Hawaiʻi S01E01 - Pilot
+tvdb_episode:72108_19_2  # NCIS S19E02 - Nearly Departed
+tvdb_episode:401630_1_2  # NCIS: Hawaiʻi S01E02 - Boom
+tvdb_episode:72108_19_3  # NCIS S19E03 - Road to Nowhere
+tvdb_episode:401630_1_3  # NCIS: Hawaiʻi S01E03 - Recruiter
+tvdb_episode:95441_13_1  # NCIS: Los Angeles S13E01 - Subject 17
+tvdb_episode:72108_19_4  # NCIS S19E04 - Great Wide Open
+tvdb_episode:401630_1_4  # NCIS: Hawaiʻi S01E04 - Paniolo
+tvdb_episode:95441_13_2  # NCIS: Los Angeles S13E02 - Fukushu
+tvdb_episode:72108_19_5  # NCIS S19E05 - Face the Strange
+tvdb_episode:401630_1_5  # NCIS: Hawaiʻi S01E05 - Gaijin
+tvdb_episode:95441_13_3  # NCIS: Los Angeles S13E03 - Indentured
+tvdb_episode:95441_13_4  # NCIS: Los Angeles S13E04 - Sorry for Your Loss
+tvdb_episode:72108_19_6  # NCIS S19E06 - False Start
+tvdb_episode:401630_1_6  # NCIS: Hawaiʻi S01E06 - The Tourist
+tvdb_episode:95441_13_5  # NCIS: Los Angeles S13E05 - Divided We Fall
+tvdb_episode:72108_19_7  # NCIS S19E07 - Docked
+tvdb_episode:401630_1_7  # NCIS: Hawaiʻi S01E07 - Rescuers
+tvdb_episode:95441_13_6  # NCIS: Los Angeles S13E06 - Sundown
+tvdb_episode:72108_19_8  # NCIS S19E08 - Peacekeeper
+tvdb_episode:401630_1_8  # NCIS: Hawaiʻi S01E08 - Legacy
+tvdb_episode:72108_19_9  # NCIS S19E09 - Collective Memory
+tvdb_episode:401630_1_9  # NCIS: Hawaiʻi S01E09 - Impostor
+tvdb_episode:95441_13_7  # NCIS: Los Angeles S13E07 - Lost Sailor Down
+tvdb_episode:72108_19_10  # NCIS S19E10 - Pledge of Allegiance
+tvdb_episode:401630_1_10  # NCIS: Hawaiʻi S01E10 - Lost
+tvdb_episode:95441_13_8  # NCIS: Los Angeles S13E08 - A Land of Wolves
+tvdb_episode:72108_19_11  # NCIS S19E11 - All Hands
+tvdb_episode:401630_1_11  # NCIS: Hawaiʻi S01E11 - The Game
+tvdb_episode:401630_1_12  # NCIS: Hawaiʻi S01E12 - Spies, Part 1
+tvdb_episode:72108_19_12  # NCIS S19E12 - Fight or Flight
+tvdb_episode:401630_1_13  # NCIS: Hawaiʻi S01E13 - Spies, Part 2
+tvdb_episode:95441_13_9  # NCIS: Los Angeles S13E09 - Under the Influence
+tvdb_episode:72108_19_13  # NCIS S19E13 - The Helpers
+tvdb_episode:401630_1_14  # NCIS: Hawaiʻi S01E14 - Broken
+tvdb_episode:95441_13_10  # NCIS: Los Angeles S13E10 - Where Loyalties Lie
+tvdb_episode:72108_19_14  # NCIS S19E14 - First Steps
+tvdb_episode:401630_1_15  # NCIS: Hawaiʻi S01E15 - Pirates
+tvdb_episode:95441_13_11  # NCIS: Los Angeles S13E11 - All The Little Things
+tvdb_episode:72108_19_15  # NCIS S19E15 - Thick as Thieves
+tvdb_episode:401630_1_16  # NCIS: Hawaiʻi S01E16 - Monster
+tvdb_episode:95441_13_12  # NCIS: Los Angeles S13E12 - Murmuration
+tvdb_episode:72108_19_16  # NCIS S19E16 - The Wake
+tvdb_episode:401630_1_17  # NCIS: Hawaiʻi S01E17 - Breach
+tvdb_episode:95441_13_13  # NCIS: Los Angeles S13E13 - Bonafides
+tvdb_episode:95441_13_14  # NCIS: Los Angeles S13E14 - Pandora's Box
+tvdb_episode:72108_19_17  # NCIS S19E17 - Starting Over
+tvdb_episode:401630_1_18  # NCIS: Hawaiʻi S01E18 - T'N'T
+tvdb_episode:95441_13_15  # NCIS: Los Angeles S13E15 - Perception
+tvdb_episode:95441_13_16  # NCIS: Los Angeles S13E16 - MWD
+tvdb_episode:72108_19_18  # NCIS S19E18 - Last Dance
+tvdb_episode:401630_1_19  # NCIS: Hawaiʻi S01E19 - Nurture
+tvdb_episode:95441_13_17  # NCIS: Los Angeles S13E17 - Genesis
+tvdb_episode:95441_13_18  # NCIS: Los Angeles S13E18 - Hard For the Money
+tvdb_episode:95441_13_19  # NCIS: Los Angeles S13E19 - Live Free or Die Standing
+tvdb_episode:72108_19_19  # NCIS S19E19 - The Brat Pack
+tvdb_episode:401630_1_20  # NCIS: Hawaiʻi S01E20 - Nightwatch
+tvdb_episode:95441_13_20  # NCIS: Los Angeles S13E20 - Work & Family
+tvdb_episode:95441_13_21  # NCIS: Los Angeles S13E21 - Down the Rabbit Hole
+tvdb_episode:72108_19_20  # NCIS S19E20 - All or Nothing
+tvdb_episode:401630_1_21  # NCIS: Hawaiʻi S01E21 - Switchback
+tvdb_episode:95441_13_22  # NCIS: Los Angeles S13E22 - Come Together
+tvdb_episode:72108_19_21  # NCIS S19E21 - Birds of a Feather
+tvdb_episode:401630_1_22  # NCIS: Hawaiʻi S01E22 - Ohana
+tvdb_episode:72108_20_1  # NCIS S20E01 - A Family Matter
+tvdb_episode:401630_2_1  # NCIS: Hawaiʻi S02E01 - Prisoner's Dilemma
+tvdb_episode:72108_20_2  # NCIS S20E02 - Daddy Issues
+tvdb_episode:401630_2_2  # NCIS: Hawaiʻi S02E02 - Blind Curves
+tvdb_episode:72108_20_3  # NCIS S20E03 - Unearth
+tvdb_episode:401630_2_3  # NCIS: Hawaiʻi S02E03 - Stolen Valor
+tvdb_episode:95441_14_1  # NCIS: Los Angeles S14E01 - Game of Drones
+tvdb_episode:72108_20_4  # NCIS S20E04 - Leave No Trace
+tvdb_episode:401630_2_4  # NCIS: Hawaiʻi S02E04 - Primal Fear
+tvdb_episode:95441_14_2  # NCIS: Los Angeles S14E02 - Of Value
+tvdb_episode:72108_20_5  # NCIS S20E05 - Guardian
+tvdb_episode:401630_2_5  # NCIS: Hawaiʻi S02E05 - Sudden Death
+tvdb_episode:95441_14_3  # NCIS: Los Angeles S14E03 - The Body Stitchers
+tvdb_episode:72108_20_6  # NCIS S20E06 - The Good Fighter
+tvdb_episode:401630_2_6  # NCIS: Hawaiʻi S02E06 - Changing Tides
+tvdb_episode:95441_14_4  # NCIS: Los Angeles S14E04 - Dead Stick
+tvdb_episode:95441_14_5  # NCIS: Los Angeles S14E05 - Flesh & Blood
+tvdb_episode:95441_14_6  # NCIS: Los Angeles S14E06 - Glory of the Sea
+tvdb_episode:72108_20_7  # NCIS S20E07 - Love Lost
+tvdb_episode:401630_2_7  # NCIS: Hawaiʻi S02E07 - Vanishing Act
+tvdb_episode:95441_14_7  # NCIS: Los Angeles S14E07 - Survival of the Fittest
+tvdb_episode:72108_20_8  # NCIS S20E08 - Turkey Trot
+tvdb_episode:401630_2_8  # NCIS: Hawaiʻi S02E08 - Curtain Call
+tvdb_episode:95441_14_8  # NCIS: Los Angeles S14E08 - Let It Burn
+tvdb_episode:72108_20_9  # NCIS S20E09 - Higher Education
+tvdb_episode:401630_2_9  # NCIS: Hawaiʻi S02E09 - Desperate Measures
+tvdb_episode:95441_14_9  # NCIS: Los Angeles S14E09 - Blood Bank
+tvdb_episode:72108_20_10  # NCIS S20E10 - Too Many Cooks
+tvdb_episode:401630_2_10  # NCIS: Hawaiʻi S02E10 - Deep Fake
+tvdb_episode:95441_14_10  # NCIS: Los Angeles S14E10 - A Long Time Coming
+tvdb_episode:95441_14_11  # NCIS: Los Angeles S14E11 - Best Seller
+tvdb_episode:72108_20_11  # NCIS S20E11 - Bridges
+tvdb_episode:401630_2_11  # NCIS: Hawaiʻi S02E11 - Rising Sun
+tvdb_episode:72108_20_12  # NCIS S20E12 - Big Rig
+tvdb_episode:401630_2_12  # NCIS: Hawaiʻi S02E12 - Shields Up
+tvdb_episode:72108_20_13  # NCIS S20E13 - Evil Eye
+tvdb_episode:401630_2_13  # NCIS: Hawaiʻi S02E13 - Misplaced Targets
+tvdb_episode:72108_20_14  # NCIS S20E14 - Old Wounds
+tvdb_episode:401630_2_14  # NCIS: Hawaiʻi S02E14 - Silent Invasion
+tvdb_episode:95441_14_12  # NCIS: Los Angeles S14E12 - In the Name of Honor
+tvdb_episode:95441_14_13  # NCIS: Los Angeles S14E13 - A Farewell to Arms
+tvdb_episode:72108_20_15  # NCIS S20E15 - Unusual Suspects
+tvdb_episode:401630_2_15  # NCIS: Hawaiʻi S02E15 - Good Samaritan
+tvdb_episode:95441_14_14  # NCIS: Los Angeles S14E14 - Shame
+tvdb_episode:72108_20_16  # NCIS S20E16 - Butterfly Effect
+tvdb_episode:401630_2_16  # NCIS: Hawaiʻi S02E16 - Family Ties
+tvdb_episode:95441_14_15  # NCIS: Los Angeles S14E15 - The Other Shoe
+tvdb_episode:72108_20_17  # NCIS S20E17 - Stranger in a Strange Land
+tvdb_episode:401630_2_17  # NCIS: Hawaiʻi S02E17 - Money Honey
+tvdb_episode:95441_14_16  # NCIS: Los Angeles S14E16 - Sleeping Dogs
+tvdb_episode:72108_20_18  # NCIS S20E18 - Head Games
+tvdb_episode:401630_2_18  # NCIS: Hawaiʻi S02E18 - Bread Crumbs
+tvdb_episode:95441_14_17  # NCIS: Los Angeles S14E17 - Maybe Today
+tvdb_episode:95441_14_18  # NCIS: Los Angeles S14E18 - Sensu Lato
+tvdb_episode:72108_20_19  # NCIS S20E19 - In the Spotlight
+tvdb_episode:401630_2_19  # NCIS: Hawaiʻi S02E19 - Cabin Fever
+tvdb_episode:95441_14_19  # NCIS: Los Angeles S14E19 - The Reckoning
+tvdb_episode:72108_20_20  # NCIS S20E20 - Second Opinion
+tvdb_episode:401630_2_20  # NCIS: Hawaiʻi S02E20 - Nightwatch Two
+tvdb_episode:95441_14_20  # NCIS: Los Angeles S14E20 - New Beginnings
+tvdb_episode:72108_20_21  # NCIS S20E21 - Kompromat
+tvdb_episode:401630_2_21  # NCIS: Hawaiʻi S02E21 - Past Due
+tvdb_episode:95441_14_21  # NCIS: Los Angeles S14E21 - New Beginnings, Part Two
+tvdb_episode:72108_20_22  # NCIS S20E22 - Black Sky
+tvdb_episode:401630_2_22  # NCIS: Hawaiʻi S02E22 - Dies Irae
+tvdb_episode:416493_1_1  # NCIS: Sydney S01E01 - Gone Fission
+tvdb_episode:416493_1_2  # NCIS: Sydney S01E02 - Snakes in the Grass
+tvdb_episode:416493_1_3  # NCIS: Sydney S01E03 - Brothers in Arms
+tvdb_episode:416493_1_4  # NCIS: Sydney S01E04 - Ghosted
+tvdb_episode:416493_1_5  # NCIS: Sydney S01E05 - Doggiecino Day Afternoon
+tvdb_episode:416493_1_6  # NCIS: Sydney S01E06 - Extraction
+tvdb_episode:416493_1_7  # NCIS: Sydney S01E07 - Bunker Down
+tvdb_episode:416493_1_8  # NCIS: Sydney S01E08 - Blonde Ambition
+tvdb_episode:72108_21_1  # NCIS S21E01 - AlgÃºn DÃ­a
+tvdb_episode:401630_3_1  # NCIS: Hawaiʻi S03E01 - Run and Gun
+tvdb_episode:72108_21_2  # NCIS S21E02 - The Stories We Leave Behind
+tvdb_episode:401630_3_2  # NCIS: Hawaiʻi S03E02 - Crash and Burn
+tvdb_episode:72108_21_3  # NCIS S21E03 - Lifeline
+tvdb_episode:401630_3_3  # NCIS: Hawaiʻi S03E03 - License to Thrill
+tvdb_episode:72108_21_4  # NCIS S21E04 - Left Unsaid
+tvdb_episode:401630_3_4  # NCIS: Hawaiʻi S03E04 - Dead on Arrival
+tvdb_episode:72108_21_5  # NCIS S21E05 - The Plan
+tvdb_episode:401630_3_5  # NCIS: Hawaiʻi S03E05 - Serve and Protect
+tvdb_episode:72108_21_6  # NCIS S21E06 - Strange Invaders
+tvdb_episode:401630_3_6  # NCIS: Hawaiʻi S03E06 - Operation Red Rabbit
+tvdb_episode:72108_21_7  # NCIS S21E07 - A Thousand Yards
+tvdb_episode:401630_3_7  # NCIS: Hawaiʻi S03E07 - The Next Thousand
+tvdb_episode:72108_21_8  # NCIS S21E08 - Heartless
+tvdb_episode:401630_3_8  # NCIS: Hawaiʻi S03E08 - Into Thin Air
+tvdb_episode:72108_21_9  # NCIS S21E09 - Prime Cut
+tvdb_episode:401630_3_9  # NCIS: Hawaiʻi S03E09 - Spill the Tea
+tvdb_episode:72108_21_10  # NCIS S21E10 - Reef Madness
+tvdb_episode:401630_3_10  # NCIS: Hawaiʻi S03E10 - Divided We Conquer
+tvdb_episode:72108_22_1  # NCIS S22E01 - Empty Nest
+tvdb_episode:444350_1_1  # NCIS: Origins S01E01 - Enter Sandman
+tvdb_episode:444350_1_2  # NCIS: Origins S01E02 - Enter Sandman, Part 2
+tvdb_episode:72108_22_2  # NCIS S22E02 - Foreign Bodies
+tvdb_episode:444350_1_3  # NCIS: Origins S01E03 - Bend, Don't Break
+tvdb_episode:72108_22_3  # NCIS S22E03 - The Trouble with Hal
+tvdb_episode:444350_1_4  # NCIS: Origins S01E04 - All's Not Lost
+tvdb_episode:72108_22_4  # NCIS S22E04 - Sticks & Stones
+tvdb_episode:444350_1_5  # NCIS: Origins S01E05 - Last Rites
+tvdb_episode:72108_22_5  # NCIS S22E05 - In from the Cold
+tvdb_episode:444350_1_6  # NCIS: Origins S01E06 - Incognito
+tvdb_episode:72108_22_6  # NCIS S22E06 - Knight and Day
+tvdb_episode:444350_1_7  # NCIS: Origins S01E07 - One Flew Over
+tvdb_episode:72108_22_7  # NCIS S22E07 - Hardboiled
+tvdb_episode:444350_1_8  # NCIS: Origins S01E08 - Sick As Our Secrets
+tvdb_episode:72108_22_8  # NCIS S22E08 - Out of Control
+tvdb_episode:444350_1_9  # NCIS: Origins S01E09 - Vivo o Muerto
+tvdb_episode:72108_22_9  # NCIS S22E09 - Humbug
+tvdb_episode:444350_1_10  # NCIS: Origins S01E10 - Blue Bayou
+tvdb_episode:72108_22_10  # NCIS S22E10 - Baker's Man
+tvdb_episode:444350_1_11  # NCIS: Origins S01E11 - Flight of Icarus
+tvdb_episode:72108_22_11  # NCIS S22E11 - For Better or Worse
+tvdb_episode:444350_1_12  # NCIS: Origins S01E12 - Touchstones
+tvdb_episode:416493_2_1  # NCIS: Sydney S02E01 - Heart Starter
+tvdb_episode:72108_22_12  # NCIS S22E12 - Fun and Games
+tvdb_episode:444350_1_13  # NCIS: Origins S01E13 - Monsoon
+tvdb_episode:416493_2_2  # NCIS: Sydney S02E02 - Fire in the Hole
+tvdb_episode:416493_2_3  # NCIS: Sydney S02E03 - Back in the USSR
+tvdb_episode:72108_22_13  # NCIS S22E13 - Bad Blood
+tvdb_episode:416493_2_4  # NCIS: Sydney S02E04 - Truth Sabre
+tvdb_episode:72108_22_14  # NCIS S22E14 - Close to Home
+tvdb_episode:416493_2_5  # NCIS: Sydney S02E05 - Shucked
+tvdb_episode:416493_2_6  # NCIS: Sydney S02E06 - Hell Weak
+tvdb_episode:72108_22_15  # NCIS S22E15 - Moonlit
+tvdb_episode:444350_1_14  # NCIS: Origins S01E14 - To Have and To Hold
+tvdb_episode:72108_22_16  # NCIS S22E16 - Ladies' Night
+tvdb_episode:444350_1_15  # NCIS: Origins S01E15 - From the Ashes
+tvdb_episode:416493_2_7  # NCIS: Sydney S02E07 - Breathless
+tvdb_episode:416493_2_8  # NCIS: Sydney S02E08 - Blood Is Thicker Than Vodka
+tvdb_episode:72108_22_17  # NCIS S22E17 - Killer Instinct
+tvdb_episode:444350_1_16  # NCIS: Origins S01E16 - Bugs
+tvdb_episode:416493_2_9  # NCIS: Sydney S02E09 - Mango Madness
+tvdb_episode:72108_22_18  # NCIS S22E18 - After the Storm
+tvdb_episode:444350_1_17  # NCIS: Origins S01E17 - Darlin', Don't Refrain
+tvdb_episode:416493_2_10  # NCIS: Sydney S02E10 - Sting in the Tail
+tvdb_episode:72108_22_19  # NCIS S22E19 - Irreconcilable Differences
+tvdb_episode:444350_1_18  # NCIS: Origins S01E18 - Cecilia
+tvdb_episode:72108_22_20  # NCIS S22E20 - Nexus
+tvdb_episode:446847_1_1  # NCIS: Tony & Ziva S01E01 - No Country Is Safe
+tvdb_episode:446847_1_2  # NCIS: Tony & Ziva S01E02 - No Friend of Mine
+tvdb_episode:446847_1_3  # NCIS: Tony & Ziva S01E03 - Cover Story
+tvdb_episode:446847_1_4  # NCIS: Tony & Ziva S01E04 - Wedding Crashers
+tvdb_episode:446847_1_5  # NCIS: Tony & Ziva S01E05 - To Be Determined
+tvdb_episode:446847_1_6  # NCIS: Tony & Ziva S01E06 - We've Got Company
+tvdb_episode:446847_1_7  # NCIS: Tony & Ziva S01E07 - Dark Mirror
+tvdb_episode:446847_1_8  # NCIS: Tony & Ziva S01E08 - Fire Sale
+tvdb_episode:416493_3_1  # NCIS: Sydney S03E01 - Gut Instinct
+tvdb_episode:72108_23_1  # NCIS S23E01 - Prodigal Son (Part I)
+tvdb_episode:444350_2_1  # NCIS: Origins S02E01 - The Funky Bunch
+tvdb_episode:446847_1_9  # NCIS: Tony & Ziva S01E09 - Ride or Die
+tvdb_episode:416493_3_2  # NCIS: Sydney S03E02 - True Blue
+tvdb_episode:72108_23_2  # NCIS S23E02 - Prodigal Son (Part II)
+tvdb_episode:444350_2_2  # NCIS: Origins S02E02 - Who by Fire
+tvdb_episode:446847_1_10  # NCIS: Tony & Ziva S01E10 - Full Circle
+tvdb_episode:416493_3_3  # NCIS: Sydney S03E03 - Lost in Translation
+tvdb_episode:72108_23_3  # NCIS S23E03 - The Sound and the Fury
+tvdb_episode:444350_2_3  # NCIS: Origins S02E03 - The Edge
+tvdb_episode:416493_3_4  # NCIS: Sydney S03E04 - The Truth is Outback
+tvdb_episode:72108_23_4  # NCIS S23E04 - Gone Girls
+tvdb_episode:444350_2_4  # NCIS: Origins S02E04 - No Man Left Behind
+tvdb_episode:416493_3_5  # NCIS: Sydney S03E05 - Black is White
+tvdb_episode:444350_2_5  # NCIS: Origins S02E05 - Funny How Time Slips Away
+tvdb_episode:72108_23_5  # NCIS S23E05 - Now and Then
+tvdb_episode:416493_3_6  # NCIS: Sydney S03E06 - Sucker Punch
+tvdb_episode:72108_23_6  # NCIS S23E06 - Page-Turner
+tvdb_episode:444350_2_6  # NCIS: Origins S02E06 - Happy Birthday
+tvdb_episode:416493_3_7  # NCIS: Sydney S03E07 - Gold Digger
+tvdb_episode:72108_23_7  # NCIS S23E07 - God Only Knows
+tvdb_episode:444350_2_7  # NCIS: Origins S02E07 - Crazy Little Thing Called Love
+tvdb_episode:416493_3_8  # NCIS: Sydney S03E08 - Turkey Shoot
+tvdb_episode:72108_23_8  # NCIS S23E08 - Stolen Moments
+tvdb_episode:444350_2_8  # NCIS: Origins S02E08 - End of the Road
+tvdb_episode:72108_23_9  # NCIS S23E09 - Heaven and Nature
+tvdb_episode:416493_3_9  # NCIS: Sydney S03E09 - South of Nowhere
+tvdb_episode:72108_23_10  # NCIS S23E10 - Her
+tvdb_episode:444350_2_9  # NCIS: Origins S02E09 - Fools Rush In
+tvdb_episode:416493_3_10  # NCIS: Sydney S03E10 - Van Life
+tvdb_episode:72108_23_11  # NCIS S23E11 - Army of One
+tvdb_episode:444350_2_10  # NCIS: Origins S02E10 - Lean on Me
+tvdb_episode:416493_3_11  # NCIS: Sydney S03E11 - Berthed
+tvdb_episode:72108_23_12  # NCIS S23E12 - In Too Deep
+tvdb_episode:444350_2_11  # NCIS: Origins S02E11 - Feelin' Alright?
+tvdb_episode:416493_3_12  # NCIS: Sydney S03E12 - Lone Wolf: Part One
+tvdb_episode:72108_23_13  # NCIS S23E13 - All Good Things
+tvdb_episode:444350_2_12  # NCIS: Origins S02E12 - The Gambler
+tvdb_episode:416493_3_13  # NCIS: Sydney S03E13 - Lone Wolf: Part Two
+tvdb_episode:72108_23_14  # NCIS S23E14 - Fleeting
+tvdb_episode:444350_2_13  # NCIS: Origins S02E13 - Homeward Bound
+tvdb_episode:416493_3_14  # NCIS: Sydney S03E14 - Death Card
+tvdb_episode:72108_23_15  # NCIS S23E15 - Knick-Knack
+tvdb_episode:444350_2_14  # NCIS: Origins S02E14 - The Beautiful Ballad of Gary Callahan
+tvdb_episode:416493_3_15  # NCIS: Sydney S03E15 - The Collective
+tvdb_episode:72108_23_16  # NCIS S23E16 - S.O.S.
+tvdb_episode:444350_2_15  # NCIS: Origins S02E15 - Johnny B. Goode
+tvdb_episode:416493_3_16  # NCIS: Sydney S03E16 - Ticker
+tvdb_episode:72108_23_17  # NCIS S23E17 - Reboot
+tvdb_episode:444350_2_16  # NCIS: Origins S02E16 - Who's Gonna Drive You Home?
+tvdb_episode:416493_3_17  # NCIS: Sydney S03E17 - Flight Club
+tvdb_episode:72108_23_18  # NCIS S23E18 - Bad Impressions
+tvdb_episode:444350_2_17  # NCIS: Origins S02E17 - Rule 13
+tvdb_episode:416493_3_18  # NCIS: Sydney S03E18 - Rough Diamond
+tvdb_episode:72108_23_19  # NCIS S23E19 - Deal with the Devil
+tvdb_episode:444350_2_18  # NCIS: Origins S02E18 - Hollywood Ending
+tvdb_episode:416493_3_19  # NCIS: Sydney S03E19 - Hunter
+tvdb_episode:416493_3_20  # NCIS: Sydney S03E20 - Killer
+tvdb_episode:72108_23_20  # NCIS S23E20 - Sons and Daughters
+tvdb_episode:72108_24_1  # NCIS S24E01 - TBA
+tvdb_episode:476836_1_1  # NCIS: New York S01E01 - TBA

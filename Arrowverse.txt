@@ -1,0 +1,831 @@
+# Last updated: 2026-07-11
+# Scope: The complete Arrowverse: Arrow, The Flash, Supergirl, DC's Legends of Tomorrow, Constantine, Vixen, Freedom Fighters: The Ray, Black Lightning, Batwoman, Stargirl, and Superman & Lois.
+# Based on community list: https://arrowverse.info/
+tvdb_episode:257655_1_1  # Arrow S01E01 - Pilot
+tvdb_episode:257655_1_2  # Arrow S01E02 - Honor Thy Father
+tvdb_episode:257655_1_3  # Arrow S01E03 - Lone Gunmen
+tvdb_episode:257655_1_4  # Arrow S01E04 - An Innocent Man
+tvdb_episode:257655_1_5  # Arrow S01E05 - Damaged
+tvdb_episode:257655_1_6  # Arrow S01E06 - Legacies
+tvdb_episode:257655_1_7  # Arrow S01E07 - Muse of Fire
+tvdb_episode:257655_1_8  # Arrow S01E08 - Vendetta
+tvdb_episode:257655_1_9  # Arrow S01E09 - Year's End
+tvdb_episode:257655_1_10  # Arrow S01E10 - Burned
+tvdb_episode:257655_1_11  # Arrow S01E11 - Trust But Verify
+tvdb_episode:257655_1_12  # Arrow S01E12 - Vertigo
+tvdb_episode:257655_1_13  # Arrow S01E13 - Betrayal
+tvdb_episode:257655_1_14  # Arrow S01E14 - The Odyssey
+tvdb_episode:257655_1_15  # Arrow S01E15 - Dodger
+tvdb_episode:257655_1_16  # Arrow S01E16 - Dead to Rights
+tvdb_episode:257655_1_17  # Arrow S01E17 - The Huntress Returns
+tvdb_episode:257655_1_18  # Arrow S01E18 - Salvation
+tvdb_episode:257655_1_19  # Arrow S01E19 - Unfinished Business
+tvdb_episode:257655_1_20  # Arrow S01E20 - Home Invasion
+tvdb_episode:257655_1_21  # Arrow S01E21 - The Undertaking
+tvdb_episode:257655_1_22  # Arrow S01E22 - Darkness on the Edge of Town
+tvdb_episode:257655_1_23  # Arrow S01E23 - Sacrifice
+tvdb_episode:257655_2_1  # Arrow S02E01 - City of Heroes
+tvdb_episode:257655_2_2  # Arrow S02E02 - Identity
+tvdb_episode:257655_2_3  # Arrow S02E03 - Broken Dolls
+tvdb_episode:257655_2_4  # Arrow S02E04 - Crucible
+tvdb_episode:257655_2_5  # Arrow S02E05 - League of Assassins
+tvdb_episode:257655_2_6  # Arrow S02E06 - Keep Your Enemies Closer
+tvdb_episode:257655_2_7  # Arrow S02E07 - State v. Queen
+tvdb_episode:257655_2_8  # Arrow S02E08 - The Scientist
+tvdb_episode:257655_2_9  # Arrow S02E09 - Three Ghosts
+tvdb_episode:257655_2_10  # Arrow S02E10 - Blast Radius
+tvdb_episode:257655_2_11  # Arrow S02E11 - Blind Spot
+tvdb_episode:257655_2_12  # Arrow S02E12 - Tremors
+tvdb_episode:257655_2_13  # Arrow S02E13 - Heir to the Demon
+tvdb_episode:257655_2_14  # Arrow S02E14 - Time of Death
+tvdb_episode:257655_2_15  # Arrow S02E15 - The Promise
+tvdb_episode:257655_2_16  # Arrow S02E16 - Suicide Squad
+tvdb_episode:257655_2_17  # Arrow S02E17 - Birds of Prey
+tvdb_episode:257655_2_18  # Arrow S02E18 - Deathstroke
+tvdb_episode:257655_2_19  # Arrow S02E19 - The Man Under the Hood
+tvdb_episode:257655_2_20  # Arrow S02E20 - Seeing Red
+tvdb_episode:257655_2_21  # Arrow S02E21 - City of Blood
+tvdb_episode:257655_2_22  # Arrow S02E22 - Streets of Fire
+tvdb_episode:257655_2_23  # Arrow S02E23 - Unthinkable
+tvdb_episode:279121_1_1  # The Flash S01E01 - Pilot
+tvdb_episode:257655_3_1  # Arrow S03E01 - The Calm
+tvdb_episode:279121_1_2  # The Flash S01E02 - Fastest Man Alive
+tvdb_episode:257655_3_2  # Arrow S03E02 - Sara
+tvdb_episode:279121_1_3  # The Flash S01E03 - Things You Can't Outrun
+tvdb_episode:257655_3_3  # Arrow S03E03 - Corto Maltese
+tvdb_episode:273690_1_1  # Constantine S01E01 - Non Est Asylum
+tvdb_episode:279121_1_4  # The Flash S01E04 - Going Rogue
+tvdb_episode:257655_3_4  # Arrow S03E04 - The Magician
+tvdb_episode:273690_1_2  # Constantine S01E02 - The Darkness Beneath
+tvdb_episode:257655_3_5  # Arrow S03E05 - The Secret Origin of Felicity Smoak
+tvdb_episode:273690_1_3  # Constantine S01E03 - The Devil's Vinyl
+tvdb_episode:279121_1_5  # The Flash S01E05 - Plastique
+tvdb_episode:257655_3_6  # Arrow S03E06 - Guilty
+tvdb_episode:273690_1_4  # Constantine S01E04 - A Feast of Friends
+tvdb_episode:279121_1_6  # The Flash S01E06 - The Flash is Born
+tvdb_episode:257655_3_7  # Arrow S03E07 - Draw Back Your Bow
+tvdb_episode:273690_1_5  # Constantine S01E05 - Danse Vaudou
+tvdb_episode:279121_1_7  # The Flash S01E07 - Power Outage
+tvdb_episode:273690_1_6  # Constantine S01E06 - Rage of Caliban
+tvdb_episode:279121_1_8  # The Flash S01E08 - Flash vs. Arrow (1)
+tvdb_episode:257655_3_8  # Arrow S03E08 - The Brave and the Bold
+tvdb_episode:273690_1_7  # Constantine S01E07 - Blessed Are the Damned
+tvdb_episode:279121_1_9  # The Flash S01E09 - The Man in the Yellow Suit
+tvdb_episode:257655_3_9  # Arrow S03E09 - The Climb
+tvdb_episode:273690_1_8  # Constantine S01E08 - The Saint of Last Resorts (1)
+tvdb_episode:273690_1_9  # Constantine S01E09 - The Saint of Last Resorts (2)
+tvdb_episode:279121_1_10  # The Flash S01E10 - Revenge of the Rogues
+tvdb_episode:257655_3_10  # Arrow S03E10 - Left Behind
+tvdb_episode:273690_1_10  # Constantine S01E10 - Quid Pro Quo
+tvdb_episode:279121_1_11  # The Flash S01E11 - The Sound and the Fury
+tvdb_episode:257655_3_11  # Arrow S03E11 - Midnight City
+tvdb_episode:273690_1_11  # Constantine S01E11 - A Whole World Out There
+tvdb_episode:279121_1_12  # The Flash S01E12 - Crazy for You
+tvdb_episode:257655_3_12  # Arrow S03E12 - Uprising
+tvdb_episode:273690_1_12  # Constantine S01E12 - Angels and Ministers of Grace
+tvdb_episode:279121_1_13  # The Flash S01E13 - The Nuclear Man
+tvdb_episode:257655_3_13  # Arrow S03E13 - Canaries
+tvdb_episode:273690_1_13  # Constantine S01E13 - Waiting for the Man
+tvdb_episode:279121_1_14  # The Flash S01E14 - Fallout
+tvdb_episode:257655_3_14  # Arrow S03E14 - The Return
+tvdb_episode:257655_3_15  # Arrow S03E15 - Nanda Parbat
+tvdb_episode:279121_1_15  # The Flash S01E15 - Out of Time
+tvdb_episode:257655_3_16  # Arrow S03E16 - The Offer
+tvdb_episode:279121_1_16  # The Flash S01E16 - Rogue Time
+tvdb_episode:257655_3_17  # Arrow S03E17 - Suicidal Tendencies
+tvdb_episode:279121_1_17  # The Flash S01E17 - Tricksters
+tvdb_episode:257655_3_18  # Arrow S03E18 - Public Enemy
+tvdb_episode:279121_1_18  # The Flash S01E18 - All Star Team Up
+tvdb_episode:257655_3_19  # Arrow S03E19 - Broken Arrow
+tvdb_episode:279121_1_19  # The Flash S01E19 - Who is Harrison Wells?
+tvdb_episode:257655_3_20  # Arrow S03E20 - The Fallen
+tvdb_episode:279121_1_20  # The Flash S01E20 - The Trap
+tvdb_episode:257655_3_21  # Arrow S03E21 - Al Sah-him
+tvdb_episode:279121_1_21  # The Flash S01E21 - Grodd Lives
+tvdb_episode:257655_3_22  # Arrow S03E22 - This Is Your Sword
+tvdb_episode:279121_1_22  # The Flash S01E22 - Rogue Air
+tvdb_episode:257655_3_23  # Arrow S03E23 - My Name is Oliver Queen
+tvdb_episode:279121_1_23  # The Flash S01E23 - Fast Enough
+tvdb_episode:298305_1_1  # Vixen S01E01 - Episode 1
+tvdb_episode:298305_1_2  # Vixen S01E02 - Episode 2
+tvdb_episode:298305_1_3  # Vixen S01E03 - Episode 3
+tvdb_episode:298305_1_4  # Vixen S01E04 - Episode 4
+tvdb_episode:298305_1_5  # Vixen S01E05 - Episode 5
+tvdb_episode:298305_1_6  # Vixen S01E06 - Episode 6
+tvdb_episode:279121_2_1  # The Flash S02E01 - The Man Who Saved Central City
+tvdb_episode:257655_4_1  # Arrow S04E01 - Green Arrow
+tvdb_episode:279121_2_2  # The Flash S02E02 - Flash of Two Worlds
+tvdb_episode:257655_4_2  # Arrow S04E02 - The Candidate
+tvdb_episode:279121_2_3  # The Flash S02E03 - Family of Rogues
+tvdb_episode:257655_4_3  # Arrow S04E03 - Restoration
+tvdb_episode:295759_1_1  # Supergirl S01E01 - Pilot
+tvdb_episode:279121_2_4  # The Flash S02E04 - The Fury of Firestorm
+tvdb_episode:257655_4_4  # Arrow S04E04 - Beyond Redemption
+tvdb_episode:295759_1_2  # Supergirl S01E02 - Stronger Together
+tvdb_episode:279121_2_5  # The Flash S02E05 - The Darkness and the Light
+tvdb_episode:257655_4_5  # Arrow S04E05 - Haunted
+tvdb_episode:295759_1_3  # Supergirl S01E03 - Fight or Flight
+tvdb_episode:279121_2_6  # The Flash S02E06 - Enter Zoom
+tvdb_episode:257655_4_6  # Arrow S04E06 - Lost Souls
+tvdb_episode:295759_1_4  # Supergirl S01E04 - Livewire
+tvdb_episode:279121_2_7  # The Flash S02E07 - Gorilla Warfare
+tvdb_episode:257655_4_7  # Arrow S04E07 - Brotherhood
+tvdb_episode:295759_1_5  # Supergirl S01E05 - How Does She Do It?
+tvdb_episode:295759_1_6  # Supergirl S01E06 - Red Faced
+tvdb_episode:279121_2_8  # The Flash S02E08 - Legends of Today (1)
+tvdb_episode:257655_4_8  # Arrow S04E08 - Legends of Yesterday
+tvdb_episode:295759_1_7  # Supergirl S01E07 - Human for a Day
+tvdb_episode:279121_2_9  # The Flash S02E09 - Running to Stand Still
+tvdb_episode:257655_4_9  # Arrow S04E09 - Dark Waters
+tvdb_episode:295759_1_8  # Supergirl S01E08 - Hostile Takeover
+tvdb_episode:295759_1_9  # Supergirl S01E09 - Blood Bonds
+tvdb_episode:295759_1_10  # Supergirl S01E10 - Childish Things
+tvdb_episode:279121_2_10  # The Flash S02E10 - Potential Energy
+tvdb_episode:257655_4_10  # Arrow S04E10 - Blood Debts
+tvdb_episode:295760_1_1  # DC's Legends of Tomorrow S01E01 - Pilot (1)
+tvdb_episode:295759_1_11  # Supergirl S01E11 - Strange Visitor from Another Planet
+tvdb_episode:279121_2_11  # The Flash S02E11 - The Reverse-Flash Returns
+tvdb_episode:257655_4_11  # Arrow S04E11 - A.W.O.L.
+tvdb_episode:295760_1_2  # DC's Legends of Tomorrow S01E02 - Pilot (2)
+tvdb_episode:295759_1_12  # Supergirl S01E12 - Bizarro
+tvdb_episode:279121_2_12  # The Flash S02E12 - Fast Lane
+tvdb_episode:257655_4_12  # Arrow S04E12 - Unchained
+tvdb_episode:295760_1_3  # DC's Legends of Tomorrow S01E03 - Blood Ties
+tvdb_episode:295759_1_13  # Supergirl S01E13 - For the Girl Who Has Everything
+tvdb_episode:279121_2_13  # The Flash S02E13 - Welcome to Earth-2
+tvdb_episode:257655_4_13  # Arrow S04E13 - Sins of the Father
+tvdb_episode:295760_1_4  # DC's Legends of Tomorrow S01E04 - White Knights
+tvdb_episode:279121_2_14  # The Flash S02E14 - Escape from Earth-2
+tvdb_episode:257655_4_14  # Arrow S04E14 - Code of Silence
+tvdb_episode:295760_1_5  # DC's Legends of Tomorrow S01E05 - Fail-Safe
+tvdb_episode:295759_1_14  # Supergirl S01E14 - Truth, Justice and the American Way
+tvdb_episode:279121_2_15  # The Flash S02E15 - King Shark
+tvdb_episode:257655_4_15  # Arrow S04E15 - Taken
+tvdb_episode:295760_1_6  # DC's Legends of Tomorrow S01E06 - Star City 2046
+tvdb_episode:295759_1_15  # Supergirl S01E15 - Solitude
+tvdb_episode:295760_1_7  # DC's Legends of Tomorrow S01E07 - Marooned
+tvdb_episode:295760_1_8  # DC's Legends of Tomorrow S01E08 - Night of the Hawk
+tvdb_episode:295759_1_16  # Supergirl S01E16 - Falling
+tvdb_episode:295759_1_17  # Supergirl S01E17 - Manhunter
+tvdb_episode:279121_2_16  # The Flash S02E16 - Trajectory
+tvdb_episode:257655_4_16  # Arrow S04E16 - Broken Hearts
+tvdb_episode:295759_1_18  # Supergirl S01E18 - World's Finest
+tvdb_episode:279121_2_17  # The Flash S02E17 - Flash Back
+tvdb_episode:257655_4_17  # Arrow S04E17 - Beacon of Hope
+tvdb_episode:295760_1_9  # DC's Legends of Tomorrow S01E09 - Left Behind
+tvdb_episode:257655_4_18  # Arrow S04E18 - Eleven-Fifty-Nine
+tvdb_episode:295760_1_10  # DC's Legends of Tomorrow S01E10 - Progeny
+tvdb_episode:295759_1_19  # Supergirl S01E19 - Myriad
+tvdb_episode:295760_1_11  # DC's Legends of Tomorrow S01E11 - The Magnificent Eight
+tvdb_episode:295759_1_20  # Supergirl S01E20 - Better Angels
+tvdb_episode:279121_2_18  # The Flash S02E18 - Versus Zoom
+tvdb_episode:295760_1_12  # DC's Legends of Tomorrow S01E12 - Last Refuge
+tvdb_episode:279121_2_19  # The Flash S02E19 - Back to Normal
+tvdb_episode:257655_4_19  # Arrow S04E19 - Canary Cry
+tvdb_episode:295760_1_13  # DC's Legends of Tomorrow S01E13 - Leviathan
+tvdb_episode:279121_2_20  # The Flash S02E20 - Rupture
+tvdb_episode:257655_4_20  # Arrow S04E20 - Genesis
+tvdb_episode:295760_1_14  # DC's Legends of Tomorrow S01E14 - River of Time
+tvdb_episode:279121_2_21  # The Flash S02E21 - The Runaway Dinosaur
+tvdb_episode:257655_4_21  # Arrow S04E21 - Monument Point
+tvdb_episode:295760_1_15  # DC's Legends of Tomorrow S01E15 - Destiny
+tvdb_episode:279121_2_22  # The Flash S02E22 - Invincible
+tvdb_episode:257655_4_22  # Arrow S04E22 - Lost in the Flood
+tvdb_episode:295760_1_16  # DC's Legends of Tomorrow S01E16 - Legendary
+tvdb_episode:279121_2_23  # The Flash S02E23 - The Race of His Life
+tvdb_episode:257655_4_23  # Arrow S04E23 - Schism
+tvdb_episode:279121_3_1  # The Flash S03E01 - Flashpoint
+tvdb_episode:257655_5_1  # Arrow S05E01 - Legacy
+tvdb_episode:295759_2_1  # Supergirl S02E01 - The Adventures of Supergirl
+tvdb_episode:279121_3_2  # The Flash S03E02 - Paradox
+tvdb_episode:257655_5_2  # Arrow S05E02 - The Recruits
+tvdb_episode:295760_2_1  # DC's Legends of Tomorrow S02E01 - Out of Time
+tvdb_episode:298305_2_1  # Vixen S02E01 - Episode 1
+tvdb_episode:295759_2_2  # Supergirl S02E02 - The Last Children of Krypton
+tvdb_episode:279121_3_3  # The Flash S03E03 - Magenta
+tvdb_episode:257655_5_3  # Arrow S05E03 - A Matter of Trust
+tvdb_episode:295760_2_2  # DC's Legends of Tomorrow S02E02 - The Justice Society of America
+tvdb_episode:298305_2_2  # Vixen S02E02 - Episode 2
+tvdb_episode:295759_2_3  # Supergirl S02E03 - Welcome to Earth
+tvdb_episode:279121_3_4  # The Flash S03E04 - The New Rogues
+tvdb_episode:257655_5_4  # Arrow S05E04 - Penance
+tvdb_episode:295760_2_3  # DC's Legends of Tomorrow S02E03 - Shogun
+tvdb_episode:298305_2_3  # Vixen S02E03 - Episode 3
+tvdb_episode:295759_2_4  # Supergirl S02E04 - Survivors
+tvdb_episode:279121_3_5  # The Flash S03E05 - Monster
+tvdb_episode:257655_5_5  # Arrow S05E05 - Human Target
+tvdb_episode:295760_2_4  # DC's Legends of Tomorrow S02E04 - Abominations
+tvdb_episode:298305_2_4  # Vixen S02E04 - Episode 4
+tvdb_episode:295759_2_5  # Supergirl S02E05 - Crossfire
+tvdb_episode:257655_5_6  # Arrow S05E06 - So It Begins
+tvdb_episode:295760_2_5  # DC's Legends of Tomorrow S02E05 - Compromised
+tvdb_episode:298305_2_5  # Vixen S02E05 - Episode 5
+tvdb_episode:295759_2_6  # Supergirl S02E06 - Changing
+tvdb_episode:279121_3_6  # The Flash S03E06 - Shade
+tvdb_episode:257655_5_7  # Arrow S05E07 - Vigilante
+tvdb_episode:295760_2_6  # DC's Legends of Tomorrow S02E06 - Outlaw Country
+tvdb_episode:298305_2_6  # Vixen S02E06 - Episode 6
+tvdb_episode:295759_2_7  # Supergirl S02E07 - The Darkest Place
+tvdb_episode:279121_3_7  # The Flash S03E07 - Killer Frost
+tvdb_episode:295759_2_8  # Supergirl S02E08 - Medusa (1)
+tvdb_episode:279121_3_8  # The Flash S03E08 - Invasion! (2)
+tvdb_episode:257655_5_8  # Arrow S05E08 - Invasion!
+tvdb_episode:295760_2_7  # DC's Legends of Tomorrow S02E07 - Invasion! (4)
+tvdb_episode:279121_3_9  # The Flash S03E09 - The Present
+tvdb_episode:257655_5_9  # Arrow S05E09 - What We Leave Behind
+tvdb_episode:295760_2_8  # DC's Legends of Tomorrow S02E08 - The Chicago Way
+tvdb_episode:295759_2_9  # Supergirl S02E09 - Supergirl Lives
+tvdb_episode:279121_3_10  # The Flash S03E10 - Borrowing Problems from the Future
+tvdb_episode:295760_2_9  # DC's Legends of Tomorrow S02E09 - Raiders of the Lost Art
+tvdb_episode:257655_5_10  # Arrow S05E10 - Who Are You?
+tvdb_episode:295759_2_10  # Supergirl S02E10 - We Can Be Heroes
+tvdb_episode:279121_3_11  # The Flash S03E11 - Dead or Alive
+tvdb_episode:295760_2_10  # DC's Legends of Tomorrow S02E10 - The Legion of Doom
+tvdb_episode:257655_5_11  # Arrow S05E11 - Second Chances
+tvdb_episode:295759_2_11  # Supergirl S02E11 - The Martian Chronicles
+tvdb_episode:279121_3_12  # The Flash S03E12 - Untouchable
+tvdb_episode:295760_2_11  # DC's Legends of Tomorrow S02E11 - Turncoat
+tvdb_episode:257655_5_12  # Arrow S05E12 - Bratva
+tvdb_episode:295759_2_12  # Supergirl S02E12 - Luthors
+tvdb_episode:257655_5_13  # Arrow S05E13 - Spectre of the Gun
+tvdb_episode:295759_2_13  # Supergirl S02E13 - Mr. & Mrs. Mxyzptlk
+tvdb_episode:279121_3_13  # The Flash S03E13 - Attack on Gorilla City (1)
+tvdb_episode:295760_2_12  # DC's Legends of Tomorrow S02E12 - Camelot/3000
+tvdb_episode:257655_5_14  # Arrow S05E14 - The Sin-Eater
+tvdb_episode:295759_2_14  # Supergirl S02E14 - Homecoming
+tvdb_episode:279121_3_14  # The Flash S03E14 - Attack on Central City (2)
+tvdb_episode:257655_5_15  # Arrow S05E15 - Fighting Fire with Fire
+tvdb_episode:295759_2_15  # Supergirl S02E15 - Exodus
+tvdb_episode:279121_3_15  # The Flash S03E15 - The Wrath of Savitar
+tvdb_episode:295760_2_13  # DC's Legends of Tomorrow S02E13 - Land of the Lost
+tvdb_episode:279121_3_16  # The Flash S03E16 - Into the Speed Force
+tvdb_episode:295760_2_14  # DC's Legends of Tomorrow S02E14 - Moonshot
+tvdb_episode:257655_5_16  # Arrow S05E16 - Checkmate
+tvdb_episode:295759_2_16  # Supergirl S02E16 - Star-Crossed (1)
+tvdb_episode:279121_3_17  # The Flash S03E17 - Duet (2)
+tvdb_episode:295760_2_15  # DC's Legends of Tomorrow S02E15 - Fellowship of the Spear
+tvdb_episode:257655_5_17  # Arrow S05E17 - Kapiushon
+tvdb_episode:295759_2_17  # Supergirl S02E17 - Distant Sun
+tvdb_episode:279121_3_18  # The Flash S03E18 - Abra Kadabra
+tvdb_episode:295760_2_16  # DC's Legends of Tomorrow S02E16 - Doomworld
+tvdb_episode:257655_5_18  # Arrow S05E18 - Disbanded
+tvdb_episode:295760_2_17  # DC's Legends of Tomorrow S02E17 - Aruba
+tvdb_episode:295759_2_18  # Supergirl S02E18 - Ace Reporter
+tvdb_episode:279121_3_19  # The Flash S03E19 - The Once and Future Flash
+tvdb_episode:257655_5_19  # Arrow S05E19 - Dangerous Liaisons
+tvdb_episode:295759_2_19  # Supergirl S02E19 - Alex
+tvdb_episode:279121_3_20  # The Flash S03E20 - I Know Who You Are
+tvdb_episode:257655_5_20  # Arrow S05E20 - Underneath
+tvdb_episode:295759_2_20  # Supergirl S02E20 - City of Lost Children
+tvdb_episode:279121_3_21  # The Flash S03E21 - Cause and Effect
+tvdb_episode:257655_5_21  # Arrow S05E21 - Honor Thy Fathers
+tvdb_episode:295759_2_21  # Supergirl S02E21 - Resist
+tvdb_episode:279121_3_22  # The Flash S03E22 - Infantino Street
+tvdb_episode:257655_5_22  # Arrow S05E22 - Missing
+tvdb_episode:295759_2_22  # Supergirl S02E22 - Nevertheless, She Persisted
+tvdb_episode:279121_3_23  # The Flash S03E23 - Finish Line
+tvdb_episode:257655_5_23  # Arrow S05E23 - Lian Yu
+tvdb_episode:295759_3_1  # Supergirl S03E01 - Girl of Steel
+tvdb_episode:279121_4_1  # The Flash S04E01 - The Flash Reborn
+tvdb_episode:295760_3_1  # DC's Legends of Tomorrow S03E01 - Aruba-Con
+tvdb_episode:257655_6_1  # Arrow S06E01 - Fallout
+tvdb_episode:295759_3_2  # Supergirl S03E02 - Triggers
+tvdb_episode:279121_4_2  # The Flash S04E02 - Mixed Signals
+tvdb_episode:295760_3_2  # DC's Legends of Tomorrow S03E02 - Freakshow
+tvdb_episode:257655_6_2  # Arrow S06E02 - Tribute
+tvdb_episode:295759_3_3  # Supergirl S03E03 - Far From the Tree
+tvdb_episode:279121_4_3  # The Flash S04E03 - Luck Be a Lady
+tvdb_episode:295760_3_3  # DC's Legends of Tomorrow S03E03 - Zari
+tvdb_episode:257655_6_3  # Arrow S06E03 - Next of Kin
+tvdb_episode:295759_3_4  # Supergirl S03E04 - The Faithful
+tvdb_episode:279121_4_4  # The Flash S04E04 - Elongated Journey Into Night
+tvdb_episode:295760_3_4  # DC's Legends of Tomorrow S03E04 - Phone Home
+tvdb_episode:257655_6_4  # Arrow S06E04 - Reversal
+tvdb_episode:295759_3_5  # Supergirl S03E05 - Damage
+tvdb_episode:279121_4_5  # The Flash S04E05 - Girls Night Out
+tvdb_episode:295760_3_5  # DC's Legends of Tomorrow S03E05 - Return of the Mack
+tvdb_episode:257655_6_5  # Arrow S06E05 - Deathstroke Returns
+tvdb_episode:295759_3_6  # Supergirl S03E06 - Midvale
+tvdb_episode:279121_4_6  # The Flash S04E06 - When Harry Met Harry…
+tvdb_episode:295760_3_6  # DC's Legends of Tomorrow S03E06 - Helen Hunt
+tvdb_episode:257655_6_6  # Arrow S06E06 - Promises Kept
+tvdb_episode:295759_3_7  # Supergirl S03E07 - Wake Up
+tvdb_episode:279121_4_7  # The Flash S04E07 - Therefore I Am
+tvdb_episode:295760_3_7  # DC's Legends of Tomorrow S03E07 - Welcome to the Jungle
+tvdb_episode:257655_6_7  # Arrow S06E07 - Thanksgiving
+tvdb_episode:295759_3_8  # Supergirl S03E08 - Crisis on Earth-X (1)
+tvdb_episode:257655_6_8  # Arrow S06E08 - Crisis on Earth-X (2)
+tvdb_episode:279121_4_8  # The Flash S04E08 - Crisis on Earth-X (3)
+tvdb_episode:295760_3_8  # DC's Legends of Tomorrow S03E08 - Crisis on Earth-X (4)
+tvdb_episode:295759_3_9  # Supergirl S03E09 - Reign
+tvdb_episode:279121_4_9  # The Flash S04E09 - Don't Run
+tvdb_episode:295760_3_9  # DC's Legends of Tomorrow S03E09 - Beebo the God of War
+tvdb_episode:257655_6_9  # Arrow S06E09 - Irreconcilable Differences
+tvdb_episode:328982_1_1  # Freedom Fighters: The Ray S01E01 - Episode 1
+tvdb_episode:328982_1_2  # Freedom Fighters: The Ray S01E02 - Episode 2
+tvdb_episode:328982_1_3  # Freedom Fighters: The Ray S01E03 - Episode 3
+tvdb_episode:328982_1_4  # Freedom Fighters: The Ray S01E04 - Episode 4
+tvdb_episode:328982_1_5  # Freedom Fighters: The Ray S01E05 - Episode 5
+tvdb_episode:328982_1_6  # Freedom Fighters: The Ray S01E06 - Episode 6
+tvdb_episode:295759_3_10  # Supergirl S03E10 - Legion of Superheroes
+tvdb_episode:279121_4_10  # The Flash S04E10 - The Trial of The Flash
+tvdb_episode:332525_1_1  # Black Lightning S01E01 - The Resurrection
+tvdb_episode:257655_6_10  # Arrow S06E10 - Divided
+tvdb_episode:295759_3_11  # Supergirl S03E11 - Fort Rozz
+tvdb_episode:279121_4_11  # The Flash S04E11 - The Elongated Knight Rises
+tvdb_episode:332525_1_2  # Black Lightning S01E02 - Lawanda: The Book of Hope
+tvdb_episode:257655_6_11  # Arrow S06E11 - We Fall
+tvdb_episode:295759_3_12  # Supergirl S03E12 - For Good
+tvdb_episode:279121_4_12  # The Flash S04E12 - Honey, I Shrunk Team Flash
+tvdb_episode:332525_1_3  # Black Lightning S01E03 - Lawanda: The Book of Burial
+tvdb_episode:257655_6_12  # Arrow S06E12 - All for Nothing
+tvdb_episode:295759_3_13  # Supergirl S03E13 - Both Sides Now
+tvdb_episode:279121_4_13  # The Flash S04E13 - True Colors
+tvdb_episode:332525_1_4  # Black Lightning S01E04 - Black Jesus
+tvdb_episode:257655_6_13  # Arrow S06E13 - The Devil's Greatest Trick
+tvdb_episode:295760_3_10  # DC's Legends of Tomorrow S03E10 - Daddy Darhkest
+tvdb_episode:332525_1_5  # Black Lightning S01E05 - And Then the Devil Brought the Plague: The Book of Green Light
+tvdb_episode:295760_3_11  # DC's Legends of Tomorrow S03E11 - Here I Go Again
+tvdb_episode:295760_3_12  # DC's Legends of Tomorrow S03E12 - The Curse of the Earth Totem
+tvdb_episode:279121_4_14  # The Flash S04E14 - Subject 9
+tvdb_episode:332525_1_6  # Black Lightning S01E06 - Three Sevens: The Book of Thunder
+tvdb_episode:257655_6_14  # Arrow S06E14 - Collision Course
+tvdb_episode:295760_3_13  # DC's Legends of Tomorrow S03E13 - No Country for Old Dads
+tvdb_episode:279121_4_15  # The Flash S04E15 - Enter Flashtime
+tvdb_episode:332525_1_7  # Black Lightning S01E07 - Equinox: The Book of Fate
+tvdb_episode:257655_6_15  # Arrow S06E15 - Doppelganger
+tvdb_episode:295760_3_14  # DC's Legends of Tomorrow S03E14 - Amazing Grace
+tvdb_episode:279121_4_16  # The Flash S04E16 - Run, Iris, Run
+tvdb_episode:332525_1_8  # Black Lightning S01E08 - The Book of Revelations
+tvdb_episode:295760_3_15  # DC's Legends of Tomorrow S03E15 - Necromancing the Stone
+tvdb_episode:332525_1_9  # Black Lightning S01E09 - The Book of Little Black Lies
+tvdb_episode:295760_3_16  # DC's Legends of Tomorrow S03E16 - I, Ava
+tvdb_episode:332525_1_10  # Black Lightning S01E10 - Sins of the Father: The Book of Redemption
+tvdb_episode:257655_6_16  # Arrow S06E16 - The Thanatos Guild
+tvdb_episode:295760_3_17  # DC's Legends of Tomorrow S03E17 - Guest Starring John Noble
+tvdb_episode:332525_1_11  # Black Lightning S01E11 - Black Jesus: The Book of Crucifixion
+tvdb_episode:257655_6_17  # Arrow S06E17 - Brothers in Arms
+tvdb_episode:295760_3_18  # DC's Legends of Tomorrow S03E18 - The Good, the Bad and the Cuddly
+tvdb_episode:279121_4_17  # The Flash S04E17 - Null and Annoyed
+tvdb_episode:332525_1_12  # Black Lightning S01E12 - The Resurrection and the Light: The Book of Pain
+tvdb_episode:257655_6_18  # Arrow S06E18 - Fundamentals
+tvdb_episode:295759_3_14  # Supergirl S03E14 - Schott Through the Heart
+tvdb_episode:279121_4_18  # The Flash S04E18 - Lose Yourself
+tvdb_episode:332525_1_13  # Black Lightning S01E13 - Shadow of Death: The Book of War
+tvdb_episode:257655_6_19  # Arrow S06E19 - The Dragon
+tvdb_episode:295759_3_15  # Supergirl S03E15 - In Search of Lost Time
+tvdb_episode:279121_4_19  # The Flash S04E19 - Fury Rogue
+tvdb_episode:257655_6_20  # Arrow S06E20 - Shifting Allegiances
+tvdb_episode:295759_3_16  # Supergirl S03E16 - Of Two Minds
+tvdb_episode:279121_4_20  # The Flash S04E20 - Therefore She Is
+tvdb_episode:257655_6_21  # Arrow S06E21 - Docket No. 11-19-41-73
+tvdb_episode:295759_3_17  # Supergirl S03E17 - Trinity
+tvdb_episode:279121_4_21  # The Flash S04E21 - Harry and the Harrisons
+tvdb_episode:257655_6_22  # Arrow S06E22 - The Ties That Bind
+tvdb_episode:295759_3_18  # Supergirl S03E18 - Shelter from the Storm
+tvdb_episode:279121_4_22  # The Flash S04E22 - Think Fast
+tvdb_episode:257655_6_23  # Arrow S06E23 - Life Sentence
+tvdb_episode:295759_3_19  # Supergirl S03E19 - The Fanatical
+tvdb_episode:279121_4_23  # The Flash S04E23 - We Are The Flash
+tvdb_episode:295759_3_20  # Supergirl S03E20 - Dark Side of the Moon
+tvdb_episode:295759_3_21  # Supergirl S03E21 - Not Kansas
+tvdb_episode:295759_3_22  # Supergirl S03E22 - Make It Reign
+tvdb_episode:295759_3_23  # Supergirl S03E23 - Battles Lost and Won
+tvdb_episode:328982_2_1  # Freedom Fighters: The Ray S02E01 - Episode 1
+tvdb_episode:328982_2_2  # Freedom Fighters: The Ray S02E02 - Episode 2
+tvdb_episode:328982_2_3  # Freedom Fighters: The Ray S02E03 - Episode 3
+tvdb_episode:328982_2_4  # Freedom Fighters: The Ray S02E04 - Episode 4
+tvdb_episode:328982_2_5  # Freedom Fighters: The Ray S02E05 - Episode 5
+tvdb_episode:328982_2_6  # Freedom Fighters: The Ray S02E06 - Episode 6
+tvdb_episode:279121_5_1  # The Flash S05E01 - Nora
+tvdb_episode:332525_2_1  # Black Lightning S02E01 - The Book of Consequences: Chapter One: Rise of the Green Light Babies
+tvdb_episode:295759_4_1  # Supergirl S04E01 - American Alien
+tvdb_episode:257655_7_1  # Arrow S07E01 - Inmate 4587
+tvdb_episode:279121_5_2  # The Flash S05E02 - Blocked
+tvdb_episode:332525_2_2  # Black Lightning S02E02 - The Book of Consequences: Chapter Two: Black Jesus Blues
+tvdb_episode:295759_4_2  # Supergirl S04E02 - Fallout
+tvdb_episode:257655_7_2  # Arrow S07E02 - The Longbow Hunters
+tvdb_episode:295760_4_1  # DC's Legends of Tomorrow S04E01 - The Virgin Gary
+tvdb_episode:279121_5_3  # The Flash S05E03 - The Death of Vibe
+tvdb_episode:332525_2_3  # Black Lightning S02E03 - The Book of Consequences: Chapter Three: Master Lowry
+tvdb_episode:295759_4_3  # Supergirl S04E03 - Man of Steel
+tvdb_episode:257655_7_3  # Arrow S07E03 - Crossing Lines
+tvdb_episode:295760_4_2  # DC's Legends of Tomorrow S04E02 - Witch Hunt
+tvdb_episode:279121_5_4  # The Flash S05E04 - News Flash
+tvdb_episode:332525_2_4  # Black Lightning S02E04 - The Book of Consequences: Chapter Four: Translucent Freak
+tvdb_episode:295759_4_4  # Supergirl S04E04 - Ahimsa
+tvdb_episode:257655_7_4  # Arrow S07E04 - Level Two
+tvdb_episode:295760_4_3  # DC's Legends of Tomorrow S04E03 - Dancing Queen
+tvdb_episode:295759_4_5  # Supergirl S04E05 - Parasite Lost
+tvdb_episode:257655_7_5  # Arrow S07E05 - The Demon
+tvdb_episode:295760_4_4  # DC's Legends of Tomorrow S04E04 - Wet Hot American Bummer
+tvdb_episode:279121_5_5  # The Flash S05E05 - All Doll'd Up
+tvdb_episode:332525_2_5  # Black Lightning S02E05 - The Book of Blood: Chapter One: Requiem
+tvdb_episode:295759_4_6  # Supergirl S04E06 - Call to Action
+tvdb_episode:257655_7_6  # Arrow S07E06 - Due Process
+tvdb_episode:295760_4_5  # DC's Legends of Tomorrow S04E05 - Tagumo Attacks!!!
+tvdb_episode:279121_5_6  # The Flash S05E06 - The Icicle Cometh
+tvdb_episode:332525_2_6  # Black Lightning S02E06 - The Book of Blood: Chapter Two: The Perdi
+tvdb_episode:295759_4_7  # Supergirl S04E07 - Rather the Fallen Angel
+tvdb_episode:257655_7_7  # Arrow S07E07 - The Slabside Redemption
+tvdb_episode:295760_4_6  # DC's Legends of Tomorrow S04E06 - Tender Is the Nate
+tvdb_episode:279121_5_7  # The Flash S05E07 - O Come, All Ye Thankful
+tvdb_episode:332525_2_7  # Black Lightning S02E07 - The Book of Blood: Chapter Three: The Sange
+tvdb_episode:295759_4_8  # Supergirl S04E08 - Bunker Hill
+tvdb_episode:257655_7_8  # Arrow S07E08 - Unmasked
+tvdb_episode:295760_4_7  # DC's Legends of Tomorrow S04E07 - Hell No, Dolly!
+tvdb_episode:279121_5_8  # The Flash S05E08 - What's Past Is Prologue
+tvdb_episode:332525_2_8  # Black Lightning S02E08 - The Book of Rebellion: Chapter One: Exodus
+tvdb_episode:279121_5_9  # The Flash S05E09 - Elseworlds (1)
+tvdb_episode:257655_7_9  # Arrow S07E09 - Elseworlds (2)
+tvdb_episode:295760_4_8  # DC's Legends of Tomorrow S04E08 - Legends of To-Meow-Meow
+tvdb_episode:295759_4_9  # Supergirl S04E09 - Elseworlds (3)
+tvdb_episode:332525_2_9  # Black Lightning S02E09 - The Book of Rebellion: Chapter Two: Gift of Magi
+tvdb_episode:279121_5_10  # The Flash S05E10 - The Flash & The Furious
+tvdb_episode:295759_4_10  # Supergirl S04E10 - Suspicious Minds
+tvdb_episode:257655_7_10  # Arrow S07E10 - My Name is Emiko Queen
+tvdb_episode:332525_2_10  # Black Lightning S02E10 - The Book of Rebellion: Chapter Three: Angelitos Negros
+tvdb_episode:279121_5_11  # The Flash S05E11 - Seeing Red
+tvdb_episode:295759_4_11  # Supergirl S04E11 - Blood Memory
+tvdb_episode:257655_7_11  # Arrow S07E11 - Past Sins
+tvdb_episode:332525_2_11  # Black Lightning S02E11 - The Book of Secrets: Chapter One: Prodigal Son
+tvdb_episode:279121_5_12  # The Flash S05E12 - Memorabilia
+tvdb_episode:257655_7_12  # Arrow S07E12 - Emerald Archer
+tvdb_episode:332525_2_12  # Black Lightning S02E12 - The Book of Secrets: Chapter Two: Just and Unjust
+tvdb_episode:279121_5_13  # The Flash S05E13 - Goldfaced
+tvdb_episode:257655_7_13  # Arrow S07E13 - Star City Slayer
+tvdb_episode:332525_2_13  # Black Lightning S02E13 - The Book of Secrets: Chapter Three: Pillar of Fire
+tvdb_episode:279121_5_14  # The Flash S05E14 - Cause and XS
+tvdb_episode:295759_4_12  # Supergirl S04E12 - Menagerie
+tvdb_episode:295759_4_13  # Supergirl S04E13 - What's So Funny About Truth, Justice, and the American Way?
+tvdb_episode:257655_7_14  # Arrow S07E14 - Brothers & Sisters
+tvdb_episode:332525_2_14  # Black Lightning S02E14 - The Book of Secrets: Chapter Four: Original Sin
+tvdb_episode:279121_5_15  # The Flash S05E15 - King Shark vs. Gorilla Grodd
+tvdb_episode:295759_4_14  # Supergirl S04E14 - Stand and Deliver
+tvdb_episode:257655_7_15  # Arrow S07E15 - Training Day
+tvdb_episode:332525_2_15  # Black Lightning S02E15 - The Book of the Apocalypse: Chapter One: The Alpha
+tvdb_episode:279121_5_16  # The Flash S05E16 - Failure is An Orphan
+tvdb_episode:295759_4_15  # Supergirl S04E15 - O Brother, Where Art Thou?
+tvdb_episode:257655_7_16  # Arrow S07E16 - Star City 2040
+tvdb_episode:332525_2_16  # Black Lightning S02E16 - The Book of the Apocalypse: Chapter Two: The Omega
+tvdb_episode:279121_5_17  # The Flash S05E17 - Time Bomb
+tvdb_episode:295759_4_16  # Supergirl S04E16 - The House of L
+tvdb_episode:257655_7_17  # Arrow S07E17 - Inheritance
+tvdb_episode:295759_4_17  # Supergirl S04E17 - All About Eve
+tvdb_episode:295760_4_9  # DC's Legends of Tomorrow S04E09 - Lucha de Apuestas
+tvdb_episode:295760_4_10  # DC's Legends of Tomorrow S04E10 - The Getaway
+tvdb_episode:295760_4_11  # DC's Legends of Tomorrow S04E11 - Séance and Sensibility
+tvdb_episode:257655_7_18  # Arrow S07E18 - Lost Canary
+tvdb_episode:279121_5_18  # The Flash S05E18 - Godspeed
+tvdb_episode:295759_4_18  # Supergirl S04E18 - Crime and Punishment
+tvdb_episode:295760_4_12  # DC's Legends of Tomorrow S04E12 - The Eggplant, the Witch & the Wardrobe
+tvdb_episode:257655_7_19  # Arrow S07E19 - Spartan
+tvdb_episode:279121_5_19  # The Flash S05E19 - Snow Pack
+tvdb_episode:295759_4_19  # Supergirl S04E19 - American Dreamer
+tvdb_episode:295760_4_13  # DC's Legends of Tomorrow S04E13 - Egg MacGuffin
+tvdb_episode:257655_7_20  # Arrow S07E20 - Confessions
+tvdb_episode:279121_5_20  # The Flash S05E20 - Gone Rogue
+tvdb_episode:295759_4_20  # Supergirl S04E20 - Will The Real Miss Tessmacher Please Stand Up?
+tvdb_episode:295760_4_14  # DC's Legends of Tomorrow S04E14 - Nip/Stuck
+tvdb_episode:257655_7_21  # Arrow S07E21 - Living Proof
+tvdb_episode:279121_5_21  # The Flash S05E21 - The Girl with the Red Lightning
+tvdb_episode:295759_4_21  # Supergirl S04E21 - Red Dawn
+tvdb_episode:295760_4_15  # DC's Legends of Tomorrow S04E15 - Terms of Service
+tvdb_episode:257655_7_22  # Arrow S07E22 - You Have Saved This City
+tvdb_episode:279121_5_22  # The Flash S05E22 - Legacy
+tvdb_episode:295759_4_22  # Supergirl S04E22 - The Quest for Peace
+tvdb_episode:295760_4_16  # DC's Legends of Tomorrow S04E16 - Hey, World!
+tvdb_episode:361315_1_1  # Batwoman S01E01 - Pilot
+tvdb_episode:295759_5_1  # Supergirl S05E01 - Event Horizon
+tvdb_episode:332525_3_1  # Black Lightning S03E01 - The Book of Occupation: Chapter One: Birth of Blackbird
+tvdb_episode:279121_6_1  # The Flash S06E01 - Into the Void
+tvdb_episode:361315_1_2  # Batwoman S01E02 - The Rabbit Hole
+tvdb_episode:295759_5_2  # Supergirl S05E02 - Stranger Beside Me
+tvdb_episode:332525_3_2  # Black Lightning S03E02 - The Book of Occupation: Chapter Two: Maryam's Tasbih
+tvdb_episode:279121_6_2  # The Flash S06E02 - A Flash of the Lightning
+tvdb_episode:257655_8_1  # Arrow S08E01 - Starling City
+tvdb_episode:361315_1_3  # Batwoman S01E03 - Down, Down, Down
+tvdb_episode:295759_5_3  # Supergirl S05E03 - Blurred Lines
+tvdb_episode:332525_3_3  # Black Lightning S03E03 - The Book of Occupation: Chapter Three: Agent Odell's Pipe-Dream
+tvdb_episode:279121_6_3  # The Flash S06E03 - Dead Man Running
+tvdb_episode:257655_8_2  # Arrow S08E02 - Welcome to Hong Kong
+tvdb_episode:361315_1_4  # Batwoman S01E04 - Who Are You?
+tvdb_episode:295759_5_4  # Supergirl S05E04 - In Plain Sight
+tvdb_episode:332525_3_4  # Black Lightning S03E04 - The Book of Occupation: Chapter Four: Lynn's Ouroboros
+tvdb_episode:279121_6_4  # The Flash S06E04 - There Will Be Blood
+tvdb_episode:257655_8_3  # Arrow S08E03 - Leap of Faith
+tvdb_episode:361315_1_5  # Batwoman S01E05 - Mine Is a Long and a Sad Tale
+tvdb_episode:295759_5_5  # Supergirl S05E05 - Dangerous Liaisons
+tvdb_episode:279121_6_5  # The Flash S06E05 - Kiss Kiss Breach Breach
+tvdb_episode:257655_8_4  # Arrow S08E04 - Present Tense
+tvdb_episode:361315_1_6  # Batwoman S01E06 - I'll Be Judge, I'll Be Jury
+tvdb_episode:295759_5_6  # Supergirl S05E06 - Confidence Women
+tvdb_episode:332525_3_5  # Black Lightning S03E05 - The Book of Occupation: Chapter Five: Requiem for Tavon
+tvdb_episode:361315_1_7  # Batwoman S01E07 - Tell Me the Truth
+tvdb_episode:295759_5_7  # Supergirl S05E07 - Tremors
+tvdb_episode:332525_3_6  # Black Lightning S03E06 - The Book of Resistance: Chapter One: Knocking on Heaven's Door
+tvdb_episode:279121_6_6  # The Flash S06E06 - License to Elongate
+tvdb_episode:257655_8_5  # Arrow S08E05 - Prochnost
+tvdb_episode:332525_3_7  # Black Lightning S03E07 - The Book of Resistance: Chapter Two: Henderson's Opus
+tvdb_episode:279121_6_7  # The Flash S06E07 - The Last Temptation of Barry Allen (1)
+tvdb_episode:257655_8_6  # Arrow S08E06 - Reset
+tvdb_episode:361315_1_8  # Batwoman S01E08 - A Mad Tea-Party
+tvdb_episode:295759_5_8  # Supergirl S05E08 - The Wrath of Rama Khan
+tvdb_episode:332525_3_8  # Black Lightning S03E08 - The Book of Resistance: Chapter Three: The Battle of Franklin Terrace
+tvdb_episode:279121_6_8  # The Flash S06E08 - The Last Temptation of Barry Allen (2)
+tvdb_episode:257655_8_7  # Arrow S08E07 - Purgatory
+tvdb_episode:295759_5_9  # Supergirl S05E09 - Crisis on Infinite Earths (1)
+tvdb_episode:361315_1_9  # Batwoman S01E09 - Crisis on Infinite Earths (2)
+tvdb_episode:332525_3_9  # Black Lightning S03E09 - The Book of Resistance: Chapter Four: Earth Crisis
+tvdb_episode:279121_6_9  # The Flash S06E09 - Crisis on Infinite Earths (3)
+tvdb_episode:257655_8_8  # Arrow S08E08 - Crisis on Infinite Earths (4)
+tvdb_episode:295760_5_1  # DC's Legends of Tomorrow S05E01 - Crisis on Infinite Earths (5)
+tvdb_episode:361315_1_10  # Batwoman S01E10 - How Queer Everything Is Today!
+tvdb_episode:295759_5_10  # Supergirl S05E10 - The Bottle Episode
+tvdb_episode:332525_3_10  # Black Lightning S03E10 - The Book of Markovia: Chapter One: Blessings and Curses Reborn
+tvdb_episode:257655_8_9  # Arrow S08E09 - Green Arrow & The Canaries
+tvdb_episode:295760_5_2  # DC's Legends of Tomorrow S05E02 - Meet the Legends
+tvdb_episode:361315_1_11  # Batwoman S01E11 - An Un-Birthday Present
+tvdb_episode:295759_5_11  # Supergirl S05E11 - Back From the Future (1)
+tvdb_episode:332525_3_11  # Black Lightning S03E11 - The Book of Markovia: Chapter Two: Lynn's Addiction
+tvdb_episode:257655_8_10  # Arrow S08E10 - Fadeout
+tvdb_episode:332525_3_12  # Black Lightning S03E12 - The Book of Markovia: Chapter Three: Motherless ID
+tvdb_episode:279121_6_10  # The Flash S06E10 - Marathon
+tvdb_episode:295760_5_3  # DC's Legends of Tomorrow S05E03 - Miss Me, Kiss Me, Love Me
+tvdb_episode:332525_3_13  # Black Lightning S03E13 - The Book of Markovia: Chapter Four: Grab the Strap
+tvdb_episode:279121_6_11  # The Flash S06E11 - Love Is a Battlefield
+tvdb_episode:295760_5_4  # DC's Legends of Tomorrow S05E04 - Slay Anything
+tvdb_episode:361315_1_12  # Batwoman S01E12 - Take Your Choice
+tvdb_episode:295759_5_12  # Supergirl S05E12 - Back From the Future (2)
+tvdb_episode:279121_6_12  # The Flash S06E12 - A Girl Named Sue
+tvdb_episode:295760_5_5  # DC's Legends of Tomorrow S05E05 - A Head of Her Time
+tvdb_episode:361315_1_13  # Batwoman S01E13 - Drink Me
+tvdb_episode:295759_5_13  # Supergirl S05E13 - It's a Super Life
+tvdb_episode:332525_3_14  # Black Lightning S03E14 - The Book of War: Chapter One: Homecoming
+tvdb_episode:279121_6_13  # The Flash S06E13 - Grodd Friended Me
+tvdb_episode:295760_5_6  # DC's Legends of Tomorrow S05E06 - Mortal Khanbat
+tvdb_episode:332525_3_15  # Black Lightning S03E15 - The Book of War: Chapter Two: Freedom Ain't Free
+tvdb_episode:361315_1_14  # Batwoman S01E14 - Grinning from Ear to Ear
+tvdb_episode:295759_5_14  # Supergirl S05E14 - The Bodyguard
+tvdb_episode:332525_3_16  # Black Lightning S03E16 - The Book of War: Chapter Three: Liberation
+tvdb_episode:279121_6_14  # The Flash S06E14 - Death of the Speed Force
+tvdb_episode:295760_5_7  # DC's Legends of Tomorrow S05E07 - Mr. Parker's Cul-De-Sac
+tvdb_episode:361315_1_15  # Batwoman S01E15 - Off with Her Head
+tvdb_episode:295759_5_15  # Supergirl S05E15 - Reality Bytes
+tvdb_episode:279121_6_15  # The Flash S06E15 - The Exorcism of Nash Wells
+tvdb_episode:295760_5_8  # DC's Legends of Tomorrow S05E08 - Romeo v Juliet: Dawn of Justness
+tvdb_episode:361315_1_16  # Batwoman S01E16 - Through the Looking-Glass
+tvdb_episode:295759_5_16  # Supergirl S05E16 - Alex in Wonderland
+tvdb_episode:279121_6_16  # The Flash S06E16 - So Long and Goodnight
+tvdb_episode:295760_5_9  # DC's Legends of Tomorrow S05E09 - Zari, Not Zari
+tvdb_episode:361315_1_17  # Batwoman S01E17 - A Narrow Escape
+tvdb_episode:279121_6_17  # The Flash S06E17 - Liberation
+tvdb_episode:295760_5_10  # DC's Legends of Tomorrow S05E10 - The Great British Fake Off
+tvdb_episode:361315_1_18  # Batwoman S01E18 - If You Believe in Me, I'll Believe in You
+tvdb_episode:295759_5_17  # Supergirl S05E17 - Deus Lex Machina
+tvdb_episode:279121_6_18  # The Flash S06E18 - Pay the Piper
+tvdb_episode:295760_5_11  # DC's Legends of Tomorrow S05E11 - Ship Broken
+tvdb_episode:361315_1_19  # Batwoman S01E19 - A Secret Kept from All the Rest
+tvdb_episode:295759_5_18  # Supergirl S05E18 - The Missing Link
+tvdb_episode:279121_6_19  # The Flash S06E19 - Success Is Assured
+tvdb_episode:295760_5_12  # DC's Legends of Tomorrow S05E12 - Freaks and Greeks
+tvdb_episode:361315_1_20  # Batwoman S01E20 - O, Mouse!
+tvdb_episode:295759_5_19  # Supergirl S05E19 - Immortal Kombat
+tvdb_episode:361868_1_1  # Stargirl S01E01 - Pilot
+tvdb_episode:295760_5_13  # DC's Legends of Tomorrow S05E13 - I Am Legends
+tvdb_episode:361868_1_2  # Stargirl S01E02 - S.T.R.I.P.E.
+tvdb_episode:295760_5_14  # DC's Legends of Tomorrow S05E14 - The One Where We're Trapped on TV
+tvdb_episode:361868_1_3  # Stargirl S01E03 - Icicle
+tvdb_episode:295760_5_15  # DC's Legends of Tomorrow S05E15 - Swan Thong
+tvdb_episode:361868_1_4  # Stargirl S01E04 - Wildcat
+tvdb_episode:361868_1_5  # Stargirl S01E05 - Hourman and Dr. Mid-Nite
+tvdb_episode:361868_1_6  # Stargirl S01E06 - The Justice Society
+tvdb_episode:361868_1_7  # Stargirl S01E07 - Shiv (1)
+tvdb_episode:361868_1_8  # Stargirl S01E08 - Shiv (2)
+tvdb_episode:361868_1_9  # Stargirl S01E09 - Brainwave
+tvdb_episode:361868_1_10  # Stargirl S01E10 - Brainwave Jr.
+tvdb_episode:361868_1_11  # Stargirl S01E11 - Shining Knight
+tvdb_episode:361868_1_12  # Stargirl S01E12 - Stars & S.T.R.I.P.E. (1)
+tvdb_episode:361868_1_13  # Stargirl S01E13 - Stars & S.T.R.I.P.E. (2)
+tvdb_episode:361315_2_1  # Batwoman S02E01 - What Happened to Kate Kane?
+tvdb_episode:361315_2_2  # Batwoman S02E02 - Prior Criminal History
+tvdb_episode:361315_2_3  # Batwoman S02E03 - Bat Girl Magic!
+tvdb_episode:332525_4_1  # Black Lightning S04E01 - The Book of Reconstruction: Chapter One: Collateral Damage
+tvdb_episode:361315_2_4  # Batwoman S02E04 - Fair Skin, Blue Eyes
+tvdb_episode:332525_4_2  # Black Lightning S04E02 - The Book of Reconstruction: Chapter Two: Unacceptable Losses
+tvdb_episode:361315_2_5  # Batwoman S02E05 - Gore on Canvas
+tvdb_episode:332525_4_3  # Black Lightning S04E03 - The Book of Reconstruction: Chapter Three: Despite All My Rage...
+tvdb_episode:375655_1_1  # Superman & Lois S01E01 - Pilot
+tvdb_episode:361315_2_6  # Batwoman S02E06 - Do Not Resuscitate
+tvdb_episode:332525_4_4  # Black Lightning S04E04 - The Book of Reconstruction: Chapter Four: A Light in the Darkness
+tvdb_episode:279121_7_1  # The Flash S07E01 - All's Wells That Ends Wells
+tvdb_episode:375655_1_2  # Superman & Lois S01E02 - Heritage
+tvdb_episode:332525_4_5  # Black Lightning S04E05 - The Book of Ruin: Chapter One: Picking Up the Pieces
+tvdb_episode:279121_7_2  # The Flash S07E02 - The Speed of Thought
+tvdb_episode:375655_1_3  # Superman & Lois S01E03 - The Perks of Not Being a Wallflower
+tvdb_episode:361315_2_7  # Batwoman S02E07 - It's Best You Stop Digging
+tvdb_episode:332525_4_6  # Black Lightning S04E06 - The Book of Ruin: Chapter Two: Theseus's Ship
+tvdb_episode:279121_7_3  # The Flash S07E03 - Mother
+tvdb_episode:375655_1_4  # Superman & Lois S01E04 - Haywire
+tvdb_episode:361315_2_8  # Batwoman S02E08 - Survived Much Worse
+tvdb_episode:279121_7_4  # The Flash S07E04 - Central City Strong
+tvdb_episode:375655_1_5  # Superman & Lois S01E05 - The Best of Smallville
+tvdb_episode:361315_2_9  # Batwoman S02E09 - Rule #1
+tvdb_episode:295759_6_1  # Supergirl S06E01 - Rebirth
+tvdb_episode:279121_7_5  # The Flash S07E05 - Fear Me
+tvdb_episode:295759_6_2  # Supergirl S06E02 - A Few Good Women
+tvdb_episode:279121_7_6  # The Flash S07E06 - The One With The Nineties
+tvdb_episode:361315_2_10  # Batwoman S02E10 - Time Off for Good Behavior
+tvdb_episode:332525_4_7  # Black Lightning S04E07 - Painkiller
+tvdb_episode:295759_6_3  # Supergirl S06E03 - Phantom Menaces
+tvdb_episode:279121_7_7  # The Flash S07E07 - Growing Pains
+tvdb_episode:361315_2_11  # Batwoman S02E11 - Arrive Alive
+tvdb_episode:332525_4_8  # Black Lightning S04E08 - The Book of Ruin: Chapter Three: Things Fall Apart
+tvdb_episode:295759_6_4  # Supergirl S06E04 - Lost Souls
+tvdb_episode:332525_4_9  # Black Lightning S04E09 - The Book of Ruin: Chapter Four: Lyding
+tvdb_episode:295759_6_5  # Supergirl S06E05 - Prom Night! (1)
+tvdb_episode:361315_2_12  # Batwoman S02E12 - Initiate Self-Destruct
+tvdb_episode:295760_6_1  # DC's Legends of Tomorrow S06E01 - Ground Control to Sara Lance
+tvdb_episode:332525_4_10  # Black Lightning S04E10 - The Book of Reunification: Chapter One: Revelations
+tvdb_episode:295759_6_6  # Supergirl S06E06 - Prom Again! (2)
+tvdb_episode:279121_7_8  # The Flash S07E08 - The People v. Killer Frost
+tvdb_episode:361315_2_13  # Batwoman S02E13 - I'll Give You a Clue
+tvdb_episode:295760_6_2  # DC's Legends of Tomorrow S06E02 - Meat: The Legends
+tvdb_episode:332525_4_11  # Black Lightning S04E11 - The Book of Reunification: Chapter Two: Trial and Errors
+tvdb_episode:295759_6_7  # Supergirl S06E07 - Fear Knot
+tvdb_episode:279121_7_9  # The Flash S07E09 - Timeless
+tvdb_episode:361315_2_14  # Batwoman S02E14 - And Justice for All
+tvdb_episode:295760_6_3  # DC's Legends of Tomorrow S06E03 - The Ex-Factor
+tvdb_episode:332525_4_12  # Black Lightning S04E12 - The Book of Resurrection: Chapter One: Crossroads
+tvdb_episode:279121_7_10  # The Flash S07E10 - Family Matters (1)
+tvdb_episode:375655_1_6  # Superman & Lois S01E06 - Broken Trust
+tvdb_episode:332525_4_13  # Black Lightning S04E13 - The Book of Resurrection: Chapter Two: Closure
+tvdb_episode:295760_6_4  # DC's Legends of Tomorrow S06E04 - Bay of Squids
+tvdb_episode:279121_7_11  # The Flash S07E11 - Family Matters (2)
+tvdb_episode:375655_1_7  # Superman & Lois S01E07 - Man of Steel
+tvdb_episode:375655_1_8  # Superman & Lois S01E08 - Holding the Wrench
+tvdb_episode:361315_2_15  # Batwoman S02E15 - Armed and Dangerous
+tvdb_episode:295760_6_5  # DC's Legends of Tomorrow S06E05 - The Satanist's Apprentice
+tvdb_episode:279121_7_12  # The Flash S07E12 - Good-Bye Vibrations
+tvdb_episode:375655_1_9  # Superman & Lois S01E09 - Loyal Subjekts
+tvdb_episode:361315_2_16  # Batwoman S02E16 - Rebirth
+tvdb_episode:295760_6_6  # DC's Legends of Tomorrow S06E06 - Bishop's Gambit
+tvdb_episode:279121_7_13  # The Flash S07E13 - Masquerade
+tvdb_episode:375655_1_10  # Superman & Lois S01E10 - O Mother, Where Art Thou?
+tvdb_episode:361315_2_17  # Batwoman S02E17 - Kane, Kate
+tvdb_episode:295760_6_7  # DC's Legends of Tomorrow S06E07 - Back to the Finale: Part II
+tvdb_episode:279121_7_14  # The Flash S07E14 - Rayo de Luz
+tvdb_episode:375655_1_11  # Superman & Lois S01E11 - A Brief Reminiscence In-Between Cataclysmic Events
+tvdb_episode:361315_2_18  # Batwoman S02E18 - Power
+tvdb_episode:295760_6_8  # DC's Legends of Tomorrow S06E08 - Stressed Western
+tvdb_episode:279121_7_15  # The Flash S07E15 - Enemy at the Gates
+tvdb_episode:279121_7_16  # The Flash S07E16 - P.O.W.
+tvdb_episode:295760_6_9  # DC's Legends of Tomorrow S06E09 - This Is Gus
+tvdb_episode:279121_7_17  # The Flash S07E17 - Heart of the Matter (1)
+tvdb_episode:375655_1_12  # Superman & Lois S01E12 - Through the Valley of Death
+tvdb_episode:295760_6_10  # DC's Legends of Tomorrow S06E10 - Bad Blood
+tvdb_episode:279121_7_18  # The Flash S07E18 - Heart of the Matter (2)
+tvdb_episode:375655_1_13  # Superman & Lois S01E13 - Fail Safe
+tvdb_episode:295760_6_11  # DC's Legends of Tomorrow S06E11 - The Final Frame
+tvdb_episode:361868_2_1  # Stargirl S02E01 - Summer School: Chapter One
+tvdb_episode:375655_1_14  # Superman & Lois S01E14 - The Eradicator
+tvdb_episode:295760_6_12  # DC's Legends of Tomorrow S06E12 - Bored on Board Onboard
+tvdb_episode:361868_2_2  # Stargirl S02E02 - Summer School: Chapter Two
+tvdb_episode:375655_1_15  # Superman & Lois S01E15 - Last Sons of Krypton
+tvdb_episode:295760_6_13  # DC's Legends of Tomorrow S06E13 - Silence of the Sonograms
+tvdb_episode:295759_6_8  # Supergirl S06E08 - Welcome Back, Kara
+tvdb_episode:361868_2_3  # Stargirl S02E03 - Summer School: Chapter Three
+tvdb_episode:295760_6_14  # DC's Legends of Tomorrow S06E14 - There Will Be Brood
+tvdb_episode:295759_6_9  # Supergirl S06E09 - Dream Weaver
+tvdb_episode:361868_2_4  # Stargirl S02E04 - Summer School: Chapter Four
+tvdb_episode:295760_6_15  # DC's Legends of Tomorrow S06E15 - The Fungus Amongus
+tvdb_episode:295759_6_10  # Supergirl S06E10 - Still I Rise
+tvdb_episode:361868_2_5  # Stargirl S02E05 - Summer School: Chapter Five
+tvdb_episode:295759_6_11  # Supergirl S06E11 - Mxy in the Middle
+tvdb_episode:361868_2_6  # Stargirl S02E06 - Summer School: Chapter Six
+tvdb_episode:295759_6_12  # Supergirl S06E12 - Blind Spots
+tvdb_episode:361868_2_7  # Stargirl S02E07 - Summer School: Chapter Seven
+tvdb_episode:295759_6_13  # Supergirl S06E13 - The Gauntlet
+tvdb_episode:361868_2_8  # Stargirl S02E08 - Summer School: Chapter Eight
+tvdb_episode:295759_6_14  # Supergirl S06E14 - Magical Thinking
+tvdb_episode:361868_2_9  # Stargirl S02E09 - Summer School: Chapter Nine
+tvdb_episode:295759_6_15  # Supergirl S06E15 - Hope for Tomorrow
+tvdb_episode:361868_2_10  # Stargirl S02E10 - Summer School: Chapter Ten
+tvdb_episode:361315_3_1  # Batwoman S03E01 - Mad as a Hatter
+tvdb_episode:295760_7_1  # DC's Legends of Tomorrow S07E01 - The Bullet Blondes
+tvdb_episode:295759_6_16  # Supergirl S06E16 - Nightmare in National City
+tvdb_episode:361868_2_11  # Stargirl S02E11 - Summer School: Chapter Eleven
+tvdb_episode:361315_3_2  # Batwoman S03E02 - Loose Tooth
+tvdb_episode:295760_7_2  # DC's Legends of Tomorrow S07E02 - The Need for Speed
+tvdb_episode:295759_6_17  # Supergirl S06E17 - I Believe in a Thing Called Love
+tvdb_episode:361868_2_12  # Stargirl S02E12 - Summer School: Chapter Twelve
+tvdb_episode:361315_3_3  # Batwoman S03E03 - Freeze
+tvdb_episode:295760_7_3  # DC's Legends of Tomorrow S07E03 - wvrdr_error_100 oest-of-th3-gs.gid30n not found
+tvdb_episode:295759_6_18  # Supergirl S06E18 - Truth or Consequences
+tvdb_episode:361868_2_13  # Stargirl S02E13 - Summer School: Chapter Thirteen
+tvdb_episode:361315_3_4  # Batwoman S03E04 - Antifreeze
+tvdb_episode:295760_7_4  # DC's Legends of Tomorrow S07E04 - Speakeasy Does It
+tvdb_episode:295759_6_19  # Supergirl S06E19 - The Last Gauntlet
+tvdb_episode:295759_6_20  # Supergirl S06E20 - Kara
+tvdb_episode:361315_3_5  # Batwoman S03E05 - A Lesson from Professor Pyg
+tvdb_episode:295760_7_5  # DC's Legends of Tomorrow S07E05 - It's a Mad, Mad, Mad, Mad Scientist
+tvdb_episode:279121_8_1  # The Flash S08E01 - Armageddon (1)
+tvdb_episode:361315_3_6  # Batwoman S03E06 - How Does Your Garden Grow?
+tvdb_episode:295760_7_6  # DC's Legends of Tomorrow S07E06 - Deus Ex Latrina
+tvdb_episode:279121_8_2  # The Flash S08E02 - Armageddon (2)
+tvdb_episode:361315_3_7  # Batwoman S03E07 - Pick Your Poison
+tvdb_episode:295760_7_7  # DC's Legends of Tomorrow S07E07 - A Woman's Place is in the War Effort!
+tvdb_episode:279121_8_3  # The Flash S08E03 - Armageddon (3)
+tvdb_episode:279121_8_4  # The Flash S08E04 - Armageddon (4)
+tvdb_episode:279121_8_5  # The Flash S08E05 - Armageddon (5)
+tvdb_episode:375655_2_1  # Superman & Lois S02E01 - What Lies Beneath
+tvdb_episode:361315_3_8  # Batwoman S03E08 - Trust Destiny
+tvdb_episode:295760_7_8  # DC's Legends of Tomorrow S07E08 - Paranoid Android
+tvdb_episode:375655_2_2  # Superman & Lois S02E02 - The Ties That Bind
+tvdb_episode:361315_3_9  # Batwoman S03E09 - Meet Your Maker
+tvdb_episode:295760_7_9  # DC's Legends of Tomorrow S07E09 - Lowest Common Demoninator
+tvdb_episode:375655_2_3  # Superman & Lois S02E03 - The Thing In The Mines
+tvdb_episode:361315_3_10  # Batwoman S03E10 - Toxic
+tvdb_episode:295760_7_10  # DC's Legends of Tomorrow S07E10 - The Fixed Point
+tvdb_episode:375655_2_4  # Superman & Lois S02E04 - The Inverse Method
+tvdb_episode:361315_3_11  # Batwoman S03E11 - Broken Toys
+tvdb_episode:295760_7_11  # DC's Legends of Tomorrow S07E11 - Rage Against The Machines
+tvdb_episode:375655_2_5  # Superman & Lois S02E05 - Girl… You’ll Be A Woman, Soon
+tvdb_episode:361315_3_12  # Batwoman S03E12 - We're All Mad Here
+tvdb_episode:295760_7_12  # DC's Legends of Tomorrow S07E12 - Too Legit to Quit
+tvdb_episode:375655_2_6  # Superman & Lois S02E06 - Tried and True
+tvdb_episode:361315_3_13  # Batwoman S03E13 - We Having Fun Yet?
+tvdb_episode:295760_7_13  # DC's Legends of Tomorrow S07E13 - Knocked Down, Knocked Up
+tvdb_episode:375655_2_7  # Superman & Lois S02E07 - Anti-Hero
+tvdb_episode:279121_8_6  # The Flash S08E06 - Impulsive Excessive Disorder
+tvdb_episode:279121_8_7  # The Flash S08E07 - Lockdown
+tvdb_episode:375655_2_8  # Superman & Lois S02E08 - Into Oblivion
+tvdb_episode:279121_8_8  # The Flash S08E08 - The Fire Next Time
+tvdb_episode:375655_2_9  # Superman & Lois S02E09 - 30 Days and 30 Nights
+tvdb_episode:279121_8_9  # The Flash S08E09 - Phantoms
+tvdb_episode:279121_8_10  # The Flash S08E10 - Reckless
+tvdb_episode:279121_8_11  # The Flash S08E11 - Resurrection
+tvdb_episode:375655_2_10  # Superman & Lois S02E10 - Bizarros in a Bizarro World
+tvdb_episode:279121_8_12  # The Flash S08E12 - Death Rises
+tvdb_episode:375655_2_11  # Superman & Lois S02E11 - Truth and Consequences
+tvdb_episode:279121_8_13  # The Flash S08E13 - Death Falls
+tvdb_episode:279121_8_14  # The Flash S08E14 - Funeral for a Friend
+tvdb_episode:279121_8_15  # The Flash S08E15 - Into the Still Force
+tvdb_episode:279121_8_16  # The Flash S08E16 - The Curious Case of Bartholomew Allen
+tvdb_episode:375655_2_12  # Superman & Lois S02E12 - Lies That Bind
+tvdb_episode:375655_2_13  # Superman & Lois S02E13 - All is Lost
+tvdb_episode:279121_8_17  # The Flash S08E17 - Keep It Dark
+tvdb_episode:279121_8_18  # The Flash S08E18 - The Man in the Yellow Tie
+tvdb_episode:375655_2_14  # Superman & Lois S02E14 - Worlds War Bizarre
+tvdb_episode:279121_8_19  # The Flash S08E19 - Negative (1)
+tvdb_episode:375655_2_15  # Superman & Lois S02E15 - Waiting For Superman
+tvdb_episode:279121_8_20  # The Flash S08E20 - Negative (2)
+tvdb_episode:361868_3_1  # Stargirl S03E01 - Frenemies - Chapter One: The Murder
+tvdb_episode:361868_3_2  # Stargirl S03E02 - Frenemies - Chapter Two: The Suspects
+tvdb_episode:361868_3_3  # Stargirl S03E03 - Frenemies - Chapter Three: The Blackmail
+tvdb_episode:361868_3_4  # Stargirl S03E04 - Frenemies - Chapter Four: The Evidence
+tvdb_episode:361868_3_5  # Stargirl S03E05 - Frenemies - Chapter Five: The Thief
+tvdb_episode:361868_3_6  # Stargirl S03E06 - Frenemies - Chapter Six: The Betrayal
+tvdb_episode:361868_3_7  # Stargirl S03E07 - Frenemies - Chapter Seven: Infinity Inc. (1)
+tvdb_episode:361868_3_8  # Stargirl S03E08 - Frenemies - Chapter Eight: Infinity Inc. (2)
+tvdb_episode:361868_3_9  # Stargirl S03E09 - Frenemies - Chapter Nine: The Monsters
+tvdb_episode:361868_3_10  # Stargirl S03E10 - Frenemies - Chapter Ten: The Killer
+tvdb_episode:361868_3_11  # Stargirl S03E11 - Frenemies - Chapter Eleven: The Haunting
+tvdb_episode:361868_3_12  # Stargirl S03E12 - Frenemies - Chapter Twelve: The Last Will and Testament of Sylvester Pemberton
+tvdb_episode:361868_3_13  # Stargirl S03E13 - Frenemies - Chapter Thirteen: The Reckoning
+tvdb_episode:279121_9_1  # The Flash S09E01 - Wednesday Ever After
+tvdb_episode:279121_9_2  # The Flash S09E02 - Hear No Evil
+tvdb_episode:279121_9_3  # The Flash S09E03 - Rogues of War
+tvdb_episode:279121_9_4  # The Flash S09E04 - Mask of the Red Death (1)
+tvdb_episode:279121_9_5  # The Flash S09E05 - Mask of the Red Death (2)
+tvdb_episode:375655_3_1  # Superman & Lois S03E01 - Closer
+tvdb_episode:279121_9_6  # The Flash S09E06 - The Good, The Bad and The Lucky
+tvdb_episode:375655_3_2  # Superman & Lois S03E02 - Uncontrollable Force
+tvdb_episode:375655_3_3  # Superman & Lois S03E03 - In Cold Blood
+tvdb_episode:279121_9_7  # The Flash S09E07 - Wildest Dreams
+tvdb_episode:375655_3_4  # Superman & Lois S03E04 - Too Close To Home
+tvdb_episode:279121_9_8  # The Flash S09E08 - Partners in Time
+tvdb_episode:375655_3_5  # Superman & Lois S03E05 - Head On
+tvdb_episode:375655_3_6  # Superman & Lois S03E06 - Of Sound Mind
+tvdb_episode:279121_9_9  # The Flash S09E09 - It's My Party and I'll Die If I Want To
+tvdb_episode:375655_3_7  # Superman & Lois S03E07 - Forever And Always
+tvdb_episode:279121_9_10  # The Flash S09E10 - A New World (1)
+tvdb_episode:375655_3_8  # Superman & Lois S03E08 - Guess Who's Coming To Dinner
+tvdb_episode:279121_9_11  # The Flash S09E11 - A New World (2)
+tvdb_episode:279121_9_12  # The Flash S09E12 - A New World (3)
+tvdb_episode:375655_3_9  # Superman & Lois S03E09 - The Dress
+tvdb_episode:279121_9_13  # The Flash S09E13 - A New World (4)
+tvdb_episode:375655_3_10  # Superman & Lois S03E10 - Collision Course
+tvdb_episode:375655_3_11  # Superman & Lois S03E11 - Complications
+tvdb_episode:375655_3_12  # Superman & Lois S03E12 - Injustice
+tvdb_episode:375655_3_13  # Superman & Lois S03E13 - What Kills You Only Makes You Stronger
+tvdb_episode:375655_4_1  # Superman & Lois S04E01 - The End & The Beginning
+tvdb_episode:375655_4_2  # Superman & Lois S04E02 - A World Without
+tvdb_episode:375655_4_3  # Superman & Lois S04E03 - Always My Hero
+tvdb_episode:375655_4_4  # Superman & Lois S04E04 - A Perfectly Good Wedding
+tvdb_episode:375655_4_5  # Superman & Lois S04E05 - Break the Cycle
+tvdb_episode:375655_4_6  # Superman & Lois S04E06 - When the Lights Come On
+tvdb_episode:375655_4_7  # Superman & Lois S04E07 - A Regular Guy
+tvdb_episode:375655_4_8  # Superman & Lois S04E08 - Sharp Dressed Man
+tvdb_episode:375655_4_9  # Superman & Lois S04E09 - To Live and Die Again
+tvdb_episode:375655_4_10  # Superman & Lois S04E10 - It Went by So Fast
