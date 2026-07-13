@@ -1,4 +1,5 @@
-# Last updated: 2026-06-28
+﻿# Last updated: 2026-07-14
+# Scope: The complete One Chicago franchise: Chicago Fire, Chicago P.D., Chicago Med, and Chicago Justice.
 # Based on community list: https://docs.google.com/spreadsheets/d/1d6nnW_I3qrWUujOXi1Db2717wUKX86J4wRZdGOYPDog
 tvdb_episode:258541_1_1  # Chicago Fire S01E01 - Pilot
 tvdb_episode:258541_1_2  # Chicago Fire S01E02 - Mon Amour
