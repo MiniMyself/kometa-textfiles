@@ -1,0 +1,839 @@
+# Last updated: 2026-07-13
+# Scope: CSI: Crime Scene Investigation, CSI: Miami, CSI: NY, CSI: Cyber, and CSI: Vegas. The CSI series-finale TV-movie "Immortality" is excluded.
+# Ordered by actual air date and time per TVmaze (airtimes verified per episode)
+tvdb_episode:72546_1_1  # CSI S01E01 - Pilot
+tvdb_episode:72546_1_2  # CSI S01E02 - Cool Change
+tvdb_episode:72546_1_3  # CSI S01E03 - Crate 'n Burial
+tvdb_episode:72546_1_4  # CSI S01E04 - Pledging Mr. Johnson
+tvdb_episode:72546_1_5  # CSI S01E05 - Friends & Lovers
+tvdb_episode:72546_1_6  # CSI S01E06 - Who Are You?
+tvdb_episode:72546_1_7  # CSI S01E07 - Blood Drops
+tvdb_episode:72546_1_8  # CSI S01E08 - Anonymous
+tvdb_episode:72546_1_9  # CSI S01E09 - Unfriendly Skies
+tvdb_episode:72546_1_10  # CSI S01E10 - Sex, Lies and Larvae
+tvdb_episode:72546_1_11  # CSI S01E11 - I-15 Murders
+tvdb_episode:72546_1_12  # CSI S01E12 - Fahrenheit 932
+tvdb_episode:72546_1_13  # CSI S01E13 - Boom
+tvdb_episode:72546_1_14  # CSI S01E14 - To Halve and to Hold
+tvdb_episode:72546_1_15  # CSI S01E15 - Table Stakes
+tvdb_episode:72546_1_16  # CSI S01E16 - Too Tough to Die
+tvdb_episode:72546_1_17  # CSI S01E17 - Face Lift
+tvdb_episode:72546_1_18  # CSI S01E18 - $35K O.B.O.
+tvdb_episode:72546_1_19  # CSI S01E19 - Gentle, Gentle
+tvdb_episode:72546_1_20  # CSI S01E20 - Sounds of Silence
+tvdb_episode:72546_1_21  # CSI S01E21 - Justice Is Served
+tvdb_episode:72546_1_22  # CSI S01E22 - Evaluation Day
+tvdb_episode:72546_1_23  # CSI S01E23 - The Strip Strangler
+tvdb_episode:72546_2_1  # CSI S02E01 - Burked
+tvdb_episode:72546_2_2  # CSI S02E02 - Chaos Theory
+tvdb_episode:72546_2_3  # CSI S02E03 - Overload
+tvdb_episode:72546_2_4  # CSI S02E04 - Bully for You
+tvdb_episode:72546_2_5  # CSI S02E05 - Scuba Doobie-Doo
+tvdb_episode:72546_2_6  # CSI S02E06 - Alter Boys
+tvdb_episode:72546_2_7  # CSI S02E07 - Caged
+tvdb_episode:72546_2_8  # CSI S02E08 - Slaves of Las Vegas
+tvdb_episode:72546_2_9  # CSI S02E09 - And Then There Were None
+tvdb_episode:72546_2_10  # CSI S02E10 - Ellie
+tvdb_episode:72546_2_11  # CSI S02E11 - Organ Grinder
+tvdb_episode:72546_2_12  # CSI S02E12 - You've Got Male
+tvdb_episode:72546_2_13  # CSI S02E13 - Identity Crisis
+tvdb_episode:72546_2_14  # CSI S02E14 - The Finger
+tvdb_episode:72546_2_15  # CSI S02E15 - Burden of Proof
+tvdb_episode:72546_2_16  # CSI S02E16 - Primum Non Nocere
+tvdb_episode:72546_2_17  # CSI S02E17 - Felonius Monk
+tvdb_episode:72546_2_18  # CSI S02E18 - Chasing the Bus
+tvdb_episode:72546_2_19  # CSI S02E19 - Stalker
+tvdb_episode:72546_2_20  # CSI S02E20 - Cats in the Cradle
+tvdb_episode:72546_2_21  # CSI S02E21 - Anatomy of a Lye
+tvdb_episode:72546_2_22  # CSI S02E22 - Cross-Jurisdictions
+tvdb_episode:72546_2_23  # CSI S02E23 - The Hunger Artist
+tvdb_episode:78310_1_1  # CSI: Miami S01E01 - Golden Parachute
+tvdb_episode:72546_3_1  # CSI S03E01 - Revenge Is Best Served Cold
+tvdb_episode:78310_1_2  # CSI: Miami S01E02 - Losing Face
+tvdb_episode:72546_3_2  # CSI S03E02 - The Accused Is Entitled
+tvdb_episode:78310_1_3  # CSI: Miami S01E03 - Wet Foot/Dry Foot
+tvdb_episode:72546_3_3  # CSI S03E03 - Let the Seller Beware
+tvdb_episode:78310_1_4  # CSI: Miami S01E04 - Just One Kiss
+tvdb_episode:72546_3_4  # CSI S03E04 - A Little Murder
+tvdb_episode:78310_1_5  # CSI: Miami S01E05 - Ashes to Ashes
+tvdb_episode:78310_1_6  # CSI: Miami S01E06 - Broken
+tvdb_episode:72546_3_5  # CSI S03E05 - Abra Cadaver
+tvdb_episode:78310_1_7  # CSI: Miami S01E07 - Breathless
+tvdb_episode:72546_3_6  # CSI S03E06 - The Execution of Catherine Willows
+tvdb_episode:78310_1_8  # CSI: Miami S01E08 - Slaughterhouse
+tvdb_episode:72546_3_7  # CSI S03E07 - Fight Night
+tvdb_episode:78310_1_9  # CSI: Miami S01E09 - Kill Zone
+tvdb_episode:72546_3_8  # CSI S03E08 - Snuff
+tvdb_episode:78310_1_10  # CSI: Miami S01E10 - A Horrible Mind
+tvdb_episode:72546_3_9  # CSI S03E09 - Blood Lust
+tvdb_episode:72546_3_10  # CSI S03E10 - High and Low
+tvdb_episode:78310_1_11  # CSI: Miami S01E11 - Camp Fear
+tvdb_episode:78310_1_12  # CSI: Miami S01E12 - Entrance Wound
+tvdb_episode:72546_3_11  # CSI S03E11 - Recipe for Murder
+tvdb_episode:72546_3_12  # CSI S03E12 - Got Murder?
+tvdb_episode:78310_1_13  # CSI: Miami S01E13 - Bunk
+tvdb_episode:72546_3_13  # CSI S03E13 - Random Acts of Violence
+tvdb_episode:78310_1_14  # CSI: Miami S01E14 - Forced Entry
+tvdb_episode:72546_3_14  # CSI S03E14 - One Hit Wonder
+tvdb_episode:78310_1_15  # CSI: Miami S01E15 - Dead Woman Walking
+tvdb_episode:72546_3_15  # CSI S03E15 - Lady Heather's Box
+tvdb_episode:78310_1_16  # CSI: Miami S01E16 - Evidence of Things Unseen
+tvdb_episode:72546_3_16  # CSI S03E16 - Lucky Strike
+tvdb_episode:78310_1_17  # CSI: Miami S01E17 - Simple Man
+tvdb_episode:78310_1_18  # CSI: Miami S01E18 - Dispo Day
+tvdb_episode:72546_3_17  # CSI S03E17 - Crash and Burn
+tvdb_episode:78310_1_19  # CSI: Miami S01E19 - Double Cap
+tvdb_episode:72546_3_18  # CSI S03E18 - Precious Metal
+tvdb_episode:72546_3_19  # CSI S03E19 - A Night at the Movies
+tvdb_episode:78310_1_20  # CSI: Miami S01E20 - Grave Young Men
+tvdb_episode:72546_3_20  # CSI S03E20 - Last Laugh
+tvdb_episode:78310_1_21  # CSI: Miami S01E21 - Spring Break
+tvdb_episode:72546_3_21  # CSI S03E21 - Forever
+tvdb_episode:78310_1_22  # CSI: Miami S01E22 - Tinder Box
+tvdb_episode:72546_3_22  # CSI S03E22 - Play with Fire
+tvdb_episode:78310_1_23  # CSI: Miami S01E23 - Freaks and Tweaks
+tvdb_episode:72546_3_23  # CSI S03E23 - Inside the Box
+tvdb_episode:78310_1_24  # CSI: Miami S01E24 - Body Count
+tvdb_episode:78310_2_1  # CSI: Miami S02E01 - Blood Brothers
+tvdb_episode:72546_4_1  # CSI S04E01 - Assume Nothing
+tvdb_episode:78310_2_2  # CSI: Miami S02E02 - Dead Zone
+tvdb_episode:72546_4_2  # CSI S04E02 - All for Our Country
+tvdb_episode:78310_2_3  # CSI: Miami S02E03 - Hard Time
+tvdb_episode:72546_4_3  # CSI S04E03 - Homebodies
+tvdb_episode:78310_2_4  # CSI: Miami S02E04 - Death Grip
+tvdb_episode:78310_2_5  # CSI: Miami S02E05 - The Best Defense
+tvdb_episode:72546_4_4  # CSI S04E04 - Feeling the Heat
+tvdb_episode:72546_4_5  # CSI S04E05 - Fur and Loathing
+tvdb_episode:78310_2_6  # CSI: Miami S02E06 - Hurricane Anthony
+tvdb_episode:72546_4_6  # CSI S04E06 - Jackpot
+tvdb_episode:78310_2_7  # CSI: Miami S02E07 - Grand Prix
+tvdb_episode:72546_4_7  # CSI S04E07 - Invisible Evidence
+tvdb_episode:78310_2_8  # CSI: Miami S02E08 - Big Brother
+tvdb_episode:72546_4_8  # CSI S04E08 - After the Show
+tvdb_episode:78310_2_9  # CSI: Miami S02E09 - Bait
+tvdb_episode:72546_4_9  # CSI S04E09 - Grissom Versus the Volcano
+tvdb_episode:78310_2_10  # CSI: Miami S02E10 - Extreme
+tvdb_episode:72546_4_10  # CSI S04E10 - Coming of Rage
+tvdb_episode:78310_2_11  # CSI: Miami S02E11 - Complications
+tvdb_episode:72546_4_11  # CSI S04E11 - Eleven Angry Jurors
+tvdb_episode:78310_2_12  # CSI: Miami S02E12 - Witness to Murder
+tvdb_episode:72546_4_12  # CSI S04E12 - Butterflied
+tvdb_episode:78310_2_13  # CSI: Miami S02E13 - Blood Moon
+tvdb_episode:72546_4_13  # CSI S04E13 - Suckers
+tvdb_episode:78310_2_14  # CSI: Miami S02E14 - Slow Burn
+tvdb_episode:72546_4_14  # CSI S04E14 - Paper or Plastic?
+tvdb_episode:78310_2_15  # CSI: Miami S02E15 - Stalkerazzi
+tvdb_episode:72546_4_15  # CSI S04E15 - Early Rollout
+tvdb_episode:78310_2_16  # CSI: Miami S02E16 - Invasion
+tvdb_episode:72546_4_16  # CSI S04E16 - Getting Off
+tvdb_episode:78310_2_17  # CSI: Miami S02E17 - Money for Nothing
+tvdb_episode:72546_4_17  # CSI S04E17 - XX
+tvdb_episode:78310_2_18  # CSI: Miami S02E18 - Wannabe
+tvdb_episode:78310_2_19  # CSI: Miami S02E19 - Deadline
+tvdb_episode:72546_4_18  # CSI S04E18 - Bad to the Bone
+tvdb_episode:72546_4_19  # CSI S04E19 - Bad Words
+tvdb_episode:78310_2_20  # CSI: Miami S02E20 - The Oath
+tvdb_episode:72546_4_20  # CSI S04E20 - Dead Ringer
+tvdb_episode:78310_2_21  # CSI: Miami S02E21 - Not Landing
+tvdb_episode:72546_4_21  # CSI S04E21 - Turn of the Screws
+tvdb_episode:78310_2_22  # CSI: Miami S02E22 - Rap Sheet
+tvdb_episode:72546_4_22  # CSI S04E22 - No More Bets
+tvdb_episode:78310_2_23  # CSI: Miami S02E23 - MIA/NYC - NonStop
+tvdb_episode:72546_4_23  # CSI S04E23 - Bloodlines
+tvdb_episode:78310_2_24  # CSI: Miami S02E24 - Innocent
+tvdb_episode:78310_3_1  # CSI: Miami S03E01 - Lost Son
+tvdb_episode:73696_1_1  # CSI: NY S01E01 - Blink
+tvdb_episode:72546_5_1  # CSI S05E01 - Viva Las Vegas
+tvdb_episode:78310_3_2  # CSI: Miami S03E02 - Pro Per
+tvdb_episode:73696_1_2  # CSI: NY S01E02 - Creatures of the Night
+tvdb_episode:78310_3_3  # CSI: Miami S03E03 - Under the Influence
+tvdb_episode:73696_1_3  # CSI: NY S01E03 - American Dreamers
+tvdb_episode:72546_5_2  # CSI S05E02 - Down the Drain
+tvdb_episode:78310_3_4  # CSI: Miami S03E04 - Murder in a Flash
+tvdb_episode:72546_5_3  # CSI S05E03 - Harvest
+tvdb_episode:78310_3_5  # CSI: Miami S03E05 - Legal
+tvdb_episode:72546_5_4  # CSI S05E04 - Crow's Feet
+tvdb_episode:78310_3_6  # CSI: Miami S03E06 - Hell Night
+tvdb_episode:73696_1_4  # CSI: NY S01E04 - Grand Master
+tvdb_episode:72546_5_5  # CSI S05E05 - Swap Meet
+tvdb_episode:73696_1_5  # CSI: NY S01E05 - A Man a Mile
+tvdb_episode:72546_5_6  # CSI S05E06 - What's Eating Gilbert Grissom
+tvdb_episode:78310_3_7  # CSI: Miami S03E07 - Crime Wave
+tvdb_episode:73696_1_6  # CSI: NY S01E06 - Outside Man
+tvdb_episode:72546_5_7  # CSI S05E07 - Formalities
+tvdb_episode:78310_3_8  # CSI: Miami S03E08 - Speed Kills
+tvdb_episode:73696_1_7  # CSI: NY S01E07 - Rain
+tvdb_episode:72546_5_8  # CSI S05E08 - Ch-Ch-Changes
+tvdb_episode:78310_3_9  # CSI: Miami S03E09 - Pirated
+tvdb_episode:73696_1_8  # CSI: NY S01E08 - Three Generations Are Enough
+tvdb_episode:72546_5_9  # CSI S05E09 - Mea Culpa
+tvdb_episode:78310_3_10  # CSI: Miami S03E10 - After the Fall
+tvdb_episode:73696_1_9  # CSI: NY S01E09 - Officer Blue
+tvdb_episode:72546_5_10  # CSI S05E10 - No Humans Involved
+tvdb_episode:78310_3_11  # CSI: Miami S03E11 - Addiction
+tvdb_episode:73696_1_10  # CSI: NY S01E10 - Night, Mother
+tvdb_episode:78310_3_12  # CSI: Miami S03E12 - Shootout
+tvdb_episode:73696_1_11  # CSI: NY S01E11 - Tri-Borough
+tvdb_episode:72546_5_11  # CSI S05E11 - Who Shot Sherlock?
+tvdb_episode:73696_1_12  # CSI: NY S01E12 - Recycling
+tvdb_episode:72546_5_12  # CSI S05E12 - Snakes
+tvdb_episode:78310_3_13  # CSI: Miami S03E13 - Cop Killer
+tvdb_episode:73696_1_13  # CSI: NY S01E13 - Tanglewood
+tvdb_episode:72546_5_13  # CSI S05E13 - Nesting Dolls
+tvdb_episode:78310_3_14  # CSI: Miami S03E14 - One Night Stand
+tvdb_episode:73696_1_14  # CSI: NY S01E14 - Blood, Sweat & Tears
+tvdb_episode:72546_5_14  # CSI S05E14 - Unbearable
+tvdb_episode:78310_3_15  # CSI: Miami S03E15 - Identity
+tvdb_episode:73696_1_15  # CSI: NY S01E15 - 'Til Death Do We Part
+tvdb_episode:72546_5_15  # CSI S05E15 - King Baby
+tvdb_episode:78310_3_16  # CSI: Miami S03E16 - Nothing to Lose
+tvdb_episode:73696_1_16  # CSI: NY S01E16 - Hush
+tvdb_episode:72546_5_16  # CSI S05E16 - Big Middle
+tvdb_episode:73696_1_17  # CSI: NY S01E17 - The Fall
+tvdb_episode:78310_3_17  # CSI: Miami S03E17 - Money Plane
+tvdb_episode:72546_5_17  # CSI S05E17 - Compulsion
+tvdb_episode:78310_3_18  # CSI: Miami S03E18 - Game Over
+tvdb_episode:73696_1_18  # CSI: NY S01E18 - The Dove Commission
+tvdb_episode:72546_5_18  # CSI S05E18 - Spark of Life
+tvdb_episode:78310_3_19  # CSI: Miami S03E19 - Sex & Taxes
+tvdb_episode:73696_1_19  # CSI: NY S01E19 - Crime and Misdemeanor
+tvdb_episode:72546_5_19  # CSI S05E19 - 4x4
+tvdb_episode:78310_3_20  # CSI: Miami S03E20 - Killer Date
+tvdb_episode:72546_5_20  # CSI S05E20 - Hollywood Brass
+tvdb_episode:73696_1_20  # CSI: NY S01E20 - Supply and Demand
+tvdb_episode:72546_5_21  # CSI S05E21 - Committed
+tvdb_episode:78310_3_21  # CSI: Miami S03E21 - Recoil
+tvdb_episode:73696_1_21  # CSI: NY S01E21 - On the Job
+tvdb_episode:72546_5_22  # CSI S05E22 - Weeping Willows
+tvdb_episode:78310_3_22  # CSI: Miami S03E22 - Vengeance
+tvdb_episode:73696_1_22  # CSI: NY S01E22 - The Closer
+tvdb_episode:72546_5_23  # CSI S05E23 - Iced
+tvdb_episode:78310_3_23  # CSI: Miami S03E23 - Whacked
+tvdb_episode:73696_1_23  # CSI: NY S01E23 - What You See is What You See
+tvdb_episode:72546_5_24  # CSI S05E24 - Grave Danger (1)
+tvdb_episode:72546_5_25  # CSI S05E25 - Grave Danger (2)
+tvdb_episode:78310_3_24  # CSI: Miami S03E24 - 10-7
+tvdb_episode:78310_4_1  # CSI: Miami S04E01 - From the Grave
+tvdb_episode:72546_6_1  # CSI S06E01 - Bodies in Motion
+tvdb_episode:78310_4_2  # CSI: Miami S04E02 - Blood in the Water
+tvdb_episode:73696_2_1  # CSI: NY S02E01 - Summer in the City
+tvdb_episode:72546_6_2  # CSI S06E02 - Room Service
+tvdb_episode:78310_4_3  # CSI: Miami S04E03 - Prey
+tvdb_episode:73696_2_2  # CSI: NY S02E02 - Grand Murder at Central Station
+tvdb_episode:72546_6_3  # CSI S06E03 - Bite Me
+tvdb_episode:78310_4_4  # CSI: Miami S04E04 - 48 Hours to Life
+tvdb_episode:73696_2_3  # CSI: NY S02E03 - Zoo York
+tvdb_episode:72546_6_4  # CSI S06E04 - Shooting Stars
+tvdb_episode:78310_4_5  # CSI: Miami S04E05 - Three-Way
+tvdb_episode:73696_2_4  # CSI: NY S02E04 - Corporate Warriors
+tvdb_episode:72546_6_5  # CSI S06E05 - Gum Drops
+tvdb_episode:78310_4_6  # CSI: Miami S04E06 - Under Suspicion
+tvdb_episode:73696_2_5  # CSI: NY S02E05 - Dancing with the Fishes
+tvdb_episode:73696_2_6  # CSI: NY S02E06 - YoungBlood
+tvdb_episode:72546_6_6  # CSI S06E06 - Secrets and Flies
+tvdb_episode:78310_4_7  # CSI: Miami S04E07 - Felony Flight
+tvdb_episode:73696_2_7  # CSI: NY S02E07 - Manhattan Manhunt
+tvdb_episode:72546_6_7  # CSI S06E07 - A Bullet Runs Through It (1)
+tvdb_episode:78310_4_8  # CSI: Miami S04E08 - Nailed
+tvdb_episode:73696_2_8  # CSI: NY S02E08 - Bad Beat
+tvdb_episode:72546_6_8  # CSI S06E08 - A Bullet Runs Through It (2)
+tvdb_episode:78310_4_9  # CSI: Miami S04E09 - Urban Hellraisers
+tvdb_episode:73696_2_9  # CSI: NY S02E09 - City of the Dolls
+tvdb_episode:72546_6_9  # CSI S06E09 - Dog Eat Dog
+tvdb_episode:78310_4_10  # CSI: Miami S04E10 - Shattered
+tvdb_episode:73696_2_10  # CSI: NY S02E10 - Jamalot
+tvdb_episode:72546_6_10  # CSI S06E10 - Still Life
+tvdb_episode:73696_2_11  # CSI: NY S02E11 - Trapped
+tvdb_episode:78310_4_11  # CSI: Miami S04E11 - Payback
+tvdb_episode:72546_6_11  # CSI S06E11 - Werewolves
+tvdb_episode:78310_4_12  # CSI: Miami S04E12 - The Score
+tvdb_episode:73696_2_12  # CSI: NY S02E12 - Wasted
+tvdb_episode:72546_6_12  # CSI S06E12 - Daddy's Little Girl
+tvdb_episode:78310_4_13  # CSI: Miami S04E13 - Silencer
+tvdb_episode:73696_2_13  # CSI: NY S02E13 - Risk
+tvdb_episode:72546_6_13  # CSI S06E13 - Kiss Kiss Bye Bye
+tvdb_episode:78310_4_14  # CSI: Miami S04E14 - Fade Out
+tvdb_episode:73696_2_14  # CSI: NY S02E14 - Stuck on You
+tvdb_episode:72546_6_14  # CSI S06E14 - Killer
+tvdb_episode:78310_4_15  # CSI: Miami S04E15 - Skeletons
+tvdb_episode:72546_6_15  # CSI S06E15 - Pirates of the Third Reich
+tvdb_episode:78310_4_16  # CSI: Miami S04E16 - Deviant
+tvdb_episode:73696_2_15  # CSI: NY S02E15 - Fare Game
+tvdb_episode:72546_6_16  # CSI S06E16 - Up in Smoke
+tvdb_episode:78310_4_17  # CSI: Miami S04E17 - Collision
+tvdb_episode:73696_2_16  # CSI: NY S02E16 - Cool Hunter
+tvdb_episode:72546_6_17  # CSI S06E17 - I Like to Watch
+tvdb_episode:78310_4_18  # CSI: Miami S04E18 - Double Jeopardy
+tvdb_episode:78310_4_19  # CSI: Miami S04E19 - Driven
+tvdb_episode:73696_2_17  # CSI: NY S02E17 - Necrophilia Americana
+tvdb_episode:73696_2_18  # CSI: NY S02E18 - Live or Let Die
+tvdb_episode:72546_6_18  # CSI S06E18 - The Unusual Suspect
+tvdb_episode:72546_6_19  # CSI S06E19 - Spellbound
+tvdb_episode:78310_4_20  # CSI: Miami S04E20 - Free Fall
+tvdb_episode:73696_2_19  # CSI: NY S02E19 - Super Men
+tvdb_episode:72546_6_20  # CSI S06E20 - Poppin' Tags
+tvdb_episode:73696_2_20  # CSI: NY S02E20 - Run Silent, Run Deep
+tvdb_episode:78310_4_21  # CSI: Miami S04E21 - Dead Air
+tvdb_episode:73696_2_21  # CSI: NY S02E21 - All Access
+tvdb_episode:72546_6_21  # CSI S06E21 - Rashomama
+tvdb_episode:78310_4_22  # CSI: Miami S04E22 - Open Water
+tvdb_episode:73696_2_22  # CSI: NY S02E22 - Stealing Home
+tvdb_episode:72546_6_22  # CSI S06E22 - Time of Your Death
+tvdb_episode:78310_4_23  # CSI: Miami S04E23 - Shock (1)
+tvdb_episode:73696_2_23  # CSI: NY S02E23 - Heroes
+tvdb_episode:72546_6_23  # CSI S06E23 - Bang Bang
+tvdb_episode:78310_4_24  # CSI: Miami S04E24 - Rampage (2)
+tvdb_episode:73696_2_24  # CSI: NY S02E24 - Charge of This Post
+tvdb_episode:72546_6_24  # CSI S06E24 - Way to Go
+tvdb_episode:78310_4_25  # CSI: Miami S04E25 - One of Our Own (3)
+tvdb_episode:78310_5_1  # CSI: Miami S05E01 - Rio (4)
+tvdb_episode:73696_3_1  # CSI: NY S03E01 - People with Money
+tvdb_episode:72546_7_1  # CSI S07E01 - Built to Kill (1)
+tvdb_episode:78310_5_2  # CSI: Miami S05E02 - Going Under
+tvdb_episode:73696_3_2  # CSI: NY S03E02 - Not What It Looks Like
+tvdb_episode:72546_7_2  # CSI S07E02 - Built to Kill (2)
+tvdb_episode:78310_5_3  # CSI: Miami S05E03 - Death Pool 100
+tvdb_episode:73696_3_3  # CSI: NY S03E03 - Love Run Cold
+tvdb_episode:72546_7_3  # CSI S07E03 - Toe Tags
+tvdb_episode:78310_5_4  # CSI: Miami S05E04 - If Looks Could Kill
+tvdb_episode:73696_3_4  # CSI: NY S03E04 - Hung Out to Dry
+tvdb_episode:72546_7_4  # CSI S07E04 - Fannysmackin'
+tvdb_episode:78310_5_5  # CSI: Miami S05E05 - Death Eminent
+tvdb_episode:73696_3_5  # CSI: NY S03E05 - Oedipus Hex
+tvdb_episode:72546_7_5  # CSI S07E05 - Double-Cross
+tvdb_episode:78310_5_6  # CSI: Miami S05E06 - Curse of the Coffin
+tvdb_episode:73696_3_6  # CSI: NY S03E06 - Open and Shut
+tvdb_episode:73696_3_7  # CSI: NY S03E07 - Murder Sings the Blues
+tvdb_episode:72546_7_6  # CSI S07E06 - Burn Out
+tvdb_episode:78310_5_7  # CSI: Miami S05E07 - High Octane
+tvdb_episode:73696_3_8  # CSI: NY S03E08 - Consequences
+tvdb_episode:72546_7_7  # CSI S07E07 - Post Mortem
+tvdb_episode:78310_5_8  # CSI: Miami S05E08 - Darkroom
+tvdb_episode:73696_3_9  # CSI: NY S03E09 - And Here's to You, Mrs. Azrael
+tvdb_episode:72546_7_8  # CSI S07E08 - Happenstance
+tvdb_episode:78310_5_9  # CSI: Miami S05E09 - Going, Going, Gone
+tvdb_episode:73696_3_10  # CSI: NY S03E10 - Sweet 16
+tvdb_episode:72546_7_9  # CSI S07E09 - Living Legend
+tvdb_episode:78310_5_10  # CSI: Miami S05E10 - Come As You Are
+tvdb_episode:73696_3_11  # CSI: NY S03E11 - Raising Shane
+tvdb_episode:72546_7_10  # CSI S07E10 - Loco Motives
+tvdb_episode:78310_5_11  # CSI: Miami S05E11 - Backstabbers
+tvdb_episode:73696_3_12  # CSI: NY S03E12 - Silent Night
+tvdb_episode:72546_7_11  # CSI S07E11 - Leaving Las Vegas
+tvdb_episode:78310_5_12  # CSI: Miami S05E12 - Internal Affairs
+tvdb_episode:73696_3_13  # CSI: NY S03E13 - Obsession
+tvdb_episode:72546_7_12  # CSI S07E12 - Sweet Jane
+tvdb_episode:78310_5_13  # CSI: Miami S05E13 - Throwing Heat
+tvdb_episode:73696_3_14  # CSI: NY S03E14 - The Lying Game
+tvdb_episode:72546_7_13  # CSI S07E13 - Redrum
+tvdb_episode:72546_7_14  # CSI S07E14 - Meet Market
+tvdb_episode:78310_5_14  # CSI: Miami S05E14 - No Man's Land (1)
+tvdb_episode:73696_3_15  # CSI: NY S03E15 - Some Buried Bones
+tvdb_episode:72546_7_15  # CSI S07E15 - Law of Gravity
+tvdb_episode:78310_5_15  # CSI: Miami S05E15 - Man Down (2)
+tvdb_episode:73696_3_16  # CSI: NY S03E16 - Heart of Glass
+tvdb_episode:72546_7_16  # CSI S07E16 - Monster in the Box
+tvdb_episode:78310_5_16  # CSI: Miami S05E16 - Broken Home
+tvdb_episode:73696_3_17  # CSI: NY S03E17 - The Ride-In
+tvdb_episode:72546_7_17  # CSI S07E17 - Fallen Idols
+tvdb_episode:78310_5_17  # CSI: Miami S05E17 - A Grizzly Murder
+tvdb_episode:73696_3_18  # CSI: NY S03E18 - Sleight Out of Hand
+tvdb_episode:78310_5_18  # CSI: Miami S05E18 - Triple Threat
+tvdb_episode:73696_3_19  # CSI: NY S03E19 - A Daze of Wine and Roaches
+tvdb_episode:72546_7_18  # CSI S07E18 - Empty Eyes
+tvdb_episode:72546_7_19  # CSI S07E19 - Big Shots
+tvdb_episode:78310_5_19  # CSI: Miami S05E19 - Bloodline
+tvdb_episode:73696_3_20  # CSI: NY S03E20 - What Schemes May Come
+tvdb_episode:72546_7_20  # CSI S07E20 - Lab Rats
+tvdb_episode:78310_5_20  # CSI: Miami S05E20 - Rush
+tvdb_episode:78310_5_21  # CSI: Miami S05E21 - Just Murdered
+tvdb_episode:73696_3_21  # CSI: NY S03E21 - Past Imperfect
+tvdb_episode:72546_7_21  # CSI S07E21 - Ending Happy
+tvdb_episode:78310_5_22  # CSI: Miami S05E22 - Burned
+tvdb_episode:73696_3_22  # CSI: NY S03E22 - Cold Reveal
+tvdb_episode:72546_7_22  # CSI S07E22 - Leapin' Lizards
+tvdb_episode:78310_5_23  # CSI: Miami S05E23 - Kill Switch
+tvdb_episode:73696_3_23  # CSI: NY S03E23 - ...Comes Around
+tvdb_episode:72546_7_23  # CSI S07E23 - The Good, the Bad & the Dominatrix
+tvdb_episode:78310_5_24  # CSI: Miami S05E24 - Born to Kill
+tvdb_episode:73696_3_24  # CSI: NY S03E24 - Snow Day
+tvdb_episode:72546_7_24  # CSI S07E24 - Living Doll
+tvdb_episode:78310_6_1  # CSI: Miami S06E01 - Dangerous Son
+tvdb_episode:73696_4_1  # CSI: NY S04E01 - Can You Hear Me Now?
+tvdb_episode:72546_8_1  # CSI S08E01 - Dead Doll
+tvdb_episode:78310_6_2  # CSI: Miami S06E02 - Cyber-lebrity
+tvdb_episode:73696_4_2  # CSI: NY S04E02 - The Deep
+tvdb_episode:72546_8_2  # CSI S08E02 - A La Cart
+tvdb_episode:78310_6_3  # CSI: Miami S06E03 - Inside Out
+tvdb_episode:73696_4_3  # CSI: NY S04E03 - You Only Die Once
+tvdb_episode:72546_8_3  # CSI S08E03 - Go To Hell
+tvdb_episode:78310_6_4  # CSI: Miami S06E04 - Bang, Bang, Your Debt
+tvdb_episode:73696_4_4  # CSI: NY S04E04 - Time's Up
+tvdb_episode:72546_8_4  # CSI S08E04 - The Case of the Cross-Dressing Carp
+tvdb_episode:78310_6_5  # CSI: Miami S06E05 - Deep Freeze
+tvdb_episode:73696_4_5  # CSI: NY S04E05 - Down the Rabbit Hole
+tvdb_episode:78310_6_6  # CSI: Miami S06E06 - Sunblock
+tvdb_episode:73696_4_6  # CSI: NY S04E06 - Boo
+tvdb_episode:72546_8_5  # CSI S08E05 - The Chick Chop Flick Shop
+tvdb_episode:78310_6_7  # CSI: Miami S06E07 - Chain Reaction
+tvdb_episode:73696_4_7  # CSI: NY S04E07 - Commuted Sentences
+tvdb_episode:72546_8_6  # CSI S08E06 - Who & What
+tvdb_episode:78310_6_8  # CSI: Miami S06E08 - Permanent Vacation
+tvdb_episode:73696_4_8  # CSI: NY S04E08 - Buzzkill
+tvdb_episode:72546_8_7  # CSI S08E07 - Goodbye & Good Luck
+tvdb_episode:78310_6_9  # CSI: Miami S06E09 - Stand Your Ground
+tvdb_episode:73696_4_9  # CSI: NY S04E09 - One Wedding and a Funeral
+tvdb_episode:72546_8_8  # CSI S08E08 - You Kill Me
+tvdb_episode:78310_6_10  # CSI: Miami S06E10 - CSI: My Nanny
+tvdb_episode:73696_4_10  # CSI: NY S04E10 - The Thing About Heroes...
+tvdb_episode:72546_8_9  # CSI S08E09 - Cockroaches
+tvdb_episode:78310_6_11  # CSI: Miami S06E11 - Guerillas in the Mist
+tvdb_episode:73696_4_11  # CSI: NY S04E11 - Child's Play
+tvdb_episode:72546_8_10  # CSI S08E10 - Lying Down with Dogs
+tvdb_episode:78310_6_12  # CSI: Miami S06E12 - Miami Confidential
+tvdb_episode:73696_4_12  # CSI: NY S04E12 - Happily Never After
+tvdb_episode:72546_8_11  # CSI S08E11 - Bull
+tvdb_episode:78310_6_13  # CSI: Miami S06E13 - Raising Caine
+tvdb_episode:73696_4_13  # CSI: NY S04E13 - All in the Family
+tvdb_episode:73696_4_14  # CSI: NY S04E14 - Playing with Matches
+tvdb_episode:78310_6_14  # CSI: Miami S06E14 - You May Now Kill The Bride
+tvdb_episode:78310_6_15  # CSI: Miami S06E15 - Ambush (1)
+tvdb_episode:78310_6_16  # CSI: Miami S06E16 - All In (2)
+tvdb_episode:73696_4_15  # CSI: NY S04E15 - DOA for a Day
+tvdb_episode:72546_8_12  # CSI S08E12 - Grissom's Divine Comedy
+tvdb_episode:73696_4_16  # CSI: NY S04E16 - Right Next Door
+tvdb_episode:72546_8_13  # CSI S08E13 - A Thousand Days on Earth
+tvdb_episode:73696_4_17  # CSI: NY S04E17 - Like Water for Murder
+tvdb_episode:78310_6_17  # CSI: Miami S06E17 - To Kill a Predator
+tvdb_episode:72546_8_14  # CSI S08E14 - Drops' Out
+tvdb_episode:78310_6_18  # CSI: Miami S06E18 - Tunnel Vision
+tvdb_episode:73696_4_18  # CSI: NY S04E18 - Admissions
+tvdb_episode:72546_8_15  # CSI S08E15 - The Theory of Everything
+tvdb_episode:78310_6_19  # CSI: Miami S06E19 - Rock and a Hard Place
+tvdb_episode:73696_4_19  # CSI: NY S04E19 - Personal Foul
+tvdb_episode:72546_8_16  # CSI S08E16 - Two and a Half Deaths
+tvdb_episode:78310_6_20  # CSI: Miami S06E20 - Down to the Wire
+tvdb_episode:73696_4_20  # CSI: NY S04E20 - Taxi
+tvdb_episode:72546_8_17  # CSI S08E17 - For Gedda
+tvdb_episode:78310_6_21  # CSI: Miami S06E21 - Going Ballistic (1)
+tvdb_episode:73696_4_21  # CSI: NY S04E21 - Hostage
+tvdb_episode:78310_7_1  # CSI: Miami S07E01 - Resurrection (2)
+tvdb_episode:73696_5_1  # CSI: NY S05E01 - Veritas
+tvdb_episode:78310_7_2  # CSI: Miami S07E02 - Won't Get Fueled Again
+tvdb_episode:73696_5_2  # CSI: NY S05E02 - Page Turner
+tvdb_episode:78310_7_3  # CSI: Miami S07E03 - And How Does That Make You Kill?
+tvdb_episode:73696_5_3  # CSI: NY S05E03 - Turbulence
+tvdb_episode:72546_9_1  # CSI S09E01 - For Warrick
+tvdb_episode:78310_7_4  # CSI: Miami S07E04 - Raging Cannibal
+tvdb_episode:72546_9_2  # CSI S09E02 - The Happy Place
+tvdb_episode:78310_7_5  # CSI: Miami S07E05 - Bombshell
+tvdb_episode:73696_5_4  # CSI: NY S05E04 - Sex, Lies and Silicone
+tvdb_episode:72546_9_3  # CSI S09E03 - Art Imitates Life
+tvdb_episode:73696_5_5  # CSI: NY S05E05 - The Cost of Living
+tvdb_episode:72546_9_4  # CSI S09E04 - Let It Bleed
+tvdb_episode:78310_7_6  # CSI: Miami S07E06 - Wrecking Crew
+tvdb_episode:73696_5_6  # CSI: NY S05E06 - Enough
+tvdb_episode:72546_9_5  # CSI S09E05 - Leave Out All the Rest
+tvdb_episode:78310_7_7  # CSI: Miami S07E07 - Cheating Death
+tvdb_episode:73696_5_7  # CSI: NY S05E07 - Dead Inside
+tvdb_episode:72546_9_6  # CSI S09E06 - Say Uncle
+tvdb_episode:78310_7_8  # CSI: Miami S07E08 - Gone Baby Gone
+tvdb_episode:73696_5_8  # CSI: NY S05E08 - My Name is Mac Taylor
+tvdb_episode:72546_9_7  # CSI S09E07 - Woulda, Coulda, Shoulda
+tvdb_episode:78310_7_9  # CSI: Miami S07E09 - Power Trip
+tvdb_episode:73696_5_9  # CSI: NY S05E09 - The Box
+tvdb_episode:72546_9_8  # CSI S09E08 - Young Man with a Horn
+tvdb_episode:78310_7_10  # CSI: Miami S07E10 - The DeLuca Motel
+tvdb_episode:73696_5_10  # CSI: NY S05E10 - The Triangle
+tvdb_episode:72546_9_9  # CSI S09E09 - 19 Down…
+tvdb_episode:78310_7_11  # CSI: Miami S07E11 - Tipping Point
+tvdb_episode:73696_5_11  # CSI: NY S05E11 - Forbidden Fruit
+tvdb_episode:78310_7_12  # CSI: Miami S07E12 - Head Case
+tvdb_episode:73696_5_12  # CSI: NY S05E12 - Help
+tvdb_episode:72546_9_10  # CSI S09E10 - One to Go
+tvdb_episode:78310_7_13  # CSI: Miami S07E13 - And They're Offed
+tvdb_episode:73696_5_13  # CSI: NY S05E13 - Rush to Judgment
+tvdb_episode:72546_9_11  # CSI S09E11 - The Grave Shift
+tvdb_episode:72546_9_12  # CSI S09E12 - Disarmed & Dangerous
+tvdb_episode:78310_7_14  # CSI: Miami S07E14 - Smoke Gets in Your CSI's
+tvdb_episode:78310_7_15  # CSI: Miami S07E15 - Presumed Guilty
+tvdb_episode:73696_5_14  # CSI: NY S05E14 - She's Not There
+tvdb_episode:72546_9_13  # CSI S09E13 - Deep Fried and Minty Fresh
+tvdb_episode:73696_5_15  # CSI: NY S05E15 - The Party's Over
+tvdb_episode:72546_9_14  # CSI S09E14 - Miscarriage of Justice
+tvdb_episode:73696_5_16  # CSI: NY S05E16 - No Good Deed
+tvdb_episode:72546_9_15  # CSI S09E15 - Kill Me If You Can
+tvdb_episode:78310_7_16  # CSI: Miami S07E16 - Sink or Swim
+tvdb_episode:72546_9_16  # CSI S09E16 - Turn, Turn, Turn
+tvdb_episode:78310_7_17  # CSI: Miami S07E17 - Divorce Party
+tvdb_episode:73696_5_17  # CSI: NY S05E17 - Green Piece
+tvdb_episode:72546_9_17  # CSI S09E17 - No Way Out
+tvdb_episode:78310_7_18  # CSI: Miami S07E18 - Flight Risk
+tvdb_episode:73696_5_18  # CSI: NY S05E18 - Point of No Return
+tvdb_episode:78310_7_19  # CSI: Miami S07E19 - Target Specific (1)
+tvdb_episode:73696_5_19  # CSI: NY S05E19 - Communication Breakdown
+tvdb_episode:78310_7_20  # CSI: Miami S07E20 - Wolfe in Sheep's Clothing (2)
+tvdb_episode:72546_9_18  # CSI S09E18 - Mascara
+tvdb_episode:73696_5_20  # CSI: NY S05E20 - Prey
+tvdb_episode:72546_9_19  # CSI S09E19 - The Descent of Man
+tvdb_episode:78310_7_21  # CSI: Miami S07E21 - Chip/Tuck
+tvdb_episode:73696_5_21  # CSI: NY S05E21 - The Past, Present and Murder
+tvdb_episode:72546_9_20  # CSI S09E20 - A Space Oddity
+tvdb_episode:72546_9_21  # CSI S09E21 - If I Had a Hammer…
+tvdb_episode:78310_7_22  # CSI: Miami S07E22 - Dead on Arrival
+tvdb_episode:73696_5_22  # CSI: NY S05E22 - Yahrzeit
+tvdb_episode:72546_9_22  # CSI S09E22 - The Gone Dead Train
+tvdb_episode:78310_7_23  # CSI: Miami S07E23 - Collateral Damage
+tvdb_episode:73696_5_23  # CSI: NY S05E23 - Greater Good
+tvdb_episode:72546_9_23  # CSI S09E23 - Hog Heaven
+tvdb_episode:78310_7_24  # CSI: Miami S07E24 - Dissolved
+tvdb_episode:73696_5_24  # CSI: NY S05E24 - Grounds for Deception
+tvdb_episode:72546_9_24  # CSI S09E24 - All In
+tvdb_episode:73696_5_25  # CSI: NY S05E25 - Pay Up (1)
+tvdb_episode:78310_7_25  # CSI: Miami S07E25 - Seeing Red (1)
+tvdb_episode:78310_8_1  # CSI: Miami S08E01 - Out of Time (2)
+tvdb_episode:73696_6_1  # CSI: NY S06E01 - Epilogue (2)
+tvdb_episode:72546_10_1  # CSI S10E01 - Family Affair
+tvdb_episode:78310_8_2  # CSI: Miami S08E02 - Hostile Takeover
+tvdb_episode:73696_6_2  # CSI: NY S06E02 - Blacklist (Featuring Gravedigger)
+tvdb_episode:72546_10_2  # CSI S10E02 - Ghost Town
+tvdb_episode:78310_8_3  # CSI: Miami S08E03 - Bolt Action
+tvdb_episode:73696_6_3  # CSI: NY S06E03 - LAT 40° 47' N/Long 73° 58'W
+tvdb_episode:72546_10_3  # CSI S10E03 - Working Stiffs
+tvdb_episode:78310_8_4  # CSI: Miami S08E04 - In Plane Sight
+tvdb_episode:73696_6_4  # CSI: NY S06E04 - Dead Reckoning
+tvdb_episode:72546_10_4  # CSI S10E04 - Coup de Grace
+tvdb_episode:78310_8_5  # CSI: Miami S08E05 - Bad Seed
+tvdb_episode:73696_6_5  # CSI: NY S06E05 - Battle Scars
+tvdb_episode:72546_10_5  # CSI S10E05 - Bloodsport
+tvdb_episode:78310_8_6  # CSI: Miami S08E06 - Dude, Where's My Groom?
+tvdb_episode:73696_6_6  # CSI: NY S06E06 - It Happened to Me
+tvdb_episode:72546_10_6  # CSI S10E06 - Death and the Maiden
+tvdb_episode:78310_8_7  # CSI: Miami S08E07 - Bone Voyage
+tvdb_episode:73696_6_7  # CSI: NY S06E07 - Hammer Down
+tvdb_episode:72546_10_7  # CSI S10E07 - The Lost Girls
+tvdb_episode:78310_8_8  # CSI: Miami S08E08 - Point of Impact
+tvdb_episode:73696_6_8  # CSI: NY S06E08 - Cuckoo's Nest
+tvdb_episode:72546_10_8  # CSI S10E08 - Lover's Lanes
+tvdb_episode:78310_8_9  # CSI: Miami S08E09 - Kill Clause
+tvdb_episode:73696_6_9  # CSI: NY S06E09 - Manhattanhenge
+tvdb_episode:78310_8_10  # CSI: Miami S08E10 - Count Me Out
+tvdb_episode:73696_6_10  # CSI: NY S06E10 - Death House
+tvdb_episode:72546_10_9  # CSI S10E09 - Appendicitement
+tvdb_episode:78310_8_11  # CSI: Miami S08E11 - Delko for the Defense
+tvdb_episode:73696_6_11  # CSI: NY S06E11 - Second Chances
+tvdb_episode:72546_10_10  # CSI S10E10 - Better Off Dead
+tvdb_episode:78310_8_12  # CSI: Miami S08E12 - Show Stopper
+tvdb_episode:73696_6_12  # CSI: NY S06E12 - Criminal Justice
+tvdb_episode:72546_10_11  # CSI S10E11 - Sin City Blue
+tvdb_episode:78310_8_13  # CSI: Miami S08E13 - Die By The Sword
+tvdb_episode:73696_6_13  # CSI: NY S06E13 - Flag on the Play
+tvdb_episode:72546_10_12  # CSI S10E12 - Long Ball
+tvdb_episode:78310_8_14  # CSI: Miami S08E14 - In The Wind
+tvdb_episode:73696_6_14  # CSI: NY S06E14 - Sanguine Love
+tvdb_episode:72546_10_13  # CSI S10E13 - Internal Combustion
+tvdb_episode:78310_8_15  # CSI: Miami S08E15 - Miami, We Have A Problem
+tvdb_episode:73696_6_15  # CSI: NY S06E15 - The Formula
+tvdb_episode:78310_8_16  # CSI: Miami S08E16 - L.A.
+tvdb_episode:73696_6_16  # CSI: NY S06E16 - Uncertainty Rules
+tvdb_episode:72546_10_14  # CSI S10E14 - Unshockable
+tvdb_episode:78310_8_17  # CSI: Miami S08E17 - Getting Axed
+tvdb_episode:73696_6_17  # CSI: NY S06E17 - Pot of Gold
+tvdb_episode:72546_10_15  # CSI S10E15 - Neverland
+tvdb_episode:78310_8_18  # CSI: Miami S08E18 - Dishonor
+tvdb_episode:72546_10_16  # CSI S10E16 - The Panty Sniffer
+tvdb_episode:73696_6_18  # CSI: NY S06E18 - Rest in Peace, Marina Garito
+tvdb_episode:72546_10_17  # CSI S10E17 - Irradiator
+tvdb_episode:78310_8_19  # CSI: Miami S08E19 - Spring Breakdown
+tvdb_episode:73696_6_19  # CSI: NY S06E19 - Redemption
+tvdb_episode:72546_10_18  # CSI S10E18 - Field Mice
+tvdb_episode:78310_8_20  # CSI: Miami S08E20 - Backfire
+tvdb_episode:72546_10_19  # CSI S10E19 - World's End
+tvdb_episode:72546_10_20  # CSI S10E20 - Take My Life, Please!
+tvdb_episode:78310_8_21  # CSI: Miami S08E21 - Meltdown
+tvdb_episode:73696_6_20  # CSI: NY S06E20 - Tales from the Undercard
+tvdb_episode:72546_10_21  # CSI S10E21 - Lost & Found
+tvdb_episode:78310_8_22  # CSI: Miami S08E22 - Mommie Deadest
+tvdb_episode:73696_6_21  # CSI: NY S06E21 - Unusual Suspects
+tvdb_episode:72546_10_22  # CSI S10E22 - Doctor Who
+tvdb_episode:78310_8_23  # CSI: Miami S08E23 - Time Bomb
+tvdb_episode:73696_6_22  # CSI: NY S06E22 - Point of View
+tvdb_episode:72546_10_23  # CSI S10E23 - Meat Jekyll
+tvdb_episode:78310_8_24  # CSI: Miami S08E24 - All Fall Down (1)
+tvdb_episode:73696_6_23  # CSI: NY S06E23 - Vacation Getaway
+tvdb_episode:72546_11_1  # CSI S11E01 - Shock Waves
+tvdb_episode:73696_7_1  # CSI: NY S07E01 - The 34th Floor
+tvdb_episode:72546_11_2  # CSI S11E02 - Pool Shark
+tvdb_episode:73696_7_2  # CSI: NY S07E02 - Unfriendly Chat
+tvdb_episode:78310_9_1  # CSI: Miami S09E01 - Fallen (2)
+tvdb_episode:72546_11_3  # CSI S11E03 - Blood Moon
+tvdb_episode:73696_7_3  # CSI: NY S07E03 - Damned If You Do
+tvdb_episode:78310_9_2  # CSI: Miami S09E02 - Sudden Death
+tvdb_episode:72546_11_4  # CSI S11E04 - Sqweegel
+tvdb_episode:73696_7_4  # CSI: NY S07E04 - Sangre Por Sangre
+tvdb_episode:78310_9_3  # CSI: Miami S09E03 - See No Evil
+tvdb_episode:72546_11_5  # CSI S11E05 - House of Hoarders
+tvdb_episode:73696_7_5  # CSI: NY S07E05 - Out of the Sky
+tvdb_episode:78310_9_4  # CSI: Miami S09E04 - Manhunt
+tvdb_episode:72546_11_6  # CSI S11E06 - Cold Blooded
+tvdb_episode:73696_7_6  # CSI: NY S07E06 - Do Not Pass Go
+tvdb_episode:78310_9_5  # CSI: Miami S09E05 - Sleepless in Miami
+tvdb_episode:72546_11_7  # CSI S11E07 - Bump and Grind
+tvdb_episode:73696_7_7  # CSI: NY S07E07 - Hide Sight
+tvdb_episode:78310_9_6  # CSI: Miami S09E06 - Reality Kills
+tvdb_episode:72546_11_8  # CSI S11E08 - Fracked
+tvdb_episode:73696_7_8  # CSI: NY S07E08 - Scared Stiff
+tvdb_episode:72546_11_9  # CSI S11E09 - Wild Life
+tvdb_episode:73696_7_9  # CSI: NY S07E09 - Justified
+tvdb_episode:78310_9_7  # CSI: Miami S09E07 - On the Hook
+tvdb_episode:73696_7_10  # CSI: NY S07E10 - Shop Till You Drop
+tvdb_episode:78310_9_8  # CSI: Miami S09E08 - Happy Birthday
+tvdb_episode:72546_11_10  # CSI S11E10 - 418/427
+tvdb_episode:78310_9_9  # CSI: Miami S09E09 - Blood Sugar
+tvdb_episode:78310_9_10  # CSI: Miami S09E10 - Match Made in Hell
+tvdb_episode:72546_11_11  # CSI S11E11 - Man Up
+tvdb_episode:73696_7_11  # CSI: NY S07E11 - To What End?
+tvdb_episode:78310_9_11  # CSI: Miami S09E11 - F-T-F
+tvdb_episode:73696_7_12  # CSI: NY S07E12 - Holding Cell
+tvdb_episode:78310_9_12  # CSI: Miami S09E12 - Wheels Up
+tvdb_episode:72546_11_12  # CSI S11E12 - A Kiss Before Frying
+tvdb_episode:72546_11_13  # CSI S11E13 - The Two Mrs. Grissoms
+tvdb_episode:73696_7_13  # CSI: NY S07E13 - Party Down
+tvdb_episode:72546_11_14  # CSI S11E14 - All That Cremains
+tvdb_episode:73696_7_14  # CSI: NY S07E14 - Smooth Criminal
+tvdb_episode:72546_11_15  # CSI S11E15 - Targets of Obsession
+tvdb_episode:73696_7_15  # CSI: NY S07E15 - Vigilante
+tvdb_episode:78310_9_13  # CSI: Miami S09E13 - Last Stand
+tvdb_episode:72546_11_16  # CSI S11E16 - Turn On, Tune In, Drop Dead
+tvdb_episode:73696_7_16  # CSI: NY S07E16 - The Untouchable
+tvdb_episode:78310_9_14  # CSI: Miami S09E14 - Stoned Cold
+tvdb_episode:78310_9_15  # CSI: Miami S09E15 - Blood Lust
+tvdb_episode:72546_11_17  # CSI S11E17 - The List
+tvdb_episode:73696_7_17  # CSI: NY S07E17 - Do or Die
+tvdb_episode:78310_9_16  # CSI: Miami S09E16 - Hunting Ground
+tvdb_episode:78310_9_17  # CSI: Miami S09E17 - Special Delivery
+tvdb_episode:78310_9_18  # CSI: Miami S09E18 - About Face
+tvdb_episode:72546_11_18  # CSI S11E18 - Hitting for the Cycle
+tvdb_episode:73696_7_18  # CSI: NY S07E18 - Identity Crisis
+tvdb_episode:72546_11_19  # CSI S11E19 - Unleashed
+tvdb_episode:73696_7_19  # CSI: NY S07E19 - Food for Thought
+tvdb_episode:78310_9_19  # CSI: Miami S09E19 - Caged
+tvdb_episode:78310_9_20  # CSI: Miami S09E20 - Paint It Black
+tvdb_episode:72546_11_20  # CSI S11E20 - Father of the Bride
+tvdb_episode:73696_7_20  # CSI: NY S07E20 - Nothing for Something
+tvdb_episode:78310_9_21  # CSI: Miami S09E21 - G.O.
+tvdb_episode:72546_11_21  # CSI S11E21 - Cello and Goodbye
+tvdb_episode:73696_7_21  # CSI: NY S07E21 - Life Sentence
+tvdb_episode:78310_9_22  # CSI: Miami S09E22 - Mayday (1)
+tvdb_episode:72546_11_22  # CSI S11E22 - In a Dark, Dark House
+tvdb_episode:73696_7_22  # CSI: NY S07E22 - Exit Strategy
+tvdb_episode:72546_12_1  # CSI S12E01 - 73 Seconds
+tvdb_episode:73696_8_1  # CSI: NY S08E01 - Indelible
+tvdb_episode:78310_10_1  # CSI: Miami S10E01 - Countermeasures (2)
+tvdb_episode:72546_12_2  # CSI S12E02 - Tell Tale Hearts
+tvdb_episode:73696_8_2  # CSI: NY S08E02 - Keep It Real
+tvdb_episode:78310_10_2  # CSI: Miami S10E02 - Stiff
+tvdb_episode:72546_12_3  # CSI S12E03 - Bittersweet
+tvdb_episode:73696_8_3  # CSI: NY S08E03 - Cavallino Rampante
+tvdb_episode:78310_10_3  # CSI: Miami S10E03 - Blown Away
+tvdb_episode:72546_12_4  # CSI S12E04 - Maid Man
+tvdb_episode:73696_8_4  # CSI: NY S08E04 - Officer Involved
+tvdb_episode:78310_10_4  # CSI: Miami S10E04 - Look Who's Taunting
+tvdb_episode:72546_12_5  # CSI S12E05 - CSI Down
+tvdb_episode:73696_8_5  # CSI: NY S08E05 - Air Apparent
+tvdb_episode:78310_10_5  # CSI: Miami S10E05 - Killer Regrets
+tvdb_episode:78310_10_6  # CSI: Miami S10E06 - By The Book
+tvdb_episode:72546_12_6  # CSI S12E06 - Freaks & Geeks
+tvdb_episode:73696_8_6  # CSI: NY S08E06 - Get Me Out of Here!
+tvdb_episode:78310_10_7  # CSI: Miami S10E07 - Sinner Takes All
+tvdb_episode:72546_12_7  # CSI S12E07 - Brain Doe
+tvdb_episode:73696_8_7  # CSI: NY S08E07 - Crushed
+tvdb_episode:78310_10_8  # CSI: Miami S10E08 - Dead Ringer
+tvdb_episode:72546_12_8  # CSI S12E08 - Crime After Crime
+tvdb_episode:73696_8_8  # CSI: NY S08E08 - Crossroads
+tvdb_episode:78310_10_9  # CSI: Miami S10E09 - A Few Dead Men
+tvdb_episode:73696_8_9  # CSI: NY S08E09 - Means to an End
+tvdb_episode:78310_10_10  # CSI: Miami S10E10 - Long Gone
+tvdb_episode:72546_12_9  # CSI S12E09 - Zippered
+tvdb_episode:78310_10_11  # CSI: Miami S10E11 - Crowned
+tvdb_episode:72546_12_10  # CSI S12E10 - Genetic Disorder
+tvdb_episode:73696_8_10  # CSI: NY S08E10 - Clean Sweep
+tvdb_episode:78310_10_12  # CSI: Miami S10E12 - Friendly Fire
+tvdb_episode:73696_8_11  # CSI: NY S08E11 - Who's There?
+tvdb_episode:72546_12_11  # CSI S12E11 - Ms. Willows Regrets…
+tvdb_episode:72546_12_12  # CSI S12E12 - Willows in the Wind
+tvdb_episode:78310_10_13  # CSI: Miami S10E13 - Terminal Velocity
+tvdb_episode:73696_8_12  # CSI: NY S08E12 - Brooklyn ‘Til I Die
+tvdb_episode:72546_12_13  # CSI S12E13 - Tressed to Kill
+tvdb_episode:73696_8_13  # CSI: NY S08E13 - The Ripple Effect
+tvdb_episode:72546_12_14  # CSI S12E14 - Seeing Red
+tvdb_episode:78310_10_14  # CSI: Miami S10E14 - Last Straw
+tvdb_episode:72546_12_15  # CSI S12E15 - Stealing Home
+tvdb_episode:72546_12_16  # CSI S12E16 - CSI Unplugged
+tvdb_episode:78310_10_15  # CSI: Miami S10E15 - No Good Deed
+tvdb_episode:78310_10_16  # CSI: Miami S10E16 - Rest In Pieces
+tvdb_episode:72546_12_17  # CSI S12E17 - Trends with Benefits
+tvdb_episode:78310_10_17  # CSI: Miami S10E17 - At Risk
+tvdb_episode:72546_12_18  # CSI S12E18 - Malice in Wonderland
+tvdb_episode:78310_10_18  # CSI: Miami S10E18 - Law and Disorder (1)
+tvdb_episode:73696_8_14  # CSI: NY S08E14 - Flash Pop
+tvdb_episode:72546_12_19  # CSI S12E19 - Split Decisions
+tvdb_episode:73696_8_15  # CSI: NY S08E15 - Kill Screen
+tvdb_episode:78310_10_19  # CSI: Miami S10E19 - Habeas Corpse (2)
+tvdb_episode:72546_12_20  # CSI S12E20 - Altered Stakes
+tvdb_episode:73696_8_16  # CSI: NY S08E16 - Sláinte
+tvdb_episode:72546_12_21  # CSI S12E21 - Dune and Gloom
+tvdb_episode:73696_8_17  # CSI: NY S08E17 - Unwrapped
+tvdb_episode:72546_12_22  # CSI S12E22 - Homecoming
+tvdb_episode:73696_8_18  # CSI: NY S08E18 - Near Death
+tvdb_episode:72546_13_1  # CSI S13E01 - Karma to Burn
+tvdb_episode:73696_9_1  # CSI: NY S09E01 - Reignited
+tvdb_episode:73696_9_2  # CSI: NY S09E02 - Where There's Smoke...
+tvdb_episode:72546_13_2  # CSI S13E02 - Code Blue Plate Special
+tvdb_episode:73696_9_3  # CSI: NY S09E03 - 2,918 Miles
+tvdb_episode:72546_13_3  # CSI S13E03 - Wild Flowers
+tvdb_episode:73696_9_4  # CSI: NY S09E04 - Unspoken
+tvdb_episode:72546_13_4  # CSI S13E04 - It Was a Very Good Year
+tvdb_episode:73696_9_5  # CSI: NY S09E05 - Misconceptions
+tvdb_episode:72546_13_5  # CSI S13E05 - Play Dead
+tvdb_episode:73696_9_6  # CSI: NY S09E06 - The Lady in the Lake
+tvdb_episode:72546_13_6  # CSI S13E06 - Pick and Roll
+tvdb_episode:73696_9_7  # CSI: NY S09E07 - Clue: SI
+tvdb_episode:72546_13_7  # CSI S13E07 - Fallen Angels
+tvdb_episode:73696_9_8  # CSI: NY S09E08 - Late Admissions
+tvdb_episode:72546_13_8  # CSI S13E08 - CSI on Fire
+tvdb_episode:72546_13_9  # CSI S13E09 - Strip Maul
+tvdb_episode:73696_9_9  # CSI: NY S09E09 - Blood Out
+tvdb_episode:73696_9_10  # CSI: NY S09E10 - The Real McCoy
+tvdb_episode:72546_13_10  # CSI S13E10 - Risky Business Class
+tvdb_episode:73696_9_11  # CSI: NY S09E11 - Command+P
+tvdb_episode:73696_9_12  # CSI: NY S09E12 - Civilized Lies
+tvdb_episode:72546_13_11  # CSI S13E11 - Dead Air
+tvdb_episode:73696_9_13  # CSI: NY S09E13 - Nine Thirteen
+tvdb_episode:72546_13_12  # CSI S13E12 - Double Fault
+tvdb_episode:73696_9_14  # CSI: NY S09E14 - White Gold
+tvdb_episode:72546_13_13  # CSI S13E13 - In Vino Veritas
+tvdb_episode:73696_9_15  # CSI: NY S09E15 - Seth and Apep
+tvdb_episode:72546_13_14  # CSI S13E14 - Exile
+tvdb_episode:73696_9_16  # CSI: NY S09E16 - Blood Actually
+tvdb_episode:72546_13_15  # CSI S13E15 - Forget Me Not
+tvdb_episode:73696_9_17  # CSI: NY S09E17 - Today is Life
+tvdb_episode:72546_13_16  # CSI S13E16 - Last Woman Standing
+tvdb_episode:72546_13_17  # CSI S13E17 - Dead of the Class
+tvdb_episode:72546_13_18  # CSI S13E18 - Sheltered
+tvdb_episode:72546_13_19  # CSI S13E19 - Backfire
+tvdb_episode:72546_13_20  # CSI S13E20 - Fearless
+tvdb_episode:72546_13_21  # CSI S13E21 - Ghosts of the Past
+tvdb_episode:72546_13_22  # CSI S13E22 - Skin in the Game
+tvdb_episode:72546_14_1  # CSI S14E01 - The Devil and D.B. Russell
+tvdb_episode:72546_14_2  # CSI S14E02 - Take the Money and Run
+tvdb_episode:72546_14_3  # CSI S14E03 - Torch Song
+tvdb_episode:72546_14_4  # CSI S14E04 - Last Supper
+tvdb_episode:72546_14_5  # CSI S14E05 - Frame by Frame
+tvdb_episode:72546_14_6  # CSI S14E06 - Passed Pawns
+tvdb_episode:72546_14_7  # CSI S14E07 - Under a Cloud
+tvdb_episode:72546_14_8  # CSI S14E08 - Helpless
+tvdb_episode:72546_14_9  # CSI S14E09 - Check In and Check Out
+tvdb_episode:72546_14_10  # CSI S14E10 - Girls Gone Wild
+tvdb_episode:72546_14_11  # CSI S14E11 - The Lost Reindeer
+tvdb_episode:72546_14_12  # CSI S14E12 - Keep Calm and Carry On
+tvdb_episode:72546_14_13  # CSI S14E13 - Boston Brakes
+tvdb_episode:72546_14_14  # CSI S14E14 - De Los Muertos
+tvdb_episode:72546_14_15  # CSI S14E15 - Love for Sale
+tvdb_episode:72546_14_16  # CSI S14E16 - Killer Moves
+tvdb_episode:72546_14_17  # CSI S14E17 - Long Road Home
+tvdb_episode:72546_14_18  # CSI S14E18 - Uninvited
+tvdb_episode:72546_14_19  # CSI S14E19 - The Fallen
+tvdb_episode:72546_14_20  # CSI S14E20 - Consumed
+tvdb_episode:72546_14_21  # CSI S14E21 - Kitty
+tvdb_episode:72546_14_22  # CSI S14E22 - Dead in His Tracks
+tvdb_episode:72546_15_1  # CSI S15E01 - The CSI Effect
+tvdb_episode:72546_15_2  # CSI S15E02 - Buzz Kill
+tvdb_episode:72546_15_3  # CSI S15E03 - Bad Blood
+tvdb_episode:72546_15_4  # CSI S15E04 - The Book of Shadows
+tvdb_episode:72546_15_5  # CSI S15E05 - Girls Gone Wilder
+tvdb_episode:72546_15_6  # CSI S15E06 - The Twin Paradox
+tvdb_episode:72546_15_7  # CSI S15E07 - Road to Recovery
+tvdb_episode:72546_15_8  # CSI S15E08 - Rubbery Homicide
+tvdb_episode:72546_15_9  # CSI S15E09 - Let's Make a Deal
+tvdb_episode:72546_15_10  # CSI S15E10 - Dead Rails
+tvdb_episode:72546_15_11  # CSI S15E11 - Angle of Attack
+tvdb_episode:72546_15_12  # CSI S15E12 - Dead Woods
+tvdb_episode:72546_15_13  # CSI S15E13 - The Greater Good
+tvdb_episode:72546_15_14  # CSI S15E14 - Merchants of Menace
+tvdb_episode:72546_15_15  # CSI S15E15 - Hero to Zero
+tvdb_episode:72546_15_16  # CSI S15E16 - The Last Ride
+tvdb_episode:72546_15_17  # CSI S15E17 - Under My Skin
+tvdb_episode:72546_15_18  # CSI S15E18 - The End Game
+tvdb_episode:281551_1_1  # CSI: Cyber S01E01 - Kidnapping 2.0
+tvdb_episode:281551_1_2  # CSI: Cyber S01E02 - CMND:\Crash
+tvdb_episode:281551_1_3  # CSI: Cyber S01E03 - Killer En Route
+tvdb_episode:281551_1_4  # CSI: Cyber S01E04 - Fire Code
+tvdb_episode:281551_1_5  # CSI: Cyber S01E05 - Crowd Sourced
+tvdb_episode:281551_1_6  # CSI: Cyber S01E06 - The Evil Twin
+tvdb_episode:281551_1_7  # CSI: Cyber S01E07 - URL, Interrupted
+tvdb_episode:281551_1_8  # CSI: Cyber S01E08 - Selfie 2.0
+tvdb_episode:281551_1_9  # CSI: Cyber S01E09 - L0m1S
+tvdb_episode:281551_1_10  # CSI: Cyber S01E10 - Click Your Poison
+tvdb_episode:281551_1_11  # CSI: Cyber S01E11 - Ghost in the Machine
+tvdb_episode:281551_1_12  # CSI: Cyber S01E12 - Bit by Bit
+tvdb_episode:281551_1_13  # CSI: Cyber S01E13 - Family Secrets
+tvdb_episode:281551_2_1  # CSI: Cyber S02E01 - Why-Fi
+tvdb_episode:281551_2_2  # CSI: Cyber S02E02 - Heart Me
+tvdb_episode:281551_2_3  # CSI: Cyber S02E03 - Brown Eyes, Blue Eyes
+tvdb_episode:281551_2_4  # CSI: Cyber S02E04 - Red Crone
+tvdb_episode:281551_2_5  # CSI: Cyber S02E05 - Hack E.R.
+tvdb_episode:281551_2_6  # CSI: Cyber S02E06 - Gone in 6 Seconds
+tvdb_episode:281551_2_7  # CSI: Cyber S02E07 - Corrupted Memory
+tvdb_episode:281551_2_8  # CSI: Cyber S02E08 - Python
+tvdb_episode:281551_2_9  # CSI: Cyber S02E09 - iWitness
+tvdb_episode:281551_2_10  # CSI: Cyber S02E10 - Shades of Grey
+tvdb_episode:281551_2_11  # CSI: Cyber S02E11 - 404: Flight Not Found
+tvdb_episode:281551_2_12  # CSI: Cyber S02E12 - Going Viral
+tvdb_episode:281551_2_13  # CSI: Cyber S02E13 - The Walking Dead
+tvdb_episode:281551_2_14  # CSI: Cyber S02E14 - Fit-and-Run
+tvdb_episode:281551_2_15  # CSI: Cyber S02E15 - Python's Revenge
+tvdb_episode:281551_2_16  # CSI: Cyber S02E16 - 5 Deadly Sins
+tvdb_episode:281551_2_17  # CSI: Cyber S02E17 - Flash Squad
+tvdb_episode:281551_2_18  # CSI: Cyber S02E18 - Legacy
+tvdb_episode:400248_1_1  # CSI: Vegas S01E01 - Legacy
+tvdb_episode:400248_1_2  # CSI: Vegas S01E02 - Honeymoon in Vegas
+tvdb_episode:400248_1_3  # CSI: Vegas S01E03 - Under the Skin
+tvdb_episode:400248_1_4  # CSI: Vegas S01E04 - Long Pig
+tvdb_episode:400248_1_5  # CSI: Vegas S01E05 - Let the Chips Fall
+tvdb_episode:400248_1_6  # CSI: Vegas S01E06 - Funhouse
+tvdb_episode:400248_1_7  # CSI: Vegas S01E07 - In the Blood
+tvdb_episode:400248_1_8  # CSI: Vegas S01E08 - Pipe Cleaner
+tvdb_episode:400248_1_9  # CSI: Vegas S01E09 - Waiting in the Wings
+tvdb_episode:400248_1_10  # CSI: Vegas S01E10 - Signed, Sealed, Delivered
+tvdb_episode:400248_2_1  # CSI: Vegas S02E01 - She's Gone
+tvdb_episode:400248_2_2  # CSI: Vegas S02E02 - The Painted Man
+tvdb_episode:400248_2_3  # CSI: Vegas S02E03 - Story of a Gun
+tvdb_episode:400248_2_4  # CSI: Vegas S02E04 - Koala
+tvdb_episode:400248_2_5  # CSI: Vegas S02E05 - In Harm's Way
+tvdb_episode:400248_2_6  # CSI: Vegas S02E06 - There's the Rub
+tvdb_episode:400248_2_7  # CSI: Vegas S02E07 - Burned
+tvdb_episode:400248_2_8  # CSI: Vegas S02E08 - Grace Note
+tvdb_episode:400248_2_9  # CSI: Vegas S02E09 - In the White Room
+tvdb_episode:400248_2_10  # CSI: Vegas S02E10 - Eyeballs
+tvdb_episode:400248_2_11  # CSI: Vegas S02E11 - Trinket
+tvdb_episode:400248_2_12  # CSI: Vegas S02E12 - When the Dust Settles
+tvdb_episode:400248_2_13  # CSI: Vegas S02E13 - Boned
+tvdb_episode:400248_2_14  # CSI: Vegas S02E14 - Third Time's the Charm
+tvdb_episode:400248_2_15  # CSI: Vegas S02E15 - Ashes, Ashes
+tvdb_episode:400248_2_16  # CSI: Vegas S02E16 - We All Fall Down
+tvdb_episode:400248_2_17  # CSI: Vegas S02E17 - The Promise
+tvdb_episode:400248_2_18  # CSI: Vegas S02E18 - Fractured
+tvdb_episode:400248_2_19  # CSI: Vegas S02E19 - Dead Memories
+tvdb_episode:400248_2_20  # CSI: Vegas S02E20 - Shell Game
+tvdb_episode:400248_2_21  # CSI: Vegas S02E21 - Dying Words
+tvdb_episode:400248_3_1  # CSI: Vegas S03E01 - The Reaper
+tvdb_episode:400248_3_2  # CSI: Vegas S03E02 - Scar Tissue
+tvdb_episode:400248_3_3  # CSI: Vegas S03E03 - Rat Packed
+tvdb_episode:400248_3_4  # CSI: Vegas S03E04 - Health and Wellness
+tvdb_episode:400248_3_5  # CSI: Vegas S03E05 - It Was Automation
+tvdb_episode:400248_3_6  # CSI: Vegas S03E06 - Atomic City
+tvdb_episode:400248_3_7  # CSI: Vegas S03E07 - Coinkydink
+tvdb_episode:400248_3_8  # CSI: Vegas S03E08 - The Artist is Present
+tvdb_episode:400248_3_9  # CSI: Vegas S03E09 - Heavy Metal
+tvdb_episode:400248_3_10  # CSI: Vegas S03E10 - Tunnel Vision
