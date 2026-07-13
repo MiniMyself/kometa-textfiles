@@ -33,7 +33,7 @@ Corrections, missing episodes, ordering fixes and brand-new franchises are all w
 
 ## Credits
 
-- [Kometa](https://github.com/Kometa-Team/Kometa) - the tool that makes this possible
+- [Kometa](https://kometa.wiki) - the tool that makes this possible
 - Ordering references sourced from community-maintained watch orders and franchise wikis. The specific source used for each list is credited in a comment at the top of the corresponding .txt file
 
 ## License
