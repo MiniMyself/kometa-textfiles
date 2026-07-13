@@ -21,7 +21,7 @@ Full setup, the file format, a page on each list, and troubleshooting can all be
 - [File Format](https://github.com/MiniMyself/kometa-textfiles/wiki/File-Format) - how the `.txt` files are structured
 - [Collection Files](https://github.com/MiniMyself/kometa-textfiles/wiki/Collection-Files) - every file, and its raw URL
 - [Contributing](https://github.com/MiniMyself/kometa-textfiles/wiki/Contributing) - corrections, additions, new franchises
-- [FAQ & Troubleshooting](https://github.com/MiniMyself/kometa-textfiles/wiki/FAQ-and-Troubleshooting)
+- [FAQ & Troubleshooting](https://github.com/MiniMyself/kometa-textfiles/wiki/FAQ-&-Troubleshooting)
 
 ---
 
