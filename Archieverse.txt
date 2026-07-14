@@ -1,0 +1,189 @@
+# Last updated: 2026-07-14
+# Scope: Riverdale, Chilling Adventures of Sabrina, Katy Keene
+# Based on community watch order: https://www.thepopverse.com/tv-archieverse-watch-order-riverdale-chilling-adventures-of-sabrina-katy-keene-archie-comics-netflix-cw
+tvdb_episode:311954_1_1  # Riverdale S01E01 - Chapter One: The River's Edge
+tvdb_episode:311954_1_2  # Riverdale S01E02 - Chapter Two: A Touch of Evil
+tvdb_episode:311954_1_3  # Riverdale S01E03 - Chapter Three: Body Double
+tvdb_episode:311954_1_4  # Riverdale S01E04 - Chapter Four: The Last Picture Show
+tvdb_episode:311954_1_5  # Riverdale S01E05 - Chapter Five: Heart of Darkness
+tvdb_episode:311954_1_6  # Riverdale S01E06 - Chapter Six: Faster, Pussycats! Kill! Kill!
+tvdb_episode:311954_1_7  # Riverdale S01E07 - Chapter Seven: In a Lonely Place
+tvdb_episode:311954_1_8  # Riverdale S01E08 - Chapter Eight: The Outsiders
+tvdb_episode:311954_1_9  # Riverdale S01E09 - Chapter Nine: La Grande Illusion
+tvdb_episode:311954_1_10  # Riverdale S01E10 - Chapter Ten: The Lost Weekend
+tvdb_episode:311954_1_11  # Riverdale S01E11 - Chapter Eleven: To Riverdale and Back Again
+tvdb_episode:311954_1_12  # Riverdale S01E12 - Chapter Twelve: Anatomy of a Murder
+tvdb_episode:311954_1_13  # Riverdale S01E13 - Chapter Thirteen: The Sweet Hereafter
+tvdb_episode:311954_2_1  # Riverdale S02E01 - Chapter Fourteen: A Kiss Before Dying
+tvdb_episode:311954_2_2  # Riverdale S02E02 - Chapter Fifteen: Nighthawks
+tvdb_episode:311954_2_3  # Riverdale S02E03 - Chapter Sixteen: The Watcher in the Woods
+tvdb_episode:311954_2_4  # Riverdale S02E04 - Chapter Seventeen: The Town That Dreaded Sundown
+tvdb_episode:311954_2_5  # Riverdale S02E05 - Chapter Eighteen: When a Stranger Calls
+tvdb_episode:311954_2_6  # Riverdale S02E06 - Chapter Nineteen: Death Proof
+tvdb_episode:311954_2_7  # Riverdale S02E07 - Chapter Twenty: Tales from the Darkside
+tvdb_episode:311954_2_8  # Riverdale S02E08 - Chapter Twenty One: House of the Devil
+tvdb_episode:311954_2_9  # Riverdale S02E09 - Chapter Twenty Two: Silent Night, Deadly Night
+tvdb_episode:311954_2_10  # Riverdale S02E10 - Chapter Twenty Three: The Blackboard Jungle
+tvdb_episode:311954_2_11  # Riverdale S02E11 - Chapter Twenty Four: The Wrestler
+tvdb_episode:311954_2_12  # Riverdale S02E12 - Chapter Twenty Five: The Wicked and the Divine
+tvdb_episode:311954_2_13  # Riverdale S02E13 - Chapter Twenty Six: The Tell-Tale Heart
+tvdb_episode:311954_2_14  # Riverdale S02E14 - Chapter Twenty-Seven: The Hills Have Eyes
+tvdb_episode:311954_2_15  # Riverdale S02E15 - Chapter Twenty-Eight: There Will Be Blood
+tvdb_episode:311954_2_16  # Riverdale S02E16 - Chapter Twenty-Nine: Primary Colors
+tvdb_episode:311954_2_17  # Riverdale S02E17 - Chapter Thirty: The Noose Tightens
+tvdb_episode:311954_2_18  # Riverdale S02E18 - Chapter Thirty-One: A Night to Remember
+tvdb_episode:311954_2_19  # Riverdale S02E19 - Chapter Thirty-Two: Prisoners
+tvdb_episode:311954_2_20  # Riverdale S02E20 - Chapter Thirty-Three: Shadow of a Doubt
+tvdb_episode:311954_2_21  # Riverdale S02E21 - Chapter Thirty-Four: Judgment Night
+tvdb_episode:311954_2_22  # Riverdale S02E22 - Chapter Thirty-Five: Brave New World
+tvdb_episode:311954_3_1  # Riverdale S03E01 - Chapter Thirty-Six: Labor Day
+tvdb_episode:311954_3_2  # Riverdale S03E02 - Chapter Thirty-Seven: Fortune and Men's Eyes
+tvdb_episode:311954_3_3  # Riverdale S03E03 - Chapter Thirty-Eight: As Above, So Below
+tvdb_episode:338947_1_1  # Chilling Adventures of Sabrina S01E01 - Chapter One: October Country
+tvdb_episode:338947_1_2  # Chilling Adventures of Sabrina S01E02 - Chapter Two: The Dark Baptism
+tvdb_episode:338947_1_3  # Chilling Adventures of Sabrina S01E03 - Chapter Three: The Trial of Sabrina Spellman
+tvdb_episode:338947_1_4  # Chilling Adventures of Sabrina S01E04 - Chapter Four: Witch Academy
+tvdb_episode:338947_1_5  # Chilling Adventures of Sabrina S01E05 - Chapter Five: Dreams in a Witch House
+tvdb_episode:338947_1_6  # Chilling Adventures of Sabrina S01E06 - Chapter Six: An Exorcism in Greendale
+tvdb_episode:338947_1_7  # Chilling Adventures of Sabrina S01E07 - Chapter Seven: Feast of Feasts
+tvdb_episode:338947_1_8  # Chilling Adventures of Sabrina S01E08 - Chapter Eight: The Burial
+tvdb_episode:338947_1_9  # Chilling Adventures of Sabrina S01E09 - Chapter Nine: The Returned Man
+tvdb_episode:338947_1_10  # Chilling Adventures of Sabrina S01E10 - Chapter Ten: The Witching Hour
+tvdb_episode:311954_3_4  # Riverdale S03E04 - Chapter Thirty-Nine: The Midnight Club
+tvdb_episode:311954_3_5  # Riverdale S03E05 - Chapter Forty: The Great Escape
+tvdb_episode:311954_3_6  # Riverdale S03E06 - Chapter Forty-One: Manhunter
+tvdb_episode:311954_3_7  # Riverdale S03E07 - Chapter Forty-Two: The Man in Black
+tvdb_episode:311954_3_8  # Riverdale S03E08 - Chapter Forty-Three: Outbreak
+tvdb_episode:338947_1_11  # Chilling Adventures of Sabrina S01E11 - Chapter Eleven: A Midwinter's Tale
+tvdb_episode:311954_3_9  # Riverdale S03E09 - Chapter Forty-Four: No Exit
+tvdb_episode:311954_3_10  # Riverdale S03E10 - Chapter Forty-Five: The Stranger
+tvdb_episode:311954_3_11  # Riverdale S03E11 - Chapter Forty-Six: The Red Dahlia
+tvdb_episode:311954_3_12  # Riverdale S03E12 - Chapter Forty-Seven: Bizarrodale
+tvdb_episode:311954_3_13  # Riverdale S03E13 - Chapter Forty-Eight: Requiem for a Welterweight
+tvdb_episode:311954_3_14  # Riverdale S03E14 - Chapter Forty-Nine: Fire Walk with Me
+tvdb_episode:311954_3_15  # Riverdale S03E15 - Chapter Fifty: American Dreams
+tvdb_episode:311954_3_16  # Riverdale S03E16 - Chapter Fifty-One: Big Fun
+tvdb_episode:311954_3_17  # Riverdale S03E17 - Chapter Fifty-Two: The Raid
+tvdb_episode:338947_1_12  # Chilling Adventures of Sabrina S01E12 - Chapter Twelve: The Epiphany
+tvdb_episode:338947_1_13  # Chilling Adventures of Sabrina S01E13 - Chapter Thirteen: The Passion of Sabrina Spellman
+tvdb_episode:338947_1_14  # Chilling Adventures of Sabrina S01E14 - Chapter Fourteen: Lupercalia
+tvdb_episode:338947_1_15  # Chilling Adventures of Sabrina S01E15 - Chapter Fifteen: Doctor Cerberus's House of Horror
+tvdb_episode:338947_1_16  # Chilling Adventures of Sabrina S01E16 - Chapter Sixteen: Blackwood
+tvdb_episode:338947_1_17  # Chilling Adventures of Sabrina S01E17 - Chapter Seventeen: The Missionaries
+tvdb_episode:338947_1_18  # Chilling Adventures of Sabrina S01E18 - Chapter Eighteen: The Miracles of Sabrina Spellman
+tvdb_episode:338947_1_19  # Chilling Adventures of Sabrina S01E19 - Chapter Nineteen: The Mandrake
+tvdb_episode:338947_1_20  # Chilling Adventures of Sabrina S01E20 - Chapter Twenty: The Mephisto Waltz
+tvdb_episode:311954_3_18  # Riverdale S03E18 - Chapter Fifty-Three: Jawbreaker
+tvdb_episode:311954_3_19  # Riverdale S03E19 - Chapter Fifty-Four: Fear the Reaper
+tvdb_episode:311954_3_20  # Riverdale S03E20 - Chapter Fifty-Five: Prom Night
+tvdb_episode:311954_3_21  # Riverdale S03E21 - Chapter Fifty-Six: The Dark Secret of Harvest House
+tvdb_episode:311954_3_22  # Riverdale S03E22 - Chapter Fifty-Seven: Survive the Night
+tvdb_episode:311954_4_1  # Riverdale S04E01 - Chapter Fifty-Eight: In Memoriam
+tvdb_episode:311954_4_2  # Riverdale S04E02 - Chapter Fifty-Nine: Fast Times at Riverdale High
+tvdb_episode:311954_4_3  # Riverdale S04E03 - Chapter Sixty: Dog Day Afternoon
+tvdb_episode:311954_4_4  # Riverdale S04E04 - Chapter Sixty-One: Halloween
+tvdb_episode:311954_4_5  # Riverdale S04E05 - Chapter Sixty-Two: Witness for the Prosecution
+tvdb_episode:311954_4_6  # Riverdale S04E06 - Chapter Sixty-Three: Hereditary
+tvdb_episode:311954_4_7  # Riverdale S04E07 - Chapter Sixty-Four: The Ice Storm
+tvdb_episode:311954_4_8  # Riverdale S04E08 - Chapter Sixty-Five: In Treatment
+tvdb_episode:311954_4_9  # Riverdale S04E09 - Chapter Sixty-Six: Tangerine
+tvdb_episode:311954_4_10  # Riverdale S04E10 - Chapter Sixty-Seven: Varsity Blues
+tvdb_episode:338947_2_1  # Chilling Adventures of Sabrina S02E01 - Chapter Twenty-One: The Hellbound Heart
+tvdb_episode:338947_2_2  # Chilling Adventures of Sabrina S02E02 - Chapter Twenty-Two: Drag Me to Hell
+tvdb_episode:338947_2_3  # Chilling Adventures of Sabrina S02E03 - Chapter Twenty-Three: Heavy Is the Crown
+tvdb_episode:338947_2_4  # Chilling Adventures of Sabrina S02E04 - Chapter Twenty-Four: The Hare Moon
+tvdb_episode:338947_2_5  # Chilling Adventures of Sabrina S02E05 - Chapter Twenty-Five: The Devil Within
+tvdb_episode:338947_2_6  # Chilling Adventures of Sabrina S02E06 - Chapter Twenty-Six: All of them Witches
+tvdb_episode:338947_2_7  # Chilling Adventures of Sabrina S02E07 - Chapter Twenty-Seven: The Judas Kiss
+tvdb_episode:338947_2_8  # Chilling Adventures of Sabrina S02E08 - Chapter Twenty-Eight: Sabrina Is Legend
+tvdb_episode:311954_4_11  # Riverdale S04E11 - Chapter Sixty-Eight: Quiz Show
+tvdb_episode:311954_4_12  # Riverdale S04E12 - Chapter Sixty-Nine: Men of Honor
+tvdb_episode:360898_1_1  # Katy Keene S01E01 - Chapter One: Once Upon a Time in New York
+tvdb_episode:311954_4_13  # Riverdale S04E13 - Chapter Seventy: The Ides of March
+tvdb_episode:360898_1_2  # Katy Keene S01E02 - Chapter Two: You Can't Hurry Love
+tvdb_episode:360898_1_3  # Katy Keene S01E03 - Chapter Three: What Becomes of the Broken Hearted
+tvdb_episode:311954_4_14  # Riverdale S04E14 - Chapter Seventy-One: How to Get Away with Murder
+tvdb_episode:360898_1_4  # Katy Keene S01E04 - Chapter Four: Here Comes the Sun
+tvdb_episode:311954_4_15  # Riverdale S04E15 - Chapter Seventy-Two: To Die For
+tvdb_episode:360898_1_5  # Katy Keene S01E05 - Chapter Five: Song for a Winter's Night
+tvdb_episode:311954_4_16  # Riverdale S04E16 - Chapter Seventy-Three: The Locked Room
+tvdb_episode:360898_1_6  # Katy Keene S01E06 - Chapter Six: Mama Said
+tvdb_episode:360898_1_7  # Katy Keene S01E07 - Chapter Seven: Kiss of the Spider Woman
+tvdb_episode:360898_1_8  # Katy Keene S01E08 - Chapter Eight: It's Alright, Ma (I'm Only Bleeding)
+tvdb_episode:311954_4_17  # Riverdale S04E17 - Chapter Seventy-Four: Wicked Little Town
+tvdb_episode:360898_1_9  # Katy Keene S01E09 - Chapter Nine: Wishin' and Hopin'
+tvdb_episode:360898_1_10  # Katy Keene S01E10 - Chapter Ten: Gloria
+tvdb_episode:311954_4_18  # Riverdale S04E18 - Chapter Seventy-Five: Lynchian
+tvdb_episode:360898_1_11  # Katy Keene S01E11 - Chapter Eleven: Who Can I Turn to?
+tvdb_episode:311954_4_19  # Riverdale S04E19 - Chapter Seventy-Six: Killing Mr. Honey
+tvdb_episode:360898_1_12  # Katy Keene S01E12 - Chapter Twelve: Chain of Fools
+tvdb_episode:360898_1_13  # Katy Keene S01E13 - Chapter Thirteen: Come Together
+tvdb_episode:338947_2_9  # Chilling Adventures of Sabrina S02E09 - Chapter Twenty-Nine: The Eldritch Dark
+tvdb_episode:338947_2_10  # Chilling Adventures of Sabrina S02E10 - Chapter Thirty: The Uninvited
+tvdb_episode:338947_2_11  # Chilling Adventures of Sabrina S02E11 - Chapter Thirty-One: The Weird
+tvdb_episode:338947_2_12  # Chilling Adventures of Sabrina S02E12 - Chapter Thirty-Two: The Imp of the Perverse
+tvdb_episode:338947_2_13  # Chilling Adventures of Sabrina S02E13 - Chapter Thirty-Three: Deus Ex Machina
+tvdb_episode:338947_2_14  # Chilling Adventures of Sabrina S02E14 - Chapter Thirty-Four: The Returned
+tvdb_episode:338947_2_15  # Chilling Adventures of Sabrina S02E15 - Chapter Thirty-Five: The Endless
+tvdb_episode:338947_2_16  # Chilling Adventures of Sabrina S02E16 - Chapter Thirty-Six: At the Mountains of Madness
+tvdb_episode:311954_5_1  # Riverdale S05E01 - Chapter Seventy-Seven: Climax
+tvdb_episode:311954_5_2  # Riverdale S05E02 - Chapter Seventy-Eight: The Preppy Murders
+tvdb_episode:311954_5_3  # Riverdale S05E03 - Chapter Seventy-Nine: Graduation
+tvdb_episode:311954_5_4  # Riverdale S05E04 - Chapter Eighty: Purgatorio
+tvdb_episode:311954_5_5  # Riverdale S05E05 - Chapter Eighty-One: The Homecoming
+tvdb_episode:311954_5_6  # Riverdale S05E06 - Chapter Eighty-Two: Back to School
+tvdb_episode:311954_5_7  # Riverdale S05E07 - Chapter Eighty-Three: Fire in the Sky
+tvdb_episode:311954_5_8  # Riverdale S05E08 - Chapter Eighty-Four: Lock & Key
+tvdb_episode:311954_5_9  # Riverdale S05E09 - Chapter Eighty-Five: Destroyer
+tvdb_episode:311954_5_10  # Riverdale S05E10 - Chapter Eighty-Six: The Pincushion Man
+tvdb_episode:311954_5_11  # Riverdale S05E11 - Chapter Eighty-Seven: Strange Bedfellows
+tvdb_episode:311954_5_12  # Riverdale S05E12 - Chapter Eighty-Eight: Citizen Lodge
+tvdb_episode:311954_5_13  # Riverdale S05E13 - Chapter Eighty-Nine: Reservoir Dogs
+tvdb_episode:311954_5_14  # Riverdale S05E14 - Chapter Ninety: The Night Gallery
+tvdb_episode:311954_5_15  # Riverdale S05E15 - Chapter Ninety-One: The Return of the Pussycats
+tvdb_episode:311954_5_16  # Riverdale S05E16 - Chapter Ninety-Two: Band of Brothers
+tvdb_episode:311954_5_17  # Riverdale S05E17 - Chapter Ninety-Three: Dance of Death
+tvdb_episode:311954_5_18  # Riverdale S05E18 - Chapter Ninety-Four: Next to Normal
+tvdb_episode:311954_5_19  # Riverdale S05E19 - Chapter Ninety-Five: Riverdale: RIP(?)
+tvdb_episode:311954_6_1  # Riverdale S06E01 - Chapter Ninety-Six: Welcome to Rivervale
+tvdb_episode:311954_6_2  # Riverdale S06E02 - Chapter Ninety-Seven: Ghost Stories
+tvdb_episode:311954_6_3  # Riverdale S06E03 - Chapter Ninety-Eight: Mr. Cypher
+tvdb_episode:311954_6_4  # Riverdale S06E04 - Chapter Ninety-Nine: The Witching Hour(s)
+tvdb_episode:311954_6_5  # Riverdale S06E05 - Chapter One Hundred: The Jughead Paradox
+tvdb_episode:311954_6_6  # Riverdale S06E06 - Chapter One Hundred and One: Unbelievable
+tvdb_episode:311954_6_7  # Riverdale S06E07 - Chapter One Hundred and Two: Death at a Funeral
+tvdb_episode:311954_6_8  # Riverdale S06E08 - Chapter One Hundred and Three: The Town
+tvdb_episode:311954_6_9  # Riverdale S06E09 - Chapter One Hundred and Four: The Serpent Queen's Gambit
+tvdb_episode:311954_6_10  # Riverdale S06E10 - Chapter One Hundred and Five: Folk Heroes
+tvdb_episode:311954_6_11  # Riverdale S06E11 - Chapter One Hundred and Six: Angels in America
+tvdb_episode:311954_6_12  # Riverdale S06E12 - Chapter One Hundred and Seven: In the Fog
+tvdb_episode:311954_6_13  # Riverdale S06E13 - Chapter One Hundred and Eight: Ex-Libris
+tvdb_episode:311954_6_14  # Riverdale S06E14 - Chapter One Hundred and Nine: Venomous
+tvdb_episode:311954_6_15  # Riverdale S06E15 - Chapter One Hundred and Ten: Things That Go Bump in the Night
+tvdb_episode:311954_6_16  # Riverdale S06E16 - Chapter One Hundred and Eleven: Blue Collar
+tvdb_episode:311954_6_17  # Riverdale S06E17 - Chapter One Hundred and Twelve: American Psychos
+tvdb_episode:311954_6_18  # Riverdale S06E18 - Chapter One Hundred and Thirteen: Biblical
+tvdb_episode:311954_6_19  # Riverdale S06E19 - Chapter One Hundred and Fourteen: The Witches of Riverdale
+tvdb_episode:311954_6_20  # Riverdale S06E20 - Chapter One Hundred and Fifteen: Return to Rivervale
+tvdb_episode:311954_6_21  # Riverdale S06E21 - Chapter One Hundred and Sixteen: The Stand
+tvdb_episode:311954_6_22  # Riverdale S06E22 - Chapter One Hundred and Seventeen: Night of the Comet
+tvdb_episode:311954_7_1  # Riverdale S07E01 - Chapter One Hundred and Eighteen: Don't Worry Darling
+tvdb_episode:311954_7_2  # Riverdale S07E02 - Chapter One Hundred and Nineteen: Skip, Hop and Thump!
+tvdb_episode:311954_7_3  # Riverdale S07E03 - Chapter One Hundred and Twenty: Sex Education
+tvdb_episode:311954_7_4  # Riverdale S07E04 - Chapter One Hundred and Twenty-One: Love & Marriage
+tvdb_episode:311954_7_5  # Riverdale S07E05 - Chapter One Hundred and Twenty-Two: Tales in a Jugular Vein
+tvdb_episode:311954_7_6  # Riverdale S07E06 - Chapter One Hundred and Twenty-Three: Peep Show
+tvdb_episode:311954_7_7  # Riverdale S07E07 - Chapter One Hundred and Twenty-Four: Dirty Dancing
+tvdb_episode:311954_7_8  # Riverdale S07E08 - Chapter One Hundred and Twenty-Five: Hoop Dreams
+tvdb_episode:311954_7_9  # Riverdale S07E09 - Chapter One Hundred and Twenty-Six: Betty & Veronica Double Digest
+tvdb_episode:311954_7_10  # Riverdale S07E10 - Chapter One Hundred and Twenty-Seven: American Graffiti
+tvdb_episode:311954_7_11  # Riverdale S07E11 - Chapter One Hundred and Twenty-Eight: Halloween II
+tvdb_episode:311954_7_12  # Riverdale S07E12 - Chapter One Hundred and Twenty-Nine: After the Fall
+tvdb_episode:311954_7_13  # Riverdale S07E13 - Chapter One Hundred and Thirty: The Crucible
+tvdb_episode:311954_7_14  # Riverdale S07E14 - Chapter One Hundred and Thirty-One: Archie the Musical
+tvdb_episode:311954_7_15  # Riverdale S07E15 - Chapter One Hundred and Thirty-Two: Miss Teen Riverdale
+tvdb_episode:311954_7_16  # Riverdale S07E16 - Chapter One Hundred and Thirty-Three: Stag
+tvdb_episode:311954_7_17  # Riverdale S07E17 - Chapter One Hundred and Thirty-Four: A Different Kind of Cat
+tvdb_episode:311954_7_18  # Riverdale S07E18 - Chapter One Hundred and Thirty-Five: For a Better Tomorrow
+tvdb_episode:311954_7_19  # Riverdale S07E19 - Chapter One Hundred and Thirty-Six: The Golden Age of Television
+tvdb_episode:311954_7_20  # Riverdale S07E20 - Chapter One Hundred and Thirty-Seven: Goodbye, Riverdale
