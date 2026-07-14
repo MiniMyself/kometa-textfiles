@@ -1,0 +1,358 @@
+# Last updated: 2026-07-14
+# Scope: The Walking Dead, Fear the Walking Dead, The Walking Dead: World Beyond, Tales of the Walking Dead, The Walking Dead: Dead City, The Walking Dead: Daryl Dixon, The Walking Dead: The Ones Who Live. The Walking Dead Webisodes are excluded. Specials are excluded.
+# Based on in-universe chronology: https://walkingdead.fandom.com/wiki/Chronological_Episode_Order
+tvdb_episode:411314_1_2  # Tales of the Walking Dead S01E02 - Blair / Gina
+tvdb_episode:290853_1_1  # Fear the Walking Dead S01E01 - Pilot
+tvdb_episode:290853_1_2  # Fear the Walking Dead S01E02 - So Close, Yet So Far
+tvdb_episode:290853_1_3  # Fear the Walking Dead S01E03 - The Dog
+tvdb_episode:290853_1_4  # Fear the Walking Dead S01E04 - Not Fade Away
+tvdb_episode:290853_1_5  # Fear the Walking Dead S01E05 - Cobalt
+tvdb_episode:290853_1_6  # Fear the Walking Dead S01E06 - The Good Man
+tvdb_episode:290853_2_1  # Fear the Walking Dead S02E01 - Monster
+tvdb_episode:290853_2_2  # Fear the Walking Dead S02E02 - We All Fall Down
+tvdb_episode:290853_2_3  # Fear the Walking Dead S02E03 - Ouroboros
+tvdb_episode:290853_2_4  # Fear the Walking Dead S02E04 - Blood in the Streets
+tvdb_episode:290853_2_5  # Fear the Walking Dead S02E05 - Captive
+tvdb_episode:290853_2_6  # Fear the Walking Dead S02E06 - Sicut Cervus
+tvdb_episode:290853_2_7  # Fear the Walking Dead S02E07 - Shiva
+tvdb_episode:290853_2_8  # Fear the Walking Dead S02E08 - Grotesque
+tvdb_episode:290853_2_9  # Fear the Walking Dead S02E09 - Los Muertos
+tvdb_episode:290853_2_10  # Fear the Walking Dead S02E10 - Do Not Disturb
+tvdb_episode:290853_2_11  # Fear the Walking Dead S02E11 - Pablo & Jessica
+tvdb_episode:290853_2_12  # Fear the Walking Dead S02E12 - Pillar of Salt
+tvdb_episode:290853_2_13  # Fear the Walking Dead S02E13 - Date of Death
+tvdb_episode:290853_2_14  # Fear the Walking Dead S02E14 - Wrath
+tvdb_episode:290853_2_15  # Fear the Walking Dead S02E15 - North
+tvdb_episode:290853_3_1  # Fear the Walking Dead S03E01 - Eye of the Beholder
+tvdb_episode:290853_3_2  # Fear the Walking Dead S03E02 - The New Frontier
+tvdb_episode:290853_3_3  # Fear the Walking Dead S03E03 - TEOTWAWKI
+tvdb_episode:290853_3_4  # Fear the Walking Dead S03E04 - 100
+tvdb_episode:290853_3_5  # Fear the Walking Dead S03E05 - Burning in Water, Drowning in Flame
+tvdb_episode:290853_3_6  # Fear the Walking Dead S03E06 - Red Dirt
+tvdb_episode:290853_3_7  # Fear the Walking Dead S03E07 - The Unveiling
+tvdb_episode:290853_3_8  # Fear the Walking Dead S03E08 - Children of Wrath
+tvdb_episode:290853_3_9  # Fear the Walking Dead S03E09 - Minotaur
+tvdb_episode:290853_3_10  # Fear the Walking Dead S03E10 - The Diviner
+tvdb_episode:290853_3_11  # Fear the Walking Dead S03E11 - La Serpiente
+tvdb_episode:290853_3_12  # Fear the Walking Dead S03E12 - Brother's Keeper
+tvdb_episode:290853_3_13  # Fear the Walking Dead S03E13 - This Land is Your Land
+tvdb_episode:290853_3_14  # Fear the Walking Dead S03E14 - El Matadero
+tvdb_episode:290853_3_15  # Fear the Walking Dead S03E15 - Things Bad Begun
+tvdb_episode:290853_3_16  # Fear the Walking Dead S03E16 - Sleigh Ride
+tvdb_episode:411314_1_6  # Tales of the Walking Dead S01E06 - La Doña
+tvdb_episode:153021_1_1  # The Walking Dead S01E01 - Days Gone Bye
+tvdb_episode:153021_1_2  # The Walking Dead S01E02 - Guts
+tvdb_episode:153021_1_3  # The Walking Dead S01E03 - Tell It to the Frogs
+tvdb_episode:153021_1_4  # The Walking Dead S01E04 - Vatos
+tvdb_episode:153021_1_5  # The Walking Dead S01E05 - Wildfire
+tvdb_episode:153021_1_6  # The Walking Dead S01E06 - TS-19
+tvdb_episode:153021_2_1  # The Walking Dead S02E01 - What Lies Ahead
+tvdb_episode:153021_2_2  # The Walking Dead S02E02 - Bloodletting
+tvdb_episode:153021_2_3  # The Walking Dead S02E03 - Save the Last One
+tvdb_episode:153021_2_4  # The Walking Dead S02E04 - Cherokee Rose
+tvdb_episode:153021_2_5  # The Walking Dead S02E05 - Chupacabra
+tvdb_episode:153021_2_6  # The Walking Dead S02E06 - Secrets
+tvdb_episode:153021_2_7  # The Walking Dead S02E07 - Pretty Much Dead Already
+tvdb_episode:153021_2_8  # The Walking Dead S02E08 - Nebraska
+tvdb_episode:153021_2_9  # The Walking Dead S02E09 - Triggerfinger
+tvdb_episode:153021_2_10  # The Walking Dead S02E10 - 18 Miles Out
+tvdb_episode:153021_2_11  # The Walking Dead S02E11 - Judge, Jury, Executioner
+tvdb_episode:153021_2_12  # The Walking Dead S02E12 - Better Angels
+tvdb_episode:153021_2_13  # The Walking Dead S02E13 - Beside the Dying Fire
+tvdb_episode:153021_3_1  # The Walking Dead S03E01 - Seed
+tvdb_episode:153021_3_2  # The Walking Dead S03E02 - Sick
+tvdb_episode:153021_3_3  # The Walking Dead S03E03 - Walk with Me
+tvdb_episode:153021_3_4  # The Walking Dead S03E04 - Killer Within
+tvdb_episode:153021_3_5  # The Walking Dead S03E05 - Say the Word
+tvdb_episode:153021_3_6  # The Walking Dead S03E06 - Hounded
+tvdb_episode:153021_3_7  # The Walking Dead S03E07 - When the Dead Come Knocking
+tvdb_episode:153021_3_8  # The Walking Dead S03E08 - Made to Suffer
+tvdb_episode:153021_3_9  # The Walking Dead S03E09 - The Suicide King
+tvdb_episode:153021_3_10  # The Walking Dead S03E10 - Home
+tvdb_episode:153021_3_11  # The Walking Dead S03E11 - I Ain't a Judas
+tvdb_episode:153021_3_12  # The Walking Dead S03E12 - Clear
+tvdb_episode:153021_3_13  # The Walking Dead S03E13 - Arrow on the Doorpost
+tvdb_episode:153021_3_14  # The Walking Dead S03E14 - Prey
+tvdb_episode:153021_3_15  # The Walking Dead S03E15 - This Sorrowful Life
+tvdb_episode:153021_3_16  # The Walking Dead S03E16 - Welcome to the Tombs
+tvdb_episode:411314_1_1  # Tales of the Walking Dead S01E01 - Evie / Joe
+tvdb_episode:153021_4_1  # The Walking Dead S04E01 - 30 Days Without an Accident
+tvdb_episode:153021_4_2  # The Walking Dead S04E02 - Infected
+tvdb_episode:153021_4_3  # The Walking Dead S04E03 - Isolation
+tvdb_episode:153021_4_4  # The Walking Dead S04E04 - Indifference
+tvdb_episode:153021_4_5  # The Walking Dead S04E05 - Internment
+tvdb_episode:153021_4_6  # The Walking Dead S04E06 - Live Bait
+tvdb_episode:153021_4_7  # The Walking Dead S04E07 - Dead Weight
+tvdb_episode:153021_4_8  # The Walking Dead S04E08 - Too Far Gone
+tvdb_episode:153021_4_9  # The Walking Dead S04E09 - After
+tvdb_episode:153021_4_10  # The Walking Dead S04E10 - Inmates
+tvdb_episode:153021_4_11  # The Walking Dead S04E11 - Claimed
+tvdb_episode:153021_4_12  # The Walking Dead S04E12 - Still
+tvdb_episode:153021_4_13  # The Walking Dead S04E13 - Alone
+tvdb_episode:153021_4_14  # The Walking Dead S04E14 - The Grove
+tvdb_episode:153021_4_15  # The Walking Dead S04E15 - Us
+tvdb_episode:153021_4_16  # The Walking Dead S04E16 - A
+tvdb_episode:153021_5_1  # The Walking Dead S05E01 - No Sanctuary
+tvdb_episode:153021_5_2  # The Walking Dead S05E02 - Strangers
+tvdb_episode:153021_5_3  # The Walking Dead S05E03 - Four Walls and a Roof
+tvdb_episode:153021_5_4  # The Walking Dead S05E04 - Slabtown
+tvdb_episode:153021_5_5  # The Walking Dead S05E05 - Self Help
+tvdb_episode:153021_5_6  # The Walking Dead S05E06 - Consumed
+tvdb_episode:153021_5_7  # The Walking Dead S05E07 - Crossed
+tvdb_episode:153021_5_8  # The Walking Dead S05E08 - Coda
+tvdb_episode:153021_5_9  # The Walking Dead S05E09 - What Happened and What's Going On
+tvdb_episode:153021_5_10  # The Walking Dead S05E10 - Them
+tvdb_episode:153021_5_11  # The Walking Dead S05E11 - The Distance
+tvdb_episode:153021_5_12  # The Walking Dead S05E12 - Remember
+tvdb_episode:153021_5_13  # The Walking Dead S05E13 - Forget
+tvdb_episode:153021_5_14  # The Walking Dead S05E14 - Spend
+tvdb_episode:153021_5_15  # The Walking Dead S05E15 - Try
+tvdb_episode:153021_5_16  # The Walking Dead S05E16 - Conquer
+tvdb_episode:153021_6_1  # The Walking Dead S06E01 - First Time Again
+tvdb_episode:153021_6_2  # The Walking Dead S06E02 - JSS - Just Survive Somehow
+tvdb_episode:153021_6_3  # The Walking Dead S06E03 - Thank You
+tvdb_episode:153021_6_4  # The Walking Dead S06E04 - Here's Not Here
+tvdb_episode:153021_6_5  # The Walking Dead S06E05 - Now
+tvdb_episode:153021_6_6  # The Walking Dead S06E06 - Always Accountable
+tvdb_episode:153021_6_7  # The Walking Dead S06E07 - Heads Up
+tvdb_episode:153021_6_8  # The Walking Dead S06E08 - Start to Finish
+tvdb_episode:153021_6_9  # The Walking Dead S06E09 - No Way Out
+tvdb_episode:153021_6_10  # The Walking Dead S06E10 - The Next World
+tvdb_episode:153021_6_11  # The Walking Dead S06E11 - Knots Untie
+tvdb_episode:153021_6_12  # The Walking Dead S06E12 - Not Tomorrow Yet
+tvdb_episode:153021_6_13  # The Walking Dead S06E13 - The Same Boat
+tvdb_episode:153021_6_14  # The Walking Dead S06E14 - Twice as Far
+tvdb_episode:153021_6_15  # The Walking Dead S06E15 - East
+tvdb_episode:153021_6_16  # The Walking Dead S06E16 - Last Day on Earth
+tvdb_episode:153021_7_1  # The Walking Dead S07E01 - The Day Will Come When You Won't Be
+tvdb_episode:153021_7_2  # The Walking Dead S07E02 - The Well
+tvdb_episode:153021_7_3  # The Walking Dead S07E03 - The Cell
+tvdb_episode:153021_7_4  # The Walking Dead S07E04 - Service
+tvdb_episode:153021_7_5  # The Walking Dead S07E05 - Go Getters
+tvdb_episode:153021_7_6  # The Walking Dead S07E06 - Swear
+tvdb_episode:153021_7_7  # The Walking Dead S07E07 - Sing Me a Song
+tvdb_episode:153021_7_8  # The Walking Dead S07E08 - Hearts Still Beating
+tvdb_episode:153021_7_9  # The Walking Dead S07E09 - Rock in the Road
+tvdb_episode:153021_7_10  # The Walking Dead S07E10 - New Best Friends
+tvdb_episode:153021_7_11  # The Walking Dead S07E11 - Hostiles and Calamities
+tvdb_episode:153021_7_12  # The Walking Dead S07E12 - Say Yes
+tvdb_episode:153021_7_13  # The Walking Dead S07E13 - Bury Me Here
+tvdb_episode:153021_7_14  # The Walking Dead S07E14 - The Other Side
+tvdb_episode:153021_7_15  # The Walking Dead S07E15 - Something They Need
+tvdb_episode:153021_7_16  # The Walking Dead S07E16 - The First Day of the Rest of Your Life
+tvdb_episode:153021_8_1  # The Walking Dead S08E01 - Mercy
+tvdb_episode:153021_8_2  # The Walking Dead S08E02 - The Damned
+tvdb_episode:153021_8_3  # The Walking Dead S08E03 - Monsters
+tvdb_episode:153021_8_4  # The Walking Dead S08E04 - Some Guy
+tvdb_episode:153021_8_5  # The Walking Dead S08E05 - The Big Scary U
+tvdb_episode:153021_8_6  # The Walking Dead S08E06 - The King, The Widow and Rick
+tvdb_episode:153021_8_7  # The Walking Dead S08E07 - Time for After
+tvdb_episode:153021_8_8  # The Walking Dead S08E08 - How It's Gotta Be
+tvdb_episode:153021_8_9  # The Walking Dead S08E09 - Honor
+tvdb_episode:153021_8_10  # The Walking Dead S08E10 - The Lost and the Plunderers
+tvdb_episode:153021_8_11  # The Walking Dead S08E11 - Dead or Alive Or
+tvdb_episode:153021_8_12  # The Walking Dead S08E12 - The Key
+tvdb_episode:153021_8_13  # The Walking Dead S08E13 - Do Not Send Us Astray
+tvdb_episode:153021_8_14  # The Walking Dead S08E14 - Still Gotta Mean Something
+tvdb_episode:153021_8_15  # The Walking Dead S08E15 - Worth
+tvdb_episode:153021_8_16  # The Walking Dead S08E16 - Wrath
+tvdb_episode:290853_4_1  # Fear the Walking Dead S04E01 - What's Your Story?
+tvdb_episode:290853_4_2  # Fear the Walking Dead S04E02 - Another Day in the Diamond
+tvdb_episode:290853_4_3  # Fear the Walking Dead S04E03 - Good Out Here
+tvdb_episode:290853_4_4  # Fear the Walking Dead S04E04 - Buried
+tvdb_episode:290853_4_5  # Fear the Walking Dead S04E05 - Laura
+tvdb_episode:290853_4_6  # Fear the Walking Dead S04E06 - Just in Case
+tvdb_episode:290853_4_7  # Fear the Walking Dead S04E07 - The Wrong Side of Where You Are Now
+tvdb_episode:290853_4_8  # Fear the Walking Dead S04E08 - No One's Gone
+tvdb_episode:290853_4_9  # Fear the Walking Dead S04E09 - People Like Us
+tvdb_episode:290853_4_10  # Fear the Walking Dead S04E10 - Close Your Eyes
+tvdb_episode:290853_4_11  # Fear the Walking Dead S04E11 - The Code
+tvdb_episode:290853_4_12  # Fear the Walking Dead S04E12 - Weak
+tvdb_episode:290853_4_13  # Fear the Walking Dead S04E13 - Blackjack
+tvdb_episode:290853_4_14  # Fear the Walking Dead S04E14 - MM 54
+tvdb_episode:290853_4_15  # Fear the Walking Dead S04E15 - I Lose People...
+tvdb_episode:290853_4_16  # Fear the Walking Dead S04E16 - ... I Lose Myself
+tvdb_episode:411314_1_3  # Tales of the Walking Dead S01E03 - Dee
+tvdb_episode:290853_5_1  # Fear the Walking Dead S05E01 - Here to Help
+tvdb_episode:290853_5_2  # Fear the Walking Dead S05E02 - The Hurt That Will Happen
+tvdb_episode:290853_5_3  # Fear the Walking Dead S05E03 - Humbug's Gulch
+tvdb_episode:290853_5_4  # Fear the Walking Dead S05E04 - Skidmark
+tvdb_episode:290853_5_5  # Fear the Walking Dead S05E05 - The End of Everything
+tvdb_episode:290853_5_6  # Fear the Walking Dead S05E06 - The Little Prince
+tvdb_episode:290853_5_7  # Fear the Walking Dead S05E07 - Still Standing
+tvdb_episode:290853_5_8  # Fear the Walking Dead S05E08 - Is Anybody Out There?
+tvdb_episode:290853_5_9  # Fear the Walking Dead S05E09 - Channel 4
+tvdb_episode:290853_5_10  # Fear the Walking Dead S05E10 - 210 Words Per Minute
+tvdb_episode:290853_5_11  # Fear the Walking Dead S05E11 - You're Still Here
+tvdb_episode:290853_5_12  # Fear the Walking Dead S05E12 - Ner Tamid
+tvdb_episode:290853_5_13  # Fear the Walking Dead S05E13 - Leave What You Don't
+tvdb_episode:290853_5_14  # Fear the Walking Dead S05E14 - Today and Tomorrow
+tvdb_episode:290853_5_15  # Fear the Walking Dead S05E15 - Channel 5
+tvdb_episode:290853_5_16  # Fear the Walking Dead S05E16 - End of the Line
+tvdb_episode:153021_9_1  # The Walking Dead S09E01 - A New Beginning
+tvdb_episode:153021_9_2  # The Walking Dead S09E02 - The Bridge
+tvdb_episode:153021_9_3  # The Walking Dead S09E03 - Warning Signs
+tvdb_episode:153021_9_4  # The Walking Dead S09E04 - The Obliged
+tvdb_episode:153021_9_5  # The Walking Dead S09E05 - What Comes After
+tvdb_episode:290853_6_1  # Fear the Walking Dead S06E01 - The End Is the Beginning
+tvdb_episode:290853_6_2  # Fear the Walking Dead S06E02 - Welcome to the Club
+tvdb_episode:290853_6_3  # Fear the Walking Dead S06E03 - Alaska
+tvdb_episode:290853_6_4  # Fear the Walking Dead S06E04 - The Key
+tvdb_episode:290853_6_5  # Fear the Walking Dead S06E05 - Honey
+tvdb_episode:290853_6_6  # Fear the Walking Dead S06E06 - Bury Her Next to Jasper's Leg
+tvdb_episode:290853_6_7  # Fear the Walking Dead S06E07 - Damage from the Inside
+tvdb_episode:290853_6_8  # Fear the Walking Dead S06E08 - The Door
+tvdb_episode:290853_6_9  # Fear the Walking Dead S06E09 - Things Left to Do
+tvdb_episode:290853_6_10  # Fear the Walking Dead S06E10 - Handle with Care
+tvdb_episode:290853_6_11  # Fear the Walking Dead S06E11 - The Holding
+tvdb_episode:290853_6_12  # Fear the Walking Dead S06E12 - In Dreams
+tvdb_episode:290853_6_13  # Fear the Walking Dead S06E13 - J.D.
+tvdb_episode:290853_6_14  # Fear the Walking Dead S06E14 - Mother
+tvdb_episode:290853_6_15  # Fear the Walking Dead S06E15 - USS Pennsylvania
+tvdb_episode:290853_6_16  # Fear the Walking Dead S06E16 - The Beginning
+tvdb_episode:290853_7_1  # Fear the Walking Dead S07E01 - The Beacon
+tvdb_episode:290853_7_2  # Fear the Walking Dead S07E02 - Six Hours
+tvdb_episode:290853_7_3  # Fear the Walking Dead S07E03 - Cindy Hawkins
+tvdb_episode:290853_7_4  # Fear the Walking Dead S07E04 - Breathe with Me
+tvdb_episode:290853_7_5  # Fear the Walking Dead S07E05 - Till Death
+tvdb_episode:290853_7_6  # Fear the Walking Dead S07E06 - Reclamation
+tvdb_episode:290853_7_7  # Fear the Walking Dead S07E07 - The Portrait
+tvdb_episode:290853_7_8  # Fear the Walking Dead S07E08 - Padre
+tvdb_episode:290853_7_9  # Fear the Walking Dead S07E09 - Follow Me
+tvdb_episode:290853_7_10  # Fear the Walking Dead S07E10 - Mourning Cloak
+tvdb_episode:290853_7_11  # Fear the Walking Dead S07E11 - Ofelia
+tvdb_episode:290853_7_12  # Fear the Walking Dead S07E12 - Sonny Boy
+tvdb_episode:290853_7_13  # Fear the Walking Dead S07E13 - The Raft
+tvdb_episode:290853_7_14  # Fear the Walking Dead S07E14 - Divine Providence
+tvdb_episode:290853_7_15  # Fear the Walking Dead S07E15 - Amina
+tvdb_episode:290853_7_16  # Fear the Walking Dead S07E16 - Gone
+tvdb_episode:411314_1_4  # Tales of the Walking Dead S01E04 - Amy / Dr. Everett
+tvdb_episode:372787_1_1  # World Beyond S01E01 - Brave
+tvdb_episode:372787_1_2  # World Beyond S01E02 - The Blaze of Gory
+tvdb_episode:372787_1_3  # World Beyond S01E03 - The Tyger and the Lamb
+tvdb_episode:372787_1_4  # World Beyond S01E04 - The Wrong End of a Telescope
+tvdb_episode:372787_1_5  # World Beyond S01E05 - Madman Across the Water
+tvdb_episode:372787_1_6  # World Beyond S01E06 - Shadow Puppets
+tvdb_episode:372787_1_7  # World Beyond S01E07 - Truth or Dare
+tvdb_episode:372787_1_8  # World Beyond S01E08 - The Sky is a Graveyard
+tvdb_episode:372787_1_9  # World Beyond S01E09 - The Deepest Cut
+tvdb_episode:372787_1_10  # World Beyond S01E10 - In This Life
+tvdb_episode:372787_2_1  # World Beyond S02E01 - Konsekans
+tvdb_episode:372787_2_2  # World Beyond S02E02 - Foothold
+tvdb_episode:372787_2_3  # World Beyond S02E03 - Exit Wounds
+tvdb_episode:372787_2_4  # World Beyond S02E04 - Family is a Four Letter Word
+tvdb_episode:372787_2_5  # World Beyond S02E05 - Quatervois
+tvdb_episode:372787_2_6  # World Beyond S02E06 - Who are You?
+tvdb_episode:372787_2_7  # World Beyond S02E07 - Blood and Lies
+tvdb_episode:372787_2_8  # World Beyond S02E08 - Returning Point
+tvdb_episode:372787_2_9  # World Beyond S02E09 - Death and the Dead
+tvdb_episode:372787_2_10  # World Beyond S02E10 - The Last Light
+tvdb_episode:153021_9_6  # The Walking Dead S09E06 - Who Are You Now?
+tvdb_episode:153021_9_7  # The Walking Dead S09E07 - Stradivarius
+tvdb_episode:153021_9_8  # The Walking Dead S09E08 - Evolution
+tvdb_episode:153021_9_9  # The Walking Dead S09E09 - Adaptation
+tvdb_episode:153021_9_10  # The Walking Dead S09E10 - Omega
+tvdb_episode:153021_9_11  # The Walking Dead S09E11 - Bounty
+tvdb_episode:153021_9_12  # The Walking Dead S09E12 - Guardians
+tvdb_episode:153021_9_13  # The Walking Dead S09E13 - Chokepoint
+tvdb_episode:153021_9_14  # The Walking Dead S09E14 - Scars
+tvdb_episode:153021_9_15  # The Walking Dead S09E15 - The Calm Before
+tvdb_episode:153021_9_16  # The Walking Dead S09E16 - The Storm
+tvdb_episode:153021_10_1  # The Walking Dead S10E01 - Lines We Cross
+tvdb_episode:153021_10_2  # The Walking Dead S10E02 - We Are the End of the World
+tvdb_episode:153021_10_3  # The Walking Dead S10E03 - Ghosts
+tvdb_episode:153021_10_4  # The Walking Dead S10E04 - Silence the Whisperers
+tvdb_episode:153021_10_5  # The Walking Dead S10E05 - What It Always Is
+tvdb_episode:153021_10_6  # The Walking Dead S10E06 - Bonds
+tvdb_episode:153021_10_7  # The Walking Dead S10E07 - Open Your Eyes
+tvdb_episode:153021_10_8  # The Walking Dead S10E08 - The World Before
+tvdb_episode:153021_10_9  # The Walking Dead S10E09 - Squeeze
+tvdb_episode:153021_10_10  # The Walking Dead S10E10 - Stalker
+tvdb_episode:153021_10_11  # The Walking Dead S10E11 - Morning Star
+tvdb_episode:153021_10_12  # The Walking Dead S10E12 - Walk with Us
+tvdb_episode:153021_10_13  # The Walking Dead S10E13 - What We Become
+tvdb_episode:153021_10_14  # The Walking Dead S10E14 - Look at the Flowers
+tvdb_episode:153021_10_15  # The Walking Dead S10E15 - The Tower
+tvdb_episode:153021_10_16  # The Walking Dead S10E16 - A Certain Doom
+tvdb_episode:153021_10_17  # The Walking Dead S10E17 - Home Sweet Home
+tvdb_episode:153021_10_18  # The Walking Dead S10E18 - Find Me
+tvdb_episode:153021_10_19  # The Walking Dead S10E19 - One More
+tvdb_episode:153021_10_20  # The Walking Dead S10E20 - Splinter
+tvdb_episode:153021_10_21  # The Walking Dead S10E21 - Diverged
+tvdb_episode:153021_10_22  # The Walking Dead S10E22 - Here's Negan
+tvdb_episode:153021_11_1  # The Walking Dead S11E01 - Acheron: Part I
+tvdb_episode:153021_11_2  # The Walking Dead S11E02 - Acheron: Part II
+tvdb_episode:153021_11_3  # The Walking Dead S11E03 - Hunted
+tvdb_episode:153021_11_4  # The Walking Dead S11E04 - Rendition
+tvdb_episode:153021_11_5  # The Walking Dead S11E05 - Out of the Ashes
+tvdb_episode:153021_11_6  # The Walking Dead S11E06 - On the Inside
+tvdb_episode:153021_11_7  # The Walking Dead S11E07 - Promises Broken
+tvdb_episode:153021_11_8  # The Walking Dead S11E08 - For Blood
+tvdb_episode:153021_11_9  # The Walking Dead S11E09 - No Other Way
+tvdb_episode:153021_11_10  # The Walking Dead S11E10 - New Haunts
+tvdb_episode:153021_11_11  # The Walking Dead S11E11 - Rogue Element
+tvdb_episode:153021_11_12  # The Walking Dead S11E12 - The Lucky Ones
+tvdb_episode:290853_8_1  # Fear the Walking Dead S08E01 - Remember What They Took from You
+tvdb_episode:290853_8_2  # Fear the Walking Dead S08E02 - Blue Jay
+tvdb_episode:290853_8_3  # Fear the Walking Dead S08E03 - Odessa
+tvdb_episode:290853_8_4  # Fear the Walking Dead S08E04 - King County
+tvdb_episode:290853_8_5  # Fear the Walking Dead S08E05 - More Time Than You Know
+tvdb_episode:290853_8_6  # Fear the Walking Dead S08E06 - All I See Is Red
+tvdb_episode:290853_8_7  # Fear the Walking Dead S08E07 - Anton
+tvdb_episode:290853_8_8  # Fear the Walking Dead S08E08 - Iron Tiger
+tvdb_episode:290853_8_9  # Fear the Walking Dead S08E09 - Sanctuary
+tvdb_episode:290853_8_10  # Fear the Walking Dead S08E10 - Keeping Her Alive
+tvdb_episode:290853_8_11  # Fear the Walking Dead S08E11 - Fighting Like You
+tvdb_episode:290853_8_12  # Fear the Walking Dead S08E12 - The Road Ahead
+tvdb_episode:153021_11_13  # The Walking Dead S11E13 - Warlords
+tvdb_episode:153021_11_14  # The Walking Dead S11E14 - The Rotten Core
+tvdb_episode:153021_11_15  # The Walking Dead S11E15 - Trust
+tvdb_episode:153021_11_16  # The Walking Dead S11E16 - Acts of God
+tvdb_episode:153021_11_17  # The Walking Dead S11E17 - Lockdown
+tvdb_episode:153021_11_18  # The Walking Dead S11E18 - A New Deal
+tvdb_episode:153021_11_19  # The Walking Dead S11E19 - Variant
+tvdb_episode:153021_11_20  # The Walking Dead S11E20 - What's Been Lost
+tvdb_episode:153021_11_21  # The Walking Dead S11E21 - Outpost 22
+tvdb_episode:153021_11_22  # The Walking Dead S11E22 - Faith
+tvdb_episode:153021_11_23  # The Walking Dead S11E23 - Family
+tvdb_episode:153021_11_24  # The Walking Dead S11E24 - Rest in Peace
+tvdb_episode:427202_1_1  # The Ones Who Live S01E01 - Years
+tvdb_episode:427202_1_2  # The Ones Who Live S01E02 - Gone
+tvdb_episode:427202_1_3  # The Ones Who Live S01E03 - Bye
+tvdb_episode:427202_1_4  # The Ones Who Live S01E04 - What We
+tvdb_episode:427202_1_5  # The Ones Who Live S01E05 - Become
+tvdb_episode:427202_1_6  # The Ones Who Live S01E06 - The Last Time
+tvdb_episode:427464_1_1  # Daryl Dixon S01E01 - L'âme Perdue
+tvdb_episode:427464_1_2  # Daryl Dixon S01E02 - Alouette
+tvdb_episode:427464_1_3  # Daryl Dixon S01E03 - Paris Sera Toujours Paris
+tvdb_episode:427464_1_4  # Daryl Dixon S01E04 - La Dame de Fer
+tvdb_episode:427464_1_5  # Daryl Dixon S01E05 - Deux Amours
+tvdb_episode:427464_1_6  # Daryl Dixon S01E06 - Coming Home
+tvdb_episode:427464_2_1  # Daryl Dixon S02E01 - La Gentillesse des Étrangers
+tvdb_episode:427464_2_2  # Daryl Dixon S02E02 - Moulin Rouge
+tvdb_episode:427464_2_3  # Daryl Dixon S02E03 - L'Invisible
+tvdb_episode:427464_2_4  # Daryl Dixon S02E04 - La Paradis Pour Toi
+tvdb_episode:427464_2_5  # Daryl Dixon S02E05 - Vouloir, C'est Pouvoir
+tvdb_episode:427464_2_6  # Daryl Dixon S02E06 - Au Revoir les Enfants
+tvdb_episode:427464_3_1  # Daryl Dixon S03E01 - Costa Da Morte
+tvdb_episode:427464_3_2  # Daryl Dixon S03E02 - La Ofrenda
+tvdb_episode:427464_3_3  # Daryl Dixon S03E03 - El Sacrificio
+tvdb_episode:427464_3_4  # Daryl Dixon S03E04 - La Justicia Fronteriza
+tvdb_episode:427464_3_5  # Daryl Dixon S03E05 - Limbo
+tvdb_episode:427464_3_6  # Daryl Dixon S03E06 - Contrabando
+tvdb_episode:427464_3_7  # Daryl Dixon S03E07 - Solaz del Mar
+tvdb_episode:411314_1_5  # Tales of the Walking Dead S01E05 - Davon
+tvdb_episode:417549_1_1  # Dead City S01E01 - Old Acquaintances
+tvdb_episode:417549_1_2  # Dead City S01E02 - Who's There?
+tvdb_episode:417549_1_3  # Dead City S01E03 - People Are a Resource
+tvdb_episode:417549_1_4  # Dead City S01E04 - Everybody Wins a Prize
+tvdb_episode:417549_1_5  # Dead City S01E05 - Stories We Tell Ourselves
+tvdb_episode:417549_1_6  # Dead City S01E06 - Doma Smo
+tvdb_episode:417549_2_1  # Dead City S02E01 - Power Equals Power
+tvdb_episode:417549_2_2  # Dead City S02E02 - Another Shitty Lesson
+tvdb_episode:417549_2_3  # Dead City S02E03 - Why Did the Mainlanders Cross the River?
+tvdb_episode:417549_2_4  # Dead City S02E04 - Feisty Friendly
+tvdb_episode:417549_2_5  # Dead City S02E05 - The Bird Always Knows
+tvdb_episode:417549_2_6  # Dead City S02E06 - Bridge Partners Are Hard to Come By These Days
+tvdb_episode:417549_2_7  # Dead City S02E07 - Novi Dan, Novi Početak
+tvdb_episode:417549_2_8  # Dead City S02E08 - If History Were a Conflagration
