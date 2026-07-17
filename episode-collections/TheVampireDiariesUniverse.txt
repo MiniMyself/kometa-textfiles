@@ -1,0 +1,334 @@
+# Last updated: 2026-07-17
+# Scope: All three Vampire Diaries Universe series (The Vampire Diaries, The Originals, Legacies); excludes specials/season 0
+# Ordered by air date and time per TVmaze
+tvdb_episode:95491_1_1  # The Vampire Diaries S01E01 - Pilot
+tvdb_episode:95491_1_2  # The Vampire Diaries S01E02 - The Night of the Comet
+tvdb_episode:95491_1_3  # The Vampire Diaries S01E03 - Friday Night Bites
+tvdb_episode:95491_1_4  # The Vampire Diaries S01E04 - Family Ties
+tvdb_episode:95491_1_5  # The Vampire Diaries S01E05 - You're Undead to Me
+tvdb_episode:95491_1_6  # The Vampire Diaries S01E06 - Lost Girls
+tvdb_episode:95491_1_7  # The Vampire Diaries S01E07 - Haunted
+tvdb_episode:95491_1_8  # The Vampire Diaries S01E08 - 162 Candles
+tvdb_episode:95491_1_9  # The Vampire Diaries S01E09 - History Repeating
+tvdb_episode:95491_1_10  # The Vampire Diaries S01E10 - The Turning Point
+tvdb_episode:95491_1_11  # The Vampire Diaries S01E11 - Bloodlines
+tvdb_episode:95491_1_12  # The Vampire Diaries S01E12 - Unpleasantville
+tvdb_episode:95491_1_13  # The Vampire Diaries S01E13 - Children of the Damned
+tvdb_episode:95491_1_14  # The Vampire Diaries S01E14 - Fool Me Once
+tvdb_episode:95491_1_15  # The Vampire Diaries S01E15 - A Few Good Men
+tvdb_episode:95491_1_16  # The Vampire Diaries S01E16 - There Goes the Neighborhood
+tvdb_episode:95491_1_17  # The Vampire Diaries S01E17 - Let the Right One In
+tvdb_episode:95491_1_18  # The Vampire Diaries S01E18 - Under Control
+tvdb_episode:95491_1_19  # The Vampire Diaries S01E19 - Miss Mystic Falls
+tvdb_episode:95491_1_20  # The Vampire Diaries S01E20 - Blood Brothers
+tvdb_episode:95491_1_21  # The Vampire Diaries S01E21 - Isobel
+tvdb_episode:95491_1_22  # The Vampire Diaries S01E22 - Founder's Day
+tvdb_episode:95491_2_1  # The Vampire Diaries S02E01 - The Return
+tvdb_episode:95491_2_2  # The Vampire Diaries S02E02 - Brave New World
+tvdb_episode:95491_2_3  # The Vampire Diaries S02E03 - Bad Moon Rising
+tvdb_episode:95491_2_4  # The Vampire Diaries S02E04 - Memory Lane
+tvdb_episode:95491_2_5  # The Vampire Diaries S02E05 - Kill or Be Killed
+tvdb_episode:95491_2_6  # The Vampire Diaries S02E06 - Plan B
+tvdb_episode:95491_2_7  # The Vampire Diaries S02E07 - Masquerade
+tvdb_episode:95491_2_8  # The Vampire Diaries S02E08 - Rose
+tvdb_episode:95491_2_9  # The Vampire Diaries S02E09 - Katerina
+tvdb_episode:95491_2_10  # The Vampire Diaries S02E10 - The Sacrifice
+tvdb_episode:95491_2_11  # The Vampire Diaries S02E11 - By the Light of the Moon
+tvdb_episode:95491_2_12  # The Vampire Diaries S02E12 - The Descent
+tvdb_episode:95491_2_13  # The Vampire Diaries S02E13 - Daddy Issues
+tvdb_episode:95491_2_14  # The Vampire Diaries S02E14 - Crying Wolf
+tvdb_episode:95491_2_15  # The Vampire Diaries S02E15 - The Dinner Party
+tvdb_episode:95491_2_16  # The Vampire Diaries S02E16 - The House Guest
+tvdb_episode:95491_2_17  # The Vampire Diaries S02E17 - Know Thy Enemy
+tvdb_episode:95491_2_18  # The Vampire Diaries S02E18 - The Last Dance
+tvdb_episode:95491_2_19  # The Vampire Diaries S02E19 - Klaus
+tvdb_episode:95491_2_20  # The Vampire Diaries S02E20 - The Last Day
+tvdb_episode:95491_2_21  # The Vampire Diaries S02E21 - The Sun Also Rises
+tvdb_episode:95491_2_22  # The Vampire Diaries S02E22 - As I Lay Dying
+tvdb_episode:95491_3_1  # The Vampire Diaries S03E01 - The Birthday
+tvdb_episode:95491_3_2  # The Vampire Diaries S03E02 - The Hybrid
+tvdb_episode:95491_3_3  # The Vampire Diaries S03E03 - The End of the Affair
+tvdb_episode:95491_3_4  # The Vampire Diaries S03E04 - Disturbing Behavior
+tvdb_episode:95491_3_5  # The Vampire Diaries S03E05 - The Reckoning
+tvdb_episode:95491_3_6  # The Vampire Diaries S03E06 - Smells Like Teen Spirit
+tvdb_episode:95491_3_7  # The Vampire Diaries S03E07 - Ghost World
+tvdb_episode:95491_3_8  # The Vampire Diaries S03E08 - Ordinary People
+tvdb_episode:95491_3_9  # The Vampire Diaries S03E09 - Homecoming
+tvdb_episode:95491_3_10  # The Vampire Diaries S03E10 - The New Deal
+tvdb_episode:95491_3_11  # The Vampire Diaries S03E11 - Our Town
+tvdb_episode:95491_3_12  # The Vampire Diaries S03E12 - The Ties That Bind
+tvdb_episode:95491_3_13  # The Vampire Diaries S03E13 - Bringing Out the Dead
+tvdb_episode:95491_3_14  # The Vampire Diaries S03E14 - Dangerous Liaisons
+tvdb_episode:95491_3_15  # The Vampire Diaries S03E15 - All My Children
+tvdb_episode:95491_3_16  # The Vampire Diaries S03E16 - 1912
+tvdb_episode:95491_3_17  # The Vampire Diaries S03E17 - Break on Through
+tvdb_episode:95491_3_18  # The Vampire Diaries S03E18 - The Murder of One
+tvdb_episode:95491_3_19  # The Vampire Diaries S03E19 - Heart of Darkness
+tvdb_episode:95491_3_20  # The Vampire Diaries S03E20 - Do Not Go Gentle
+tvdb_episode:95491_3_21  # The Vampire Diaries S03E21 - Before Sunset
+tvdb_episode:95491_3_22  # The Vampire Diaries S03E22 - The Departed
+tvdb_episode:95491_4_1  # The Vampire Diaries S04E01 - Growing Pains
+tvdb_episode:95491_4_2  # The Vampire Diaries S04E02 - Memorial
+tvdb_episode:95491_4_3  # The Vampire Diaries S04E03 - The Rager
+tvdb_episode:95491_4_4  # The Vampire Diaries S04E04 - The Five
+tvdb_episode:95491_4_5  # The Vampire Diaries S04E05 - The Killer
+tvdb_episode:95491_4_6  # The Vampire Diaries S04E06 - We All Go a Little Mad Sometimes
+tvdb_episode:95491_4_7  # The Vampire Diaries S04E07 - My Brother's Keeper
+tvdb_episode:95491_4_8  # The Vampire Diaries S04E08 - We'll Always Have Bourbon Street
+tvdb_episode:95491_4_9  # The Vampire Diaries S04E09 - O Come, All Ye Faithful
+tvdb_episode:95491_4_10  # The Vampire Diaries S04E10 - After School Special
+tvdb_episode:95491_4_11  # The Vampire Diaries S04E11 - Catch Me If You Can
+tvdb_episode:95491_4_12  # The Vampire Diaries S04E12 - A View to a Kill
+tvdb_episode:95491_4_13  # The Vampire Diaries S04E13 - Into the Wild
+tvdb_episode:95491_4_14  # The Vampire Diaries S04E14 - Down the Rabbit Hole
+tvdb_episode:95491_4_15  # The Vampire Diaries S04E15 - Stand by Me
+tvdb_episode:95491_4_16  # The Vampire Diaries S04E16 - Bring It On
+tvdb_episode:95491_4_17  # The Vampire Diaries S04E17 - Because the Night
+tvdb_episode:95491_4_18  # The Vampire Diaries S04E18 - American Gothic
+tvdb_episode:95491_4_19  # The Vampire Diaries S04E19 - Pictures of You
+tvdb_episode:95491_4_20  # The Vampire Diaries S04E20 - The Originals
+tvdb_episode:95491_4_21  # The Vampire Diaries S04E21 - She's Come Undone
+tvdb_episode:95491_4_22  # The Vampire Diaries S04E22 - The Walking Dead
+tvdb_episode:95491_4_23  # The Vampire Diaries S04E23 - Graduation
+tvdb_episode:95491_5_1  # The Vampire Diaries S05E01 - I Know What You Did Last Summer
+tvdb_episode:266883_1_1  # The Originals S01E01 - Always and Forever
+tvdb_episode:266883_1_2  # The Originals S01E02 - House of the Rising Son
+tvdb_episode:95491_5_2  # The Vampire Diaries S05E02 - True Lies
+tvdb_episode:266883_1_3  # The Originals S01E03 - Tangled Up in Blue
+tvdb_episode:95491_5_3  # The Vampire Diaries S05E03 - Original Sin
+tvdb_episode:266883_1_4  # The Originals S01E04 - Girl in New Orleans
+tvdb_episode:95491_5_4  # The Vampire Diaries S05E04 - For Whom the Bell Tolls
+tvdb_episode:266883_1_5  # The Originals S01E05 - Sinners and Saints
+tvdb_episode:95491_5_5  # The Vampire Diaries S05E05 - Monster's Ball
+tvdb_episode:266883_1_6  # The Originals S01E06 - Fruit of the Poisoned Tree
+tvdb_episode:95491_5_6  # The Vampire Diaries S05E06 - Handle with Care
+tvdb_episode:266883_1_7  # The Originals S01E07 - Bloodletting
+tvdb_episode:95491_5_7  # The Vampire Diaries S05E07 - Death and the Maiden
+tvdb_episode:95491_5_8  # The Vampire Diaries S05E08 - Dead Man on Campus
+tvdb_episode:266883_1_8  # The Originals S01E08 - The River in Reverse
+tvdb_episode:266883_1_9  # The Originals S01E09 - Reigning Pain in New Orleans
+tvdb_episode:95491_5_9  # The Vampire Diaries S05E09 - The Cell
+tvdb_episode:95491_5_10  # The Vampire Diaries S05E10 - Fifty Shades of Grayson
+tvdb_episode:266883_1_10  # The Originals S01E10 - The Casket Girls
+tvdb_episode:266883_1_11  # The Originals S01E11 - AprÃ¨s Moi, Le DÃ©luge
+tvdb_episode:95491_5_11  # The Vampire Diaries S05E11 - 500 Years of Solitude
+tvdb_episode:266883_1_12  # The Originals S01E12 - Dance Back from the Grave
+tvdb_episode:95491_5_12  # The Vampire Diaries S05E12 - The Devil Inside
+tvdb_episode:266883_1_13  # The Originals S01E13 - Crescent City
+tvdb_episode:95491_5_13  # The Vampire Diaries S05E13 - Total Eclipse of the Heart
+tvdb_episode:266883_1_14  # The Originals S01E14 - Long Way Back from Hell
+tvdb_episode:95491_5_14  # The Vampire Diaries S05E14 - No Exit
+tvdb_episode:266883_1_15  # The Originals S01E15 - Le Grand Guignol
+tvdb_episode:95491_5_15  # The Vampire Diaries S05E15 - Gone Girl
+tvdb_episode:266883_1_16  # The Originals S01E16 - Farewell to Storyville
+tvdb_episode:266883_1_17  # The Originals S01E17 - Moon Over Bourbon Street
+tvdb_episode:95491_5_16  # The Vampire Diaries S05E16 - While You Were Sleeping
+tvdb_episode:95491_5_17  # The Vampire Diaries S05E17 - Rescue Me
+tvdb_episode:266883_1_18  # The Originals S01E18 - The Big Uneasy
+tvdb_episode:95491_5_18  # The Vampire Diaries S05E18 - Resident Evil
+tvdb_episode:266883_1_19  # The Originals S01E19 - An Unblinking Death
+tvdb_episode:95491_5_19  # The Vampire Diaries S05E19 - Man on Fire
+tvdb_episode:266883_1_20  # The Originals S01E20 - A Closer Walk with Thee
+tvdb_episode:95491_5_20  # The Vampire Diaries S05E20 - What Lies Beneath
+tvdb_episode:266883_1_21  # The Originals S01E21 - The Battle of New Orleans
+tvdb_episode:95491_5_21  # The Vampire Diaries S05E21 - Promised Land
+tvdb_episode:266883_1_22  # The Originals S01E22 - From a Cradle to a Grave
+tvdb_episode:95491_5_22  # The Vampire Diaries S05E22 - Home
+tvdb_episode:95491_6_1  # The Vampire Diaries S06E01 - I'll Remember
+tvdb_episode:266883_2_1  # The Originals S02E01 - Rebirth
+tvdb_episode:95491_6_2  # The Vampire Diaries S06E02 - Yellow Ledbetter
+tvdb_episode:266883_2_2  # The Originals S02E02 - Alive and Kicking
+tvdb_episode:95491_6_3  # The Vampire Diaries S06E03 - Welcome to Paradise
+tvdb_episode:266883_2_3  # The Originals S02E03 - Every Mother's Son
+tvdb_episode:95491_6_4  # The Vampire Diaries S06E04 - Black Hole Sun
+tvdb_episode:266883_2_4  # The Originals S02E04 - Live and Let Die
+tvdb_episode:95491_6_5  # The Vampire Diaries S06E05 - The World Has Turned and Left Me Here
+tvdb_episode:266883_2_5  # The Originals S02E05 - Red Door
+tvdb_episode:95491_6_6  # The Vampire Diaries S06E06 - The More You Ignore Me, the Closer I Get
+tvdb_episode:266883_2_6  # The Originals S02E06 - Wheel Inside the Wheel
+tvdb_episode:95491_6_7  # The Vampire Diaries S06E07 - Do You Remember the First Time?
+tvdb_episode:266883_2_7  # The Originals S02E07 - Chasing the Devil's Tail
+tvdb_episode:95491_6_8  # The Vampire Diaries S06E08 - Fade Into You
+tvdb_episode:266883_2_8  # The Originals S02E08 - The Brothers That Care Forgot
+tvdb_episode:95491_6_9  # The Vampire Diaries S06E09 - I Alone
+tvdb_episode:266883_2_9  # The Originals S02E09 - The Map of Moments
+tvdb_episode:95491_6_10  # The Vampire Diaries S06E10 - Christmas Through Your Eyes
+tvdb_episode:266883_2_10  # The Originals S02E10 - Gonna Set Your Flag on Fire
+tvdb_episode:95491_6_11  # The Vampire Diaries S06E11 - Woke Up with a Monster
+tvdb_episode:266883_2_11  # The Originals S02E11 - Brotherhood of the Damned
+tvdb_episode:95491_6_12  # The Vampire Diaries S06E12 - Prayer for the Dying
+tvdb_episode:266883_2_12  # The Originals S02E12 - Sanctuary
+tvdb_episode:95491_6_13  # The Vampire Diaries S06E13 - The Day I Tried to Live
+tvdb_episode:266883_2_13  # The Originals S02E13 - The Devil is Damned
+tvdb_episode:95491_6_14  # The Vampire Diaries S06E14 - Stay
+tvdb_episode:266883_2_14  # The Originals S02E14 - I Love You, Goodbye
+tvdb_episode:95491_6_15  # The Vampire Diaries S06E15 - Let Her Go
+tvdb_episode:266883_2_15  # The Originals S02E15 - They All Asked for You
+tvdb_episode:95491_6_16  # The Vampire Diaries S06E16 - The Downward Spiral
+tvdb_episode:266883_2_16  # The Originals S02E16 - Save My Soul
+tvdb_episode:95491_6_17  # The Vampire Diaries S06E17 - A Bird in a Gilded Cage
+tvdb_episode:266883_2_17  # The Originals S02E17 - Exquisite Corpse
+tvdb_episode:266883_2_18  # The Originals S02E18 - Night Has a Thousand Eyes
+tvdb_episode:95491_6_18  # The Vampire Diaries S06E18 - I Could Never Love Like That
+tvdb_episode:266883_2_19  # The Originals S02E19 - When the Levee Breaks
+tvdb_episode:95491_6_19  # The Vampire Diaries S06E19 - Because
+tvdb_episode:266883_2_20  # The Originals S02E20 - City Beneath the Sea
+tvdb_episode:95491_6_20  # The Vampire Diaries S06E20 - I'd Leave My Happy Home for You
+tvdb_episode:266883_2_21  # The Originals S02E21 - Fire with Fire
+tvdb_episode:95491_6_21  # The Vampire Diaries S06E21 - I'll Wed You in the Golden Summertime
+tvdb_episode:266883_2_22  # The Originals S02E22 - Ashes to Ashes
+tvdb_episode:95491_6_22  # The Vampire Diaries S06E22 - I'm Thinking of You All the While
+tvdb_episode:95491_7_1  # The Vampire Diaries S07E01 - Day One of Twenty-Two Thousand, Give or Take
+tvdb_episode:266883_3_1  # The Originals S03E01 - For the Next Millennium
+tvdb_episode:95491_7_2  # The Vampire Diaries S07E02 - Never Let Me Go
+tvdb_episode:266883_3_2  # The Originals S03E02 - You Hung the Moon
+tvdb_episode:95491_7_3  # The Vampire Diaries S07E03 - Age of Innocence
+tvdb_episode:266883_3_3  # The Originals S03E03 - I'll See You in Hell or New Orleans
+tvdb_episode:95491_7_4  # The Vampire Diaries S07E04 - I Carry Your Heart with Me
+tvdb_episode:266883_3_4  # The Originals S03E04 - A Walk on the Wild Side
+tvdb_episode:95491_7_5  # The Vampire Diaries S07E05 - Live Through This
+tvdb_episode:266883_3_5  # The Originals S03E05 - The Axeman's Letter
+tvdb_episode:95491_7_6  # The Vampire Diaries S07E06 - Best Served Cold
+tvdb_episode:266883_3_6  # The Originals S03E06 - Beautiful Mistake
+tvdb_episode:95491_7_7  # The Vampire Diaries S07E07 - Mommie Dearest
+tvdb_episode:266883_3_7  # The Originals S03E07 - Out of the Easy
+tvdb_episode:95491_7_8  # The Vampire Diaries S07E08 - Hold Me, Thrill Me, Kiss Me, Kill Me
+tvdb_episode:266883_3_8  # The Originals S03E08 - The Other Girl in New Orleans
+tvdb_episode:95491_7_9  # The Vampire Diaries S07E09 - Cold as Ice
+tvdb_episode:266883_3_9  # The Originals S03E09 - Savior
+tvdb_episode:95491_7_10  # The Vampire Diaries S07E10 - Hell is Other People
+tvdb_episode:266883_3_10  # The Originals S03E10 - A Ghost Along the Mississippi
+tvdb_episode:95491_7_11  # The Vampire Diaries S07E11 - Things We Lost in the Fire
+tvdb_episode:266883_3_11  # The Originals S03E11 - Wild at Heart
+tvdb_episode:95491_7_12  # The Vampire Diaries S07E12 - Postcards from the Edge
+tvdb_episode:266883_3_12  # The Originals S03E12 - Dead Angels
+tvdb_episode:95491_7_13  # The Vampire Diaries S07E13 - This Woman's Work
+tvdb_episode:266883_3_13  # The Originals S03E13 - Heart-Shaped Box
+tvdb_episode:95491_7_14  # The Vampire Diaries S07E14 - Moonlight on the Bayou
+tvdb_episode:266883_3_14  # The Originals S03E14 - A Streetcar Named Desire
+tvdb_episode:95491_7_15  # The Vampire Diaries S07E15 - I Would for You
+tvdb_episode:266883_3_15  # The Originals S03E15 - An Old Friend Calls
+tvdb_episode:95491_7_16  # The Vampire Diaries S07E16 - Days of Future Past
+tvdb_episode:266883_3_16  # The Originals S03E16 - Alone with Everybody
+tvdb_episode:95491_7_17  # The Vampire Diaries S07E17 - I Went to the Woods
+tvdb_episode:266883_3_17  # The Originals S03E17 - Behind the Black Horizon
+tvdb_episode:95491_7_18  # The Vampire Diaries S07E18 - One Way or Another
+tvdb_episode:266883_3_18  # The Originals S03E18 - The Devil Comes Here and Sighs
+tvdb_episode:95491_7_19  # The Vampire Diaries S07E19 - Somebody That I Used to Know
+tvdb_episode:95491_7_20  # The Vampire Diaries S07E20 - Kill 'Em All
+tvdb_episode:266883_3_19  # The Originals S03E19 - No More Heartbreaks
+tvdb_episode:95491_7_21  # The Vampire Diaries S07E21 - Requiem for a Dream
+tvdb_episode:266883_3_20  # The Originals S03E20 - Where Nothing Stays Buried
+tvdb_episode:95491_7_22  # The Vampire Diaries S07E22 - Gods and Monsters
+tvdb_episode:266883_3_21  # The Originals S03E21 - Give 'em Hell, Kid
+tvdb_episode:266883_3_22  # The Originals S03E22 - The Bloody Crown
+tvdb_episode:95491_8_1  # The Vampire Diaries S08E01 - Hello Brother
+tvdb_episode:95491_8_2  # The Vampire Diaries S08E02 - Today Will Be Different
+tvdb_episode:95491_8_3  # The Vampire Diaries S08E03 - You Decided That I Was Worth Saving
+tvdb_episode:95491_8_4  # The Vampire Diaries S08E04 - An Eternity of Misery
+tvdb_episode:95491_8_5  # The Vampire Diaries S08E05 - Coming Home Was a Mistake
+tvdb_episode:95491_8_6  # The Vampire Diaries S08E06 - Detoured on Some Random Backwoods Path to Hell
+tvdb_episode:95491_8_7  # The Vampire Diaries S08E07 - The Next Time I Hurt Somebody, It Could Be You
+tvdb_episode:95491_8_8  # The Vampire Diaries S08E08 - We Have History Together
+tvdb_episode:95491_8_9  # The Vampire Diaries S08E09 - The Simple Intimacy of the Near Touch
+tvdb_episode:95491_8_10  # The Vampire Diaries S08E10 - Nostalgia's a Bitch
+tvdb_episode:95491_8_11  # The Vampire Diaries S08E11 - You Made a Choice to Be Good
+tvdb_episode:95491_8_12  # The Vampire Diaries S08E12 - What Are You?
+tvdb_episode:95491_8_13  # The Vampire Diaries S08E13 - The Lies Will Catch Up with You
+tvdb_episode:95491_8_14  # The Vampire Diaries S08E14 - It's Been a Hell of a Ride
+tvdb_episode:95491_8_15  # The Vampire Diaries S08E15 - We're Planning a June Wedding
+tvdb_episode:95491_8_16  # The Vampire Diaries S08E16 - I Was Feeling Epic
+tvdb_episode:266883_4_1  # The Originals S04E01 - Gather Up the Killers
+tvdb_episode:266883_4_2  # The Originals S04E02 - No Quarter
+tvdb_episode:266883_4_3  # The Originals S04E03 - Haunter of Ruins
+tvdb_episode:266883_4_4  # The Originals S04E04 - Keepers of the House
+tvdb_episode:266883_4_5  # The Originals S04E05 - I Hear You Knocking
+tvdb_episode:266883_4_6  # The Originals S04E06 - Bag of Cobras
+tvdb_episode:266883_4_7  # The Originals S04E07 - High Water and a Devil's Daughter
+tvdb_episode:266883_4_8  # The Originals S04E08 - Voodoo in My Blood
+tvdb_episode:266883_4_9  # The Originals S04E09 - Queen Death
+tvdb_episode:266883_4_10  # The Originals S04E10 - Phantomesque
+tvdb_episode:266883_4_11  # The Originals S04E11 - A Spirit Here That Won't Be Broken
+tvdb_episode:266883_4_12  # The Originals S04E12 - Voodoo Child
+tvdb_episode:266883_4_13  # The Originals S04E13 - The Feast of All Sinners
+tvdb_episode:266883_5_1  # The Originals S05E01 - Where You Left Your Heart
+tvdb_episode:266883_5_2  # The Originals S05E02 - One Wrong Turn on Bourbon
+tvdb_episode:266883_5_3  # The Originals S05E03 - Ne Me Quitte Pas
+tvdb_episode:266883_5_4  # The Originals S05E04 - Between the Devil and the Deep Blue Sea
+tvdb_episode:266883_5_5  # The Originals S05E05 - Don't It Just Break Your Heart
+tvdb_episode:266883_5_6  # The Originals S05E06 - What, Will, I, Have, Left
+tvdb_episode:266883_5_7  # The Originals S05E07 - God's Gonna Trouble the Water
+tvdb_episode:266883_5_8  # The Originals S05E08 - The Kindness of Strangers
+tvdb_episode:266883_5_9  # The Originals S05E09 - We Have Not Long to Love
+tvdb_episode:266883_5_10  # The Originals S05E10 - There in the Disappearing Light
+tvdb_episode:266883_5_11  # The Originals S05E11 - Til the Day I Die
+tvdb_episode:266883_5_12  # The Originals S05E12 - The Tale of Two Wolves
+tvdb_episode:266883_5_13  # The Originals S05E13 - When the Saints Go Marching In
+tvdb_episode:349309_1_1  # Legacies S01E01 - This is the Part Where You Run
+tvdb_episode:349309_1_2  # Legacies S01E02 - Some People Just Want to Watch the World Burn
+tvdb_episode:349309_1_3  # Legacies S01E03 - We're Being Punked, Pedro
+tvdb_episode:349309_1_4  # Legacies S01E04 - Hope is Not the Goal
+tvdb_episode:349309_1_5  # Legacies S01E05 - Malivore
+tvdb_episode:349309_1_6  # Legacies S01E06 - Mombie Dearest
+tvdb_episode:349309_1_7  # Legacies S01E07 - Death Keeps Knocking on My Door
+tvdb_episode:349309_1_8  # Legacies S01E08 - Maybe I Should Start from the End
+tvdb_episode:349309_1_9  # Legacies S01E09 - What Was Hope Doing in Your Dreams?
+tvdb_episode:349309_1_10  # Legacies S01E10 - There's a World Where Your Dreams Came True
+tvdb_episode:349309_1_11  # Legacies S01E11 - We're Gonna Need a Spotlight
+tvdb_episode:349309_1_12  # Legacies S01E12 - There's a Mummy on Main Street
+tvdb_episode:349309_1_13  # Legacies S01E13 - The Boy Who Still Has a Lot of Good to Do
+tvdb_episode:349309_1_14  # Legacies S01E14 - Let's Just Finish the Dance
+tvdb_episode:349309_1_15  # Legacies S01E15 - I'll Tell You a Story
+tvdb_episode:349309_1_16  # Legacies S01E16 - There's Always a Loophole
+tvdb_episode:349309_2_1  # Legacies S02E01 - I'll Never Give Up Hope
+tvdb_episode:349309_2_2  # Legacies S02E02 - This Year Will Be Different
+tvdb_episode:349309_2_3  # Legacies S02E03 - You Remind Me of Someone I Used to Know
+tvdb_episode:349309_2_4  # Legacies S02E04 - Since When Do You Speak Japanese?
+tvdb_episode:349309_2_5  # Legacies S02E05 - Screw Endgame
+tvdb_episode:349309_2_6  # Legacies S02E06 - That's Nothing I Had to Remember
+tvdb_episode:349309_2_7  # Legacies S02E07 - It Will All Be Painfully Clear Soon Enough
+tvdb_episode:349309_2_8  # Legacies S02E08 - This Christmas Was Surprisingly Violent
+tvdb_episode:349309_2_9  # Legacies S02E09 - I Couldn't Have Done This Without You
+tvdb_episode:349309_2_10  # Legacies S02E10 - This is Why We Don't Entrust Plans to Muppet Babies
+tvdb_episode:349309_2_11  # Legacies S02E11 - What Cupid Problem?
+tvdb_episode:349309_2_12  # Legacies S02E12 - Kai Parker Screwed Us
+tvdb_episode:349309_2_13  # Legacies S02E13 - You Can't Save Them All
+tvdb_episode:349309_2_14  # Legacies S02E14 - There's a Place Where the Lost Things Go
+tvdb_episode:349309_2_15  # Legacies S02E15 - Life Was So Much Easier When I Only Cared About Myself
+tvdb_episode:349309_2_16  # Legacies S02E16 - Facing Darkness is Kinda My Thing
+tvdb_episode:349309_3_1  # Legacies S03E01 - We're Not Worthy
+tvdb_episode:349309_3_2  # Legacies S03E02 - Goodbyes Sure Do Suck
+tvdb_episode:349309_3_3  # Legacies S03E03 - Salvatore: The Musical!
+tvdb_episode:349309_3_4  # Legacies S03E04 - Hold on Tight
+tvdb_episode:349309_3_5  # Legacies S03E05 - This Is What It Takes
+tvdb_episode:349309_3_6  # Legacies S03E06 - To Whom It May Concern
+tvdb_episode:349309_3_7  # Legacies S03E07 - Yup, It's a Leprechaun, All Right
+tvdb_episode:349309_3_8  # Legacies S03E08 - Long Time, No See
+tvdb_episode:349309_3_9  # Legacies S03E09 - Do All Malivore Monsters Provide This Level of Emotional Insight?
+tvdb_episode:349309_3_10  # Legacies S03E10 - All's Well That Ends Well
+tvdb_episode:349309_3_11  # Legacies S03E11 - You Can't Run from Who You Are
+tvdb_episode:349309_3_12  # Legacies S03E12 - I Was Made to Love You
+tvdb_episode:349309_3_13  # Legacies S03E13 - One Day You Will Understand
+tvdb_episode:349309_3_14  # Legacies S03E14 - This Feels a Little Cult-y
+tvdb_episode:349309_3_15  # Legacies S03E15 - A New Hope
+tvdb_episode:349309_3_16  # Legacies S03E16 - Fate's a Bitch, Isn't It?
+tvdb_episode:349309_4_1  # Legacies S04E01 - You Have to Pick One This Time
+tvdb_episode:349309_4_2  # Legacies S04E02 - There's No I in Team, or Whatever
+tvdb_episode:349309_4_3  # Legacies S04E03 - We All Knew This Day Was Coming
+tvdb_episode:349309_4_4  # Legacies S04E04 - See You on the Other Side
+tvdb_episode:349309_4_5  # Legacies S04E05 - I Thought You'd Be Happier to See Me
+tvdb_episode:349309_4_6  # Legacies S04E06 - You're a Long Way from Home
+tvdb_episode:349309_4_7  # Legacies S04E07 - Someplace Far Away from All This Violence
+tvdb_episode:349309_4_8  # Legacies S04E08 - You Will Remember Me
+tvdb_episode:349309_4_9  # Legacies S04E09 - I Can't Be the One to Stop You
+tvdb_episode:349309_4_10  # Legacies S04E10 - The Story of My Life
+tvdb_episode:349309_4_11  # Legacies S04E11 - Follow the Sound of My Voice
+tvdb_episode:349309_4_12  # Legacies S04E12 - Not All Those Who Wander Are Lost
+tvdb_episode:349309_4_13  # Legacies S04E13 - Was This the Monster You Saw?
+tvdb_episode:349309_4_14  # Legacies S04E14 - The Only Way Out is Through
+tvdb_episode:349309_4_15  # Legacies S04E15 - Everything That Can Be Lost May Also Be Found
+tvdb_episode:349309_4_16  # Legacies S04E16 - I Wouldn't Be Standing Here if It Weren't for You
+tvdb_episode:349309_4_17  # Legacies S04E17 - Into the Woods
+tvdb_episode:349309_4_18  # Legacies S04E18 - By the End of This, You'll Know Who You Were Meant to Be
+tvdb_episode:349309_4_19  # Legacies S04E19 - This Can Only End in Blood
+tvdb_episode:349309_4_20  # Legacies S04E20 - Just Don't Be a Stranger, Okay?
