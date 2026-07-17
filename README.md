@@ -19,7 +19,7 @@ Full setup, the file format, a page on each list, and troubleshooting can all be
 
 - [Getting Started](https://github.com/MiniMyself/kometa-textfiles/wiki/Getting-Started) - requirements and full configuration
 - [File Format](https://github.com/MiniMyself/kometa-textfiles/wiki/File-Format) - how the `.txt` files are structured
-- [Collection Files](https://github.com/MiniMyself/kometa-textfiles/wiki/Collection-Files) - every file, and its raw URL
+- [Episode Collections](https://github.com/MiniMyself/kometa-textfiles/wiki/Episode-Collections) - every episode collection file, and its raw URL
 - [Contributing](https://github.com/MiniMyself/kometa-textfiles/wiki/Contributing) - corrections, additions, new franchises
 - [FAQ & Troubleshooting](https://github.com/MiniMyself/kometa-textfiles/wiki/FAQ-&-Troubleshooting)
 
