@@ -1,4 +1,4 @@
-# Kometa Text Files — TV Franchises & Universes
+# Kometa Text Files - TV Franchises & Universes
 
 Curated, chronological **episode-level** viewing orders for TV show franchises and shared universes, formatted for use with the [Kometa](https://kometa.wiki) [`text_file` builder](https://kometa.wiki/en/latest/files/builders/textfile/text-file/).
 

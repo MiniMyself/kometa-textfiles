@@ -1,0 +1,169 @@
+# Last updated: 2026-07-15
+# Scope: The Rookie (all seasons) and The Rookie: Feds (season 1); excludes specials
+# Ordered by air date and time per TVmaze
+tvdb_episode:350665_1_1  # The Rookie S01E01 - Pilot
+tvdb_episode:350665_1_2  # The Rookie S01E02 - Crash Course
+tvdb_episode:350665_1_3  # The Rookie S01E03 - The Good, the Bad and the Ugly
+tvdb_episode:350665_1_4  # The Rookie S01E04 - The Switch
+tvdb_episode:350665_1_5  # The Rookie S01E05 - The Roundup
+tvdb_episode:350665_1_6  # The Rookie S01E06 - The Hawke
+tvdb_episode:350665_1_7  # The Rookie S01E07 - The Ride Along
+tvdb_episode:350665_1_8  # The Rookie S01E08 - Time of Death
+tvdb_episode:350665_1_9  # The Rookie S01E09 - Standoff
+tvdb_episode:350665_1_10  # The Rookie S01E10 - Flesh and Blood
+tvdb_episode:350665_1_11  # The Rookie S01E11 - Redwood
+tvdb_episode:350665_1_12  # The Rookie S01E12 - Heartbreak
+tvdb_episode:350665_1_13  # The Rookie S01E13 - Caught Stealing
+tvdb_episode:350665_1_14  # The Rookie S01E14 - Plain Clothes Day
+tvdb_episode:350665_1_15  # The Rookie S01E15 - Manhunt
+tvdb_episode:350665_1_16  # The Rookie S01E16 - Greenlight
+tvdb_episode:350665_1_17  # The Rookie S01E17 - The Shake Up
+tvdb_episode:350665_1_18  # The Rookie S01E18 - Homefront
+tvdb_episode:350665_1_19  # The Rookie S01E19 - The Checklist
+tvdb_episode:350665_1_20  # The Rookie S01E20 - Free Fall
+tvdb_episode:350665_2_1  # The Rookie S02E01 - Impact
+tvdb_episode:350665_2_2  # The Rookie S02E02 - The Night General
+tvdb_episode:350665_2_3  # The Rookie S02E03 - The Bet
+tvdb_episode:350665_2_4  # The Rookie S02E04 - Warriors and Guardians
+tvdb_episode:350665_2_5  # The Rookie S02E05 - Tough Love
+tvdb_episode:350665_2_6  # The Rookie S02E06 - Fallout
+tvdb_episode:350665_2_7  # The Rookie S02E07 - Safety
+tvdb_episode:350665_2_8  # The Rookie S02E08 - Clean Cut
+tvdb_episode:350665_2_9  # The Rookie S02E09 - Breaking Point
+tvdb_episode:350665_2_10  # The Rookie S02E10 - The Dark Side
+tvdb_episode:350665_2_11  # The Rookie S02E11 - Day of Death
+tvdb_episode:350665_2_12  # The Rookie S02E12 - Now and Then
+tvdb_episode:350665_2_13  # The Rookie S02E13 - Follow-Up Day
+tvdb_episode:350665_2_14  # The Rookie S02E14 - Casualties
+tvdb_episode:350665_2_15  # The Rookie S02E15 - Hand-Off
+tvdb_episode:350665_2_16  # The Rookie S02E16 - The Overnight
+tvdb_episode:350665_2_17  # The Rookie S02E17 - Control
+tvdb_episode:350665_2_18  # The Rookie S02E18 - Under the Gun
+tvdb_episode:350665_2_19  # The Rookie S02E19 - The Q Word
+tvdb_episode:350665_2_20  # The Rookie S02E20 - The Hunt
+tvdb_episode:350665_3_1  # The Rookie S03E01 - Consequences
+tvdb_episode:350665_3_2  # The Rookie S03E02 - In Justice
+tvdb_episode:350665_3_3  # The Rookie S03E03 - La Fiera
+tvdb_episode:350665_3_4  # The Rookie S03E04 - Sabotage
+tvdb_episode:350665_3_5  # The Rookie S03E05 - Lockdown
+tvdb_episode:350665_3_6  # The Rookie S03E06 - Revelations
+tvdb_episode:350665_3_7  # The Rookie S03E07 - True Crime
+tvdb_episode:350665_3_8  # The Rookie S03E08 - Bad Blood
+tvdb_episode:350665_3_9  # The Rookie S03E09 - Amber
+tvdb_episode:350665_3_10  # The Rookie S03E10 - Man of Honor
+tvdb_episode:350665_3_11  # The Rookie S03E11 - New Blood
+tvdb_episode:350665_3_12  # The Rookie S03E12 - Brave Heart
+tvdb_episode:350665_3_13  # The Rookie S03E13 - Triple Duty
+tvdb_episode:350665_3_14  # The Rookie S03E14 - Threshold
+tvdb_episode:350665_4_1  # The Rookie S04E01 - Life and Death
+tvdb_episode:350665_4_2  # The Rookie S04E02 - Five Minutes
+tvdb_episode:350665_4_3  # The Rookie S04E03 - In the Line of Fire
+tvdb_episode:350665_4_4  # The Rookie S04E04 - Red Hot
+tvdb_episode:350665_4_5  # The Rookie S04E05 - A.C.H.
+tvdb_episode:350665_4_6  # The Rookie S04E06 - Poetic Justice
+tvdb_episode:350665_4_7  # The Rookie S04E07 - Fire Fight
+tvdb_episode:350665_4_8  # The Rookie S04E08 - Hit and Run
+tvdb_episode:350665_4_9  # The Rookie S04E09 - Breakdown
+tvdb_episode:350665_4_10  # The Rookie S04E10 - Heart Beat
+tvdb_episode:350665_4_11  # The Rookie S04E11 - End Game
+tvdb_episode:350665_4_12  # The Rookie S04E12 - The Knock
+tvdb_episode:350665_4_13  # The Rookie S04E13 - Fight or Flight
+tvdb_episode:350665_4_14  # The Rookie S04E14 - Long Shot
+tvdb_episode:350665_4_15  # The Rookie S04E15 - Hit List
+tvdb_episode:350665_4_16  # The Rookie S04E16 - Real Crime
+tvdb_episode:350665_4_17  # The Rookie S04E17 - Coding
+tvdb_episode:350665_4_18  # The Rookie S04E18 - Backstabbers
+tvdb_episode:350665_4_19  # The Rookie S04E19 - Simone
+tvdb_episode:350665_4_20  # The Rookie S04E20 - Enervo
+tvdb_episode:350665_4_21  # The Rookie S04E21 - Mother's Day
+tvdb_episode:350665_4_22  # The Rookie S04E22 - Day in the Hole
+tvdb_episode:350665_5_1  # The Rookie S05E01 - Double Down
+tvdb_episode:420105_1_1  # The Rookie: Feds S01E01 - Day One
+tvdb_episode:350665_5_2  # The Rookie S05E02 - Labor Day
+tvdb_episode:420105_1_2  # The Rookie: Feds S01E02 - Face Off
+tvdb_episode:350665_5_3  # The Rookie S05E03 - Dye Hard
+tvdb_episode:420105_1_3  # The Rookie: Feds S01E03 - Star Crossed
+tvdb_episode:350665_5_4  # The Rookie S05E04 - The Choice
+tvdb_episode:420105_1_4  # The Rookie: Feds S01E04 - To Die For
+tvdb_episode:350665_5_5  # The Rookie S05E05 - The Fugitive
+tvdb_episode:420105_1_5  # The Rookie: Feds S01E05 - Felicia
+tvdb_episode:350665_5_6  # The Rookie S05E06 - The Reckoning
+tvdb_episode:420105_1_6  # The Rookie: Feds S01E06 - The Reaper
+tvdb_episode:350665_5_7  # The Rookie S05E07 - Crossfire
+tvdb_episode:420105_1_7  # The Rookie: Feds S01E07 - Countdown
+tvdb_episode:420105_1_8  # The Rookie: Feds S01E08 - Standoff
+tvdb_episode:420105_1_9  # The Rookie: Feds S01E09 - Flashback
+tvdb_episode:350665_5_8  # The Rookie S05E08 - The Collar
+tvdb_episode:350665_5_9  # The Rookie S05E09 - Take Back
+tvdb_episode:350665_5_10  # The Rookie S05E10 - The List
+tvdb_episode:420105_1_10  # The Rookie: Feds S01E10 - The Silent Prisoner
+tvdb_episode:350665_5_11  # The Rookie S05E11 - The Naked and the Dead
+tvdb_episode:420105_1_11  # The Rookie: Feds S01E11 - Close Contact
+tvdb_episode:350665_5_12  # The Rookie S05E12 - Death Notice
+tvdb_episode:420105_1_12  # The Rookie: Feds S01E12 - Out for Blood
+tvdb_episode:350665_5_13  # The Rookie S05E13 - Daddy Cop
+tvdb_episode:420105_1_13  # The Rookie: Feds S01E13 - The Remora
+tvdb_episode:350665_5_14  # The Rookie S05E14 - Death Sentence
+tvdb_episode:420105_1_14  # The Rookie: Feds S01E14 - The Offer
+tvdb_episode:350665_5_15  # The Rookie S05E15 - The Con
+tvdb_episode:420105_1_15  # The Rookie: Feds S01E15 - Dead Again
+tvdb_episode:350665_5_16  # The Rookie S05E16 - Exposed
+tvdb_episode:420105_1_16  # The Rookie: Feds S01E16 - For Love and Money
+tvdb_episode:350665_5_17  # The Rookie S05E17 - The Enemy Within
+tvdb_episode:420105_1_17  # The Rookie: Feds S01E17 - Payback
+tvdb_episode:350665_5_18  # The Rookie S05E18 - Double Trouble
+tvdb_episode:420105_1_18  # The Rookie: Feds S01E18 - Seeing Red
+tvdb_episode:350665_5_19  # The Rookie S05E19 - A Hole in the World
+tvdb_episode:420105_1_19  # The Rookie: Feds S01E19 - Burn Run
+tvdb_episode:350665_5_20  # The Rookie S05E20 - S.T.R.
+tvdb_episode:420105_1_20  # The Rookie: Feds S01E20 - I Am Many
+tvdb_episode:350665_5_21  # The Rookie S05E21 - Going Under
+tvdb_episode:420105_1_21  # The Rookie: Feds S01E21 - Bloodline
+tvdb_episode:350665_5_22  # The Rookie S05E22 - Under Siege
+tvdb_episode:420105_1_22  # The Rookie: Feds S01E22 - Red One
+tvdb_episode:350665_6_1  # The Rookie S06E01 - Strike Back
+tvdb_episode:350665_6_2  # The Rookie S06E02 - The Hammer
+tvdb_episode:350665_6_3  # The Rookie S06E03 - Trouble in Paradise
+tvdb_episode:350665_6_4  # The Rookie S06E04 - Training Day
+tvdb_episode:350665_6_5  # The Rookie S06E05 - The Vow
+tvdb_episode:350665_6_6  # The Rookie S06E06 - Secrets and Lies
+tvdb_episode:350665_6_7  # The Rookie S06E07 - Crushed
+tvdb_episode:350665_6_8  # The Rookie S06E08 - Punch Card
+tvdb_episode:350665_6_9  # The Rookie S06E09 - The Squeeze
+tvdb_episode:350665_6_10  # The Rookie S06E10 - Escape Plan
+tvdb_episode:350665_7_1  # The Rookie S07E01 - The Shot
+tvdb_episode:350665_7_2  # The Rookie S07E02 - The Watcher
+tvdb_episode:350665_7_3  # The Rookie S07E03 - Out of Pocket
+tvdb_episode:350665_7_4  # The Rookie S07E04 - Darkness Falling
+tvdb_episode:350665_7_5  # The Rookie S07E05 - Til Death
+tvdb_episode:350665_7_6  # The Rookie S07E06 - The Gala
+tvdb_episode:350665_7_7  # The Rookie S07E07 - The Mickey
+tvdb_episode:350665_7_8  # The Rookie S07E08 - Wildfire
+tvdb_episode:350665_7_9  # The Rookie S07E09 - The Kiss
+tvdb_episode:350665_7_10  # The Rookie S07E10 - Chaos Agent
+tvdb_episode:350665_7_11  # The Rookie S07E11 - Speed
+tvdb_episode:350665_7_12  # The Rookie S07E12 - April Fools
+tvdb_episode:350665_7_13  # The Rookie S07E13 - Three Billboards
+tvdb_episode:350665_7_14  # The Rookie S07E14 - Mad About Murder
+tvdb_episode:350665_7_15  # The Rookie S07E15 - A Deadly Secret
+tvdb_episode:350665_7_16  # The Rookie S07E16 - The Return
+tvdb_episode:350665_7_17  # The Rookie S07E17 - Mutiny and the Bounty
+tvdb_episode:350665_7_18  # The Rookie S07E18 - The Good, The Bad, And The Oscar
+tvdb_episode:350665_8_1  # The Rookie S08E01 - Czech Mate
+tvdb_episode:350665_8_2  # The Rookie S08E02 - Fast Andy
+tvdb_episode:350665_8_3  # The Rookie S08E03 - The Red Place
+tvdb_episode:350665_8_4  # The Rookie S08E04 - Cut and Run
+tvdb_episode:350665_8_5  # The Rookie S08E05 - The Network
+tvdb_episode:350665_8_6  # The Rookie S08E06 - Burn 4 Love
+tvdb_episode:350665_8_7  # The Rookie S08E07 - Baja
+tvdb_episode:350665_8_8  # The Rookie S08E08 - Grand Theft Aircraft
+tvdb_episode:350665_8_9  # The Rookie S08E09 - Fun and Games
+tvdb_episode:350665_8_10  # The Rookie S08E10 - His Name Was Martin
+tvdb_episode:350665_8_11  # The Rookie S08E11 - Aftermath
+tvdb_episode:350665_8_12  # The Rookie S08E12 - Spy Games
+tvdb_episode:350665_8_13  # The Rookie S08E13 - The Thinker
+tvdb_episode:350665_8_14  # The Rookie S08E14 - Tiger Bear
+tvdb_episode:350665_8_15  # The Rookie S08E15 - Survive the Streets
+tvdb_episode:350665_8_16  # The Rookie S08E16 - Out of Time
+tvdb_episode:350665_8_17  # The Rookie S08E17 - Dead Ringer
+tvdb_episode:350665_8_18  # The Rookie S08E18 - The Bandit
