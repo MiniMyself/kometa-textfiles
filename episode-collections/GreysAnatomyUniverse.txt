@@ -1,0 +1,685 @@
+# Last updated: 2026-07-18
+# Scope: Grey's Anatomy Universe core three series (Grey's Anatomy, Private Practice, Station 19); excludes all webisodes, recap-clip specials
+# Based on community list: (https://docs.google.com/spreadsheets/d/1SFZ0pYJiYDkYyaWRF9fXkDFJ_A--v3Idu8zC7_vx2sg/htmlview)
+tvdb_episode:73762_1_1  # Grey's Anatomy S01E01 - A Hard Day's Night
+tvdb_episode:73762_1_2  # Grey's Anatomy S01E02 - The First Cut Is the Deepest
+tvdb_episode:73762_1_3  # Grey's Anatomy S01E03 - Winning a Battle, Losing the War
+tvdb_episode:73762_1_4  # Grey's Anatomy S01E04 - No Man's Land
+tvdb_episode:73762_1_5  # Grey's Anatomy S01E05 - Shake Your Groove Thing
+tvdb_episode:73762_1_6  # Grey's Anatomy S01E06 - If Tomorrow Never Comes
+tvdb_episode:73762_1_7  # Grey's Anatomy S01E07 - The Self-Destruct Button
+tvdb_episode:73762_1_8  # Grey's Anatomy S01E08 - Save Me
+tvdb_episode:73762_1_9  # Grey's Anatomy S01E09 - Who's Zoomin' Who?
+tvdb_episode:73762_2_1  # Grey's Anatomy S02E01 - Raindrops Keep Falling On My Head
+tvdb_episode:73762_2_2  # Grey's Anatomy S02E02 - Enough is Enough
+tvdb_episode:73762_2_3  # Grey's Anatomy S02E03 - Make Me Lose Control
+tvdb_episode:73762_2_4  # Grey's Anatomy S02E04 - Deny, Deny, Deny
+tvdb_episode:73762_2_5  # Grey's Anatomy S02E05 - Bring the Pain
+tvdb_episode:73762_2_6  # Grey's Anatomy S02E06 - Into You Like a Train
+tvdb_episode:73762_2_7  # Grey's Anatomy S02E07 - Something to Talk About
+tvdb_episode:73762_2_8  # Grey's Anatomy S02E08 - Let It Be
+tvdb_episode:73762_2_9  # Grey's Anatomy S02E09 - Thanks for the Memories
+tvdb_episode:73762_2_10  # Grey's Anatomy S02E10 - Much Too Much
+tvdb_episode:73762_2_11  # Grey's Anatomy S02E11 - Owner of a Lonely Heart
+tvdb_episode:73762_2_12  # Grey's Anatomy S02E12 - Grandma Got Run Over By a Reindeer
+tvdb_episode:73762_2_13  # Grey's Anatomy S02E13 - Begin the Begin
+tvdb_episode:73762_2_14  # Grey's Anatomy S02E14 - Tell Me Sweet Little Lies
+tvdb_episode:73762_2_15  # Grey's Anatomy S02E15 - Break on Through
+tvdb_episode:73762_2_16  # Grey's Anatomy S02E16 - It's the End of the World
+tvdb_episode:73762_2_17  # Grey's Anatomy S02E17 - As We Know It
+tvdb_episode:73762_2_18  # Grey's Anatomy S02E18 - Yesterday
+tvdb_episode:73762_2_19  # Grey's Anatomy S02E19 - What Have I Done to Deserve This?
+tvdb_episode:73762_2_20  # Grey's Anatomy S02E20 - Band-Aid Covers the Bullet Hole
+tvdb_episode:73762_2_21  # Grey's Anatomy S02E21 - Superstition
+tvdb_episode:73762_2_22  # Grey's Anatomy S02E22 - The Name of the Game
+tvdb_episode:73762_2_23  # Grey's Anatomy S02E23 - Blues for Sister Someone
+tvdb_episode:73762_2_24  # Grey's Anatomy S02E24 - Damage Case
+tvdb_episode:73762_2_25  # Grey's Anatomy S02E25 - 17 Seconds
+tvdb_episode:73762_2_26  # Grey's Anatomy S02E26 - Deterioration of the Fight or Flight Response
+tvdb_episode:73762_2_27  # Grey's Anatomy S02E27 - Losing My Religion
+tvdb_episode:73762_3_1  # Grey's Anatomy S03E01 - Time Has Come Today
+tvdb_episode:73762_3_2  # Grey's Anatomy S03E02 - I Am a Tree
+tvdb_episode:73762_3_3  # Grey's Anatomy S03E03 - Sometimes a Fantasy
+tvdb_episode:73762_3_4  # Grey's Anatomy S03E04 - What I Am
+tvdb_episode:73762_3_5  # Grey's Anatomy S03E05 - Oh, the Guilt
+tvdb_episode:73762_3_6  # Grey's Anatomy S03E06 - Let the Angels Commit
+tvdb_episode:73762_3_7  # Grey's Anatomy S03E07 - Where the Boys Are
+tvdb_episode:73762_3_8  # Grey's Anatomy S03E08 - Staring at the Sun
+tvdb_episode:73762_3_9  # Grey's Anatomy S03E09 - From a Whisper to a Scream
+tvdb_episode:73762_3_10  # Grey's Anatomy S03E10 - Don't Stand So Close to Me
+tvdb_episode:73762_3_11  # Grey's Anatomy S03E11 - Six Days, Part 1
+tvdb_episode:73762_3_12  # Grey's Anatomy S03E12 - Six Days, Part 2
+tvdb_episode:73762_3_13  # Grey's Anatomy S03E13 - Great Expectations
+tvdb_episode:73762_3_14  # Grey's Anatomy S03E14 - Wishin' and Hopin'
+tvdb_episode:73762_3_15  # Grey's Anatomy S03E15 - Walk on Water
+tvdb_episode:73762_3_16  # Grey's Anatomy S03E16 - Drowning on Dry Land
+tvdb_episode:73762_3_17  # Grey's Anatomy S03E17 - Some Kind of Miracle
+tvdb_episode:73762_3_18  # Grey's Anatomy S03E18 - Scars and Souvenirs
+tvdb_episode:73762_3_19  # Grey's Anatomy S03E19 - My Favorite Mistake
+tvdb_episode:73762_3_20  # Grey's Anatomy S03E20 - Time After Time
+tvdb_episode:73762_3_21  # Grey's Anatomy S03E21 - Desire
+tvdb_episode:73762_3_22  # Grey's Anatomy S03E22 - The Other Side of This Life, Part 1
+tvdb_episode:73762_3_23  # Grey's Anatomy S03E23 - The Other Side of This Life, Part 2
+tvdb_episode:73762_3_24  # Grey's Anatomy S03E24 - Testing 1-2-3
+tvdb_episode:73762_3_25  # Grey's Anatomy S03E25 - Didn't We Almost Have It All?
+tvdb_episode:80542_1_1  # Private Practice S01E01 - In Which We Meet Addison, a Nice Girl From Somewhere Else
+tvdb_episode:73762_4_1  # Grey's Anatomy S04E01 - A Change is Gonna Come
+tvdb_episode:80542_1_2  # Private Practice S01E02 - In Which Sam Receives an Unexpected Visitor
+tvdb_episode:73762_4_2  # Grey's Anatomy S04E02 - Love/Addiction
+tvdb_episode:80542_1_3  # Private Practice S01E03 - In Which Addison Finds the Magic
+tvdb_episode:73762_4_3  # Grey's Anatomy S04E03 - Let the Truth Sting
+tvdb_episode:80542_1_4  # Private Practice S01E04 - In Which Addison Has a Very Casual Get Together
+tvdb_episode:73762_4_4  # Grey's Anatomy S04E04 - The Heart of the Matter
+tvdb_episode:80542_1_5  # Private Practice S01E05 - In Which Addison Finds a Showerhead
+tvdb_episode:73762_4_5  # Grey's Anatomy S04E05 - Haunt You Every Day
+tvdb_episode:80542_1_6  # Private Practice S01E06 - In Which Charlotte Goes Down the Rabbit Hole
+tvdb_episode:73762_4_6  # Grey's Anatomy S04E06 - Kung Fu Fighting
+tvdb_episode:73762_4_7  # Grey's Anatomy S04E07 - Physical Attraction... Chemical Reaction
+tvdb_episode:80542_1_7  # Private Practice S01E07 - In Which Sam Gets Taken for a Ride
+tvdb_episode:73762_4_8  # Grey's Anatomy S04E08 - Forever Young
+tvdb_episode:80542_1_8  # Private Practice S01E08 - In Which Cooper Finds a Port in His Storm
+tvdb_episode:73762_4_9  # Grey's Anatomy S04E09 - Crash Into Me, Part 1
+tvdb_episode:80542_1_9  # Private Practice S01E09 - In Which Dell Finds His Fight
+tvdb_episode:73762_4_10  # Grey's Anatomy S04E10 - Crash Into Me, Part 2
+tvdb_episode:73762_4_11  # Grey's Anatomy S04E11 - Lay Your Hands on Me
+tvdb_episode:73762_4_12  # Grey's Anatomy S04E12 - Where the Wild Things Are
+tvdb_episode:73762_4_13  # Grey's Anatomy S04E13 - Piece of My Heart
+tvdb_episode:73762_4_14  # Grey's Anatomy S04E14 - The Becoming
+tvdb_episode:73762_4_15  # Grey's Anatomy S04E15 - Losing My Mind
+tvdb_episode:73762_4_16  # Grey's Anatomy S04E16 - Freedom, Part 1
+tvdb_episode:73762_4_17  # Grey's Anatomy S04E17 - Freedom, Part 2
+tvdb_episode:73762_5_1  # Grey's Anatomy S05E01 - Dream a Little Dream of Me, Part 1
+tvdb_episode:73762_5_2  # Grey's Anatomy S05E02 - Dream a Little Dream of Me, Part 2
+tvdb_episode:80542_2_1  # Private Practice S02E01 - A Family Thing
+tvdb_episode:80542_2_2  # Private Practice S02E02 - Equal and Opposite
+tvdb_episode:73762_5_3  # Grey's Anatomy S05E03 - Here Comes the Flood
+tvdb_episode:73762_5_4  # Grey's Anatomy S05E04 - Brave New World
+tvdb_episode:80542_2_3  # Private Practice S02E03 - Nothing to Talk About
+tvdb_episode:73762_5_5  # Grey's Anatomy S05E05 - There's No 'I' in Team
+tvdb_episode:80542_2_4  # Private Practice S02E04 - Past Tense
+tvdb_episode:73762_5_6  # Grey's Anatomy S05E06 - Life During Wartime
+tvdb_episode:80542_2_5  # Private Practice S02E05 - Let It Go
+tvdb_episode:73762_5_7  # Grey's Anatomy S05E07 - Rise Up
+tvdb_episode:73762_5_8  # Grey's Anatomy S05E08 - These Ties That Bind
+tvdb_episode:80542_2_6  # Private Practice S02E06 - Serving Two Masters
+tvdb_episode:73762_5_9  # Grey's Anatomy S05E09 - In the Midnight Hour
+tvdb_episode:80542_2_7  # Private Practice S02E07 - Tempting Faith
+tvdb_episode:80542_2_8  # Private Practice S02E08 - Crime and Punishment
+tvdb_episode:73762_5_10  # Grey's Anatomy S05E10 - All By Myself
+tvdb_episode:80542_2_9  # Private Practice S02E09 - Know When to Fold
+tvdb_episode:80542_2_10  # Private Practice S02E10 - Worlds Apart
+tvdb_episode:73762_5_11  # Grey's Anatomy S05E11 - Wish You Were Here
+tvdb_episode:80542_2_11  # Private Practice S02E11 - Contamination
+tvdb_episode:73762_5_12  # Grey's Anatomy S05E12 - Sympathy for the Devil
+tvdb_episode:80542_2_12  # Private Practice S02E12 - Homeward Bound
+tvdb_episode:73762_5_13  # Grey's Anatomy S05E13 - Stairway to Heaven
+tvdb_episode:80542_2_13  # Private Practice S02E13 - Nothing to Fear
+tvdb_episode:80542_2_14  # Private Practice S02E14 - Second Chances
+tvdb_episode:73762_5_14  # Grey's Anatomy S05E14 - Beat Your Heart Out
+tvdb_episode:80542_2_15  # Private Practice S02E15 - Acceptance
+tvdb_episode:73762_5_15  # Grey's Anatomy S05E15 - Before and After
+tvdb_episode:80542_2_16  # Private Practice S02E16 - Ex-Life
+tvdb_episode:73762_5_16  # Grey's Anatomy S05E16 - An Honest Mistake
+tvdb_episode:80542_2_17  # Private Practice S02E17 - Wait and See
+tvdb_episode:73762_5_17  # Grey's Anatomy S05E17 - I Will Follow You Into the Dark
+tvdb_episode:80542_2_18  # Private Practice S02E18 - Finishing
+tvdb_episode:73762_5_18  # Grey's Anatomy S05E18 - Stand By Me
+tvdb_episode:80542_2_19  # Private Practice S02E19 - What Women Want
+tvdb_episode:73762_5_19  # Grey's Anatomy S05E19 - Elevator Love Letter
+tvdb_episode:80542_2_20  # Private Practice S02E20 - Do the Right Thing
+tvdb_episode:73762_5_20  # Grey's Anatomy S05E20 - Sweet Surrender
+tvdb_episode:80542_2_21  # Private Practice S02E21 - What You Do for Love
+tvdb_episode:73762_5_21  # Grey's Anatomy S05E21 - No Good at Saying Sorry (One More Chance)
+tvdb_episode:80542_2_22  # Private Practice S02E22 - Yours, Mine & Ours
+tvdb_episode:73762_5_22  # Grey's Anatomy S05E22 - What a Difference a Day Makes (100th episode)
+tvdb_episode:73762_5_23  # Grey's Anatomy S05E23 - Here's to Future Days
+tvdb_episode:73762_5_24  # Grey's Anatomy S05E24 - Now or Never
+tvdb_episode:73762_6_1  # Grey's Anatomy S06E01 - Good Mourning
+tvdb_episode:73762_6_2  # Grey's Anatomy S06E02 - Goodbye
+tvdb_episode:73762_6_3  # Grey's Anatomy S06E03 - I Always Feel Like Somebody's Watchin' Me
+tvdb_episode:80542_3_1  # Private Practice S03E01 - A Death in the Family
+tvdb_episode:73762_6_4  # Grey's Anatomy S06E04 - Tainted Obligation
+tvdb_episode:80542_3_2  # Private Practice S03E02 - The Way We Were
+tvdb_episode:73762_6_5  # Grey's Anatomy S06E05 - Invasion
+tvdb_episode:80542_3_3  # Private Practice S03E03 - Right Here, Right Now
+tvdb_episode:73762_6_6  # Grey's Anatomy S06E06 - I Saw What I Saw
+tvdb_episode:80542_3_4  # Private Practice S03E04 - Pushing the Limits
+tvdb_episode:73762_6_7  # Grey's Anatomy S06E07 - Give Peace a Chance
+tvdb_episode:80542_3_5  # Private Practice S03E05 - Strange Bedfellows
+tvdb_episode:73762_6_8  # Grey's Anatomy S06E08 - Invest in Love
+tvdb_episode:80542_3_6  # Private Practice S03E06 - Slip Slidin' Away
+tvdb_episode:73762_6_9  # Grey's Anatomy S06E09 - New History
+tvdb_episode:80542_3_7  # Private Practice S03E07 - The Hard Part
+tvdb_episode:73762_6_10  # Grey's Anatomy S06E10 - Holidaze
+tvdb_episode:80542_3_8  # Private Practice S03E08 - Sins of the Father
+tvdb_episode:80542_3_9  # Private Practice S03E09 - The Parent Trap
+tvdb_episode:80542_3_10  # Private Practice S03E10 - Blowups
+tvdb_episode:73762_6_11  # Grey's Anatomy S06E11 - Blink
+tvdb_episode:80542_3_11  # Private Practice S03E11 - Another Second Chance
+tvdb_episode:73762_6_12  # Grey's Anatomy S06E12 - I Like You So Much Better When You're Naked
+tvdb_episode:80542_3_12  # Private Practice S03E12 - Best Laid Plans
+tvdb_episode:73762_6_13  # Grey's Anatomy S06E13 - State of Love and Trust
+tvdb_episode:80542_3_13  # Private Practice S03E13 - Shotgun
+tvdb_episode:73762_6_14  # Grey's Anatomy S06E14 - Valentine's Day Massacre
+tvdb_episode:80542_3_14  # Private Practice S03E14 - Love Bites
+tvdb_episode:73762_6_15  # Grey's Anatomy S06E15 - The Time Warp
+tvdb_episode:80542_3_15  # Private Practice S03E15 - 'Til Death Do Us Part
+tvdb_episode:73762_6_16  # Grey's Anatomy S06E16 - Perfect Little Accident
+tvdb_episode:80542_3_16  # Private Practice S03E16 - Fear of Flying
+tvdb_episode:73762_6_17  # Grey's Anatomy S06E17 - Push
+tvdb_episode:80542_3_17  # Private Practice S03E17 - Triangles
+tvdb_episode:73762_6_18  # Grey's Anatomy S06E18 - Suicide is Painless
+tvdb_episode:80542_3_18  # Private Practice S03E18 - Pulling the Plug
+tvdb_episode:73762_6_19  # Grey's Anatomy S06E19 - Sympathy for the Parents
+tvdb_episode:80542_3_19  # Private Practice S03E19 - Eyes Wide Open
+tvdb_episode:80542_3_20  # Private Practice S03E20 - Second Choices
+tvdb_episode:73762_6_20  # Grey's Anatomy S06E20 - Hook, Line and Sinner
+tvdb_episode:80542_3_21  # Private Practice S03E21 - War
+tvdb_episode:73762_6_21  # Grey's Anatomy S06E21 - How Insensitive
+tvdb_episode:80542_3_22  # Private Practice S03E22 - In the Name of Love
+tvdb_episode:73762_6_22  # Grey's Anatomy S06E22 - Shiny Happy People
+tvdb_episode:80542_3_23  # Private Practice S03E23 - The End of a Beautiful Friendship
+tvdb_episode:73762_6_23  # Grey's Anatomy S06E23 - Sanctuary
+tvdb_episode:73762_6_24  # Grey's Anatomy S06E24 - Death and All His Friends
+tvdb_episode:73762_7_1  # Grey's Anatomy S07E01 - With You I'm Born Again
+tvdb_episode:80542_4_1  # Private Practice S04E01 - Take Two
+tvdb_episode:73762_7_2  # Grey's Anatomy S07E02 - Shock to the System
+tvdb_episode:80542_4_2  # Private Practice S04E02 - Short Cuts
+tvdb_episode:73762_7_3  # Grey's Anatomy S07E03 - Superfreak
+tvdb_episode:80542_4_3  # Private Practice S04E03 - Playing God
+tvdb_episode:73762_7_4  # Grey's Anatomy S07E04 - Can't Fight Biology
+tvdb_episode:80542_4_4  # Private Practice S04E04 - A Better Place to Be
+tvdb_episode:73762_7_5  # Grey's Anatomy S07E05 - Almost Grown
+tvdb_episode:80542_4_5  # Private Practice S04E05 - In or Out
+tvdb_episode:73762_7_6  # Grey's Anatomy S07E06 - These Arms of Mine
+tvdb_episode:80542_4_6  # Private Practice S04E06 - All in the Family
+tvdb_episode:73762_7_7  # Grey's Anatomy S07E07 - That's Me Trying
+tvdb_episode:80542_4_7  # Private Practice S04E07 - Did You Hear What Happened to Charlotte King?
+tvdb_episode:73762_7_8  # Grey's Anatomy S07E08 - Something's Gotta Give
+tvdb_episode:80542_4_8  # Private Practice S04E08 - What Happens Next
+tvdb_episode:73762_7_9  # Grey's Anatomy S07E09 - Slow Night, So Long
+tvdb_episode:80542_4_9  # Private Practice S04E09 - Can't Find My Way Back Home
+tvdb_episode:73762_7_10  # Grey's Anatomy S07E10 - Adrift and at Peace
+tvdb_episode:80542_4_10  # Private Practice S04E10 - Just Lose It
+tvdb_episode:73762_7_11  # Grey's Anatomy S07E11 - Disarm
+tvdb_episode:80542_4_11  # Private Practice S04E11 - If You Don't Know Me By Now
+tvdb_episode:73762_7_12  # Grey's Anatomy S07E12 - Start Me Up
+tvdb_episode:73762_7_13  # Grey's Anatomy S07E13 - Don't Deceive Me (Please Don't Go)
+tvdb_episode:80542_4_12  # Private Practice S04E12 - Heaven Can Wait
+tvdb_episode:73762_7_14  # Grey's Anatomy S07E14 - P.Y.T. (Pretty Young Thing)
+tvdb_episode:80542_4_13  # Private Practice S04E13 - Blind Love
+tvdb_episode:73762_7_15  # Grey's Anatomy S07E15 - Golden Hour
+tvdb_episode:80542_4_14  # Private Practice S04E14 - Home Again
+tvdb_episode:73762_7_16  # Grey's Anatomy S07E16 - Not Responsible
+tvdb_episode:80542_4_15  # Private Practice S04E15 - Two Steps Back
+tvdb_episode:80542_4_16  # Private Practice S04E16 - Love and Lies
+tvdb_episode:73762_7_17  # Grey's Anatomy S07E17 - This is How We Do It
+tvdb_episode:80542_4_17  # Private Practice S04E17 - A Step Too Far
+tvdb_episode:73762_7_18  # Grey's Anatomy S07E18 - Song Beneath the Song
+tvdb_episode:80542_4_18  # Private Practice S04E18 - The Hardest Part
+tvdb_episode:73762_7_19  # Grey's Anatomy S07E19 - It's a Long Way Back
+tvdb_episode:80542_4_19  # Private Practice S04E19 - What We Have Here...
+tvdb_episode:73762_7_20  # Grey's Anatomy S07E20 - White Wedding
+tvdb_episode:80542_4_20  # Private Practice S04E20 - Something Old, Something New
+tvdb_episode:73762_7_21  # Grey's Anatomy S07E21 - I Will Survive
+tvdb_episode:80542_4_21  # Private Practice S04E21 - God Bless the Child
+tvdb_episode:73762_7_22  # Grey's Anatomy S07E22 - Unaccompanied Minor
+tvdb_episode:80542_4_22  # Private Practice S04E22 - ...To Change the Things I Can
+tvdb_episode:73762_8_1  # Grey's Anatomy S08E01 - Free Falling
+tvdb_episode:73762_8_2  # Grey's Anatomy S08E02 - She's Gone
+tvdb_episode:73762_8_3  # Grey's Anatomy S08E03 - Take the Lead
+tvdb_episode:80542_5_1  # Private Practice S05E01 - God Laughs
+tvdb_episode:73762_8_4  # Grey's Anatomy S08E04 - What is It About Men
+tvdb_episode:80542_5_2  # Private Practice S05E02 - Breaking the Rules
+tvdb_episode:73762_8_5  # Grey's Anatomy S08E05 - Loss, Love and Legacy
+tvdb_episode:80542_5_3  # Private Practice S05E03 - Deal With It
+tvdb_episode:73762_8_6  # Grey's Anatomy S08E06 - Poker Face
+tvdb_episode:80542_5_4  # Private Practice S05E04 - Remember Me
+tvdb_episode:73762_8_7  # Grey's Anatomy S08E07 - Put Me In, Coach
+tvdb_episode:80542_5_5  # Private Practice S05E05 - Step One
+tvdb_episode:73762_8_8  # Grey's Anatomy S08E08 - Heart-Shaped Box
+tvdb_episode:80542_5_6  # Private Practice S05E06 - If I Hadn't Forgotten...
+tvdb_episode:73762_8_9  # Grey's Anatomy S08E09 - Dark Was the Night
+tvdb_episode:80542_5_7  # Private Practice S05E07 - Don't Stop 'Till you Get Enough
+tvdb_episode:80542_5_8  # Private Practice S05E08 - Who We Are
+tvdb_episode:80542_5_9  # Private Practice S05E09 - The Breaking Point
+tvdb_episode:73762_8_10  # Grey's Anatomy S08E10 - Suddenly
+tvdb_episode:80542_5_10  # Private Practice S05E10 - Are You My Mother?
+tvdb_episode:73762_8_11  # Grey's Anatomy S08E11 - This Magic Moment
+tvdb_episode:80542_5_11  # Private Practice S05E11 - The Standing Eight Count
+tvdb_episode:73762_8_12  # Grey's Anatomy S08E12 - Hope for the Hopeless
+tvdb_episode:80542_5_12  # Private Practice S05E12 - Losing Battles
+tvdb_episode:73762_8_13  # Grey's Anatomy S08E13 - If/Then
+tvdb_episode:80542_5_13  # Private Practice S05E13 - The Time Has Come
+tvdb_episode:73762_8_14  # Grey's Anatomy S08E14 - All You Need is Love
+tvdb_episode:80542_5_14  # Private Practice S05E14 - Too Much
+tvdb_episode:73762_8_15  # Grey's Anatomy S08E15 - Have You Seen Me Lately?
+tvdb_episode:80542_5_15  # Private Practice S05E15 - You Break My Heart
+tvdb_episode:73762_8_16  # Grey's Anatomy S08E16 - If Only You Were Lonely
+tvdb_episode:80542_5_16  # Private Practice S05E16 - Andromeda
+tvdb_episode:73762_8_17  # Grey's Anatomy S08E17 - One Step Too Far
+tvdb_episode:80542_5_17  # Private Practice S05E17 - The Letting Go
+tvdb_episode:73762_8_18  # Grey's Anatomy S08E18 - The Lion Sleeps Tonight
+tvdb_episode:73762_8_19  # Grey's Anatomy S08E19 - Support System
+tvdb_episode:80542_5_18  # Private Practice S05E18 - It Was Inevitable
+tvdb_episode:73762_8_20  # Grey's Anatomy S08E20 - The Girl with No Name
+tvdb_episode:80542_5_19  # Private Practice S05E19 - And Then There Was One
+tvdb_episode:73762_8_21  # Grey's Anatomy S08E21 - Moment of Truth
+tvdb_episode:80542_5_20  # Private Practice S05E20 - True Colors
+tvdb_episode:73762_8_22  # Grey's Anatomy S08E22 - Let the Bad Times Roll
+tvdb_episode:80542_5_21  # Private Practice S05E21 - Drifting Back
+tvdb_episode:73762_8_23  # Grey's Anatomy S08E23 - Migration
+tvdb_episode:80542_5_22  # Private Practice S05E22 - Gone, Baby, Gone
+tvdb_episode:73762_8_24  # Grey's Anatomy S08E24 - Flight
+tvdb_episode:80542_6_1  # Private Practice S06E01 - Aftershock
+tvdb_episode:73762_9_1  # Grey's Anatomy S09E01 - Going, Going, Gone
+tvdb_episode:80542_6_2  # Private Practice S06E02 - Mourning Sickness (100th episode)
+tvdb_episode:73762_9_2  # Grey's Anatomy S09E02 - Remember the Time
+tvdb_episode:80542_6_3  # Private Practice S06E03 - Good Grief
+tvdb_episode:73762_9_3  # Grey's Anatomy S09E03 - Love the One You're With
+tvdb_episode:80542_6_4  # Private Practice S06E04 - You Don't Know What You've Got Till It's Gone
+tvdb_episode:73762_9_4  # Grey's Anatomy S09E04 - I Saw Her Standing There
+tvdb_episode:73762_9_5  # Grey's Anatomy S09E05 - Beautiful Doom
+tvdb_episode:80542_6_5  # Private Practice S06E05 - The Next Episode
+tvdb_episode:73762_9_6  # Grey's Anatomy S09E06 - Second Opinion
+tvdb_episode:80542_6_6  # Private Practice S06E06 - Apron Strings
+tvdb_episode:80542_6_7  # Private Practice S06E07 - The World According to Jake
+tvdb_episode:73762_9_7  # Grey's Anatomy S09E07 - I Was Made for Lovin' You
+tvdb_episode:80542_6_8  # Private Practice S06E08 - Life Support
+tvdb_episode:73762_9_8  # Grey's Anatomy S09E08 - Love Turns You Upside Down
+tvdb_episode:80542_6_9  # Private Practice S06E09 - I'm Fine
+tvdb_episode:73762_9_9  # Grey's Anatomy S09E09 - Run, Baby. Run
+tvdb_episode:80542_6_10  # Private Practice S06E10 - Georgia on My Mind
+tvdb_episode:80542_6_11  # Private Practice S06E11 - Good Fries Are Hard to Come By
+tvdb_episode:73762_9_10  # Grey's Anatomy S09E10 - Things We Said Today
+tvdb_episode:80542_6_12  # Private Practice S06E12 - Full Release
+tvdb_episode:73762_9_11  # Grey's Anatomy S09E11 - The End is the Beginning is the End
+tvdb_episode:80542_6_13  # Private Practice S06E13 - In Which We Say Goodbye (Series Finale)
+tvdb_episode:73762_9_12  # Grey's Anatomy S09E12 - Walking on a Dream
+tvdb_episode:73762_9_13  # Grey's Anatomy S09E13 - Bad Blood
+tvdb_episode:73762_9_14  # Grey's Anatomy S09E14 - The Face of Change
+tvdb_episode:73762_9_15  # Grey's Anatomy S09E15 - Hard Bargain
+tvdb_episode:73762_9_16  # Grey's Anatomy S09E16 - This Is Why We Fight
+tvdb_episode:73762_9_17  # Grey's Anatomy S09E17 - Transplant Wasteland
+tvdb_episode:73762_9_18  # Grey's Anatomy S09E18 - Idle Hands
+tvdb_episode:73762_9_19  # Grey's Anatomy S09E19 - Can't Fight This Feeling
+tvdb_episode:73762_9_20  # Grey's Anatomy S09E20 - She's Killing Me
+tvdb_episode:73762_9_21  # Grey's Anatomy S09E21 - Sleeping Monster
+tvdb_episode:73762_9_22  # Grey's Anatomy S09E22 - Do You Believe in Magic
+tvdb_episode:73762_9_23  # Grey's Anatomy S09E23 - Readiness is All
+tvdb_episode:73762_9_24  # Grey's Anatomy S09E24 - Perfect Storm
+tvdb_episode:73762_10_1  # Grey's Anatomy S10E01 - Seal Our Fate
+tvdb_episode:73762_10_2  # Grey's Anatomy S10E02 - I Want You With Me
+tvdb_episode:73762_10_3  # Grey's Anatomy S10E03 - Everybody's Crying Mercy
+tvdb_episode:73762_10_4  # Grey's Anatomy S10E04 - Puttin' on the Ritz
+tvdb_episode:73762_10_5  # Grey's Anatomy S10E05 - I Bet It Stung
+tvdb_episode:73762_10_6  # Grey's Anatomy S10E06 - Map of You
+tvdb_episode:73762_10_7  # Grey's Anatomy S10E07 - Thriller
+tvdb_episode:73762_10_8  # Grey's Anatomy S10E08 - Two Against One
+tvdb_episode:73762_10_9  # Grey's Anatomy S10E09 - Sorry Seems to Be the Hardest Word
+tvdb_episode:73762_10_10  # Grey's Anatomy S10E10 - Somebody That I Used to Know
+tvdb_episode:73762_10_11  # Grey's Anatomy S10E11 - Man on the Moon
+tvdb_episode:73762_10_12  # Grey's Anatomy S10E12 - Get Up, Stand Up
+tvdb_episode:73762_10_13  # Grey's Anatomy S10E13 - Take It Back
+tvdb_episode:73762_10_14  # Grey's Anatomy S10E14 - You've Got to Hide Your Love Away
+tvdb_episode:73762_10_15  # Grey's Anatomy S10E15 - Throwing It All Away
+tvdb_episode:73762_10_16  # Grey's Anatomy S10E16 - We Gotta Get Out of This Place
+tvdb_episode:73762_10_17  # Grey's Anatomy S10E17 - Do You Know?
+tvdb_episode:73762_10_18  # Grey's Anatomy S10E18 - You Be Illin'
+tvdb_episode:73762_10_19  # Grey's Anatomy S10E19 - I'm Winning
+tvdb_episode:73762_10_20  # Grey's Anatomy S10E20 - Go It Alone
+tvdb_episode:73762_10_21  # Grey's Anatomy S10E21 - Change of Heart
+tvdb_episode:73762_10_22  # Grey's Anatomy S10E22 - We Are Never Ever Getting Back Together
+tvdb_episode:73762_10_23  # Grey's Anatomy S10E23 - Everything I Try to Do, Nothing Seems to Turn Out Right
+tvdb_episode:73762_10_24  # Grey's Anatomy S10E24 - Fear (of the Unknown)
+tvdb_episode:73762_11_1  # Grey's Anatomy S11E01 - I Must Have Lost It on the Wind
+tvdb_episode:73762_11_2  # Grey's Anatomy S11E02 - Puzzle With a Piece Missing
+tvdb_episode:73762_11_3  # Grey's Anatomy S11E03 - Got to Be Real
+tvdb_episode:73762_11_4  # Grey's Anatomy S11E04 - Only Mama Knows
+tvdb_episode:73762_11_5  # Grey's Anatomy S11E05 - Bend & Break
+tvdb_episode:73762_11_6  # Grey's Anatomy S11E06 - Don't Let's Start
+tvdb_episode:73762_11_7  # Grey's Anatomy S11E07 - Could We Start Again, Please?
+tvdb_episode:73762_11_8  # Grey's Anatomy S11E08 - Risk
+tvdb_episode:73762_11_9  # Grey's Anatomy S11E09 - Where Do We Go From Here
+tvdb_episode:73762_11_10  # Grey's Anatomy S11E10 - The Bed's Too Big Without You
+tvdb_episode:73762_11_11  # Grey's Anatomy S11E11 - All I Could Do Was Cry
+tvdb_episode:73762_11_12  # Grey's Anatomy S11E12 - The Great Pretender
+tvdb_episode:73762_11_13  # Grey's Anatomy S11E13 - Staring at the End
+tvdb_episode:73762_11_14  # Grey's Anatomy S11E14 - The Distance
+tvdb_episode:73762_11_15  # Grey's Anatomy S11E15 - I Feel the Earth Move
+tvdb_episode:73762_11_16  # Grey's Anatomy S11E16 - Don't Dream It's Over
+tvdb_episode:73762_11_17  # Grey's Anatomy S11E17 - With or Without You
+tvdb_episode:73762_11_18  # Grey's Anatomy S11E18 - When I Grow Up
+tvdb_episode:73762_11_19  # Grey's Anatomy S11E19 - Crazy Love
+tvdb_episode:73762_11_20  # Grey's Anatomy S11E20 - One Flight Down
+tvdb_episode:73762_11_21  # Grey's Anatomy S11E21 - How to Save a Life
+tvdb_episode:73762_11_22  # Grey's Anatomy S11E22 - She's Leaving Home (1)  [TVDB numbering: 'She's Leaving Home' is split into E22/E23, shifting the finale to E24/E25]
+tvdb_episode:73762_11_23  # Grey's Anatomy S11E23 - She's Leaving Home (2)  [TVDB numbering: 'She's Leaving Home' is split into E22/E23, shifting the finale to E24/E25]
+tvdb_episode:73762_11_24  # Grey's Anatomy S11E24 - Time Stops  [renumbered per TVDB two-part split]
+tvdb_episode:73762_11_25  # Grey's Anatomy S11E25 - You're My Home  [renumbered per TVDB two-part split]
+tvdb_episode:73762_12_1  # Grey's Anatomy S12E01 - Sledgehammer
+tvdb_episode:73762_12_2  # Grey's Anatomy S12E02 - Walking Tall
+tvdb_episode:73762_12_3  # Grey's Anatomy S12E03 - I Choose You
+tvdb_episode:73762_12_4  # Grey's Anatomy S12E04 - Old Time Rock and Roll
+tvdb_episode:73762_12_5  # Grey's Anatomy S12E05 - Guess Who's Coming to Dinner
+tvdb_episode:73762_12_6  # Grey's Anatomy S12E06 - The Me Nobody Knows
+tvdb_episode:73762_12_7  # Grey's Anatomy S12E07 - Something Against You
+tvdb_episode:73762_12_8  # Grey's Anatomy S12E08 - Things We Lost in the Fire
+tvdb_episode:73762_12_9  # Grey's Anatomy S12E09 - The Sound of Silence
+tvdb_episode:73762_12_10  # Grey's Anatomy S12E10 - All I Want is You
+tvdb_episode:73762_12_11  # Grey's Anatomy S12E11 - Unbreak My Heart
+tvdb_episode:73762_12_12  # Grey's Anatomy S12E12 - My Next Life
+tvdb_episode:73762_12_13  # Grey's Anatomy S12E13 - All Eyez on Me
+tvdb_episode:73762_12_14  # Grey's Anatomy S12E14 - Odd Man Out
+tvdb_episode:73762_12_15  # Grey's Anatomy S12E15 - I Am Not Waiting Anymore
+tvdb_episode:73762_12_16  # Grey's Anatomy S12E16 - When It Hurts So Bad
+tvdb_episode:73762_12_17  # Grey's Anatomy S12E17 - I Wear the Face
+tvdb_episode:73762_12_18  # Grey's Anatomy S12E18 - There's a Fine, Fine Line
+tvdb_episode:73762_12_19  # Grey's Anatomy S12E19 - It's Alright Ma (I'm Only Bleeding)
+tvdb_episode:73762_12_20  # Grey's Anatomy S12E20 - Trigger Happy
+tvdb_episode:73762_12_21  # Grey's Anatomy S12E21 - You're Gonna Need Someone on Your Side
+tvdb_episode:73762_12_22  # Grey's Anatomy S12E22 - Mama Tried
+tvdb_episode:73762_12_23  # Grey's Anatomy S12E23 - At Last
+tvdb_episode:73762_12_24  # Grey's Anatomy S12E24 - Family Affair
+tvdb_episode:73762_13_1  # Grey's Anatomy S13E01 - Undo
+tvdb_episode:73762_13_2  # Grey's Anatomy S13E02 - Catastrophe and the Cure
+tvdb_episode:73762_13_3  # Grey's Anatomy S13E03 - I Ain't No Miracle Worker
+tvdb_episode:73762_13_4  # Grey's Anatomy S13E04 - Falling Slowly
+tvdb_episode:73762_13_5  # Grey's Anatomy S13E05 - Both Sides Now
+tvdb_episode:73762_13_6  # Grey's Anatomy S13E06 - Roar
+tvdb_episode:73762_13_7  # Grey's Anatomy S13E07 - Why Try to Change Me Now
+tvdb_episode:73762_13_8  # Grey's Anatomy S13E08 - The Room Where It Happens
+tvdb_episode:73762_13_9  # Grey's Anatomy S13E09 - You Haven't Done Nothin'
+tvdb_episode:73762_13_10  # Grey's Anatomy S13E10 - You Can Look (But You'd Better Not Touch)
+tvdb_episode:73762_13_11  # Grey's Anatomy S13E11 - Jukebox Hero
+tvdb_episode:73762_13_12  # Grey's Anatomy S13E12 - None of Your Business
+tvdb_episode:73762_13_13  # Grey's Anatomy S13E13 - It Only Gets Much Worse
+tvdb_episode:73762_13_14  # Grey's Anatomy S13E14 - Back Where You Belong
+tvdb_episode:73762_13_15  # Grey's Anatomy S13E15 - Civil War
+tvdb_episode:73762_13_16  # Grey's Anatomy S13E16 - Who Is He (And What Is He To You)?
+tvdb_episode:73762_13_17  # Grey's Anatomy S13E17 - Till I Hear It From You
+tvdb_episode:73762_13_18  # Grey's Anatomy S13E18 - Be Still, My Soul
+tvdb_episode:73762_13_19  # Grey's Anatomy S13E19 - What's Inside
+tvdb_episode:73762_13_20  # Grey's Anatomy S13E20 - In the Air Tonight
+tvdb_episode:73762_13_21  # Grey's Anatomy S13E21 - Don't Stop Me Now
+tvdb_episode:73762_13_22  # Grey's Anatomy S13E22 - Leave It Inside
+tvdb_episode:73762_13_23  # Grey's Anatomy S13E23 - True Colors
+tvdb_episode:73762_13_24  # Grey's Anatomy S13E24 - Ring of Fire
+tvdb_episode:73762_14_1  # Grey's Anatomy S14E01 - Break Down the House
+tvdb_episode:73762_14_2  # Grey's Anatomy S14E02 - Get Off on the Pain
+tvdb_episode:73762_14_3  # Grey's Anatomy S14E03 - Go Big or Go Home
+tvdb_episode:73762_14_4  # Grey's Anatomy S14E04 - Ain't That a Kick in the Head
+tvdb_episode:73762_14_5  # Grey's Anatomy S14E05 - Danger Zone
+tvdb_episode:73762_14_6  # Grey's Anatomy S14E06 - Come on Down to My Boat, Baby
+tvdb_episode:73762_14_7  # Grey's Anatomy S14E07 - Who Lives, Who Dies, Who Tells Your Story
+tvdb_episode:73762_14_8  # Grey's Anatomy S14E08 - Out of Nowhere
+tvdb_episode:73762_14_9  # Grey's Anatomy S14E09 - 1-800-799-7233
+tvdb_episode:73762_14_10  # Grey's Anatomy S14E10 - Personal Jesus
+tvdb_episode:73762_14_11  # Grey's Anatomy S14E11 - (Don't Fear) the Reaper
+tvdb_episode:73762_14_12  # Grey's Anatomy S14E12 - Harder, Better, Faster, Stronger
+tvdb_episode:73762_14_13  # Grey's Anatomy S14E13 - You Really Got a Hold on Me
+tvdb_episode:73762_14_14  # Grey's Anatomy S14E14 - Games People Play
+tvdb_episode:73762_14_15  # Grey's Anatomy S14E15 - Old Scars, Future Hearts
+tvdb_episode:73762_14_16  # Grey's Anatomy S14E16 - Caught Somewhere in Time
+tvdb_episode:341852_1_1  # Station 19 S01E01 - Stuck
+tvdb_episode:341852_1_2  # Station 19 S01E02 - Invisible to Me
+tvdb_episode:73762_14_17  # Grey's Anatomy S14E17 - One Day Like This
+tvdb_episode:341852_1_3  # Station 19 S01E03 - Contain the Flame
+tvdb_episode:73762_14_18  # Grey's Anatomy S14E18 - Hold Back the River
+tvdb_episode:341852_1_4  # Station 19 S01E04 - Reignited
+tvdb_episode:73762_14_19  # Grey's Anatomy S14E19 - Beautiful Dreamer
+tvdb_episode:341852_1_5  # Station 19 S01E05 - Shock to the System (S19)
+tvdb_episode:73762_14_20  # Grey's Anatomy S14E20 - Judgment Day
+tvdb_episode:341852_1_6  # Station 19 S01E06 - Stronger Together
+tvdb_episode:73762_14_21  # Grey's Anatomy S14E21 - Bad Reputation
+tvdb_episode:341852_1_7  # Station 19 S01E07 - Let It Burn
+tvdb_episode:73762_14_22  # Grey's Anatomy S14E22 - Fight For Your Mind
+tvdb_episode:341852_1_8  # Station 19 S01E08 - Every Second Counts
+tvdb_episode:73762_14_23  # Grey's Anatomy S14E23 - Cold as Ice
+tvdb_episode:341852_1_9  # Station 19 S01E09 - Hot Box
+tvdb_episode:73762_14_24  # Grey's Anatomy S14E24 - All of Me
+tvdb_episode:341852_1_10  # Station 19 S01E10 - Not Your Hero
+tvdb_episode:73762_15_1  # Grey's Anatomy S15E01 - With a Wonder and a Wild Desire
+tvdb_episode:73762_15_2  # Grey's Anatomy S15E02 - Broken Together
+tvdb_episode:73762_15_3  # Grey's Anatomy S15E03 - Gut Feeling
+tvdb_episode:341852_2_1  # Station 19 S02E01 - No Recovery
+tvdb_episode:73762_15_4  # Grey's Anatomy S15E04 - Momma Knows Best
+tvdb_episode:341852_2_2  # Station 19 S02E02 - Under the Surface
+tvdb_episode:341852_2_3  # Station 19 S02E03 - Home To Hold Onto
+tvdb_episode:73762_15_5  # Grey's Anatomy S15E05 - Everyday Angel
+tvdb_episode:341852_2_4  # Station 19 S02E04 - Lost and Found
+tvdb_episode:73762_15_6  # Grey's Anatomy S15E06 - Flowers Grow Out of My Grave
+tvdb_episode:341852_2_5  # Station 19 S02E05 - Do a Little Harm...
+tvdb_episode:73762_15_7  # Grey's Anatomy S15E07 - Anybody Have a Map?
+tvdb_episode:341852_2_6  # Station 19 S02E06 - Last Day on Earth
+tvdb_episode:73762_15_8  # Grey's Anatomy S15E08 - Blowin' in the Wind
+tvdb_episode:341852_2_7  # Station 19 S02E07 - Weather the Storm
+tvdb_episode:73762_15_9  # Grey's Anatomy S15E09 - Shelter from the Storm
+tvdb_episode:73762_15_10  # Grey's Anatomy S15E10 - Help, I'm Alive
+tvdb_episode:73762_15_11  # Grey's Anatomy S15E11 - The Winner Takes It All
+tvdb_episode:73762_15_12  # Grey's Anatomy S15E12 - Girlfriend in a Coma
+tvdb_episode:73762_15_13  # Grey's Anatomy S15E13 - I Walk the Line
+tvdb_episode:73762_15_14  # Grey's Anatomy S15E14 - I Want a New Drug
+tvdb_episode:73762_15_15  # Grey's Anatomy S15E15 - We Didn't Start the Fire
+tvdb_episode:73762_15_16  # Grey's Anatomy S15E16 - Blood and Water
+tvdb_episode:341852_2_8  # Station 19 S02E08 - Crash and Burn
+tvdb_episode:73762_15_17  # Grey's Anatomy S15E17 - And Dream of Sheep
+tvdb_episode:341852_2_9  # Station 19 S02E09 - I Fought the Law
+tvdb_episode:73762_15_18  # Grey's Anatomy S15E18 - Add It Up
+tvdb_episode:341852_2_10  # Station 19 S02E10 - Crazy Train
+tvdb_episode:73762_15_19  # Grey's Anatomy S15E19 - Silent All These Years
+tvdb_episode:341852_2_11  # Station 19 S02E11 - Baby Boom
+tvdb_episode:73762_15_20  # Grey's Anatomy S15E20 - The Whole Package
+tvdb_episode:341852_2_12  # Station 19 S02E12 - When It Rains, It Pours!
+tvdb_episode:73762_15_21  # Grey's Anatomy S15E21 - Good Shepherd
+tvdb_episode:341852_2_13  # Station 19 S02E13 - The Dark Night
+tvdb_episode:73762_15_22  # Grey's Anatomy S15E22 - Head Over High Heels
+tvdb_episode:341852_2_14  # Station 19 S02E14 - Friendly Fire
+tvdb_episode:73762_15_23  # Grey's Anatomy S15E23 - What I Did for Love
+tvdb_episode:341852_2_15  # Station 19 S02E15 - Always Ready
+tvdb_episode:73762_15_24  # Grey's Anatomy S15E24 - Drawn to the Blood
+tvdb_episode:341852_2_16  # Station 19 S02E16 - For Whom the Bell Tolls
+tvdb_episode:73762_15_25  # Grey's Anatomy S15E25 - Jump Into the Fog
+tvdb_episode:341852_2_17  # Station 19 S02E17 - Into the Wildfire
+tvdb_episode:73762_16_1  # Grey's Anatomy S16E01 - Nothing Left to Cling To
+tvdb_episode:73762_16_2  # Grey's Anatomy S16E02 - Back in the Saddle
+tvdb_episode:73762_16_3  # Grey's Anatomy S16E03 - Reunited
+tvdb_episode:73762_16_4  # Grey's Anatomy S16E04 - It's Raining Men
+tvdb_episode:73762_16_5  # Grey's Anatomy S16E05 - Breathe Again
+tvdb_episode:73762_16_6  # Grey's Anatomy S16E06 - Whistlin' Past the Graveyard
+tvdb_episode:73762_16_7  # Grey's Anatomy S16E07 - Papa Don't Preach
+tvdb_episode:73762_16_8  # Grey's Anatomy S16E08 - My Shot
+tvdb_episode:73762_16_9  # Grey's Anatomy S16E09 - Let's All Go to the Bar
+tvdb_episode:341852_3_1  # Station 19 S03E01 - I Know This Bar
+tvdb_episode:73762_16_10  # Grey's Anatomy S16E10 - Help Me Through the Night
+tvdb_episode:341852_3_2  # Station 19 S03E02 - Indoor Fireworks
+tvdb_episode:73762_16_11  # Grey's Anatomy S16E11 - A Hard Pill to Swallow
+tvdb_episode:341852_3_3  # Station 19 S03E03 - Eulogy
+tvdb_episode:73762_16_12  # Grey's Anatomy S16E12 - The Last Supper
+tvdb_episode:341852_3_4  # Station 19 S03E04 - House Where Nobody Lives
+tvdb_episode:73762_16_13  # Grey's Anatomy S16E13 - Save the Last Dance for Me
+tvdb_episode:341852_3_5  # Station 19 S03E05 - Into the Woods
+tvdb_episode:73762_16_14  # Grey's Anatomy S16E14 - A Diagnosis
+tvdb_episode:341852_3_6  # Station 19 S03E06 - Ice Ice Baby
+tvdb_episode:73762_16_15  # Grey's Anatomy S16E15 - Snowblind
+tvdb_episode:341852_3_7  # Station 19 S03E07 - Satellite of Love
+tvdb_episode:73762_16_16  # Grey's Anatomy S16E16 - Leave a Light On
+tvdb_episode:341852_3_8  # Station 19 S03E08 - Born to Run
+tvdb_episode:73762_16_17  # Grey's Anatomy S16E17 - Life on Mars?
+tvdb_episode:341852_3_9  # Station 19 S03E09 - Poor Wandering One
+tvdb_episode:73762_16_18  # Grey's Anatomy S16E18 - Give a Little Bit
+tvdb_episode:341852_3_10  # Station 19 S03E10 - Something About What Happens When We Talk
+tvdb_episode:73762_16_19  # Grey's Anatomy S16E19 - Love of My Life
+tvdb_episode:341852_3_11  # Station 19 S03E11 - No Days Off
+tvdb_episode:73762_16_20  # Grey's Anatomy S16E20 - Sing It Again
+tvdb_episode:341852_3_12  # Station 19 S03E12 - I'll Be Seeing you
+tvdb_episode:73762_16_21  # Grey's Anatomy S16E21 - Put on a Happy Face
+tvdb_episode:341852_3_13  # Station 19 S03E13 - Dream a Little Dream of Me
+tvdb_episode:341852_3_14  # Station 19 S03E14 - The Ghosts that Haunt Me
+tvdb_episode:341852_3_15  # Station 19 S03E15 - Bad Guy
+tvdb_episode:341852_3_16  # Station 19 S03E16 - Louder Than a Bomb
+tvdb_episode:341852_4_1  # Station 19 S04E01 - Nothing Seems the Same
+tvdb_episode:73762_17_1  # Grey's Anatomy S17E01 - All Tomorrow's Parties
+tvdb_episode:73762_17_2  # Grey's Anatomy S17E02 - The Center Won't Hold
+tvdb_episode:341852_4_2  # Station 19 S04E02 - Wild World
+tvdb_episode:73762_17_3  # Grey's Anatomy S17E03 - My Happy Ending
+tvdb_episode:341852_4_3  # Station 19 S04E03 - We Are Family
+tvdb_episode:73762_17_4  # Grey's Anatomy S17E04 - You'll Never Walk Alone
+tvdb_episode:341852_4_4  # Station 19 S04E04 - Don't Look Back in Anger
+tvdb_episode:73762_17_5  # Grey's Anatomy S17E05 - Fight the Power
+tvdb_episode:341852_4_5  # Station 19 S04E05 - Out of Control
+tvdb_episode:73762_17_6  # Grey's Anatomy S17E06 - No Time for Despair
+tvdb_episode:341852_4_6  # Station 19 S04E06 - Train in Vain
+tvdb_episode:73762_17_7  # Grey's Anatomy S17E07 - Helplessly Hoping
+tvdb_episode:341852_4_7  # Station 19 S04E07 - Learning to Fly
+tvdb_episode:73762_17_8  # Grey's Anatomy S17E08 - It's All Too Much
+tvdb_episode:341852_4_8  # Station 19 S04E08 - Make No Mistake, He's Mine
+tvdb_episode:73762_17_9  # Grey's Anatomy S17E09 - In My Life
+tvdb_episode:341852_4_9  # Station 19 S04E09 - No One is Alone
+tvdb_episode:73762_17_10  # Grey's Anatomy S17E10 - Breathe
+tvdb_episode:341852_4_10  # Station 19 S04E10 - Save Yourself
+tvdb_episode:73762_17_11  # Grey's Anatomy S17E11 - Sorry Doesn't Always Make It Right
+tvdb_episode:341852_4_11  # Station 19 S04E11 - Here It Comes Again
+tvdb_episode:73762_17_12  # Grey's Anatomy S17E12 - Sign O' the Times
+tvdb_episode:341852_4_12  # Station 19 S04E12 - Get Up, Stand Up
+tvdb_episode:73762_17_13  # Grey's Anatomy S17E13 - Good as Hell
+tvdb_episode:341852_4_13  # Station 19 S04E13 - I Guess I'm Floating
+tvdb_episode:73762_17_14  # Grey's Anatomy S17E14 - Look Up Child
+tvdb_episode:341852_4_14  # Station 19 S04E14 - Comfortably Numb
+tvdb_episode:73762_17_15  # Grey's Anatomy S17E15 - Tradition
+tvdb_episode:341852_4_15  # Station 19 S04E15 - Say Her Name
+tvdb_episode:73762_17_16  # Grey's Anatomy S17E16 - I'm Still Standing
+tvdb_episode:341852_4_16  # Station 19 S04E16 - Forever and Ever, Amen
+tvdb_episode:73762_17_17  # Grey's Anatomy S17E17 - Someone Saved My Life Tonight
+tvdb_episode:341852_5_1  # Station 19 S05E01 - Phoenix from the Flame
+tvdb_episode:73762_18_1  # Grey's Anatomy S18E01 - Here Comes the Sun
+tvdb_episode:341852_5_2  # Station 19 S05E02 - Can't Feel My Face
+tvdb_episode:73762_18_2  # Grey's Anatomy S18E02 - Some Kind of Tomorrow
+tvdb_episode:341852_5_3  # Station 19 S05E03 - Too Darn Hot
+tvdb_episode:73762_18_3  # Grey's Anatomy S18E03 - Hotter Than Hell
+tvdb_episode:341852_5_4  # Station 19 S05E04 - 100% or Nothing
+tvdb_episode:73762_18_4  # Grey's Anatomy S18E04 - With a Little Help From My Friends
+tvdb_episode:341852_5_5  # Station 19 S05E05 - Things We Lost in the Fire
+tvdb_episode:73762_18_5  # Grey's Anatomy S18E05 - Bottle Up and Explode!
+tvdb_episode:341852_5_6  # Station 19 S05E06 - Little Girl Blue
+tvdb_episode:73762_18_6  # Grey's Anatomy S18E06 - Everyday Is a Holiday (With You)
+tvdb_episode:341852_5_7  # Station 19 S05E07 - A House Is Not a Home
+tvdb_episode:73762_18_7  # Grey's Anatomy S18E07 - Today Was a Fairytale
+tvdb_episode:341852_5_8  # Station 19 S05E08 - All I Want for Christmas is You
+tvdb_episode:73762_18_8  # Grey's Anatomy S18E08 - It Came Upon a Midnight Clear
+tvdb_episode:341852_5_9  # Station 19 S05E09 - Started from the Bottom
+tvdb_episode:73762_18_9  # Grey's Anatomy S18E09 - No Time to Die
+tvdb_episode:341852_5_10  # Station 19 S05E10 - Searching for the Ghost
+tvdb_episode:73762_18_10  # Grey's Anatomy S18E10 - Living in a House Divided
+tvdb_episode:341852_5_11  # Station 19 S05E11 - The Little Things You Do Together
+tvdb_episode:73762_18_11  # Grey's Anatomy S18E11 - Legacy
+tvdb_episode:341852_5_12  # Station 19 S05E12 - In My Tree FKA Who's Gonna Miss Me?
+tvdb_episode:73762_18_12  # Grey's Anatomy S18E12 - The Makings of You
+tvdb_episode:341852_5_13  # Station 19 S05E13 - Cold Blue Steel and Sweet Fire
+tvdb_episode:73762_18_13  # Grey's Anatomy S18E13 - Put the Squeeze On Me
+tvdb_episode:341852_5_14  # Station 19 S05E14 - Alone in the Dark
+tvdb_episode:73762_18_14  # Grey's Anatomy S18E14 - Road Trippin'
+tvdb_episode:341852_5_15  # Station 19 S05E15 - When the Party's Over
+tvdb_episode:73762_18_15  # Grey's Anatomy S18E15 - Put It to the Test
+tvdb_episode:341852_5_16  # Station 19 S05E16 - Death and the Maiden
+tvdb_episode:73762_18_16  # Grey's Anatomy S18E16 - Should I Stay or Should I Go
+tvdb_episode:341852_5_17  # Station 19 S05E17 - The Road You Didn't Take
+tvdb_episode:73762_18_17  # Grey's Anatomy S18E17 - I'll Cover You
+tvdb_episode:341852_5_18  # Station 19 S05E18 - Crawl Out Through the Fallout
+tvdb_episode:73762_18_18  # Grey's Anatomy S18E18 - Stronger Than Hate
+tvdb_episode:73762_18_19  # Grey's Anatomy S18E19 - Out for Blood
+tvdb_episode:73762_18_20  # Grey's Anatomy S18E20 - You Are the Blood
+tvdb_episode:341852_6_1  # Station 19 S06E01 - Twist and Shout
+tvdb_episode:73762_19_1  # Grey's Anatomy S19E01 - Everything Has Changed
+tvdb_episode:341852_6_2  # Station 19 S06E02 - Everybody's Got Something to Hide Except Me and My Monkey
+tvdb_episode:73762_19_2  # Grey's Anatomy S19E02 - Wasn't Expecting That
+tvdb_episode:341852_6_3  # Station 19 S06E03 - Dancing With Our Hands Tied
+tvdb_episode:73762_19_3  # Grey's Anatomy S19E03 - Let's Talk About Sex
+tvdb_episode:341852_6_4  # Station 19 S06E04 - Demons
+tvdb_episode:73762_19_4  # Grey's Anatomy S19E04 - Haunted
+tvdb_episode:341852_6_5  # Station 19 S06E05 - Pick Up the Pieces
+tvdb_episode:73762_19_5  # Grey's Anatomy S19E05 - When I Get to the Border
+tvdb_episode:341852_6_6  # Station 19 S06E06 - Everybody Says Don't
+tvdb_episode:73762_19_6  # Grey's Anatomy S19E06 - Thunderstruck
+tvdb_episode:341852_6_7  # Station 19 S06E07 - We Build Then We Break
+tvdb_episode:73762_19_7  # Grey's Anatomy S19E07 - I'll Follow the Sun
+tvdb_episode:341852_6_8  # Station 19 S06E08 - I Know a Place
+tvdb_episode:73762_19_8  # Grey's Anatomy S19E08 - All Star
+tvdb_episode:341852_6_9  # Station 19 S06E09 - Come As You Are
+tvdb_episode:73762_19_9  # Grey's Anatomy S19E09 - Love Don't Cost a Thing
+tvdb_episode:341852_6_10  # Station 19 S06E10 - Even Better Than the Real Thing
+tvdb_episode:73762_19_10  # Grey's Anatomy S19E10 - Sisters Are Doin' It for Themselves
+tvdb_episode:341852_6_11  # Station 19 S06E11 - Could I Leave You?
+tvdb_episode:73762_19_11  # Grey's Anatomy S19E11 - Training Day
+tvdb_episode:341852_6_12  # Station 19 S06E12 - Never Gonna Give You Up
+tvdb_episode:73762_19_12  # Grey's Anatomy S19E12 - Pick Yourself Up
+tvdb_episode:341852_6_13  # Station 19 S06E13 - It's All Gonna Break
+tvdb_episode:73762_19_13  # Grey's Anatomy S19E13 - Cowgirls Don't Cry
+tvdb_episode:341852_6_14  # Station 19 S06E14 - Get It All Out
+tvdb_episode:73762_19_14  # Grey's Anatomy S19E14 - Shadow of Your Love
+tvdb_episode:73762_19_15  # Grey's Anatomy S19E15 - Mama Who Bore Me
+tvdb_episode:341852_6_15  # Station 19 S06E15 - What Are You Willing to Lose
+tvdb_episode:73762_19_16  # Grey's Anatomy S19E16 - Gunpowder and Lead
+tvdb_episode:341852_6_16  # Station 19 S06E16 - Dirty Laundry
+tvdb_episode:73762_19_17  # Grey's Anatomy S19E17 - Come Fly With Me
+tvdb_episode:341852_6_17  # Station 19 S06E17 - All These Things That I've Done
+tvdb_episode:73762_19_18  # Grey's Anatomy S19E18 - Ready to Run
+tvdb_episode:341852_6_18  # Station 19 S06E18 - Glamorous Life
+tvdb_episode:73762_19_19  # Grey's Anatomy S19E19 - Wedding Bell Blues
+tvdb_episode:73762_19_20  # Grey's Anatomy S19E20 - Happily Ever After?
+tvdb_episode:73762_20_1  # Grey's Anatomy S20E01 - We've Only Just Begun
+tvdb_episode:341852_7_1  # Station 19 S07E01 - This Woman's Work
+tvdb_episode:73762_20_2  # Grey's Anatomy S20E02 - Keep the Family Close
+tvdb_episode:341852_7_2  # Station 19 S07E02 - Good Grief
+tvdb_episode:73762_20_3  # Grey's Anatomy S20E03 - Walk on the Ocean
+tvdb_episode:341852_7_3  # Station 19 S07E03 - True Colors
+tvdb_episode:73762_20_4  # Grey's Anatomy S20E04 - Baby Can I Hold You
+tvdb_episode:341852_7_4  # Station 19 S07E04 - Trouble Man
+tvdb_episode:73762_20_5  # Grey's Anatomy S20E05 - Never Felt So Alone
+tvdb_episode:341852_7_5  # Station 19 S07E05 - My Way (100th episode)
+tvdb_episode:73762_20_6  # Grey's Anatomy S20E06 - The Marathon Continues
+tvdb_episode:341852_7_6  # Station 19 S07E06 - With So Little to Be Sure Of
+tvdb_episode:73762_20_7  # Grey's Anatomy S20E07 - She Used to Be Mine
+tvdb_episode:341852_7_7  # Station 19 S07E07 - Give It All
+tvdb_episode:73762_20_8  # Grey's Anatomy S20E08 - Blood, Sweat and Tears
+tvdb_episode:341852_7_8  # Station 19 S07E08 - Ushers of the New World
+tvdb_episode:73762_20_9  # Grey's Anatomy S20E09 - I Carry Your Heart
+tvdb_episode:341852_7_9  # Station 19 S07E09 - How Am I Supposed to Live Without You
+tvdb_episode:73762_20_10  # Grey's Anatomy S20E10 - Burn It Down
+tvdb_episode:341852_7_10  # Station 19 S07E10 - One Last Time (Series Finale)
+tvdb_episode:73762_21_1  # Grey's Anatomy S21E01 - If Walls Could Talk
+tvdb_episode:73762_21_2  # Grey's Anatomy S21E02 - Take Me to Church
+tvdb_episode:73762_21_3  # Grey's Anatomy S21E03 - I Can See Clearly Now
+tvdb_episode:73762_21_4  # Grey's Anatomy S21E04 - This One's for the Girls
+tvdb_episode:73762_21_5  # Grey's Anatomy S21E05 - You Make My Heart Explode
+tvdb_episode:73762_21_6  # Grey's Anatomy S21E06 - Night Moves
+tvdb_episode:73762_21_7  # Grey's Anatomy S21E07 - If You Leave
+tvdb_episode:73762_21_8  # Grey's Anatomy S21E08 - Drop It Like It's Hot
+tvdb_episode:73762_21_9  # Grey's Anatomy S21E09 - Hit the Floor
+tvdb_episode:73762_21_10  # Grey's Anatomy S21E10 - Jump (for My Love)
+tvdb_episode:73762_21_11  # Grey's Anatomy S21E11 - I Still Haven't Found What I'm Looking For
+tvdb_episode:73762_21_12  # Grey's Anatomy S21E12 - Ridin' Solo
+tvdb_episode:73762_21_13  # Grey's Anatomy S21E13 - Don't You (Forget About Me)
+tvdb_episode:73762_21_14  # Grey's Anatomy S21E14 - Love in the Ice Age
+tvdb_episode:73762_21_15  # Grey's Anatomy S21E15 - Bust Your Windows
+tvdb_episode:73762_21_16  # Grey's Anatomy S21E16 - Papa Was a Rollin' Stone
+tvdb_episode:73762_21_17  # Grey's Anatomy S21E17 - Love You Like a Love Song
+tvdb_episode:73762_21_18  # Grey's Anatomy S21E18 - How Do I Live (Season finale)
+tvdb_episode:73762_22_1  # Grey's Anatomy S22E01 - Only the Strong Survive
+tvdb_episode:73762_22_2  # Grey's Anatomy S22E02 - We Built This City
+tvdb_episode:73762_22_3  # Grey's Anatomy S22E03 - Between Two Lungs
+tvdb_episode:73762_22_4  # Grey's Anatomy S22E04 - Goodbye Horses
+tvdb_episode:73762_22_5  # Grey's Anatomy S22E05 - Sometimes I Feel Like a Motherless Child
+tvdb_episode:73762_22_6  # Grey's Anatomy S22E06 - When I Crash
+tvdb_episode:73762_22_7  # Grey's Anatomy S22E07 - Skyfall
+tvdb_episode:73762_22_8  # Grey's Anatomy S22E08 - Heavy on Me
+tvdb_episode:73762_22_9  # Grey's Anatomy S22E09 - Fortunate Son
+tvdb_episode:73762_22_10  # Grey's Anatomy S22E10 - Strip That Down
+tvdb_episode:73762_22_11  # Grey's Anatomy S22E11 - (If You Want It) Do It Yourself
+tvdb_episode:73762_22_12  # Grey's Anatomy S22E12 - Get Lucky
+tvdb_episode:73762_22_13  # Grey's Anatomy S22E13 - Love the Way You Lie
+tvdb_episode:73762_22_14  # Grey's Anatomy S22E14 - Wrecking Ball
+tvdb_episode:73762_22_15  # Grey's Anatomy S22E15 - Take Me to the River
+tvdb_episode:73762_22_16  # Grey's Anatomy S22E16 - Feel It Still
+tvdb_episode:73762_22_17  # Grey's Anatomy S22E17 - Through the Fire
+tvdb_episode:73762_22_18  # Grey's Anatomy S22E18 - Bridge Over Troubled Water
