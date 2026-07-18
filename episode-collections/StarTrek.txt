@@ -1,0 +1,973 @@
+# Last updated: 2026-07-18
+# Scope: All 13 Star Trek TV series (TOS, TAS, TNG, DS9, VOY, ENT, Discovery, Short Treks, Picard, Lower Decks, Prodigy, Strange New Worlds, Starfleet Academy); excludes movies and specials
+# Ordered by the r/startrek community air-date watch order (https://www.reddit.com/r/startrek/wiki/airdate/) through 2020-03-26; series after that date appended in air-date order
+tvdb_episode:77526_1_1  # TOS S01E01 - The Man Trap
+tvdb_episode:77526_1_2  # TOS S01E02 - Charlie X
+tvdb_episode:77526_1_3  # TOS S01E03 - Where No Man Has Gone Before
+tvdb_episode:77526_1_4  # TOS S01E04 - The Naked Time
+tvdb_episode:77526_1_5  # TOS S01E05 - The Enemy Within
+tvdb_episode:77526_1_6  # TOS S01E06 - Mudd's Women
+tvdb_episode:77526_1_7  # TOS S01E07 - What Are Little Girls Made of?
+tvdb_episode:77526_1_8  # TOS S01E08 - Miri
+tvdb_episode:77526_1_9  # TOS S01E09 - Dagger of the Mind
+tvdb_episode:77526_1_10  # TOS S01E10 - The Corbomite Maneuver
+tvdb_episode:77526_1_11  # TOS S01E11 - The Menagerie Part I
+tvdb_episode:77526_1_12  # TOS S01E12 - The Menagerie Part II
+tvdb_episode:77526_1_13  # TOS S01E13 - The Conscience of the King
+tvdb_episode:77526_1_14  # TOS S01E14 - Balance of Terror
+tvdb_episode:77526_1_15  # TOS S01E15 - Shore Leave
+tvdb_episode:77526_1_16  # TOS S01E16 - The Galileo Seven
+tvdb_episode:77526_1_17  # TOS S01E17 - The Squire of Gothos
+tvdb_episode:77526_1_18  # TOS S01E18 - Arena
+tvdb_episode:77526_1_19  # TOS S01E19 - Tomorrow Is Yesterday
+tvdb_episode:77526_1_20  # TOS S01E20 - Court Martial
+tvdb_episode:77526_1_21  # TOS S01E21 - The Return of the Archons
+tvdb_episode:77526_1_22  # TOS S01E22 - Space Seed
+tvdb_episode:77526_1_23  # TOS S01E23 - A Taste of Armageddon
+tvdb_episode:77526_1_24  # TOS S01E24 - This Side of Paradise
+tvdb_episode:77526_1_25  # TOS S01E25 - The Devil in the Dark
+tvdb_episode:77526_1_26  # TOS S01E26 - Errand of Mercy
+tvdb_episode:77526_1_27  # TOS S01E27 - The Alternative Factor
+tvdb_episode:77526_1_28  # TOS S01E28 - The City on the Edge of Forever
+tvdb_episode:77526_1_29  # TOS S01E29 - Operation: Annihilate!
+tvdb_episode:77526_2_1  # TOS S02E01 - Amok Time
+tvdb_episode:77526_2_2  # TOS S02E02 - Who Mourns for Adonais?
+tvdb_episode:77526_2_3  # TOS S02E03 - The Changeling
+tvdb_episode:77526_2_4  # TOS S02E04 - Mirror, Mirror
+tvdb_episode:77526_2_5  # TOS S02E05 - The Apple
+tvdb_episode:77526_2_6  # TOS S02E06 - The Doomsday Machine
+tvdb_episode:77526_2_7  # TOS S02E07 - Catspaw
+tvdb_episode:77526_2_8  # TOS S02E08 - I, Mudd
+tvdb_episode:77526_2_9  # TOS S02E09 - Metamorphosis
+tvdb_episode:77526_2_10  # TOS S02E10 - Journey to Babel
+tvdb_episode:77526_2_11  # TOS S02E11 - Friday's Child
+tvdb_episode:77526_2_12  # TOS S02E12 - The Deadly Years
+tvdb_episode:77526_2_13  # TOS S02E13 - Obsession
+tvdb_episode:77526_2_14  # TOS S02E14 - Wolf in the Fold
+tvdb_episode:77526_2_15  # TOS S02E15 - The Trouble with Tribbles
+tvdb_episode:77526_2_16  # TOS S02E16 - The Gamesters of Triskelion
+tvdb_episode:77526_2_17  # TOS S02E17 - A Piece of the Action
+tvdb_episode:77526_2_18  # TOS S02E18 - The Immunity Syndrome
+tvdb_episode:77526_2_19  # TOS S02E19 - A Private Little War
+tvdb_episode:77526_2_20  # TOS S02E20 - Return to Tomorrow
+tvdb_episode:77526_2_21  # TOS S02E21 - Patterns of Force
+tvdb_episode:77526_2_22  # TOS S02E22 - By Any Other Name
+tvdb_episode:77526_2_23  # TOS S02E23 - The Omega Glory
+tvdb_episode:77526_2_24  # TOS S02E24 - The Ultimate Computer
+tvdb_episode:77526_2_25  # TOS S02E25 - Bread and Circuses
+tvdb_episode:77526_2_26  # TOS S02E26 - Assignment: Earth
+tvdb_episode:77526_3_1  # TOS S03E01 - Spock's Brain
+tvdb_episode:77526_3_2  # TOS S03E02 - The Enterprise Incident
+tvdb_episode:77526_3_3  # TOS S03E03 - The Paradise Syndrome
+tvdb_episode:77526_3_4  # TOS S03E04 - And the Children Shall Lead
+tvdb_episode:77526_3_5  # TOS S03E05 - Is There in Truth No Beauty?
+tvdb_episode:77526_3_6  # TOS S03E06 - Spectre of the Gun
+tvdb_episode:77526_3_7  # TOS S03E07 - Day of the Dove
+tvdb_episode:77526_3_8  # TOS S03E08 - For the World is Hollow and I Have Touched the Sky
+tvdb_episode:77526_3_9  # TOS S03E09 - The Tholian Web
+tvdb_episode:77526_3_10  # TOS S03E10 - Plato's Stepchildren
+tvdb_episode:77526_3_11  # TOS S03E11 - Wink of an Eye
+tvdb_episode:77526_3_12  # TOS S03E12 - The Empath
+tvdb_episode:77526_3_13  # TOS S03E13 - Elaan of Troyius
+tvdb_episode:77526_3_14  # TOS S03E14 - Whom Gods Destroy
+tvdb_episode:77526_3_15  # TOS S03E15 - Let That Be Your Last Battlefield
+tvdb_episode:77526_3_16  # TOS S03E16 - The Mark of Gideon
+tvdb_episode:77526_3_17  # TOS S03E17 - That Which Survives
+tvdb_episode:77526_3_18  # TOS S03E18 - The Lights of Zetar
+tvdb_episode:77526_3_19  # TOS S03E19 - Requiem for Methuselah
+tvdb_episode:77526_3_20  # TOS S03E20 - The Way to Eden
+tvdb_episode:77526_3_21  # TOS S03E21 - The Cloud Minders
+tvdb_episode:77526_3_22  # TOS S03E22 - The Savage Curtain
+tvdb_episode:77526_3_23  # TOS S03E23 - All Our Yesterdays
+tvdb_episode:77526_3_24  # TOS S03E24 - Turnabout Intruder
+tvdb_episode:73566_1_1  # TAS S01E01 - Beyond the Farthest Star
+tvdb_episode:73566_1_2  # TAS S01E02 - Yesteryear
+tvdb_episode:73566_1_3  # TAS S01E03 - One of Our Planets Is Missing
+tvdb_episode:73566_1_4  # TAS S01E04 - The Lorelei Signal
+tvdb_episode:73566_1_5  # TAS S01E05 - More Tribbles, More Troubles
+tvdb_episode:73566_1_6  # TAS S01E06 - The Survivor
+tvdb_episode:73566_1_7  # TAS S01E07 - The Infinite Vulcan
+tvdb_episode:73566_1_8  # TAS S01E08 - The Magicks of Megas-Tu
+tvdb_episode:73566_1_9  # TAS S01E09 - Once Upon a Planet
+tvdb_episode:73566_1_10  # TAS S01E10 - Mudd's Passion
+tvdb_episode:73566_1_11  # TAS S01E11 - The Terratin Incident
+tvdb_episode:73566_1_12  # TAS S01E12 - The Time Trap
+tvdb_episode:73566_1_13  # TAS S01E13 - The Ambergris Element
+tvdb_episode:73566_1_14  # TAS S01E14 - The Slaver Weapon
+tvdb_episode:73566_1_15  # TAS S01E15 - The Eye of the Beholder
+tvdb_episode:73566_1_16  # TAS S01E16 - The Jihad
+tvdb_episode:73566_2_1  # TAS S02E01 - The Pirates of Orion
+tvdb_episode:73566_2_2  # TAS S02E02 - Bem
+tvdb_episode:73566_2_3  # TAS S02E03 - The Practical Joker
+tvdb_episode:73566_2_4  # TAS S02E04 - Albatross
+tvdb_episode:73566_2_5  # TAS S02E05 - How Sharper Than a Serpent's Tooth
+tvdb_episode:73566_2_6  # TAS S02E06 - The Counter-Clock Incident
+tvdb_episode:71470_1_1  # TNG S01E01 - Encounter at Farpoint
+tvdb_episode:71470_1_2  # TNG S01E02 - Encounter at Farpoint
+tvdb_episode:71470_1_3  # TNG S01E03 - The Naked Now
+tvdb_episode:71470_1_4  # TNG S01E04 - Code of Honor
+tvdb_episode:71470_1_5  # TNG S01E05 - The Last Outpost
+tvdb_episode:71470_1_6  # TNG S01E06 - Where No One Has Gone Before
+tvdb_episode:71470_1_7  # TNG S01E07 - Lonely Among Us
+tvdb_episode:71470_1_8  # TNG S01E08 - Justice
+tvdb_episode:71470_1_9  # TNG S01E09 - The Battle
+tvdb_episode:71470_1_10  # TNG S01E10 - Hide and Q
+tvdb_episode:71470_1_11  # TNG S01E11 - Haven
+tvdb_episode:71470_1_12  # TNG S01E12 - The Big Goodbye
+tvdb_episode:71470_1_13  # TNG S01E13 - Datalore
+tvdb_episode:71470_1_14  # TNG S01E14 - Angel One
+tvdb_episode:71470_1_15  # TNG S01E15 - 11001001
+tvdb_episode:71470_1_16  # TNG S01E16 - Too Short a Season
+tvdb_episode:71470_1_17  # TNG S01E17 - When the Bough Breaks
+tvdb_episode:71470_1_18  # TNG S01E18 - Home Soil
+tvdb_episode:71470_1_19  # TNG S01E19 - Coming of Age
+tvdb_episode:71470_1_20  # TNG S01E20 - Heart of Glory
+tvdb_episode:71470_1_21  # TNG S01E21 - The Arsenal of Freedom
+tvdb_episode:71470_1_22  # TNG S01E22 - Symbiosis
+tvdb_episode:71470_1_23  # TNG S01E23 - Skin of Evil
+tvdb_episode:71470_1_24  # TNG S01E24 - We'll Always Have Paris
+tvdb_episode:71470_1_25  # TNG S01E25 - Conspiracy
+tvdb_episode:71470_1_26  # TNG S01E26 - The Neutral Zone
+tvdb_episode:71470_2_1  # TNG S02E01 - The Child
+tvdb_episode:71470_2_2  # TNG S02E02 - Where Silence Has Lease
+tvdb_episode:71470_2_3  # TNG S02E03 - Elementary, Dear Data
+tvdb_episode:71470_2_4  # TNG S02E04 - The Outrageous Okona
+tvdb_episode:71470_2_5  # TNG S02E05 - Loud as a Whisper
+tvdb_episode:71470_2_6  # TNG S02E06 - The Schizoid Man
+tvdb_episode:71470_2_7  # TNG S02E07 - Unnatural Selection
+tvdb_episode:71470_2_8  # TNG S02E08 - A Matter of Honor
+tvdb_episode:71470_2_9  # TNG S02E09 - The Measure of a Man
+tvdb_episode:71470_2_10  # TNG S02E10 - The Dauphin
+tvdb_episode:71470_2_11  # TNG S02E11 - Contagion
+tvdb_episode:71470_2_12  # TNG S02E12 - The Royale
+tvdb_episode:71470_2_13  # TNG S02E13 - Time Squared
+tvdb_episode:71470_2_14  # TNG S02E14 - The Icarus Factor
+tvdb_episode:71470_2_15  # TNG S02E15 - Pen Pals
+tvdb_episode:71470_2_16  # TNG S02E16 - Q Who?
+tvdb_episode:71470_2_17  # TNG S02E17 - Samaritan Snare
+tvdb_episode:71470_2_18  # TNG S02E18 - Up the Long Ladder
+tvdb_episode:71470_2_19  # TNG S02E19 - Manhunt
+tvdb_episode:71470_2_20  # TNG S02E20 - The Emissary
+tvdb_episode:71470_2_21  # TNG S02E21 - Peak Performance
+tvdb_episode:71470_2_22  # TNG S02E22 - Shades of Gray
+tvdb_episode:71470_3_1  # TNG S03E01 - Evolution
+tvdb_episode:71470_3_2  # TNG S03E02 - The Ensigns of Command
+tvdb_episode:71470_3_3  # TNG S03E03 - The Survivors
+tvdb_episode:71470_3_4  # TNG S03E04 - Who Watches the Watchers
+tvdb_episode:71470_3_5  # TNG S03E05 - The Bonding
+tvdb_episode:71470_3_6  # TNG S03E06 - Booby Trap
+tvdb_episode:71470_3_7  # TNG S03E07 - The Enemy
+tvdb_episode:71470_3_8  # TNG S03E08 - The Price
+tvdb_episode:71470_3_9  # TNG S03E09 - The Vengeance Factor
+tvdb_episode:71470_3_10  # TNG S03E10 - The Defector
+tvdb_episode:71470_3_11  # TNG S03E11 - The Hunted
+tvdb_episode:71470_3_12  # TNG S03E12 - The High Ground
+tvdb_episode:71470_3_13  # TNG S03E13 - Déjà Q
+tvdb_episode:71470_3_14  # TNG S03E14 - A Matter of Perspective
+tvdb_episode:71470_3_15  # TNG S03E15 - Yesterday's Enterprise
+tvdb_episode:71470_3_16  # TNG S03E16 - The Offspring
+tvdb_episode:71470_3_17  # TNG S03E17 - Sins of the Father
+tvdb_episode:71470_3_18  # TNG S03E18 - Allegiance
+tvdb_episode:71470_3_19  # TNG S03E19 - Captain's Holiday
+tvdb_episode:71470_3_20  # TNG S03E20 - Tin Man
+tvdb_episode:71470_3_21  # TNG S03E21 - Hollow Pursuits
+tvdb_episode:71470_3_22  # TNG S03E22 - The Most Toys
+tvdb_episode:71470_3_23  # TNG S03E23 - Sarek
+tvdb_episode:71470_3_24  # TNG S03E24 - Ménage à Troi
+tvdb_episode:71470_3_25  # TNG S03E25 - Transfigurations
+tvdb_episode:71470_3_26  # TNG S03E26 - The Best of Both Worlds
+tvdb_episode:71470_4_1  # TNG S04E01 - The Best of Both Worlds Part II
+tvdb_episode:71470_4_2  # TNG S04E02 - Family
+tvdb_episode:71470_4_3  # TNG S04E03 - Brothers
+tvdb_episode:71470_4_4  # TNG S04E04 - Suddenly Human
+tvdb_episode:71470_4_5  # TNG S04E05 - Remember Me
+tvdb_episode:71470_4_6  # TNG S04E06 - Legacy
+tvdb_episode:71470_4_7  # TNG S04E07 - Reunion
+tvdb_episode:71470_4_8  # TNG S04E08 - Future Imperfect
+tvdb_episode:71470_4_9  # TNG S04E09 - Final Mission
+tvdb_episode:71470_4_10  # TNG S04E10 - The Loss
+tvdb_episode:71470_4_11  # TNG S04E11 - Data's Day
+tvdb_episode:71470_4_12  # TNG S04E12 - The Wounded
+tvdb_episode:71470_4_13  # TNG S04E13 - Devil's Due
+tvdb_episode:71470_4_14  # TNG S04E14 - Clues
+tvdb_episode:71470_4_15  # TNG S04E15 - First Contact
+tvdb_episode:71470_4_16  # TNG S04E16 - Galaxy's Child
+tvdb_episode:71470_4_17  # TNG S04E17 - Night Terrors
+tvdb_episode:71470_4_18  # TNG S04E18 - Identity Crisis
+tvdb_episode:71470_4_19  # TNG S04E19 - The Nth Degree
+tvdb_episode:71470_4_20  # TNG S04E20 - Qpid
+tvdb_episode:71470_4_21  # TNG S04E21 - The Drumhead
+tvdb_episode:71470_4_22  # TNG S04E22 - Half a Life
+tvdb_episode:71470_4_23  # TNG S04E23 - The Host
+tvdb_episode:71470_4_24  # TNG S04E24 - The Mind's Eye
+tvdb_episode:71470_4_25  # TNG S04E25 - In Theory
+tvdb_episode:71470_4_26  # TNG S04E26 - Redemption
+tvdb_episode:71470_5_1  # TNG S05E01 - Redemption II
+tvdb_episode:71470_5_2  # TNG S05E02 - Darmok
+tvdb_episode:71470_5_3  # TNG S05E03 - Ensign Ro
+tvdb_episode:71470_5_4  # TNG S05E04 - Silicon Avatar
+tvdb_episode:71470_5_5  # TNG S05E05 - Disaster
+tvdb_episode:71470_5_6  # TNG S05E06 - The Game
+tvdb_episode:71470_5_7  # TNG S05E07 - Unification I
+tvdb_episode:71470_5_8  # TNG S05E08 - Unification II
+tvdb_episode:71470_5_9  # TNG S05E09 - A Matter of Time
+tvdb_episode:71470_5_10  # TNG S05E10 - New Ground
+tvdb_episode:71470_5_11  # TNG S05E11 - Hero Worship
+tvdb_episode:71470_5_12  # TNG S05E12 - Violations
+tvdb_episode:71470_5_13  # TNG S05E13 - The Masterpiece Society
+tvdb_episode:71470_5_14  # TNG S05E14 - Conundrum
+tvdb_episode:71470_5_15  # TNG S05E15 - Power Play
+tvdb_episode:71470_5_16  # TNG S05E16 - Ethics
+tvdb_episode:71470_5_17  # TNG S05E17 - The Outcast
+tvdb_episode:71470_5_18  # TNG S05E18 - Cause and Effect
+tvdb_episode:71470_5_19  # TNG S05E19 - The First Duty
+tvdb_episode:71470_5_20  # TNG S05E20 - Cost of Living
+tvdb_episode:71470_5_21  # TNG S05E21 - The Perfect Mate
+tvdb_episode:71470_5_22  # TNG S05E22 - Imaginary Friend
+tvdb_episode:71470_5_23  # TNG S05E23 - I, Borg
+tvdb_episode:71470_5_24  # TNG S05E24 - The Next Phase
+tvdb_episode:71470_5_25  # TNG S05E25 - The Inner Light
+tvdb_episode:71470_5_26  # TNG S05E26 - Time's Arrow
+tvdb_episode:71470_6_1  # TNG S06E01 - Time's Arrow, Part II
+tvdb_episode:71470_6_2  # TNG S06E02 - Realm of Fear
+tvdb_episode:71470_6_3  # TNG S06E03 - Man of the People
+tvdb_episode:71470_6_4  # TNG S06E04 - Relics
+tvdb_episode:71470_6_5  # TNG S06E05 - Schisms
+tvdb_episode:71470_6_6  # TNG S06E06 - True Q
+tvdb_episode:71470_6_7  # TNG S06E07 - Rascals
+tvdb_episode:71470_6_8  # TNG S06E08 - A Fistful of Datas
+tvdb_episode:71470_6_9  # TNG S06E09 - The Quality of Life
+tvdb_episode:71470_6_10  # TNG S06E10 - Chain of Command, Part I
+tvdb_episode:71470_6_11  # TNG S06E11 - Chain of Command, Part II
+tvdb_episode:72073_1_1  # DS9 S01E01 - Emissary, Part I
+tvdb_episode:72073_1_2  # DS9 S01E02 - Emissary, Part II
+tvdb_episode:72073_1_3  # DS9 S01E03 - Past Prologue
+tvdb_episode:72073_1_4  # DS9 S01E04 - A Man Alone
+tvdb_episode:72073_1_5  # DS9 S01E05 - Babel
+tvdb_episode:71470_6_12  # TNG S06E12 - Ship in a Bottle
+tvdb_episode:72073_1_6  # DS9 S01E06 - Captive Pursuit
+tvdb_episode:71470_6_13  # TNG S06E13 - Aquiel
+tvdb_episode:72073_1_7  # DS9 S01E07 - Q-Less
+tvdb_episode:71470_6_14  # TNG S06E14 - Face of the Enemy
+tvdb_episode:72073_1_8  # DS9 S01E08 - Dax
+tvdb_episode:71470_6_15  # TNG S06E15 - Tapestry
+tvdb_episode:72073_1_9  # DS9 S01E09 - The Passenger
+tvdb_episode:71470_6_16  # TNG S06E16 - Birthright, Part I
+tvdb_episode:71470_6_17  # TNG S06E17 - Birthright, Part II
+tvdb_episode:72073_1_10  # DS9 S01E10 - Move Along Home
+tvdb_episode:72073_1_11  # DS9 S01E11 - The Nagus
+tvdb_episode:71470_6_18  # TNG S06E18 - Starship Mine
+tvdb_episode:71470_6_19  # TNG S06E19 - Lessons
+tvdb_episode:72073_1_12  # DS9 S01E12 - Vortex
+tvdb_episode:72073_1_13  # DS9 S01E13 - Battle Lines
+tvdb_episode:71470_6_20  # TNG S06E20 - The Chase
+tvdb_episode:72073_1_14  # DS9 S01E14 - The Storyteller
+tvdb_episode:71470_6_21  # TNG S06E21 - Frame of Mind
+tvdb_episode:72073_1_15  # DS9 S01E15 - Progress
+tvdb_episode:71470_6_22  # TNG S06E22 - Suspicions
+tvdb_episode:72073_1_16  # DS9 S01E16 - If Wishes Were Horses
+tvdb_episode:71470_6_23  # TNG S06E23 - Rightful Heir
+tvdb_episode:72073_1_17  # DS9 S01E17 - The Forsaken
+tvdb_episode:71470_6_24  # TNG S06E24 - Second Chances
+tvdb_episode:72073_1_18  # DS9 S01E18 - Dramatis Personae
+tvdb_episode:72073_1_19  # DS9 S01E19 - Duet
+tvdb_episode:71470_6_25  # TNG S06E25 - Timescape
+tvdb_episode:72073_1_20  # DS9 S01E20 - In the Hands of the Prophets
+tvdb_episode:71470_6_26  # TNG S06E26 - Descent, Part I
+tvdb_episode:71470_7_1  # TNG S07E01 - Descent, Part II
+tvdb_episode:72073_2_1  # DS9 S02E01 - The Homecoming
+tvdb_episode:71470_7_2  # TNG S07E02 - Liaisons
+tvdb_episode:72073_2_2  # DS9 S02E02 - The Circle
+tvdb_episode:71470_7_3  # TNG S07E03 - Interface
+tvdb_episode:72073_2_3  # DS9 S02E03 - The Siege
+tvdb_episode:71470_7_4  # TNG S07E04 - Gambit, Part I
+tvdb_episode:72073_2_4  # DS9 S02E04 - Invasive Procedures
+tvdb_episode:71470_7_5  # TNG S07E05 - Gambit, Part II
+tvdb_episode:72073_2_5  # DS9 S02E05 - Cardassians
+tvdb_episode:71470_7_6  # TNG S07E06 - Phantasms
+tvdb_episode:72073_2_6  # DS9 S02E06 - Melora
+tvdb_episode:71470_7_7  # TNG S07E07 - Dark Page
+tvdb_episode:72073_2_7  # DS9 S02E07 - Rules of Acquisition
+tvdb_episode:71470_7_8  # TNG S07E08 - Attached
+tvdb_episode:72073_2_8  # DS9 S02E08 - Necessary Evil
+tvdb_episode:71470_7_9  # TNG S07E09 - Force of Nature
+tvdb_episode:72073_2_9  # DS9 S02E09 - Second Sight
+tvdb_episode:71470_7_10  # TNG S07E10 - Inheritance
+tvdb_episode:72073_2_10  # DS9 S02E10 - Sanctuary
+tvdb_episode:71470_7_11  # TNG S07E11 - Parallels
+tvdb_episode:72073_2_11  # DS9 S02E11 - Rivals
+tvdb_episode:72073_2_12  # DS9 S02E12 - The Alternate
+tvdb_episode:71470_7_12  # TNG S07E12 - The Pegasus
+tvdb_episode:71470_7_13  # TNG S07E13 - Homeward
+tvdb_episode:72073_2_13  # DS9 S02E13 - Armageddon Game
+tvdb_episode:71470_7_14  # TNG S07E14 - Sub Rosa
+tvdb_episode:72073_2_14  # DS9 S02E14 - Whispers
+tvdb_episode:71470_7_15  # TNG S07E15 - Lower Decks
+tvdb_episode:72073_2_15  # DS9 S02E15 - Paradise
+tvdb_episode:71470_7_16  # TNG S07E16 - Thine Own Self
+tvdb_episode:72073_2_16  # DS9 S02E16 - Shadowplay
+tvdb_episode:71470_7_17  # TNG S07E17 - Masks
+tvdb_episode:72073_2_17  # DS9 S02E17 - Playing God
+tvdb_episode:71470_7_18  # TNG S07E18 - Eye of the Beholder
+tvdb_episode:72073_2_18  # DS9 S02E18 - Profit and Loss
+tvdb_episode:71470_7_19  # TNG S07E19 - Genesis
+tvdb_episode:72073_2_19  # DS9 S02E19 - Blood Oath
+tvdb_episode:71470_7_20  # TNG S07E20 - Journey's End
+tvdb_episode:72073_2_20  # DS9 S02E20 - The Maquis, Part I
+tvdb_episode:71470_7_21  # TNG S07E21 - Firstborn
+tvdb_episode:72073_2_21  # DS9 S02E21 - The Maquis, Part II
+tvdb_episode:71470_7_22  # TNG S07E22 - Bloodlines
+tvdb_episode:72073_2_22  # DS9 S02E22 - The Wire
+tvdb_episode:71470_7_23  # TNG S07E23 - Emergence
+tvdb_episode:72073_2_23  # DS9 S02E23 - Crossover
+tvdb_episode:71470_7_24  # TNG S07E24 - Preemptive Strike
+tvdb_episode:72073_2_24  # DS9 S02E24 - The Collaborator
+tvdb_episode:71470_7_25  # TNG S07E25 - All Good Things... (1)
+tvdb_episode:71470_7_26  # TNG S07E26 - All Good Things... (2)
+tvdb_episode:72073_2_25  # DS9 S02E25 - Tribunal
+tvdb_episode:72073_2_26  # DS9 S02E26 - The Jem'Hadar
+tvdb_episode:72073_3_1  # DS9 S03E01 - The Search, Part I
+tvdb_episode:72073_3_2  # DS9 S03E02 - The Search, Part II
+tvdb_episode:72073_3_3  # DS9 S03E03 - The House of Quark
+tvdb_episode:72073_3_4  # DS9 S03E04 - Equilibrium
+tvdb_episode:72073_3_5  # DS9 S03E05 - Second Skin
+tvdb_episode:72073_3_6  # DS9 S03E06 - The Abandoned
+tvdb_episode:72073_3_7  # DS9 S03E07 - Civil Defense
+tvdb_episode:72073_3_8  # DS9 S03E08 - Meridian
+tvdb_episode:72073_3_9  # DS9 S03E09 - Defiant
+tvdb_episode:72073_3_10  # DS9 S03E10 - Fascination
+tvdb_episode:72073_3_11  # DS9 S03E11 - Past Tense, Part I
+tvdb_episode:72073_3_12  # DS9 S03E12 - Past Tense, Part II
+tvdb_episode:74550_1_1  # VOY S01E01 - Caretaker, Part I
+tvdb_episode:74550_1_2  # VOY S01E02 - Caretaker, Part II
+tvdb_episode:74550_1_3  # VOY S01E03 - Parallax
+tvdb_episode:74550_1_4  # VOY S01E04 - Time and Again
+tvdb_episode:72073_3_13  # DS9 S03E13 - Life Support
+tvdb_episode:72073_3_14  # DS9 S03E14 - Heart of Stone
+tvdb_episode:74550_1_5  # VOY S01E05 - Phage
+tvdb_episode:74550_1_6  # VOY S01E06 - The Cloud
+tvdb_episode:72073_3_15  # DS9 S03E15 - Destiny
+tvdb_episode:72073_3_16  # DS9 S03E16 - Prophet Motive
+tvdb_episode:74550_1_7  # VOY S01E07 - Eye of the Needle
+tvdb_episode:72073_3_17  # DS9 S03E17 - Visionary
+tvdb_episode:74550_1_8  # VOY S01E08 - Ex Post Facto
+tvdb_episode:74550_1_9  # VOY S01E09 - Emanations
+tvdb_episode:74550_1_10  # VOY S01E10 - Prime Factors
+tvdb_episode:74550_1_11  # VOY S01E11 - State of Flux
+tvdb_episode:72073_3_18  # DS9 S03E18 - Distant Voices
+tvdb_episode:72073_3_19  # DS9 S03E19 - Through the Looking Glass
+tvdb_episode:72073_3_20  # DS9 S03E20 - Improbable Cause
+tvdb_episode:74550_1_12  # VOY S01E12 - Heroes and Demons
+tvdb_episode:74550_1_13  # VOY S01E13 - Cathexis
+tvdb_episode:72073_3_21  # DS9 S03E21 - The Die is Cast
+tvdb_episode:74550_1_14  # VOY S01E14 - Faces
+tvdb_episode:72073_3_22  # DS9 S03E22 - Explorers
+tvdb_episode:74550_1_15  # VOY S01E15 - Jetrel
+tvdb_episode:72073_3_23  # DS9 S03E23 - Family Business
+tvdb_episode:74550_1_16  # VOY S01E16 - Learning Curve
+tvdb_episode:72073_3_24  # DS9 S03E24 - Shakaar
+tvdb_episode:72073_3_25  # DS9 S03E25 - Facets
+tvdb_episode:72073_3_26  # DS9 S03E26 - The Adversary
+tvdb_episode:74550_2_1  # VOY S02E01 - The 37's
+tvdb_episode:74550_2_2  # VOY S02E02 - Initiations
+tvdb_episode:74550_2_3  # VOY S02E03 - Projections
+tvdb_episode:74550_2_4  # VOY S02E04 - Elogium
+tvdb_episode:74550_2_5  # VOY S02E05 - Non Sequitur
+tvdb_episode:72073_4_1  # DS9 S04E01 - The Way of the Warrior, Part I
+tvdb_episode:72073_4_2  # DS9 S04E02 - The Way of the Warrior, Part II
+tvdb_episode:74550_2_6  # VOY S02E06 - Twisted
+tvdb_episode:74550_2_7  # VOY S02E07 - Parturition
+tvdb_episode:72073_4_3  # DS9 S04E03 - The Visitor
+tvdb_episode:72073_4_4  # DS9 S04E04 - Hippocratic Oath
+tvdb_episode:72073_4_5  # DS9 S04E05 - Indiscretion
+tvdb_episode:74550_2_8  # VOY S02E08 - Persistence of Vision
+tvdb_episode:72073_4_6  # DS9 S04E06 - Rejoined
+tvdb_episode:72073_4_7  # DS9 S04E07 - Starship Down
+tvdb_episode:74550_2_9  # VOY S02E09 - Tattoo
+tvdb_episode:72073_4_8  # DS9 S04E08 - Little Green Men
+tvdb_episode:74550_2_10  # VOY S02E10 - Cold Fire
+tvdb_episode:74550_2_11  # VOY S02E11 - Maneuvers
+tvdb_episode:72073_4_9  # DS9 S04E09 - The Sword of Kahless
+tvdb_episode:72073_4_10  # DS9 S04E10 - Our Man Bashir
+tvdb_episode:74550_2_12  # VOY S02E12 - Resistance
+tvdb_episode:72073_4_11  # DS9 S04E11 - Homefront
+tvdb_episode:72073_4_12  # DS9 S04E12 - Paradise Lost
+tvdb_episode:74550_2_13  # VOY S02E13 - Prototype
+tvdb_episode:74550_2_14  # VOY S02E14 - Alliances
+tvdb_episode:72073_4_13  # DS9 S04E13 - Crossfire
+tvdb_episode:74550_2_15  # VOY S02E15 - Threshold
+tvdb_episode:74550_2_16  # VOY S02E16 - Meld
+tvdb_episode:72073_4_14  # DS9 S04E14 - Return to Grace
+tvdb_episode:72073_4_15  # DS9 S04E15 - Sons of Mogh
+tvdb_episode:74550_2_17  # VOY S02E17 - Dreadnought
+tvdb_episode:72073_4_16  # DS9 S04E16 - Bar Association
+tvdb_episode:74550_2_18  # VOY S02E18 - Death Wish
+tvdb_episode:74550_2_19  # VOY S02E19 - Lifesigns
+tvdb_episode:72073_4_17  # DS9 S04E17 - Accession
+tvdb_episode:74550_2_20  # VOY S02E20 - Investigations
+tvdb_episode:74550_2_21  # VOY S02E21 - Deadlock
+tvdb_episode:74550_2_22  # VOY S02E22 - Innocence
+tvdb_episode:72073_4_18  # DS9 S04E18 - Rules of Engagement
+tvdb_episode:72073_4_19  # DS9 S04E19 - Hard Time
+tvdb_episode:72073_4_20  # DS9 S04E20 - Shattered Mirror
+tvdb_episode:72073_4_21  # DS9 S04E21 - The Muse
+tvdb_episode:74550_2_23  # VOY S02E23 - The Thaw
+tvdb_episode:72073_4_22  # DS9 S04E22 - For the Cause
+tvdb_episode:74550_2_24  # VOY S02E24 - Tuvix
+tvdb_episode:72073_4_23  # DS9 S04E23 - To the Death
+tvdb_episode:74550_2_25  # VOY S02E25 - Resolutions
+tvdb_episode:72073_4_24  # DS9 S04E24 - The Quickening
+tvdb_episode:74550_2_26  # VOY S02E26 - Basics, Part I
+tvdb_episode:72073_4_25  # DS9 S04E25 - Body Parts
+tvdb_episode:72073_4_26  # DS9 S04E26 - Broken Link
+tvdb_episode:74550_3_1  # VOY S03E01 - Basics, Part II
+tvdb_episode:74550_3_2  # VOY S03E02 - Flashback
+tvdb_episode:74550_3_3  # VOY S03E03 - The Chute
+tvdb_episode:74550_3_4  # VOY S03E04 - The Swarm
+tvdb_episode:72073_5_1  # DS9 S05E01 - Apocalypse Rising
+tvdb_episode:74550_3_5  # VOY S03E05 - False Profits
+tvdb_episode:72073_5_2  # DS9 S05E02 - The Ship
+tvdb_episode:74550_3_6  # VOY S03E06 - Remember
+tvdb_episode:72073_5_3  # DS9 S05E03 - Looking for par'Mach in All the Wrong Places
+tvdb_episode:72073_5_4  # DS9 S05E04 - ...Nor the Battle to the Strong
+tvdb_episode:72073_5_5  # DS9 S05E05 - The Assignment
+tvdb_episode:74550_3_7  # VOY S03E07 - Sacred Ground
+tvdb_episode:72073_5_6  # DS9 S05E06 - Trials and Tribble-ations
+tvdb_episode:74550_3_8  # VOY S03E08 - Future's End, Part I
+tvdb_episode:72073_5_7  # DS9 S05E07 - Let He Who is Without Sin...
+tvdb_episode:74550_3_9  # VOY S03E09 - Future's End, Part II
+tvdb_episode:72073_5_8  # DS9 S05E08 - Things Past
+tvdb_episode:74550_3_10  # VOY S03E10 - Warlord
+tvdb_episode:72073_5_9  # DS9 S05E09 - The Ascent
+tvdb_episode:74550_3_11  # VOY S03E11 - The Q and the Grey
+tvdb_episode:74550_3_12  # VOY S03E12 - Macrocosm
+tvdb_episode:72073_5_10  # DS9 S05E10 - Rapture
+tvdb_episode:72073_5_11  # DS9 S05E11 - The Darkness and the Light
+tvdb_episode:74550_3_13  # VOY S03E13 - Fair Trade
+tvdb_episode:74550_3_14  # VOY S03E14 - Alter Ego
+tvdb_episode:72073_5_12  # DS9 S05E12 - The Begotten
+tvdb_episode:74550_3_15  # VOY S03E15 - Coda
+tvdb_episode:72073_5_13  # DS9 S05E13 - For the Uniform
+tvdb_episode:74550_3_16  # VOY S03E16 - Blood Fever
+tvdb_episode:72073_5_14  # DS9 S05E14 - In Purgatory's Shadow
+tvdb_episode:74550_3_17  # VOY S03E17 - Unity
+tvdb_episode:72073_5_15  # DS9 S05E15 - By Inferno's Light
+tvdb_episode:74550_3_18  # VOY S03E18 - The Darkling
+tvdb_episode:72073_5_16  # DS9 S05E16 - Doctor Bashir, I Presume
+tvdb_episode:74550_3_19  # VOY S03E19 - Rise
+tvdb_episode:74550_3_20  # VOY S03E20 - Favorite Son
+tvdb_episode:72073_5_17  # DS9 S05E17 - A Simple Investigation
+tvdb_episode:72073_5_18  # DS9 S05E18 - Business as Usual
+tvdb_episode:74550_3_21  # VOY S03E21 - Before and After
+tvdb_episode:72073_5_19  # DS9 S05E19 - Ties of Blood and Water
+tvdb_episode:72073_5_20  # DS9 S05E20 - Ferengi Love Songs
+tvdb_episode:74550_3_22  # VOY S03E22 - Real Life
+tvdb_episode:72073_5_21  # DS9 S05E21 - Soldiers of the Empire
+tvdb_episode:74550_3_23  # VOY S03E23 - Distant Origin
+tvdb_episode:72073_5_22  # DS9 S05E22 - Children of Time
+tvdb_episode:74550_3_24  # VOY S03E24 - Displaced
+tvdb_episode:72073_5_23  # DS9 S05E23 - Blaze of Glory
+tvdb_episode:74550_3_25  # VOY S03E25 - Worst Case Scenario
+tvdb_episode:72073_5_24  # DS9 S05E24 - Empok Nor
+tvdb_episode:74550_3_26  # VOY S03E26 - Scorpion, Part I
+tvdb_episode:72073_5_25  # DS9 S05E25 - In the Cards
+tvdb_episode:72073_5_26  # DS9 S05E26 - Call to Arms
+tvdb_episode:74550_4_1  # VOY S04E01 - Scorpion, Part II
+tvdb_episode:74550_4_2  # VOY S04E02 - The Gift
+tvdb_episode:74550_4_3  # VOY S04E03 - Day of Honor
+tvdb_episode:74550_4_4  # VOY S04E04 - Nemesis
+tvdb_episode:72073_6_1  # DS9 S06E01 - A Time to Stand
+tvdb_episode:74550_4_5  # VOY S04E05 - Revulsion
+tvdb_episode:72073_6_2  # DS9 S06E02 - Rocks and Shoals
+tvdb_episode:74550_4_6  # VOY S04E06 - The Raven
+tvdb_episode:72073_6_3  # DS9 S06E03 - Sons and Daughters
+tvdb_episode:72073_6_4  # DS9 S06E04 - Behind the Lines
+tvdb_episode:72073_6_5  # DS9 S06E05 - Favor the Bold
+tvdb_episode:74550_4_7  # VOY S04E07 - Scientific Method
+tvdb_episode:72073_6_6  # DS9 S06E06 - Sacrifice of Angels
+tvdb_episode:74550_4_8  # VOY S04E08 - Year of Hell, Part I
+tvdb_episode:72073_6_7  # DS9 S06E07 - You Are Cordially Invited
+tvdb_episode:74550_4_9  # VOY S04E09 - Year of Hell, Part II
+tvdb_episode:72073_6_8  # DS9 S06E08 - Resurrection
+tvdb_episode:74550_4_10  # VOY S04E10 - Random Thoughts
+tvdb_episode:72073_6_9  # DS9 S06E09 - Statistical Probabilities
+tvdb_episode:74550_4_11  # VOY S04E11 - Concerning Flight
+tvdb_episode:74550_4_12  # VOY S04E12 - Mortal Coil
+tvdb_episode:72073_6_10  # DS9 S06E10 - The Magnificent Ferengi
+tvdb_episode:72073_6_11  # DS9 S06E11 - Waltz
+tvdb_episode:74550_4_13  # VOY S04E13 - Waking Moments
+tvdb_episode:74550_4_14  # VOY S04E14 - Message in a Bottle
+tvdb_episode:72073_6_12  # DS9 S06E12 - Who Mourns for Morn?
+tvdb_episode:74550_4_15  # VOY S04E15 - Hunters
+tvdb_episode:72073_6_13  # DS9 S06E13 - Far Beyond the Stars
+tvdb_episode:74550_4_16  # VOY S04E16 - Prey
+tvdb_episode:72073_6_14  # DS9 S06E14 - One Little Ship
+tvdb_episode:74550_4_17  # VOY S04E17 - Retrospect
+tvdb_episode:72073_6_15  # DS9 S06E15 - Honor Among Thieves
+tvdb_episode:74550_4_18  # VOY S04E18 - The Killing Game, Part I
+tvdb_episode:74550_4_19  # VOY S04E19 - The Killing Game, Part II
+tvdb_episode:72073_6_16  # DS9 S06E16 - Change of Heart
+tvdb_episode:72073_6_17  # DS9 S06E17 - Wrongs Darker Than Death or Night
+tvdb_episode:74550_4_20  # VOY S04E20 - Vis à Vis
+tvdb_episode:72073_6_18  # DS9 S06E18 - Inquisition
+tvdb_episode:74550_4_21  # VOY S04E21 - The Omega Directive
+tvdb_episode:72073_6_19  # DS9 S06E19 - In the Pale Moonlight
+tvdb_episode:74550_4_22  # VOY S04E22 - Unforgettable
+tvdb_episode:72073_6_20  # DS9 S06E20 - His Way
+tvdb_episode:72073_6_21  # DS9 S06E21 - The Reckoning
+tvdb_episode:74550_4_23  # VOY S04E23 - Living Witness
+tvdb_episode:74550_4_24  # VOY S04E24 - Demon
+tvdb_episode:72073_6_22  # DS9 S06E22 - Valiant
+tvdb_episode:74550_4_25  # VOY S04E25 - One
+tvdb_episode:72073_6_23  # DS9 S06E23 - Profit and Lace
+tvdb_episode:74550_4_26  # VOY S04E26 - Hope and Fear
+tvdb_episode:72073_6_24  # DS9 S06E24 - Time's Orphan
+tvdb_episode:72073_6_25  # DS9 S06E25 - The Sound of Her Voice
+tvdb_episode:72073_6_26  # DS9 S06E26 - Tears of the Prophets
+tvdb_episode:72073_7_1  # DS9 S07E01 - Image in the Sand
+tvdb_episode:72073_7_2  # DS9 S07E02 - Shadows and Symbols
+tvdb_episode:74550_5_1  # VOY S05E01 - Night
+tvdb_episode:72073_7_3  # DS9 S07E03 - Afterimage
+tvdb_episode:74550_5_2  # VOY S05E02 - Drone
+tvdb_episode:72073_7_4  # DS9 S07E04 - Take Me Out to the Holosuite
+tvdb_episode:72073_7_5  # DS9 S07E05 - Chrysalis
+tvdb_episode:74550_5_3  # VOY S05E03 - Extreme Risk
+tvdb_episode:72073_7_6  # DS9 S07E06 - Treachery, Faith and the Great River
+tvdb_episode:74550_5_4  # VOY S05E04 - In the Flesh
+tvdb_episode:72073_7_7  # DS9 S07E07 - Once More Unto the Breach
+tvdb_episode:74550_5_5  # VOY S05E05 - Once Upon a Time
+tvdb_episode:72073_7_8  # DS9 S07E08 - The Siege of AR-558
+tvdb_episode:74550_5_6  # VOY S05E06 - Timeless
+tvdb_episode:74550_5_7  # VOY S05E07 - Infinite Regress
+tvdb_episode:72073_7_9  # DS9 S07E09 - Covenant
+tvdb_episode:74550_5_8  # VOY S05E08 - Nothing Human
+tvdb_episode:74550_5_9  # VOY S05E09 - Thirty Days
+tvdb_episode:74550_5_10  # VOY S05E10 - Counterpoint
+tvdb_episode:72073_7_10  # DS9 S07E10 - It's Only a Paper Moon
+tvdb_episode:72073_7_11  # DS9 S07E11 - Prodigal Daughter
+tvdb_episode:74550_5_11  # VOY S05E11 - Latent Image
+tvdb_episode:74550_5_12  # VOY S05E12 - Bride of Chaotica!
+tvdb_episode:74550_5_13  # VOY S05E13 - Gravity
+tvdb_episode:72073_7_12  # DS9 S07E12 - The Emperor's New Cloak
+tvdb_episode:72073_7_13  # DS9 S07E13 - Field of Fire
+tvdb_episode:74550_5_14  # VOY S05E14 - Bliss
+tvdb_episode:72073_7_14  # DS9 S07E14 - Chimera
+tvdb_episode:74550_5_15  # VOY S05E15 - Dark Frontier, Part I
+tvdb_episode:74550_5_16  # VOY S05E16 - Dark Frontier, Part II
+tvdb_episode:74550_5_17  # VOY S05E17 - The Disease
+tvdb_episode:72073_7_15  # DS9 S07E15 - Badda-Bing, Badda-Bang
+tvdb_episode:74550_5_18  # VOY S05E18 - Course: Oblivion
+tvdb_episode:72073_7_16  # DS9 S07E16 - Inter Arma Enim Silent Leges
+tvdb_episode:74550_5_19  # VOY S05E19 - The Fight
+tvdb_episode:74550_5_20  # VOY S05E20 - Think Tank
+tvdb_episode:72073_7_17  # DS9 S07E17 - Penumbra
+tvdb_episode:72073_7_18  # DS9 S07E18 - 'Til Death Do Us Part
+tvdb_episode:72073_7_19  # DS9 S07E19 - Strange Bedfellows
+tvdb_episode:74550_5_21  # VOY S05E21 - Juggernaut
+tvdb_episode:72073_7_20  # DS9 S07E20 - The Changing Face of Evil
+tvdb_episode:74550_5_22  # VOY S05E22 - Someone to Watch Over Me
+tvdb_episode:72073_7_21  # DS9 S07E21 - When It Rains...
+tvdb_episode:74550_5_23  # VOY S05E23 - 11:59
+tvdb_episode:74550_5_24  # VOY S05E24 - Relativity
+tvdb_episode:72073_7_22  # DS9 S07E22 - Tacking Into the Wind
+tvdb_episode:74550_5_25  # VOY S05E25 - Warhead
+tvdb_episode:72073_7_23  # DS9 S07E23 - Extreme Measures
+tvdb_episode:72073_7_24  # DS9 S07E24 - The Dogs of War
+tvdb_episode:74550_5_26  # VOY S05E26 - Equinox, Part I
+tvdb_episode:72073_7_25  # DS9 S07E25 - What You Leave Behind, Part I
+tvdb_episode:72073_7_26  # DS9 S07E26 - What You Leave Behind, Part II
+tvdb_episode:74550_6_1  # VOY S06E01 - Equinox, Part II
+tvdb_episode:74550_6_2  # VOY S06E02 - Survival Instinct
+tvdb_episode:74550_6_3  # VOY S06E03 - Barge of the Dead
+tvdb_episode:74550_6_4  # VOY S06E04 - Tinker, Tenor, Doctor, Spy
+tvdb_episode:74550_6_5  # VOY S06E05 - Alice
+tvdb_episode:74550_6_6  # VOY S06E06 - Riddles
+tvdb_episode:74550_6_7  # VOY S06E07 - Dragon's Teeth
+tvdb_episode:74550_6_8  # VOY S06E08 - One Small Step
+tvdb_episode:74550_6_9  # VOY S06E09 - The Voyager Conspiracy
+tvdb_episode:74550_6_10  # VOY S06E10 - Pathfinder
+tvdb_episode:74550_6_11  # VOY S06E11 - Fair Haven
+tvdb_episode:74550_6_12  # VOY S06E12 - Blink of an Eye
+tvdb_episode:74550_6_13  # VOY S06E13 - Virtuoso
+tvdb_episode:74550_6_14  # VOY S06E14 - Memorial
+tvdb_episode:74550_6_15  # VOY S06E15 - Tsunkatse
+tvdb_episode:74550_6_16  # VOY S06E16 - Collective
+tvdb_episode:74550_6_17  # VOY S06E17 - Spirit Folk
+tvdb_episode:74550_6_18  # VOY S06E18 - Ashes to Ashes
+tvdb_episode:74550_6_19  # VOY S06E19 - Child's Play
+tvdb_episode:74550_6_20  # VOY S06E20 - Good Shepherd
+tvdb_episode:74550_6_21  # VOY S06E21 - Live Fast and Prosper
+tvdb_episode:74550_6_22  # VOY S06E22 - Muse
+tvdb_episode:74550_6_23  # VOY S06E23 - Fury
+tvdb_episode:74550_6_24  # VOY S06E24 - Life Line
+tvdb_episode:74550_6_25  # VOY S06E25 - The Haunting of Deck Twelve
+tvdb_episode:74550_6_26  # VOY S06E26 - Unimatrix Zero, Part I
+tvdb_episode:74550_7_1  # VOY S07E01 - Unimatrix Zero, Part II
+tvdb_episode:74550_7_2  # VOY S07E02 - Imperfection
+tvdb_episode:74550_7_3  # VOY S07E03 - Drive
+tvdb_episode:74550_7_4  # VOY S07E04 - Repression
+tvdb_episode:74550_7_5  # VOY S07E05 - Critical Care
+tvdb_episode:74550_7_6  # VOY S07E06 - Inside Man
+tvdb_episode:74550_7_7  # VOY S07E07 - Body and Soul
+tvdb_episode:74550_7_8  # VOY S07E08 - Nightingale
+tvdb_episode:74550_7_9  # VOY S07E09 - Flesh and Blood, Part I
+tvdb_episode:74550_7_10  # VOY S07E10 - Flesh and Blood, Part II
+tvdb_episode:74550_7_11  # VOY S07E11 - Shattered
+tvdb_episode:74550_7_12  # VOY S07E12 - Lineage
+tvdb_episode:74550_7_13  # VOY S07E13 - Repentance
+tvdb_episode:74550_7_14  # VOY S07E14 - Prophecy
+tvdb_episode:74550_7_15  # VOY S07E15 - The Void
+tvdb_episode:74550_7_16  # VOY S07E16 - Workforce, Part I
+tvdb_episode:74550_7_17  # VOY S07E17 - Workforce, Part II
+tvdb_episode:74550_7_18  # VOY S07E18 - Human Error
+tvdb_episode:74550_7_19  # VOY S07E19 - Q2
+tvdb_episode:74550_7_20  # VOY S07E20 - Author, Author
+tvdb_episode:74550_7_21  # VOY S07E21 - Friendship One
+tvdb_episode:74550_7_22  # VOY S07E22 - Natural Law
+tvdb_episode:74550_7_23  # VOY S07E23 - Homestead
+tvdb_episode:74550_7_24  # VOY S07E24 - Renaissance Man
+tvdb_episode:74550_7_25  # VOY S07E25 - Endgame, Part I
+tvdb_episode:74550_7_26  # VOY S07E26 - Endgame, Part II
+tvdb_episode:73893_1_1  # ENT S01E01 - Broken Bow
+tvdb_episode:73893_1_2  # ENT S01E02 - Broken Bow
+tvdb_episode:73893_1_3  # ENT S01E03 - Fight or Flight
+tvdb_episode:73893_1_4  # ENT S01E04 - Strange New World
+tvdb_episode:73893_1_5  # ENT S01E05 - Unexpected
+tvdb_episode:73893_1_6  # ENT S01E06 - Terra Nova
+tvdb_episode:73893_1_7  # ENT S01E07 - The Andorian Incident
+tvdb_episode:73893_1_8  # ENT S01E08 - Breaking the Ice
+tvdb_episode:73893_1_9  # ENT S01E09 - Civilization
+tvdb_episode:73893_1_10  # ENT S01E10 - Fortunate Son
+tvdb_episode:73893_1_11  # ENT S01E11 - Cold Front
+tvdb_episode:73893_1_12  # ENT S01E12 - Silent Enemy
+tvdb_episode:73893_1_13  # ENT S01E13 - Dear Doctor
+tvdb_episode:73893_1_14  # ENT S01E14 - Sleeping Dogs
+tvdb_episode:73893_1_15  # ENT S01E15 - Shadows of P'Jem
+tvdb_episode:73893_1_16  # ENT S01E16 - Shuttlepod One
+tvdb_episode:73893_1_17  # ENT S01E17 - Fusion
+tvdb_episode:73893_1_18  # ENT S01E18 - Rogue Planet
+tvdb_episode:73893_1_19  # ENT S01E19 - Acquisition
+tvdb_episode:73893_1_20  # ENT S01E20 - Oasis
+tvdb_episode:73893_1_21  # ENT S01E21 - Detained
+tvdb_episode:73893_1_22  # ENT S01E22 - Vox Sola
+tvdb_episode:73893_1_23  # ENT S01E23 - Fallen Hero
+tvdb_episode:73893_1_24  # ENT S01E24 - Desert Crossing
+tvdb_episode:73893_1_25  # ENT S01E25 - Two Days and Two Nights
+tvdb_episode:73893_1_26  # ENT S01E26 - Shockwave (1)
+tvdb_episode:73893_2_1  # ENT S02E01 - Shockwave (2)
+tvdb_episode:73893_2_2  # ENT S02E02 - Carbon Creek
+tvdb_episode:73893_2_3  # ENT S02E03 - Minefield
+tvdb_episode:73893_2_4  # ENT S02E04 - Dead Stop
+tvdb_episode:73893_2_5  # ENT S02E05 - A Night in Sickbay
+tvdb_episode:73893_2_6  # ENT S02E06 - Marauders
+tvdb_episode:73893_2_7  # ENT S02E07 - The Seventh
+tvdb_episode:73893_2_8  # ENT S02E08 - The Communicator
+tvdb_episode:73893_2_9  # ENT S02E09 - Singularity
+tvdb_episode:73893_2_10  # ENT S02E10 - Vanishing Point
+tvdb_episode:73893_2_11  # ENT S02E11 - Precious Cargo
+tvdb_episode:73893_2_12  # ENT S02E12 - The Catwalk
+tvdb_episode:73893_2_13  # ENT S02E13 - Dawn
+tvdb_episode:73893_2_14  # ENT S02E14 - Stigma
+tvdb_episode:73893_2_15  # ENT S02E15 - Cease Fire
+tvdb_episode:73893_2_16  # ENT S02E16 - Future Tense
+tvdb_episode:73893_2_17  # ENT S02E17 - Canamar
+tvdb_episode:73893_2_18  # ENT S02E18 - The Crossing
+tvdb_episode:73893_2_19  # ENT S02E19 - Judgment
+tvdb_episode:73893_2_20  # ENT S02E20 - Horizon
+tvdb_episode:73893_2_21  # ENT S02E21 - The Breach
+tvdb_episode:73893_2_22  # ENT S02E22 - Cogenitor
+tvdb_episode:73893_2_23  # ENT S02E23 - Regeneration
+tvdb_episode:73893_2_24  # ENT S02E24 - First Flight
+tvdb_episode:73893_2_25  # ENT S02E25 - Bounty
+tvdb_episode:73893_2_26  # ENT S02E26 - The Expanse
+tvdb_episode:73893_3_1  # ENT S03E01 - The Xindi
+tvdb_episode:73893_3_2  # ENT S03E02 - Anomaly
+tvdb_episode:73893_3_3  # ENT S03E03 - Extinction
+tvdb_episode:73893_3_4  # ENT S03E04 - Rajiin
+tvdb_episode:73893_3_5  # ENT S03E05 - Impulse
+tvdb_episode:73893_3_6  # ENT S03E06 - Exile
+tvdb_episode:73893_3_7  # ENT S03E07 - The Shipment
+tvdb_episode:73893_3_8  # ENT S03E08 - Twilight
+tvdb_episode:73893_3_9  # ENT S03E09 - North Star
+tvdb_episode:73893_3_10  # ENT S03E10 - Similitude
+tvdb_episode:73893_3_11  # ENT S03E11 - Carpenter Street
+tvdb_episode:73893_3_12  # ENT S03E12 - Chosen Realm
+tvdb_episode:73893_3_13  # ENT S03E13 - Proving Ground
+tvdb_episode:73893_3_14  # ENT S03E14 - Stratagem
+tvdb_episode:73893_3_15  # ENT S03E15 - Harbinger
+tvdb_episode:73893_3_16  # ENT S03E16 - Doctor's Orders
+tvdb_episode:73893_3_17  # ENT S03E17 - Hatchery
+tvdb_episode:73893_3_18  # ENT S03E18 - Azati Prime
+tvdb_episode:73893_3_19  # ENT S03E19 - Damage
+tvdb_episode:73893_3_20  # ENT S03E20 - The Forgotten
+tvdb_episode:73893_3_21  # ENT S03E21 - E²
+tvdb_episode:73893_3_22  # ENT S03E22 - The Council
+tvdb_episode:73893_3_23  # ENT S03E23 - Countdown
+tvdb_episode:73893_3_24  # ENT S03E24 - Zero Hour
+tvdb_episode:73893_4_1  # ENT S04E01 - Storm Front (1)
+tvdb_episode:73893_4_2  # ENT S04E02 - Storm Front (2)
+tvdb_episode:73893_4_3  # ENT S04E03 - Home
+tvdb_episode:73893_4_4  # ENT S04E04 - Borderland (1)
+tvdb_episode:73893_4_5  # ENT S04E05 - Cold Station 12 (2)
+tvdb_episode:73893_4_6  # ENT S04E06 - The Augments (3)
+tvdb_episode:73893_4_7  # ENT S04E07 - The Forge (1)
+tvdb_episode:73893_4_8  # ENT S04E08 - Awakening (2)
+tvdb_episode:73893_4_9  # ENT S04E09 - Kir'Shara (3)
+tvdb_episode:73893_4_10  # ENT S04E10 - Daedalus
+tvdb_episode:73893_4_11  # ENT S04E11 - Observer Effect
+tvdb_episode:73893_4_12  # ENT S04E12 - Babel One (1)
+tvdb_episode:73893_4_13  # ENT S04E13 - United (2)
+tvdb_episode:73893_4_14  # ENT S04E14 - The Aenar (3)
+tvdb_episode:73893_4_15  # ENT S04E15 - Affliction (1)
+tvdb_episode:73893_4_16  # ENT S04E16 - Divergence (2)
+tvdb_episode:73893_4_17  # ENT S04E17 - Bound
+tvdb_episode:73893_4_18  # ENT S04E18 - In a Mirror, Darkly (1)
+tvdb_episode:73893_4_19  # ENT S04E19 - In a Mirror, Darkly (2)
+tvdb_episode:73893_4_20  # ENT S04E20 - Demons (1)
+tvdb_episode:73893_4_21  # ENT S04E21 - Terra Prime (2)
+tvdb_episode:73893_4_22  # ENT S04E22 - These Are the Voyages...
+tvdb_episode:328711_1_1  # DISC S01E01 - The Vulcan Hello
+tvdb_episode:328711_1_2  # DISC S01E02 - Battle at the Binary Stars
+tvdb_episode:328711_1_3  # DISC S01E03 - Context Is for Kings
+tvdb_episode:328711_1_4  # DISC S01E04 - The Butcher's Knife Cares Not for the Lamb's Cry
+tvdb_episode:328711_1_5  # DISC S01E05 - Choose Your Pain
+tvdb_episode:328711_1_6  # DISC S01E06 - Lethe
+tvdb_episode:328711_1_7  # DISC S01E07 - Magic to Make the Sanest Man Go Mad
+tvdb_episode:328711_1_8  # DISC S01E08 - Si Vis Pacem, Para Bellum
+tvdb_episode:328711_1_9  # DISC S01E09 - Into the Forest I Go
+tvdb_episode:328711_1_10  # DISC S01E10 - Despite Yourself
+tvdb_episode:328711_1_11  # DISC S01E11 - The Wolf Inside
+tvdb_episode:328711_1_12  # DISC S01E12 - Vaulting Ambition
+tvdb_episode:328711_1_13  # DISC S01E13 - What's Past Is Prologue
+tvdb_episode:328711_1_14  # DISC S01E14 - The War Without, the War Within
+tvdb_episode:328711_1_15  # DISC S01E15 - Will You Take My Hand?
+tvdb_episode:376108_1_1  # Short Treks S01E01 - Runaway
+tvdb_episode:376108_1_2  # Short Treks S01E02 - Calypso
+tvdb_episode:376108_1_3  # Short Treks S01E03 - The Brightest Star
+tvdb_episode:376108_1_4  # Short Treks S01E04 - The Escape Artist
+tvdb_episode:328711_2_1  # DISC S02E01 - Brother
+tvdb_episode:328711_2_2  # DISC S02E02 - New Eden
+tvdb_episode:328711_2_3  # DISC S02E03 - Point of Light
+tvdb_episode:328711_2_4  # DISC S02E04 - An Obol for Charon
+tvdb_episode:328711_2_5  # DISC S02E05 - Saints of Imperfection
+tvdb_episode:328711_2_6  # DISC S02E06 - The Sounds of Thunder
+tvdb_episode:328711_2_7  # DISC S02E07 - Light and Shadows
+tvdb_episode:328711_2_8  # DISC S02E08 - If Memory Serves
+tvdb_episode:328711_2_9  # DISC S02E09 - Project Daedalus
+tvdb_episode:328711_2_10  # DISC S02E10 - The Red Angel
+tvdb_episode:328711_2_11  # DISC S02E11 - Perpetual Infinity
+tvdb_episode:328711_2_12  # DISC S02E12 - Through the Valley of Shadows
+tvdb_episode:328711_2_13  # DISC S02E13 - Such Sweet Sorrow, Part 1
+tvdb_episode:328711_2_14  # DISC S02E14 - Such Sweet Sorrow, Part 2
+tvdb_episode:376108_2_1  # Short Treks S02E01 - Q&A
+tvdb_episode:376108_2_2  # Short Treks S02E02 - The Trouble with Edward
+tvdb_episode:376108_2_3  # Short Treks S02E03 - Ask Not
+tvdb_episode:376108_2_4  # Short Treks S02E04 - Ephraim & Dot
+tvdb_episode:376108_2_5  # Short Treks S02E05 - The Girl Who Made the Stars
+tvdb_episode:376108_2_6  # Short Treks S02E06 - Children of Mars
+tvdb_episode:364093_1_1  # PIC S01E01 - Remembrance
+tvdb_episode:364093_1_2  # PIC S01E02 - Maps and Legends
+tvdb_episode:364093_1_3  # PIC S01E03 - The End Is the Beginning
+tvdb_episode:364093_1_4  # PIC S01E04 - Absolute Candor
+tvdb_episode:364093_1_5  # PIC S01E05 - Stardust City Rag
+tvdb_episode:364093_1_6  # PIC S01E06 - The Impossible Box
+tvdb_episode:364093_1_7  # PIC S01E07 - Nepenthe
+tvdb_episode:364093_1_8  # PIC S01E08 - Broken Pieces
+tvdb_episode:364093_1_9  # PIC S01E09 - Et in Arcadia Ego, Part 1
+tvdb_episode:364093_1_10  # PIC S01E10 - Et in Arcadia Ego, Part 2
+tvdb_episode:367138_1_1  # LD S01E01 - Second Contact
+tvdb_episode:367138_1_2  # LD S01E02 - Envoys
+tvdb_episode:367138_1_3  # LD S01E03 - Temporal Edict
+tvdb_episode:367138_1_4  # LD S01E04 - Moist Vessel
+tvdb_episode:367138_1_5  # LD S01E05 - Cupid's Errant Arrow
+tvdb_episode:367138_1_6  # LD S01E06 - Terminal Provocations
+tvdb_episode:367138_1_7  # LD S01E07 - Much Ado About Boimler
+tvdb_episode:367138_1_8  # LD S01E08 - Veritas
+tvdb_episode:367138_1_9  # LD S01E09 - Crisis Point
+tvdb_episode:367138_1_10  # LD S01E10 - No Small Parts
+tvdb_episode:328711_3_1  # DISC S03E01 - That Hope Is You, Part 1
+tvdb_episode:328711_3_2  # DISC S03E02 - Far From Home
+tvdb_episode:328711_3_3  # DISC S03E03 - People of Earth
+tvdb_episode:328711_3_4  # DISC S03E04 - Forget Me Not
+tvdb_episode:328711_3_5  # DISC S03E05 - Die Trying
+tvdb_episode:328711_3_6  # DISC S03E06 - Scavengers
+tvdb_episode:328711_3_7  # DISC S03E07 - Unification III
+tvdb_episode:328711_3_8  # DISC S03E08 - The Sanctuary
+tvdb_episode:328711_3_9  # DISC S03E09 - Terra Firma, Part 1
+tvdb_episode:328711_3_10  # DISC S03E10 - Terra Firma, Part 2
+tvdb_episode:328711_3_11  # DISC S03E11 - Su'Kal
+tvdb_episode:328711_3_12  # DISC S03E12 - There Is a Tide…
+tvdb_episode:328711_3_13  # DISC S03E13 - That Hope Is You, Part 2
+tvdb_episode:367138_2_1  # LD S02E01 - Strange Energies
+tvdb_episode:367138_2_2  # LD S02E02 - Kayshon, His Eyes Open
+tvdb_episode:367138_2_3  # LD S02E03 - We'll Always Have Tom Paris
+tvdb_episode:367138_2_4  # LD S02E04 - Mugato, Gumato
+tvdb_episode:367138_2_5  # LD S02E05 - An Embarrassment of Dooplers
+tvdb_episode:367138_2_6  # LD S02E06 - The Spy Humongous
+tvdb_episode:367138_2_7  # LD S02E07 - Where Pleasant Fountains Lie
+tvdb_episode:367138_2_8  # LD S02E08 - I, Excretus
+tvdb_episode:367138_2_9  # LD S02E09 - wej Duj
+tvdb_episode:367138_2_10  # LD S02E10 - First First Contact
+tvdb_episode:385811_1_1  # PROD S01E01 - Lost & Found (1)
+tvdb_episode:385811_1_2  # PROD S01E02 - Lost & Found (2)
+tvdb_episode:385811_1_3  # PROD S01E03 - Starstruck
+tvdb_episode:385811_1_4  # PROD S01E04 - Dream Catcher
+tvdb_episode:328711_4_1  # DISC S04E01 - Kobayashi Maru
+tvdb_episode:385811_1_5  # PROD S01E05 - Terror Firma
+tvdb_episode:328711_4_2  # DISC S04E02 - Anomaly
+tvdb_episode:328711_4_3  # DISC S04E03 - Choose to Live
+tvdb_episode:328711_4_4  # DISC S04E04 - All Is Possible
+tvdb_episode:328711_4_5  # DISC S04E05 - The Examples
+tvdb_episode:328711_4_6  # DISC S04E06 - Stormy Weather
+tvdb_episode:328711_4_7  # DISC S04E07 - …But to Connect
+tvdb_episode:385811_1_6  # PROD S01E06 - Kobayashi
+tvdb_episode:385811_1_7  # PROD S01E07 - First Contact
+tvdb_episode:385811_1_8  # PROD S01E08 - Time Amok
+tvdb_episode:385811_1_9  # PROD S01E09 - A Moral Star, Part 1
+tvdb_episode:385811_1_10  # PROD S01E10 - A Moral Star, Part 2
+tvdb_episode:328711_4_8  # DISC S04E08 - All In
+tvdb_episode:328711_4_9  # DISC S04E09 - Rubicon
+tvdb_episode:328711_4_10  # DISC S04E10 - The Galactic Barrier
+tvdb_episode:328711_4_11  # DISC S04E11 - Rosetta
+tvdb_episode:364093_2_1  # PIC S02E01 - The Star Gazer
+tvdb_episode:328711_4_12  # DISC S04E12 - Species Ten-C
+tvdb_episode:364093_2_2  # PIC S02E02 - Penance
+tvdb_episode:328711_4_13  # DISC S04E13 - Coming Home
+tvdb_episode:364093_2_3  # PIC S02E03 - Assimilation
+tvdb_episode:364093_2_4  # PIC S02E04 - Watcher
+tvdb_episode:364093_2_5  # PIC S02E05 - Fly Me to the Moon
+tvdb_episode:364093_2_6  # PIC S02E06 - Two of One
+tvdb_episode:364093_2_7  # PIC S02E07 - Monsters
+tvdb_episode:364093_2_8  # PIC S02E08 - Mercy
+tvdb_episode:364093_2_9  # PIC S02E09 - Hide and Seek
+tvdb_episode:364093_2_10  # PIC S02E10 - Farewell
+tvdb_episode:382389_1_1  # SNW S01E01 - Strange New Worlds
+tvdb_episode:382389_1_2  # SNW S01E02 - Children of the Comet
+tvdb_episode:382389_1_3  # SNW S01E03 - Ghost of Illyria
+tvdb_episode:382389_1_4  # SNW S01E04 - Memento Mori
+tvdb_episode:382389_1_5  # SNW S01E05 - Spock Amok
+tvdb_episode:382389_1_6  # SNW S01E06 - Lift Us Where Suffering Cannot Reach
+tvdb_episode:382389_1_7  # SNW S01E07 - The Serene Squall
+tvdb_episode:382389_1_8  # SNW S01E08 - The Elysian Kingdom
+tvdb_episode:382389_1_9  # SNW S01E09 - All Those Who Wander
+tvdb_episode:382389_1_10  # SNW S01E10 - A Quality of Mercy
+tvdb_episode:367138_3_1  # LD S03E01 - Grounded
+tvdb_episode:367138_3_2  # LD S03E02 - The Least Dangerous Game
+tvdb_episode:367138_3_3  # LD S03E03 - Mining the Mind's Mines
+tvdb_episode:367138_3_4  # LD S03E04 - Room for Growth
+tvdb_episode:367138_3_5  # LD S03E05 - Reflections
+tvdb_episode:367138_3_6  # LD S03E06 - Hear All, Trust Nothing
+tvdb_episode:367138_3_7  # LD S03E07 - A Mathematically Perfect Redemption
+tvdb_episode:367138_3_8  # LD S03E08 - Crisis Point 2: Paradoxus
+tvdb_episode:367138_3_9  # LD S03E09 - Trusted Sources
+tvdb_episode:367138_3_10  # LD S03E10 - The Stars at Night
+tvdb_episode:385811_1_11  # PROD S01E11 - Asylum
+tvdb_episode:385811_1_12  # PROD S01E12 - Let Sleeping Borg Lie
+tvdb_episode:385811_1_13  # PROD S01E13 - All the World's a Stage
+tvdb_episode:385811_1_14  # PROD S01E14 - Crossroads
+tvdb_episode:385811_1_15  # PROD S01E15 - Masquerade
+tvdb_episode:385811_1_16  # PROD S01E16 - Preludes
+tvdb_episode:385811_1_17  # PROD S01E17 - Ghost in the Machine
+tvdb_episode:385811_1_18  # PROD S01E18 - Mindwalk
+tvdb_episode:385811_1_19  # PROD S01E19 - Supernova, Part 1
+tvdb_episode:385811_1_20  # PROD S01E20 - Supernova, Part 2
+tvdb_episode:364093_3_1  # PIC S03E01 - Part One: "The Next Generation"
+tvdb_episode:364093_3_2  # PIC S03E02 - Part Two: "Disengage"
+tvdb_episode:364093_3_3  # PIC S03E03 - Part Three: "Seventeen Seconds"
+tvdb_episode:364093_3_4  # PIC S03E04 - Part Four: "No Win Scenario"
+tvdb_episode:364093_3_5  # PIC S03E05 - Part Five: "Imposters"
+tvdb_episode:364093_3_6  # PIC S03E06 - Part Six: "The Bounty"
+tvdb_episode:364093_3_7  # PIC S03E07 - Part Seven: "Dominion"
+tvdb_episode:364093_3_8  # PIC S03E08 - Part Eight: "Surrender"
+tvdb_episode:364093_3_9  # PIC S03E09 - Part Nine: "Võx"
+tvdb_episode:364093_3_10  # PIC S03E10 - Part Ten: "The Last Generation"
+tvdb_episode:382389_2_1  # SNW S02E01 - The Broken Circle
+tvdb_episode:382389_2_2  # SNW S02E02 - Ad Astra Per Aspera
+tvdb_episode:382389_2_3  # SNW S02E03 - Tomorrow and Tomorrow and Tomorrow
+tvdb_episode:382389_2_4  # SNW S02E04 - Among the Lotus Eaters
+tvdb_episode:382389_2_5  # SNW S02E05 - Charades
+tvdb_episode:382389_2_6  # SNW S02E06 - Lost in Translation
+tvdb_episode:382389_2_7  # SNW S02E07 - Those Old Scientists
+tvdb_episode:382389_2_8  # SNW S02E08 - Under the Cloak of War
+tvdb_episode:382389_2_9  # SNW S02E09 - Subspace Rhapsody
+tvdb_episode:382389_2_10  # SNW S02E10 - Hegemony
+tvdb_episode:367138_4_1  # LD S04E01 - Twovix
+tvdb_episode:367138_4_2  # LD S04E02 - I Have No Bones Yet I Must Flee
+tvdb_episode:367138_4_3  # LD S04E03 - In the Cradle of Vexilon
+tvdb_episode:367138_4_4  # LD S04E04 - Something Borrowed, Something Green
+tvdb_episode:367138_4_5  # LD S04E05 - Empathological Fallacies
+tvdb_episode:367138_4_6  # LD S04E06 - Parth Ferengi's Heart Place
+tvdb_episode:367138_4_7  # LD S04E07 - A Few Badgeys More
+tvdb_episode:367138_4_8  # LD S04E08 - Caves
+tvdb_episode:367138_4_9  # LD S04E09 - The Inner Fight
+tvdb_episode:367138_4_10  # LD S04E10 - Old Friends, New Planets
+tvdb_episode:328711_5_1  # DISC S05E01 - Red Directive
+tvdb_episode:328711_5_2  # DISC S05E02 - Under the Twin Moons
+tvdb_episode:328711_5_3  # DISC S05E03 - Jinaal
+tvdb_episode:328711_5_4  # DISC S05E04 - Face the Strange
+tvdb_episode:328711_5_5  # DISC S05E05 - Mirrors
+tvdb_episode:328711_5_6  # DISC S05E06 - Whistlespeak
+tvdb_episode:328711_5_7  # DISC S05E07 - Erigah
+tvdb_episode:328711_5_8  # DISC S05E08 - Labyrinths
+tvdb_episode:328711_5_9  # DISC S05E09 - Lagrange Point
+tvdb_episode:328711_5_10  # DISC S05E10 - Life, Itself
+tvdb_episode:385811_2_1  # PROD S02E01 - Into the Breach, Part I
+tvdb_episode:385811_2_2  # PROD S02E02 - Into the Breach, Part II
+tvdb_episode:385811_2_3  # PROD S02E03 - Who Saves the Saviors
+tvdb_episode:385811_2_4  # PROD S02E04 - Temporal Mechanics 101
+tvdb_episode:385811_2_5  # PROD S02E05 - Observer's Paradox
+tvdb_episode:385811_2_6  # PROD S02E06 - Imposter Syndrome
+tvdb_episode:385811_2_7  # PROD S02E07 - The Fast and the Curious
+tvdb_episode:385811_2_8  # PROD S02E08 - Is There in Beauty No Truth?
+tvdb_episode:385811_2_9  # PROD S02E09 - The Devourer of All Things, Part I
+tvdb_episode:385811_2_10  # PROD S02E10 - The Devourer of All Things, Part II
+tvdb_episode:385811_2_11  # PROD S02E11 - Last Flight of the Protostar, Part I
+tvdb_episode:385811_2_12  # PROD S02E12 - Last Flight of the Protostar, Part II
+tvdb_episode:385811_2_13  # PROD S02E13 - A Tribble Called Quest
+tvdb_episode:385811_2_14  # PROD S02E14 - Cracked Mirror
+tvdb_episode:385811_2_15  # PROD S02E15 - Ascension, Part I
+tvdb_episode:385811_2_16  # PROD S02E16 - Ascension, Part II
+tvdb_episode:385811_2_17  # PROD S02E17 - Brink
+tvdb_episode:385811_2_18  # PROD S02E18 - Touch of Grey
+tvdb_episode:385811_2_19  # PROD S02E19 - Ouroboros, Part I
+tvdb_episode:385811_2_20  # PROD S02E20 - Ouroboros, Part II
+tvdb_episode:367138_5_1  # LD S05E01 - Dos Cerritos
+tvdb_episode:367138_5_2  # LD S05E02 - Shades of Green
+tvdb_episode:367138_5_3  # LD S05E03 - The Best Exotic Nanite Hotel
+tvdb_episode:367138_5_4  # LD S05E04 - A Farewell to Farms
+tvdb_episode:367138_5_5  # LD S05E05 - Starbase 80?!
+tvdb_episode:367138_5_6  # LD S05E06 - Of Gods and Angles
+tvdb_episode:367138_5_7  # LD S05E07 - Fully Dilated
+tvdb_episode:367138_5_8  # LD S05E08 - Upper Decks
+tvdb_episode:367138_5_9  # LD S05E09 - Fissure Quest
+tvdb_episode:367138_5_10  # LD S05E10 - The New Next Generation
+tvdb_episode:382389_3_1  # SNW S03E01 - Hegemony, Part II
+tvdb_episode:382389_3_2  # SNW S03E02 - Wedding Bell Blues
+tvdb_episode:382389_3_3  # SNW S03E03 - Shuttle to Kenfori
+tvdb_episode:382389_3_4  # SNW S03E04 - A Space Adventure Hour
+tvdb_episode:382389_3_5  # SNW S03E05 - Through the Lens of Time
+tvdb_episode:382389_3_6  # SNW S03E06 - The Sehlat Who Ate Its Tail
+tvdb_episode:382389_3_7  # SNW S03E07 - What Is Starfleet?
+tvdb_episode:382389_3_8  # SNW S03E08 - Four-and-a-Half Vulcans
+tvdb_episode:382389_3_9  # SNW S03E09 - Terrarium
+tvdb_episode:382389_3_10  # SNW S03E10 - New Life and New Civilizations
+tvdb_episode:433120_1_1  # SFA S01E01 - Kids These Days
+tvdb_episode:433120_1_2  # SFA S01E02 - Beta Test
+tvdb_episode:433120_1_3  # SFA S01E03 - Vitus Reflux
+tvdb_episode:433120_1_4  # SFA S01E04 - Vox in Excelso
+tvdb_episode:433120_1_5  # SFA S01E05 - Series Acclimation Mil
+tvdb_episode:433120_1_6  # SFA S01E06 - Come, Let's Away
+tvdb_episode:433120_1_7  # SFA S01E07 - Ko'Zeine
+tvdb_episode:433120_1_8  # SFA S01E08 - The Life of the Stars
+tvdb_episode:433120_1_9  # SFA S01E09 - 300th Night
+tvdb_episode:433120_1_10  # SFA S01E10 - Rubicon
+tvdb_episode:382389_4_1  # SNW S04E01 - Valles Marineris
+tvdb_episode:382389_4_2  # SNW S04E02 - The Griffin Incident
+tvdb_episode:382389_4_3  # SNW S04E03 - Human Best Friend
+tvdb_episode:382389_4_4  # SNW S04E04 - A Case of Chiaroscuro
+tvdb_episode:382389_4_5  # SNW S04E05 - Level-Five Transporter Accident
+tvdb_episode:382389_4_6  # SNW S04E06 - Off-Hour
+tvdb_episode:382389_4_7  # SNW S04E07 - Like Chronitons Through the Hourglass
+tvdb_episode:382389_4_8  # SNW S04E08 - Orders of Magnitude
+tvdb_episode:382389_4_9  # SNW S04E09 - Once La'An a Time
+tvdb_episode:382389_4_10  # SNW S04E10 - Tomorrow's Enterprise
