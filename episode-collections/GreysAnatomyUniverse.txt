@@ -1,5 +1,5 @@
 # Last updated: 2026-07-18
-# Scope: Grey's Anatomy Universe core three series (Grey's Anatomy, Private Practice, Station 19); excludes all webisodes, recap-clip specials
+# Scope: Grey's Anatomy, Private Practice and Station 19; excludes all recap-clip specials and webisodes
 # Based on community list: (https://docs.google.com/spreadsheets/d/1SFZ0pYJiYDkYyaWRF9fXkDFJ_A--v3Idu8zC7_vx2sg/htmlview)
 tvdb_episode:73762_1_1  # Grey's Anatomy S01E01 - A Hard Day's Night
 tvdb_episode:73762_1_2  # Grey's Anatomy S01E02 - The First Cut Is the Deepest

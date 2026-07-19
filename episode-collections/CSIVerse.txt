@@ -1,5 +1,5 @@
 # Last updated: 2026-07-13
-# Scope: CSI: Crime Scene Investigation, CSI: Miami, CSI: NY, CSI: Cyber, and CSI: Vegas. The CSI series-finale TV-movie "Immortality" is excluded.
+# Scope: CSI: Crime Scene Investigation, CSI: Miami, CSI: NY, CSI: Cyber, and CSI: Vegas; excludes the CSI series-finale TV movie "Immortality".
 # Ordered by actual air date and time per TVmaze (airtimes verified per episode)
 tvdb_episode:72546_1_1  # CSI S01E01 - Pilot
 tvdb_episode:72546_1_2  # CSI S01E02 - Cool Change

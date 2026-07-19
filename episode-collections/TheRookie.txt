@@ -1,5 +1,5 @@
 # Last updated: 2026-07-15
-# Scope: The Rookie (all seasons) and The Rookie: Feds (season 1); excludes specials
+# Scope: The Rookie and The Rookie: Feds; excludes specials
 # Ordered by air date and time per TVmaze
 tvdb_episode:350665_1_1  # The Rookie S01E01 - Pilot
 tvdb_episode:350665_1_2  # The Rookie S01E02 - Crash Course

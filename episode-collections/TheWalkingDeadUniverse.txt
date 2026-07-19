@@ -1,5 +1,5 @@
 # Last updated: 2026-07-14
-# Scope: The Walking Dead, Fear the Walking Dead, The Walking Dead: World Beyond, Tales of the Walking Dead, The Walking Dead: Dead City, The Walking Dead: Daryl Dixon, The Walking Dead: The Ones Who Live. The Walking Dead Webisodes are excluded. Specials are excluded.
+# Scope: The Walking Dead, Fear the Walking Dead, The Walking Dead: World Beyond, Tales of the Walking Dead, The Walking Dead: Dead City, The Walking Dead: Daryl Dixon and The Walking Dead: The Ones Who Live; excludes specials and The Walking Dead Webisodes.
 # Based on in-universe chronology: https://walkingdead.fandom.com/wiki/Chronological_Episode_Order
 tvdb_episode:411314_1_2  # Tales of the Walking Dead S01E02 - Blair / Gina
 tvdb_episode:290853_1_1  # Fear the Walking Dead S01E01 - Pilot

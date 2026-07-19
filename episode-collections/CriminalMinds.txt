@@ -1,5 +1,5 @@
 # Last updated: 2026-07-19
-# Scope: Criminal Minds (seasons 1-15 CBS, seasons 16-19 Paramount+ 'Evolution'), Criminal Minds: Suspect Behavior (2011), and Criminal Minds: Beyond Borders (2016-2017); excludes specials
+# Scope: Criminal Minds, Criminal Minds: Suspect Behavior and Criminal Minds: Beyond Borders
 # Ordered by air date and time per TVmaze
 tvdb_episode:75710_1_1  # Criminal Minds S01E01 - Extreme Aggressor
 tvdb_episode:75710_1_2  # Criminal Minds S01E02 - Compulsion

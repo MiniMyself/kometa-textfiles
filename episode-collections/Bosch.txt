@@ -1,5 +1,5 @@
 # Last updated: 2026-07-19
-# Scope: The full Bosch universe — Bosch (2015–2021, 7 seasons), Bosch: Legacy (2022–2025, 3 seasons), and the spin-off Ballard (2025–, ongoing); no specials
+# Scope: Bosch, Bosch: Legacy and Ballard
 # Ordered by air date and time per TVmaze
 tvdb_episode:277928_1_1  # Bosch S01E01 - 'Tis the Season
 tvdb_episode:277928_1_2  # Bosch S01E02 - Lost Light

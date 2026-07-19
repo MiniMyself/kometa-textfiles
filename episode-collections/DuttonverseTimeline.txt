@@ -1,5 +1,5 @@
 # Last updated: 2026-07-19
-# Scope: All Duttonverse series in Dutton-family timeline order: 1883, 1923, Yellowstone, Marshals, Dutton Ranch; Excludes the greater-Duttonverse Lawmen: Bass Reeves.
+# Scope: 1883, 1923, Yellowstone, Marshals and Dutton Ranch; excludes the greater-Duttonverse Lawmen: Bass Reeves.
 # Ordered by in-universe chronology; within a block, episodes run in air order.
 tvdb_episode:396390_1_1  # 1883 S01E01 - 1883
 tvdb_episode:396390_1_2  # 1883 S01E02 - Behind Us, A Cliff

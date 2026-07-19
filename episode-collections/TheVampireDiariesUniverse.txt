@@ -1,5 +1,5 @@
 # Last updated: 2026-07-17
-# Scope: All three Vampire Diaries Universe series (The Vampire Diaries, The Originals, Legacies); excludes specials/season 0
+# Scope: The Vampire Diaries, The Originals and Legacies; excludes specials
 # Ordered by air date and time per TVmaze
 tvdb_episode:95491_1_1  # The Vampire Diaries S01E01 - Pilot
 tvdb_episode:95491_1_2  # The Vampire Diaries S01E02 - The Night of the Comet
