@@ -1,0 +1,184 @@
+# Last updated: 2026-07-19
+# Scope: Power, Power Book II: Ghost, Power Book III: Raising Kanan, Power Book IV: Force
+# Ordered by air date and time per TVmaze
+tvdb_episode:276562_1_1  # Power S01E01 - Not Exactly How We Planned
+tvdb_episode:276562_1_2  # Power S01E02 - Whoever He Is
+tvdb_episode:276562_1_3  # Power S01E03 - This Is Real
+tvdb_episode:276562_1_4  # Power S01E04 - Who Are You?
+tvdb_episode:276562_1_5  # Power S01E05 - I Gotta Go
+tvdb_episode:276562_1_6  # Power S01E06 - Who You With?
+tvdb_episode:276562_1_7  # Power S01E07 - Loyalty
+tvdb_episode:276562_1_8  # Power S01E08 - Best Laid Plans
+tvdb_episode:276562_2_1  # Power S02E01 - Consequences
+tvdb_episode:276562_2_2  # Power S02E02 - No Friends on the Street
+tvdb_episode:276562_2_3  # Power S02E03 - Like We're Any Other Couple
+tvdb_episode:276562_2_4  # Power S02E04 - You're the Only Person I Can Trust
+tvdb_episode:276562_2_5  # Power S02E05 - Who You Are and Who You Want to Be
+tvdb_episode:276562_2_6  # Power S02E06 - Why Her?
+tvdb_episode:276562_2_7  # Power S02E07 - You're Not the Man
+tvdb_episode:276562_2_8  # Power S02E08 - Three Moves Ahead
+tvdb_episode:276562_2_9  # Power S02E09 - Time's Up
+tvdb_episode:276562_2_10  # Power S02E10 - Ghost Is Dead
+tvdb_episode:276562_3_1  # Power S03E01 - Call Me James
+tvdb_episode:276562_3_2  # Power S03E02 - It's Never Over
+tvdb_episode:276562_3_3  # Power S03E03 - I Got This on Lock
+tvdb_episode:276562_3_4  # Power S03E04 - Don't Worry, Baby
+tvdb_episode:276562_3_5  # Power S03E05 - Help Me
+tvdb_episode:276562_3_6  # Power S03E06 - The Right Decision
+tvdb_episode:276562_3_7  # Power S03E07 - Don't Go
+tvdb_episode:276562_3_8  # Power S03E08 - Trust Me
+tvdb_episode:276562_3_9  # Power S03E09 - I Call the Shots
+tvdb_episode:276562_3_10  # Power S03E10 - In My Best Interest
+tvdb_episode:276562_4_1  # Power S04E01 - When I Get Out
+tvdb_episode:276562_4_2  # Power S04E02 - Things Are Going to Get Worse
+tvdb_episode:276562_4_3  # Power S04E03 - The Kind of Man You Are
+tvdb_episode:276562_4_4  # Power S04E04 - We're in This Together
+tvdb_episode:276562_4_5  # Power S04E05 - Don't Thank Me
+tvdb_episode:276562_4_6  # Power S04E06 - New Man
+tvdb_episode:276562_4_7  # Power S04E07 - You Lied to My Face
+tvdb_episode:276562_4_8  # Power S04E08 - It's Done
+tvdb_episode:276562_4_9  # Power S04E09 - That Ain't Me
+tvdb_episode:276562_4_10  # Power S04E10 - You Can't Fix This
+tvdb_episode:276562_5_1  # Power S05E01 - Everyone Is Implicated
+tvdb_episode:276562_5_2  # Power S05E02 - Damage Control
+tvdb_episode:276562_5_3  # Power S05E03 - Are We on the Same Team?
+tvdb_episode:276562_5_4  # Power S05E04 - Second Chances
+tvdb_episode:276562_5_5  # Power S05E05 - Happy Birthday
+tvdb_episode:276562_5_6  # Power S05E06 - A Changed Man?
+tvdb_episode:276562_5_7  # Power S05E07 - The Devil Inside
+tvdb_episode:276562_5_8  # Power S05E08 - A Friend of the Family
+tvdb_episode:276562_5_9  # Power S05E09 - There's a Snitch Among Us
+tvdb_episode:276562_5_10  # Power S05E10 - When This Is Over
+tvdb_episode:276562_6_1  # Power S06E01 - Murderers
+tvdb_episode:276562_6_2  # Power S06E02 - Whose Side Are You On
+tvdb_episode:276562_6_3  # Power S06E03 - Forgot About Dre
+tvdb_episode:276562_6_4  # Power S06E04 - Why Is Tommy Still Alive?
+tvdb_episode:276562_6_5  # Power S06E05 - King's Gambit
+tvdb_episode:276562_6_6  # Power S06E06 - Inside Man
+tvdb_episode:276562_6_7  # Power S06E07 - Like Father, Like Son
+tvdb_episode:276562_6_8  # Power S06E08 - Deal with the Devil
+tvdb_episode:276562_6_9  # Power S06E09 - Scorched Earth
+tvdb_episode:276562_6_10  # Power S06E10 - No One Can Stop Me
+tvdb_episode:276562_6_11  # Power S06E11 - Still DRE
+tvdb_episode:276562_6_12  # Power S06E12 - He Always Wins
+tvdb_episode:276562_6_13  # Power S06E13 - It's All Your Fault
+tvdb_episode:276562_6_14  # Power S06E14 - Reversal of Fortune
+tvdb_episode:276562_6_15  # Power S06E15 - Exactly How We Planned
+tvdb_episode:376837_1_1  # Power Book II: Ghost S01E01 - The Stranger
+tvdb_episode:376837_1_2  # Power Book II: Ghost S01E02 - Exceeding Expectations
+tvdb_episode:376837_1_3  # Power Book II: Ghost S01E03 - Play the Game
+tvdb_episode:376837_1_4  # Power Book II: Ghost S01E04 - The Prince
+tvdb_episode:376837_1_5  # Power Book II: Ghost S01E05 - The Gift of the Magi
+tvdb_episode:376837_1_6  # Power Book II: Ghost S01E06 - Good vs Evil
+tvdb_episode:376837_1_7  # Power Book II: Ghost S01E07 - Sex Week
+tvdb_episode:376837_1_8  # Power Book II: Ghost S01E08 - Family First
+tvdb_episode:376837_1_9  # Power Book II: Ghost S01E09 - Monster
+tvdb_episode:376837_1_10  # Power Book II: Ghost S01E10 - Heart of Darkness
+tvdb_episode:377332_1_1  # Power Book III: Raising Kanan S01E01 - Back in the Day
+tvdb_episode:377332_1_2  # Power Book III: Raising Kanan S01E02 - Reaping and Sowing
+tvdb_episode:377332_1_3  # Power Book III: Raising Kanan S01E03 - Stick and Move
+tvdb_episode:377332_1_4  # Power Book III: Raising Kanan S01E04 - Don't Sleep
+tvdb_episode:377332_1_5  # Power Book III: Raising Kanan S01E05 - Choose Your Battles
+tvdb_episode:377332_1_6  # Power Book III: Raising Kanan S01E06 - Level Up
+tvdb_episode:377332_1_7  # Power Book III: Raising Kanan S01E07 - Stay in Your Lane
+tvdb_episode:377332_1_8  # Power Book III: Raising Kanan S01E08 - The Cost of Business
+tvdb_episode:377332_1_9  # Power Book III: Raising Kanan S01E09 - Loyal to the End
+tvdb_episode:377332_1_10  # Power Book III: Raising Kanan S01E10 - Paid in Full
+tvdb_episode:376837_2_1  # Power Book II: Ghost S02E01 - Free Will Is Never Free
+tvdb_episode:376837_2_2  # Power Book II: Ghost S02E02 - Selfless Acts?
+tvdb_episode:376837_2_3  # Power Book II: Ghost S02E03 - The Greater Good
+tvdb_episode:376837_2_4  # Power Book II: Ghost S02E04 - Gettin' These Ends
+tvdb_episode:376837_2_5  # Power Book II: Ghost S02E05 - Coming Home to Roost
+tvdb_episode:376837_2_6  # Power Book II: Ghost S02E06 - What's Free?
+tvdb_episode:376837_2_7  # Power Book II: Ghost S02E07 - Forced My Hand
+tvdb_episode:376837_2_8  # Power Book II: Ghost S02E08 - Drug Related
+tvdb_episode:376837_2_9  # Power Book II: Ghost S02E09 - A Fair Fight?
+tvdb_episode:376837_2_10  # Power Book II: Ghost S02E10 - Love and War
+tvdb_episode:377593_1_1  # Power Book IV: Force S01E01 - A Short Fuse and a Long Memory
+tvdb_episode:377593_1_2  # Power Book IV: Force S01E02 - King of the Goddamn Hill
+tvdb_episode:377593_1_3  # Power Book IV: Force S01E03 - Fire Starter
+tvdb_episode:377593_1_4  # Power Book IV: Force S01E04 - Storm Clouds
+tvdb_episode:377593_1_5  # Power Book IV: Force S01E05 - Take Me Home
+tvdb_episode:377593_1_6  # Power Book IV: Force S01E06 - This is Who We Are
+tvdb_episode:377593_1_7  # Power Book IV: Force S01E07 - Outrunning a Ghost
+tvdb_episode:377593_1_8  # Power Book IV: Force S01E08 - He Ain't Heavy
+tvdb_episode:377593_1_9  # Power Book IV: Force S01E09 - Trust
+tvdb_episode:377593_1_10  # Power Book IV: Force S01E10 - Family Business
+tvdb_episode:377332_2_1  # Power Book III: Raising Kanan S02E01 - The More Things Change
+tvdb_episode:377332_2_2  # Power Book III: Raising Kanan S02E02 - Mind Your Business
+tvdb_episode:377332_2_3  # Power Book III: Raising Kanan S02E03 - Sleeping Dogs
+tvdb_episode:377332_2_4  # Power Book III: Raising Kanan S02E04 - Pay the Toll
+tvdb_episode:377332_2_5  # Power Book III: Raising Kanan S02E05 - What Happens in the Catskills
+tvdb_episode:377332_2_6  # Power Book III: Raising Kanan S02E06 - It's a Business, Man
+tvdb_episode:377332_2_7  # Power Book III: Raising Kanan S02E07 - No Love Lost
+tvdb_episode:377332_2_8  # Power Book III: Raising Kanan S02E08 - A House Is Not a Home
+tvdb_episode:377332_2_9  # Power Book III: Raising Kanan S02E09 - Anti-Trust
+tvdb_episode:377332_2_10  # Power Book III: Raising Kanan S02E10 - If Y'Don't Know, Now Y'Know
+tvdb_episode:376837_3_1  # Power Book II: Ghost S03E01 - Your Perception, Your Reality
+tvdb_episode:376837_3_2  # Power Book II: Ghost S03E02 - Need vs. Greed
+tvdb_episode:376837_3_3  # Power Book II: Ghost S03E03 - Human Capital
+tvdb_episode:376837_3_4  # Power Book II: Ghost S03E04 - The Land of Opportunity
+tvdb_episode:376837_3_5  # Power Book II: Ghost S03E05 - No More Second Chances
+tvdb_episode:376837_3_6  # Power Book II: Ghost S03E06 - Land of Lies
+tvdb_episode:376837_3_7  # Power Book II: Ghost S03E07 - Deal or No Deal
+tvdb_episode:376837_3_8  # Power Book II: Ghost S03E08 - Sacrifice
+tvdb_episode:376837_3_9  # Power Book II: Ghost S03E09 - A Last Gift
+tvdb_episode:376837_3_10  # Power Book II: Ghost S03E10 - Divided We Stand
+tvdb_episode:377593_2_1  # Power Book IV: Force S02E01 - Tommy's Back
+tvdb_episode:377593_2_2  # Power Book IV: Force S02E02 - Great Consequence
+tvdb_episode:377593_2_3  # Power Book IV: Force S02E03 - War & Ice Cream
+tvdb_episode:377593_2_4  # Power Book IV: Force S02E04 - The Devil's in the Details
+tvdb_episode:377593_2_5  # Power Book IV: Force S02E05 - Crown Vic
+tvdb_episode:377593_2_6  # Power Book IV: Force S02E06 - Here There Be Monsters
+tvdb_episode:377593_2_7  # Power Book IV: Force S02E07 - Chicago Is Heating Up!
+tvdb_episode:377593_2_8  # Power Book IV: Force S02E08 - Dead Reckoning
+tvdb_episode:377593_2_9  # Power Book IV: Force S02E09 - No Loose Ends
+tvdb_episode:377593_2_10  # Power Book IV: Force S02E10 - Power Powder Respect
+tvdb_episode:377332_3_1  # Power Book III: Raising Kanan S03E01 - Home Sweet Home
+tvdb_episode:377332_3_2  # Power Book III: Raising Kanan S03E02 - Flipmode
+tvdb_episode:377332_3_3  # Power Book III: Raising Kanan S03E03 - Open For Business
+tvdb_episode:377332_3_4  # Power Book III: Raising Kanan S03E04 - In Sheep's Clothing
+tvdb_episode:377332_3_5  # Power Book III: Raising Kanan S03E05 - Brothers and Keepers
+tvdb_episode:377332_3_6  # Power Book III: Raising Kanan S03E06 - Into The Darkness
+tvdb_episode:377332_3_7  # Power Book III: Raising Kanan S03E07 - Where All Are Guilty
+tvdb_episode:377332_3_8  # Power Book III: Raising Kanan S03E08 - Reckonings
+tvdb_episode:377332_3_9  # Power Book III: Raising Kanan S03E09 - Home To Roost
+tvdb_episode:377332_3_10  # Power Book III: Raising Kanan S03E10 - Made You Look
+tvdb_episode:376837_4_1  # Power Book II: Ghost S04E01 - I Don't Die Easy
+tvdb_episode:376837_4_2  # Power Book II: Ghost S04E02 - To Thine Own Self
+tvdb_episode:376837_4_3  # Power Book II: Ghost S04E03 - Birthright
+tvdb_episode:376837_4_4  # Power Book II: Ghost S04E04 - The Reckoning
+tvdb_episode:376837_4_5  # Power Book II: Ghost S04E05 - Ego Death
+tvdb_episode:376837_4_6  # Power Book II: Ghost S04E06 - The Devil's Playground
+tvdb_episode:376837_4_7  # Power Book II: Ghost S04E07 - I Can't Fix This
+tvdb_episode:376837_4_8  # Power Book II: Ghost S04E08 - Higher Calling
+tvdb_episode:376837_4_9  # Power Book II: Ghost S04E09 - Married to the Game
+tvdb_episode:376837_4_10  # Power Book II: Ghost S04E10 - Ghost in the Machine
+tvdb_episode:377332_4_1  # Power Book III: Raising Kanan S04E01 - Gangstas Don't Die
+tvdb_episode:377332_4_2  # Power Book III: Raising Kanan S04E02 - It's All Love
+tvdb_episode:377332_4_3  # Power Book III: Raising Kanan S04E03 - Bygones
+tvdb_episode:377332_4_4  # Power Book III: Raising Kanan S04E04 - The Way We Were
+tvdb_episode:377332_4_5  # Power Book III: Raising Kanan S04E05 - The Nail That Sticks Up
+tvdb_episode:377332_4_6  # Power Book III: Raising Kanan S04E06 - The Price of Fame
+tvdb_episode:377332_4_7  # Power Book III: Raising Kanan S04E07 - Allow Me to Re-Introduce Myself
+tvdb_episode:377332_4_8  # Power Book III: Raising Kanan S04E08 - Street Struck
+tvdb_episode:377332_4_9  # Power Book III: Raising Kanan S04E09 - It's About That Time
+tvdb_episode:377332_4_10  # Power Book III: Raising Kanan S04E10 - Gimme the Weight
+tvdb_episode:377593_3_1  # Power Book IV: Force S03E01 - Do or Die
+tvdb_episode:377593_3_2  # Power Book IV: Force S03E02 - A Seat at the Table
+tvdb_episode:377593_3_3  # Power Book IV: Force S03E03 - There's Always a Price to Pay
+tvdb_episode:377593_3_4  # Power Book IV: Force S03E04 - Time To See The King
+tvdb_episode:377593_3_5  # Power Book IV: Force S03E05 - The Last Dance
+tvdb_episode:377593_3_6  # Power Book IV: Force S03E06 - Asset Forfeiture
+tvdb_episode:377593_3_7  # Power Book IV: Force S03E07 - Lines in the Sand
+tvdb_episode:377593_3_8  # Power Book IV: Force S03E08 - Build Back Better
+tvdb_episode:377593_3_9  # Power Book IV: Force S03E09 - War Requiem
+tvdb_episode:377593_3_10  # Power Book IV: Force S03E10 - Beginning of the End
+tvdb_episode:377332_5_1  # Power Book III: Raising Kanan S05E01 - By Blood
+tvdb_episode:377332_5_2  # Power Book III: Raising Kanan S05E02 - Many Men
+tvdb_episode:377332_5_3  # Power Book III: Raising Kanan S05E03 - Tricks
+tvdb_episode:377332_5_4  # Power Book III: Raising Kanan S05E04 - Pawns & Rooks
+tvdb_episode:377332_5_5  # Power Book III: Raising Kanan S05E05 - School of War
+tvdb_episode:377332_5_6  # Power Book III: Raising Kanan S05E06 - Dark Matter
+tvdb_episode:377332_5_7  # Power Book III: Raising Kanan S05E07 - Penultimate Means Second to Last
+tvdb_episode:377332_5_8  # Power Book III: Raising Kanan S05E08 - Episode 8

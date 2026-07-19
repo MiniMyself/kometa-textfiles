@@ -1,0 +1,103 @@
+# Last updated: 2026-07-19
+# Scope: All Duttonverse series in Dutton-family timeline order: 1883, 1923, Yellowstone, Marshals, Dutton Ranch; Excludes the greater-Duttonverse Lawmen: Bass Reeves.
+# Ordered by in-universe chronology; within a block, episodes run in air order.
+tvdb_episode:396390_1_1  # 1883 S01E01 - 1883
+tvdb_episode:396390_1_2  # 1883 S01E02 - Behind Us, A Cliff
+tvdb_episode:396390_1_3  # 1883 S01E03 - River
+tvdb_episode:396390_1_4  # 1883 S01E04 - The Crossing
+tvdb_episode:396390_1_5  # 1883 S01E05 - The Fangs of Freedom
+tvdb_episode:396390_1_6  # 1883 S01E06 - Boring The Devil
+tvdb_episode:396390_1_7  # 1883 S01E07 - Lightning Yellow Hair
+tvdb_episode:396390_1_8  # 1883 S01E08 - The Weep of Surrender
+tvdb_episode:396390_1_9  # 1883 S01E09 - Racing Clouds
+tvdb_episode:396390_1_10  # 1883 S01E10 - This Is Not Your Heaven
+tvdb_episode:416491_1_1  # 1923 S01E01 - 1923
+tvdb_episode:416491_1_2  # 1923 S01E02 - Nature's Empty Throne
+tvdb_episode:416491_1_3  # 1923 S01E03 - The War Has Come Home
+tvdb_episode:416491_1_4  # 1923 S01E04 - War and the Turquoise Tide
+tvdb_episode:416491_1_5  # 1923 S01E05 - Ghost of Zebrina
+tvdb_episode:416491_1_6  # 1923 S01E06 - One Ocean Closer to Destiny
+tvdb_episode:416491_1_7  # 1923 S01E07 - The Rule of Five Hundred
+tvdb_episode:416491_1_8  # 1923 S01E08 - Nothing Left to Lose
+tvdb_episode:416491_2_1  # 1923 S02E01 - The Killing Season
+tvdb_episode:416491_2_2  # 1923 S02E02 - The Rapist is Winter
+tvdb_episode:416491_2_3  # 1923 S02E03 - Wrap Thee in Terror
+tvdb_episode:416491_2_4  # 1923 S02E04 - Journey the Rivers of Iron
+tvdb_episode:416491_2_5  # 1923 S02E05 - Only Gunshots to Guide Us
+tvdb_episode:416491_2_6  # 1923 S02E06 - The Mountain Teeth of Monsters
+tvdb_episode:416491_2_7  # 1923 S02E07 - A Dream and a Memory
+tvdb_episode:341164_1_1  # Yellowstone S01E01 - Daybreak
+tvdb_episode:341164_1_2  # Yellowstone S01E02 - Kill the Messenger
+tvdb_episode:341164_1_3  # Yellowstone S01E03 - No Good Horses
+tvdb_episode:341164_1_4  # Yellowstone S01E04 - The Long Black Train
+tvdb_episode:341164_1_5  # Yellowstone S01E05 - Coming Home
+tvdb_episode:341164_1_6  # Yellowstone S01E06 - The Remembering
+tvdb_episode:341164_1_7  # Yellowstone S01E07 - A Monster Is Among Us
+tvdb_episode:341164_1_8  # Yellowstone S01E08 - The Unravelling: Pt. 1
+tvdb_episode:341164_1_9  # Yellowstone S01E09 - The Unravelling: Pt. 2
+tvdb_episode:341164_2_1  # Yellowstone S02E01 - A Thundering
+tvdb_episode:341164_2_2  # Yellowstone S02E02 - New Beginnings
+tvdb_episode:341164_2_3  # Yellowstone S02E03 - The Reek of Desperation
+tvdb_episode:341164_2_4  # Yellowstone S02E04 - Only Devils Left
+tvdb_episode:341164_2_5  # Yellowstone S02E05 - Touching Your Enemy
+tvdb_episode:341164_2_6  # Yellowstone S02E06 - Blood the Boy
+tvdb_episode:341164_2_7  # Yellowstone S02E07 - Resurrection Day
+tvdb_episode:341164_2_8  # Yellowstone S02E08 - Behind Us Only Grey
+tvdb_episode:341164_2_9  # Yellowstone S02E09 - Enemies by Monday
+tvdb_episode:341164_2_10  # Yellowstone S02E10 - Sins of the Father
+tvdb_episode:341164_3_1  # Yellowstone S03E01 - You're the Indian Now
+tvdb_episode:341164_3_2  # Yellowstone S03E02 - Freight Trains and Monsters
+tvdb_episode:341164_3_3  # Yellowstone S03E03 - An Acceptable Surrender
+tvdb_episode:341164_3_4  # Yellowstone S03E04 - Going Back to Cali
+tvdb_episode:341164_3_5  # Yellowstone S03E05 - Cowboys and Dreamers
+tvdb_episode:341164_3_6  # Yellowstone S03E06 - All for Nothing
+tvdb_episode:341164_3_7  # Yellowstone S03E07 - The Beating
+tvdb_episode:341164_3_8  # Yellowstone S03E08 - I Killed a Man Today
+tvdb_episode:341164_3_9  # Yellowstone S03E09 - Meaner Than Evil
+tvdb_episode:341164_3_10  # Yellowstone S03E10 - The World Is Purple
+tvdb_episode:341164_4_1  # Yellowstone S04E01 - Half the Money
+tvdb_episode:341164_4_2  # Yellowstone S04E02 - Phantom Pain
+tvdb_episode:341164_4_3  # Yellowstone S04E03 - All I See Is You
+tvdb_episode:341164_4_4  # Yellowstone S04E04 - Winning or Learning
+tvdb_episode:341164_4_5  # Yellowstone S04E05 - Under a Blanket of Red
+tvdb_episode:341164_4_6  # Yellowstone S04E06 - I Want to Be Him
+tvdb_episode:341164_4_7  # Yellowstone S04E07 - Keep the Wolves Close
+tvdb_episode:341164_4_8  # Yellowstone S04E08 - No Kindness for the Coward
+tvdb_episode:341164_4_9  # Yellowstone S04E09 - No Such Thing as Fair
+tvdb_episode:341164_4_10  # Yellowstone S04E10 - Grass on the Streets and Weeds on the Rooftops
+tvdb_episode:341164_5_1  # Yellowstone S05E01 - One Hundred Years Is Nothing
+tvdb_episode:341164_5_2  # Yellowstone S05E02 - The Sting of Wisdom
+tvdb_episode:341164_5_3  # Yellowstone S05E03 - Tall Drink of Water
+tvdb_episode:341164_5_4  # Yellowstone S05E04 - Horses in Heaven
+tvdb_episode:341164_5_5  # Yellowstone S05E05 - Watch 'Em Ride Away
+tvdb_episode:341164_5_6  # Yellowstone S05E06 - Cigarettes, Whiskey, a Meadow and You
+tvdb_episode:341164_5_7  # Yellowstone S05E07 - The Dream Is Not Me
+tvdb_episode:341164_5_8  # Yellowstone S05E08 - A Knife and No Coin
+tvdb_episode:341164_5_9  # Yellowstone S05E09 - Desire Is All You Need
+tvdb_episode:341164_5_10  # Yellowstone S05E10 - The Apocalypse of Change
+tvdb_episode:341164_5_11  # Yellowstone S05E11 - Three Fifty-Three
+tvdb_episode:341164_5_12  # Yellowstone S05E12 - Counting Coup
+tvdb_episode:341164_5_13  # Yellowstone S05E13 - Give the World Away
+tvdb_episode:341164_5_14  # Yellowstone S05E14 - Life Is a Promise
+tvdb_episode:463433_1_1  # Marshals S01E01 - Piya Wiconi
+tvdb_episode:463433_1_2  # Marshals S01E02 - Zone of Death
+tvdb_episode:463433_1_3  # Marshals S01E03 - Road to Nowhere
+tvdb_episode:463433_1_4  # Marshals S01E04 - The Gathering Storm
+tvdb_episode:463433_1_5  # Marshals S01E05 - Lost Girls
+tvdb_episode:463433_1_6  # Marshals S01E06 - Out of the Shadows
+tvdb_episode:463433_1_7  # Marshals S01E07 - Family Business
+tvdb_episode:463433_1_8  # Marshals S01E08 - Blowback
+tvdb_episode:463433_1_9  # Marshals S01E09 - In Low Places
+tvdb_episode:463433_1_10  # Marshals S01E10 - Playing with Fire
+tvdb_episode:463433_1_11  # Marshals S01E11 - On Thin Ice
+tvdb_episode:463433_1_12  # Marshals S01E12 - The Devil at Home
+tvdb_episode:463433_1_13  # Marshals S01E13 - Wolves at the Door
+tvdb_episode:463308_1_1  # Dutton Ranch S01E01 - The Untold Want
+tvdb_episode:463308_1_2  # Dutton Ranch S01E02 - Earn Another Day
+tvdb_episode:463308_1_3  # Dutton Ranch S01E03 - Act of God Business
+tvdb_episode:463308_1_4  # Dutton Ranch S01E04 - Start with a Bullet
+tvdb_episode:463308_1_5  # Dutton Ranch S01E05 - Peaceful Find Peace
+tvdb_episode:463308_1_6  # Dutton Ranch S01E06 - A Cowboy Saint
+tvdb_episode:463308_1_7  # Dutton Ranch S01E07 - Den of Sin
+tvdb_episode:463308_1_8  # Dutton Ranch S01E08 - Whiskey Limits
+tvdb_episode:463308_1_9  # Dutton Ranch S01E09 - El Padrino

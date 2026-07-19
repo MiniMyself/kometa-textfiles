@@ -1,0 +1,201 @@
+# Last updated: 2026-07-19
+# Scope: Pretty Little Liars, Ravenswood, Pretty Little Liars: The Perfectionists and Pretty Little Liars: Original Sin; excludes the Pretty Dirty Secrets web series
+# Ordered by air date and time per TVmaze, with airtimes verified per episode
+tvdb_episode:146711_1_1  # Pretty Little Liars S01E01 - Pilot
+tvdb_episode:146711_1_2  # Pretty Little Liars S01E02 - The Jenna Thing
+tvdb_episode:146711_1_3  # Pretty Little Liars S01E03 - To Kill a Mocking Girl
+tvdb_episode:146711_1_4  # Pretty Little Liars S01E04 - Can You Hear Me Now?
+tvdb_episode:146711_1_5  # Pretty Little Liars S01E05 - Reality Bites Me
+tvdb_episode:146711_1_6  # Pretty Little Liars S01E06 - There's No Place Like Homecoming
+tvdb_episode:146711_1_7  # Pretty Little Liars S01E07 - The Homecoming Hangover
+tvdb_episode:146711_1_8  # Pretty Little Liars S01E08 - Please, Do Talk About Me When I'm Gone
+tvdb_episode:146711_1_9  # Pretty Little Liars S01E09 - The Perfect Storm
+tvdb_episode:146711_1_10  # Pretty Little Liars S01E10 - Keep Your Friends Close
+tvdb_episode:146711_1_11  # Pretty Little Liars S01E11 - Moments Later
+tvdb_episode:146711_1_12  # Pretty Little Liars S01E12 - Salt Meets Wound
+tvdb_episode:146711_1_13  # Pretty Little Liars S01E13 - Know Your Frenemies
+tvdb_episode:146711_1_14  # Pretty Little Liars S01E14 - Careful What U Wish 4
+tvdb_episode:146711_1_15  # Pretty Little Liars S01E15 - If at First You Don't Succeed, Lie, Lie Again
+tvdb_episode:146711_1_16  # Pretty Little Liars S01E16 - Je Suis une Amie
+tvdb_episode:146711_1_17  # Pretty Little Liars S01E17 - The New Normal
+tvdb_episode:146711_1_18  # Pretty Little Liars S01E18 - The Badass Seed
+tvdb_episode:146711_1_19  # Pretty Little Liars S01E19 - A Person of Interest
+tvdb_episode:146711_1_20  # Pretty Little Liars S01E20 - Someone to Watch Over Me
+tvdb_episode:146711_1_21  # Pretty Little Liars S01E21 - Monsters in the End
+tvdb_episode:146711_1_22  # Pretty Little Liars S01E22 - For Whom the Bell Tolls
+tvdb_episode:146711_2_1  # Pretty Little Liars S02E01 - It's Alive
+tvdb_episode:146711_2_2  # Pretty Little Liars S02E02 - The Goodbye Look
+tvdb_episode:146711_2_3  # Pretty Little Liars S02E03 - My Name is Trouble
+tvdb_episode:146711_2_4  # Pretty Little Liars S02E04 - Blind Dates
+tvdb_episode:146711_2_5  # Pretty Little Liars S02E05 - The Devil You Know
+tvdb_episode:146711_2_6  # Pretty Little Liars S02E06 - Never Letting Go
+tvdb_episode:146711_2_7  # Pretty Little Liars S02E07 - Surface Tension
+tvdb_episode:146711_2_8  # Pretty Little Liars S02E08 - Save the Date
+tvdb_episode:146711_2_9  # Pretty Little Liars S02E09 - Picture This
+tvdb_episode:146711_2_10  # Pretty Little Liars S02E10 - Touched by an 'A'-ngel
+tvdb_episode:146711_2_11  # Pretty Little Liars S02E11 - I Must Confess
+tvdb_episode:146711_2_12  # Pretty Little Liars S02E12 - Over My Dead Body
+tvdb_episode:146711_2_13  # Pretty Little Liars S02E13 - The First Secret
+tvdb_episode:146711_2_14  # Pretty Little Liars S02E14 - Through Many Dangers, Toils and Snares
+tvdb_episode:146711_2_15  # Pretty Little Liars S02E15 - A Hot Piece of 'A'
+tvdb_episode:146711_2_16  # Pretty Little Liars S02E16 - Let the Water Hold Me Down
+tvdb_episode:146711_2_17  # Pretty Little Liars S02E17 - The Blond Leading the Blind
+tvdb_episode:146711_2_18  # Pretty Little Liars S02E18 - A Kiss Before Lying
+tvdb_episode:146711_2_19  # Pretty Little Liars S02E19 - The Naked Truth
+tvdb_episode:146711_2_20  # Pretty Little Liars S02E20 - CTRL:A
+tvdb_episode:146711_2_21  # Pretty Little Liars S02E21 - Breaking the Code
+tvdb_episode:146711_2_22  # Pretty Little Liars S02E22 - Father Knows Best
+tvdb_episode:146711_2_23  # Pretty Little Liars S02E23 - Eye of the Beholder
+tvdb_episode:146711_2_24  # Pretty Little Liars S02E24 - If These Dolls Could Talk
+tvdb_episode:146711_2_25  # Pretty Little Liars S02E25 - UnmAsked
+tvdb_episode:146711_3_1  # Pretty Little Liars S03E01 - It Happened 'That Night'
+tvdb_episode:146711_3_2  # Pretty Little Liars S03E02 - Blood is the New Black
+tvdb_episode:146711_3_3  # Pretty Little Liars S03E03 - Kingdom of the Blind
+tvdb_episode:146711_3_4  # Pretty Little Liars S03E04 - Birds of a Feather
+tvdb_episode:146711_3_5  # Pretty Little Liars S03E05 - That Girl is Poison
+tvdb_episode:146711_3_6  # Pretty Little Liars S03E06 - The Remains of the 'A'
+tvdb_episode:146711_3_7  # Pretty Little Liars S03E07 - Crazy
+tvdb_episode:146711_3_8  # Pretty Little Liars S03E08 - Stolen Kisses
+tvdb_episode:146711_3_9  # Pretty Little Liars S03E09 - The Kahn Game
+tvdb_episode:146711_3_10  # Pretty Little Liars S03E10 - What Lies Beneath
+tvdb_episode:146711_3_11  # Pretty Little Liars S03E11 - Single Fright Female
+tvdb_episode:146711_3_12  # Pretty Little Liars S03E12 - The Lady Killer
+tvdb_episode:146711_3_13  # Pretty Little Liars S03E13 - This is a Dark Ride
+tvdb_episode:146711_3_14  # Pretty Little Liars S03E14 - She's Better Now
+tvdb_episode:146711_3_15  # Pretty Little Liars S03E15 - Mona-Mania
+tvdb_episode:146711_3_16  # Pretty Little Liars S03E16 - Misery Loves Company
+tvdb_episode:146711_3_17  # Pretty Little Liars S03E17 - Out of the Frying Pan, Into the Inferno
+tvdb_episode:146711_3_18  # Pretty Little Liars S03E18 - Dead to Me
+tvdb_episode:146711_3_19  # Pretty Little Liars S03E19 - What Becomes of the Broken-Hearted
+tvdb_episode:146711_3_20  # Pretty Little Liars S03E20 - Hot Water
+tvdb_episode:146711_3_21  # Pretty Little Liars S03E21 - Out of Sight, Out of Mind
+tvdb_episode:146711_3_22  # Pretty Little Liars S03E22 - Will the Circle Be Unbroken?
+tvdb_episode:146711_3_23  # Pretty Little Liars S03E23 - I'm Your Puppet
+tvdb_episode:146711_3_24  # Pretty Little Liars S03E24 - A dAngerous gAme
+tvdb_episode:146711_4_1  # Pretty Little Liars S04E01 - 'A' is for A-L-I-V-E
+tvdb_episode:146711_4_2  # Pretty Little Liars S04E02 - Turn of the Shoe
+tvdb_episode:146711_4_3  # Pretty Little Liars S04E03 - Cat's Cradle
+tvdb_episode:146711_4_4  # Pretty Little Liars S04E04 - Face Time
+tvdb_episode:146711_4_5  # Pretty Little Liars S04E05 - Gamma Zeta Die!
+tvdb_episode:146711_4_6  # Pretty Little Liars S04E06 - Under the Gun
+tvdb_episode:146711_4_7  # Pretty Little Liars S04E07 - Crash and Burn, Girl!
+tvdb_episode:146711_4_8  # Pretty Little Liars S04E08 - The Guilty Girl's Handbook
+tvdb_episode:146711_4_9  # Pretty Little Liars S04E09 - Into the Deep
+tvdb_episode:146711_4_10  # Pretty Little Liars S04E10 - The Mirror Has Three Faces
+tvdb_episode:146711_4_11  # Pretty Little Liars S04E11 - Bring Down the Hoe
+tvdb_episode:146711_4_12  # Pretty Little Liars S04E12 - Now You See Me, Now You Don't
+tvdb_episode:146711_4_13  # Pretty Little Liars S04E13 - Grave New World
+tvdb_episode:268126_1_1  # Ravenswood S01E01 - Pilot
+tvdb_episode:268126_1_2  # Ravenswood S01E02 - Death and the Maiden
+tvdb_episode:268126_1_3  # Ravenswood S01E03 - Believe
+tvdb_episode:268126_1_4  # Ravenswood S01E04 - The Devil Has a Face
+tvdb_episode:268126_1_5  # Ravenswood S01E05 - Scared to Death
+tvdb_episode:146711_4_14  # Pretty Little Liars S04E14 - Who's in the Box?
+tvdb_episode:268126_1_6  # Ravenswood S01E06 - Revival
+tvdb_episode:146711_4_15  # Pretty Little Liars S04E15 - Love ShAck, Baby
+tvdb_episode:268126_1_7  # Ravenswood S01E07 - Home Is Where the Heart Is - Seriously Check the Floorboards
+tvdb_episode:146711_4_16  # Pretty Little Liars S04E16 - Close Encounters
+tvdb_episode:268126_1_8  # Ravenswood S01E08 - I'll Sleep When I'm Dead
+tvdb_episode:146711_4_17  # Pretty Little Liars S04E17 - Bite Your Tongue
+tvdb_episode:268126_1_9  # Ravenswood S01E09 - Along Came a Spider
+tvdb_episode:146711_4_18  # Pretty Little Liars S04E18 - Hot for Teacher
+tvdb_episode:268126_1_10  # Ravenswood S01E10 - My Haunted Heart
+tvdb_episode:146711_4_19  # Pretty Little Liars S04E19 - Shadow Play
+tvdb_episode:146711_4_20  # Pretty Little Liars S04E20 - Free Fall
+tvdb_episode:146711_4_21  # Pretty Little Liars S04E21 - She's Come Undone
+tvdb_episode:146711_4_22  # Pretty Little Liars S04E22 - Cover for Me
+tvdb_episode:146711_4_23  # Pretty Little Liars S04E23 - Unbridled
+tvdb_episode:146711_4_24  # Pretty Little Liars S04E24 - 'A' is for Answers
+tvdb_episode:146711_5_1  # Pretty Little Liars S05E01 - EscApe from New York
+tvdb_episode:146711_5_2  # Pretty Little Liars S05E02 - Whirly Girlie
+tvdb_episode:146711_5_3  # Pretty Little Liars S05E03 - Surfing the Aftershocks
+tvdb_episode:146711_5_4  # Pretty Little Liars S05E04 - Thrown from the Ride
+tvdb_episode:146711_5_5  # Pretty Little Liars S05E05 - Miss Me x 100
+tvdb_episode:146711_5_6  # Pretty Little Liars S05E06 - Run, Ali, Run
+tvdb_episode:146711_5_7  # Pretty Little Liars S05E07 - The Silence of E. Lamb
+tvdb_episode:146711_5_8  # Pretty Little Liars S05E08 - Scream for Me
+tvdb_episode:146711_5_9  # Pretty Little Liars S05E09 - March of Crimes
+tvdb_episode:146711_5_10  # Pretty Little Liars S05E10 - A Dark Ali
+tvdb_episode:146711_5_11  # Pretty Little Liars S05E11 - No One Here Can Love or Understand Me
+tvdb_episode:146711_5_12  # Pretty Little Liars S05E12 - Taking This One to the Grave
+tvdb_episode:146711_5_13  # Pretty Little Liars S05E13 - How the 'A' Stole Christmas
+tvdb_episode:146711_5_14  # Pretty Little Liars S05E14 - Through a Glass, Darkly
+tvdb_episode:146711_5_15  # Pretty Little Liars S05E15 - Fresh Meat
+tvdb_episode:146711_5_16  # Pretty Little Liars S05E16 - Over a Barrel
+tvdb_episode:146711_5_17  # Pretty Little Liars S05E17 - The Bin of Sin
+tvdb_episode:146711_5_18  # Pretty Little Liars S05E18 - Oh, What Hard Luck Stories They All Hand Me
+tvdb_episode:146711_5_19  # Pretty Little Liars S05E19 - Out, Damned Spot
+tvdb_episode:146711_5_20  # Pretty Little Liars S05E20 - Pretty Isn't the Point
+tvdb_episode:146711_5_21  # Pretty Little Liars S05E21 - Bloody Hell
+tvdb_episode:146711_5_22  # Pretty Little Liars S05E22 - To Plea or Not to Plea
+tvdb_episode:146711_5_23  # Pretty Little Liars S05E23 - The Melody Lingers On
+tvdb_episode:146711_5_24  # Pretty Little Liars S05E24 - I'm a Good Girl, I Am
+tvdb_episode:146711_5_25  # Pretty Little Liars S05E25 - Welcome to the Dollhouse
+tvdb_episode:146711_6_1  # Pretty Little Liars S06E01 - Game on, Charles
+tvdb_episode:146711_6_2  # Pretty Little Liars S06E02 - Songs of Innocence
+tvdb_episode:146711_6_3  # Pretty Little Liars S06E03 - Songs of Experience
+tvdb_episode:146711_6_4  # Pretty Little Liars S06E04 - Don't Look Now
+tvdb_episode:146711_6_5  # Pretty Little Liars S06E05 - She's No Angel
+tvdb_episode:146711_6_6  # Pretty Little Liars S06E06 - No Stone Unturned
+tvdb_episode:146711_6_7  # Pretty Little Liars S06E07 - O Brother, Where Art Thou
+tvdb_episode:146711_6_8  # Pretty Little Liars S06E08 - FrAmed
+tvdb_episode:146711_6_9  # Pretty Little Liars S06E09 - Last Dance
+tvdb_episode:146711_6_10  # Pretty Little Liars S06E10 - Game Over, Charles
+tvdb_episode:146711_6_11  # Pretty Little Liars S06E11 - Of Late I Think of Rosewood
+tvdb_episode:146711_6_12  # Pretty Little Liars S06E12 - Charlotte's Web
+tvdb_episode:146711_6_13  # Pretty Little Liars S06E13 - The Gloves Are On
+tvdb_episode:146711_6_14  # Pretty Little Liars S06E14 - New Guys, New Lies
+tvdb_episode:146711_6_15  # Pretty Little Liars S06E15 - Do Not Disturb
+tvdb_episode:146711_6_16  # Pretty Little Liars S06E16 - Where Somebody Waits for Me
+tvdb_episode:146711_6_17  # Pretty Little Liars S06E17 - We've All Got Baggage
+tvdb_episode:146711_6_18  # Pretty Little Liars S06E18 - Burn This
+tvdb_episode:146711_6_19  # Pretty Little Liars S06E19 - Did You Miss Me?
+tvdb_episode:146711_6_20  # Pretty Little Liars S06E20 - Hush, Hush, Sweet Liars
+tvdb_episode:146711_7_1  # Pretty Little Liars S07E01 - Tick Tock, Bitches
+tvdb_episode:146711_7_2  # Pretty Little Liars S07E02 - Bedlam
+tvdb_episode:146711_7_3  # Pretty Little Liars S07E03 - The Talented Mr. Rollins
+tvdb_episode:146711_7_4  # Pretty Little Liars S07E04 - Hit and Run, Run, Run
+tvdb_episode:146711_7_5  # Pretty Little Liars S07E05 - Along Comes Mary
+tvdb_episode:146711_7_6  # Pretty Little Liars S07E06 - Wanted: Dead or Alive
+tvdb_episode:146711_7_7  # Pretty Little Liars S07E07 - Original G'A'ngsters
+tvdb_episode:146711_7_8  # Pretty Little Liars S07E08 - Exes and OMGs
+tvdb_episode:146711_7_9  # Pretty Little Liars S07E09 - The Wrath of Kahn
+tvdb_episode:146711_7_10  # Pretty Little Liars S07E10 - The Darkest Knight
+tvdb_episode:146711_7_11  # Pretty Little Liars S07E11 - Playtime
+tvdb_episode:146711_7_12  # Pretty Little Liars S07E12 - These Boots Were Made for Stalking
+tvdb_episode:146711_7_13  # Pretty Little Liars S07E13 - Hold Your Piece
+tvdb_episode:146711_7_14  # Pretty Little Liars S07E14 - Power Play
+tvdb_episode:146711_7_15  # Pretty Little Liars S07E15 - In the Eye Abides the Heart
+tvdb_episode:146711_7_16  # Pretty Little Liars S07E16 - The Glove That Rocks the Cradle
+tvdb_episode:146711_7_17  # Pretty Little Liars S07E17 - Driving Miss Crazy
+tvdb_episode:146711_7_18  # Pretty Little Liars S07E18 - Choose or Lose
+tvdb_episode:146711_7_19  # Pretty Little Liars S07E19 - Farewell, My Lovely
+tvdb_episode:146711_7_20  # Pretty Little Liars S07E20 - 'Til Death Do Us Part
+tvdb_episode:358590_1_1  # Pretty Little Liars: The Perfectionists S01E01 - Pilot
+tvdb_episode:358590_1_2  # Pretty Little Liars: The Perfectionists S01E02 - Sex, Lies and Alibis
+tvdb_episode:358590_1_3  # Pretty Little Liars: The Perfectionists S01E03 - ...If One of Them is Dead
+tvdb_episode:358590_1_4  # Pretty Little Liars: The Perfectionists S01E04 - The Ghost Sonata
+tvdb_episode:358590_1_5  # Pretty Little Liars: The Perfectionists S01E05 - The Patchwork Girl
+tvdb_episode:358590_1_6  # Pretty Little Liars: The Perfectionists S01E06 - Lost and Found
+tvdb_episode:358590_1_7  # Pretty Little Liars: The Perfectionists S01E07 - Dead Week
+tvdb_episode:358590_1_8  # Pretty Little Liars: The Perfectionists S01E08 - Hook, Line and Booker
+tvdb_episode:358590_1_9  # Pretty Little Liars: The Perfectionists S01E09 - Lie Together, Die Together
+tvdb_episode:358590_1_10  # Pretty Little Liars: The Perfectionists S01E10 - Enter the Professor
+tvdb_episode:389085_1_1  # Pretty Little Liars: Original Sin S01E01 - Chapter One: Spirit Week
+tvdb_episode:389085_1_2  # Pretty Little Liars: Original Sin S01E02 - Chapter Two: The Spirit Queen
+tvdb_episode:389085_1_3  # Pretty Little Liars: Original Sin S01E03 - Chapter Three: Aftermath
+tvdb_episode:389085_1_4  # Pretty Little Liars: Original Sin S01E04 - Chapter Four: The (Fe)male Gaze
+tvdb_episode:389085_1_5  # Pretty Little Liars: Original Sin S01E05 - Chapter Five: The Night He Came Home
+tvdb_episode:389085_1_6  # Pretty Little Liars: Original Sin S01E06 - Chapter Six: Scars
+tvdb_episode:389085_1_7  # Pretty Little Liars: Original Sin S01E07 - Chapter Seven: Carnival of Souls
+tvdb_episode:389085_1_8  # Pretty Little Liars: Original Sin S01E08 - Chapter Eight: Bad Blood
+tvdb_episode:389085_1_9  # Pretty Little Liars: Original Sin S01E09 - Chapter Nine: Dead and Buried
+tvdb_episode:389085_1_10  # Pretty Little Liars: Original Sin S01E10 - Chapter Ten: Final Girls
+tvdb_episode:389085_2_1  # Pretty Little Liars: Original Sin S02E01 - Chapter Eleven: Spookyspaghetti.com
+tvdb_episode:389085_2_2  # Pretty Little Liars: Original Sin S02E02 - Chapter Twelve: Summer Lovin
+tvdb_episode:389085_2_3  # Pretty Little Liars: Original Sin S02E03 - Chapter Thirteen: Sweet Sixteen
+tvdb_episode:389085_2_4  # Pretty Little Liars: Original Sin S02E04 - Chapter Fourteen: When a Stranger Calls Back
+tvdb_episode:389085_2_5  # Pretty Little Liars: Original Sin S02E05 - Chapter Fifteen: Friday the 13th
+tvdb_episode:389085_2_6  # Pretty Little Liars: Original Sin S02E06 - Chapter Sixteen: Hell House
+tvdb_episode:389085_2_7  # Pretty Little Liars: Original Sin S02E07 - Chapter Seventeen: The Bogeyman
+tvdb_episode:389085_2_8  # Pretty Little Liars: Original Sin S02E08 - Chapter Eighteen: Final Exam

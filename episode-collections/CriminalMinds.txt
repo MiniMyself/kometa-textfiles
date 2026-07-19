@@ -1,0 +1,406 @@
+# Last updated: 2026-07-19
+# Scope: Criminal Minds (seasons 1-15 CBS, seasons 16-19 Paramount+ 'Evolution'), Criminal Minds: Suspect Behavior (2011), and Criminal Minds: Beyond Borders (2016-2017); excludes specials
+# Ordered by air date and time per TVmaze
+tvdb_episode:75710_1_1  # Criminal Minds S01E01 - Extreme Aggressor
+tvdb_episode:75710_1_2  # Criminal Minds S01E02 - Compulsion
+tvdb_episode:75710_1_3  # Criminal Minds S01E03 - Won't Get Fooled Again
+tvdb_episode:75710_1_4  # Criminal Minds S01E04 - Plain Sight
+tvdb_episode:75710_1_5  # Criminal Minds S01E05 - Broken Mirror
+tvdb_episode:75710_1_6  # Criminal Minds S01E06 - L.D.S.K.
+tvdb_episode:75710_1_7  # Criminal Minds S01E07 - The Fox
+tvdb_episode:75710_1_8  # Criminal Minds S01E08 - Natural Born Killer
+tvdb_episode:75710_1_9  # Criminal Minds S01E09 - Derailed
+tvdb_episode:75710_1_10  # Criminal Minds S01E10 - The Popular Kids
+tvdb_episode:75710_1_11  # Criminal Minds S01E11 - Blood Hungry
+tvdb_episode:75710_1_12  # Criminal Minds S01E12 - What Fresh Hell?
+tvdb_episode:75710_1_13  # Criminal Minds S01E13 - Poison
+tvdb_episode:75710_1_14  # Criminal Minds S01E14 - Riding the Lightning
+tvdb_episode:75710_1_15  # Criminal Minds S01E15 - Unfinished Business
+tvdb_episode:75710_1_16  # Criminal Minds S01E16 - The Tribe
+tvdb_episode:75710_1_17  # Criminal Minds S01E17 - A Real Rain
+tvdb_episode:75710_1_18  # Criminal Minds S01E18 - Somebody's Watching
+tvdb_episode:75710_1_19  # Criminal Minds S01E19 - Machismo
+tvdb_episode:75710_1_20  # Criminal Minds S01E20 - Charm and Harm
+tvdb_episode:75710_1_21  # Criminal Minds S01E21 - Secrets and Lies
+tvdb_episode:75710_1_22  # Criminal Minds S01E22 - The Fisher King (1)
+tvdb_episode:75710_2_1  # Criminal Minds S02E01 - The Fisher King (2)
+tvdb_episode:75710_2_2  # Criminal Minds S02E02 - P911
+tvdb_episode:75710_2_3  # Criminal Minds S02E03 - The Perfect Storm
+tvdb_episode:75710_2_4  # Criminal Minds S02E04 - Psychodrama
+tvdb_episode:75710_2_5  # Criminal Minds S02E05 - Aftermath
+tvdb_episode:75710_2_6  # Criminal Minds S02E06 - The Boogeyman
+tvdb_episode:75710_2_7  # Criminal Minds S02E07 - North Mammon
+tvdb_episode:75710_2_8  # Criminal Minds S02E08 - Empty Planet
+tvdb_episode:75710_2_9  # Criminal Minds S02E09 - The Last Word
+tvdb_episode:75710_2_10  # Criminal Minds S02E10 - Lessons Learned
+tvdb_episode:75710_2_11  # Criminal Minds S02E11 - Sex, Birth, Death
+tvdb_episode:75710_2_12  # Criminal Minds S02E12 - Profiler, Profiled
+tvdb_episode:75710_2_13  # Criminal Minds S02E13 - No Way Out
+tvdb_episode:75710_2_14  # Criminal Minds S02E14 - The Big Game
+tvdb_episode:75710_2_15  # Criminal Minds S02E15 - Revelations
+tvdb_episode:75710_2_16  # Criminal Minds S02E16 - Fear and Loathing
+tvdb_episode:75710_2_17  # Criminal Minds S02E17 - Distress
+tvdb_episode:75710_2_18  # Criminal Minds S02E18 - Jones
+tvdb_episode:75710_2_19  # Criminal Minds S02E19 - Ashes and Dust
+tvdb_episode:75710_2_20  # Criminal Minds S02E20 - Honor Among Thieves
+tvdb_episode:75710_2_21  # Criminal Minds S02E21 - Open Season
+tvdb_episode:75710_2_22  # Criminal Minds S02E22 - Legacy
+tvdb_episode:75710_2_23  # Criminal Minds S02E23 - No Way Out, Part II: The Evolution of Frank
+tvdb_episode:75710_3_1  # Criminal Minds S03E01 - Doubt
+tvdb_episode:75710_3_2  # Criminal Minds S03E02 - In Name and Blood
+tvdb_episode:75710_3_3  # Criminal Minds S03E03 - Scared to Death
+tvdb_episode:75710_3_4  # Criminal Minds S03E04 - Children of the Dark
+tvdb_episode:75710_3_5  # Criminal Minds S03E05 - Seven Seconds
+tvdb_episode:75710_3_6  # Criminal Minds S03E06 - About Face
+tvdb_episode:75710_3_7  # Criminal Minds S03E07 - Identity
+tvdb_episode:75710_3_8  # Criminal Minds S03E08 - Lucky
+tvdb_episode:75710_3_9  # Criminal Minds S03E09 - Penelope
+tvdb_episode:75710_3_10  # Criminal Minds S03E10 - True Night
+tvdb_episode:75710_3_11  # Criminal Minds S03E11 - Birthright
+tvdb_episode:75710_3_12  # Criminal Minds S03E12 - 3rd Life
+tvdb_episode:75710_3_13  # Criminal Minds S03E13 - Limelight
+tvdb_episode:75710_3_14  # Criminal Minds S03E14 - Damaged
+tvdb_episode:75710_3_15  # Criminal Minds S03E15 - A Higher Power
+tvdb_episode:75710_3_16  # Criminal Minds S03E16 - Elephant's Memory
+tvdb_episode:75710_3_17  # Criminal Minds S03E17 - In Heat
+tvdb_episode:75710_3_18  # Criminal Minds S03E18 - The Crossing
+tvdb_episode:75710_3_19  # Criminal Minds S03E19 - Tabula Rasa
+tvdb_episode:75710_3_20  # Criminal Minds S03E20 - Lo-Fi
+tvdb_episode:75710_4_1  # Criminal Minds S04E01 - Mayhem
+tvdb_episode:75710_4_2  # Criminal Minds S04E02 - The Angel Maker
+tvdb_episode:75710_4_3  # Criminal Minds S04E03 - Minimal Loss
+tvdb_episode:75710_4_4  # Criminal Minds S04E04 - Paradise
+tvdb_episode:75710_4_5  # Criminal Minds S04E05 - Catching Out
+tvdb_episode:75710_4_6  # Criminal Minds S04E06 - The Instincts
+tvdb_episode:75710_4_7  # Criminal Minds S04E07 - Memoriam
+tvdb_episode:75710_4_8  # Criminal Minds S04E08 - Masterpiece
+tvdb_episode:75710_4_9  # Criminal Minds S04E09 - 52 Pickup
+tvdb_episode:75710_4_10  # Criminal Minds S04E10 - Brothers in Arms
+tvdb_episode:75710_4_11  # Criminal Minds S04E11 - Normal
+tvdb_episode:75710_4_12  # Criminal Minds S04E12 - Soul Mates
+tvdb_episode:75710_4_13  # Criminal Minds S04E13 - Bloodline
+tvdb_episode:75710_4_14  # Criminal Minds S04E14 - Cold Comfort
+tvdb_episode:75710_4_15  # Criminal Minds S04E15 - Zoe's Reprise
+tvdb_episode:75710_4_16  # Criminal Minds S04E16 - Pleasure is My Business
+tvdb_episode:75710_4_17  # Criminal Minds S04E17 - Demonology
+tvdb_episode:75710_4_18  # Criminal Minds S04E18 - Omnivore
+tvdb_episode:75710_4_19  # Criminal Minds S04E19 - House on Fire
+tvdb_episode:75710_4_20  # Criminal Minds S04E20 - Conflicted
+tvdb_episode:75710_4_21  # Criminal Minds S04E21 - A Shade of Gray
+tvdb_episode:75710_4_22  # Criminal Minds S04E22 - The Big Wheel
+tvdb_episode:75710_4_23  # Criminal Minds S04E23 - Roadkill
+tvdb_episode:75710_4_24  # Criminal Minds S04E24 - Amplification
+tvdb_episode:75710_4_25  # Criminal Minds S04E25 - To Hell...and Back (1)
+tvdb_episode:75710_4_26  # Criminal Minds S04E26 - To Hell...and Back (2)
+tvdb_episode:75710_5_1  # Criminal Minds S05E01 - Nameless, Faceless
+tvdb_episode:75710_5_2  # Criminal Minds S05E02 - Haunted
+tvdb_episode:75710_5_3  # Criminal Minds S05E03 - Reckoner
+tvdb_episode:75710_5_4  # Criminal Minds S05E04 - Hopeless
+tvdb_episode:75710_5_5  # Criminal Minds S05E05 - Cradle to Grave
+tvdb_episode:75710_5_6  # Criminal Minds S05E06 - The Eyes Have It
+tvdb_episode:75710_5_7  # Criminal Minds S05E07 - The Performer
+tvdb_episode:75710_5_8  # Criminal Minds S05E08 - Outfoxed
+tvdb_episode:75710_5_9  # Criminal Minds S05E09 - 100
+tvdb_episode:75710_5_10  # Criminal Minds S05E10 - The Slave of Duty
+tvdb_episode:75710_5_11  # Criminal Minds S05E11 - Retaliation
+tvdb_episode:75710_5_12  # Criminal Minds S05E12 - The Uncanny Valley
+tvdb_episode:75710_5_13  # Criminal Minds S05E13 - Risky Business
+tvdb_episode:75710_5_14  # Criminal Minds S05E14 - Parasite
+tvdb_episode:75710_5_15  # Criminal Minds S05E15 - Public Enemy
+tvdb_episode:75710_5_16  # Criminal Minds S05E16 - Mosley Lane
+tvdb_episode:75710_5_17  # Criminal Minds S05E17 - Solitary Man
+tvdb_episode:75710_5_18  # Criminal Minds S05E18 - The Fight
+tvdb_episode:75710_5_19  # Criminal Minds S05E19 - Rite of Passage
+tvdb_episode:75710_5_20  # Criminal Minds S05E20 - ...A Thousand Words
+tvdb_episode:75710_5_21  # Criminal Minds S05E21 - Exit Wounds
+tvdb_episode:75710_5_22  # Criminal Minds S05E22 - The Internet is Forever
+tvdb_episode:75710_5_23  # Criminal Minds S05E23 - Our Darkest Hour
+tvdb_episode:75710_6_1  # Criminal Minds S06E01 - The Longest Night
+tvdb_episode:75710_6_2  # Criminal Minds S06E02 - JJ
+tvdb_episode:75710_6_3  # Criminal Minds S06E03 - Remembrance of Things Past
+tvdb_episode:75710_6_4  # Criminal Minds S06E04 - Compromising Positions
+tvdb_episode:75710_6_5  # Criminal Minds S06E05 - Safe Haven
+tvdb_episode:75710_6_6  # Criminal Minds S06E06 - Devil's Night
+tvdb_episode:75710_6_7  # Criminal Minds S06E07 - Middle Man
+tvdb_episode:75710_6_8  # Criminal Minds S06E08 - Reflection of Desire
+tvdb_episode:75710_6_9  # Criminal Minds S06E09 - Into the Woods
+tvdb_episode:75710_6_10  # Criminal Minds S06E10 - What Happens at Home…
+tvdb_episode:75710_6_11  # Criminal Minds S06E11 - 25 to Life
+tvdb_episode:75710_6_12  # Criminal Minds S06E12 - Corazon
+tvdb_episode:75710_6_13  # Criminal Minds S06E13 - The Thirteenth Step
+tvdb_episode:75710_6_14  # Criminal Minds S06E14 - Sense Memory
+tvdb_episode:75710_6_15  # Criminal Minds S06E15 - Today I Do
+tvdb_episode:168151_1_1  # Suspect Behavior S01E01 - Two of a Kind
+tvdb_episode:75710_6_16  # Criminal Minds S06E16 - Coda
+tvdb_episode:168151_1_2  # Suspect Behavior S01E02 - Lonely Heart
+tvdb_episode:75710_6_17  # Criminal Minds S06E17 - Valhalla
+tvdb_episode:168151_1_3  # Suspect Behavior S01E03 - See No Evil
+tvdb_episode:168151_1_4  # Suspect Behavior S01E04 - One Shot Kill
+tvdb_episode:75710_6_18  # Criminal Minds S06E18 - Lauren
+tvdb_episode:168151_1_5  # Suspect Behavior S01E05 - Here is the Fire
+tvdb_episode:168151_1_6  # Suspect Behavior S01E06 - Devotion
+tvdb_episode:75710_6_19  # Criminal Minds S06E19 - With Friends Like These…
+tvdb_episode:168151_1_7  # Suspect Behavior S01E07 - Jane
+tvdb_episode:75710_6_20  # Criminal Minds S06E20 - Hanley Waters
+tvdb_episode:168151_1_8  # Suspect Behavior S01E08 - Nighthawk
+tvdb_episode:75710_6_21  # Criminal Minds S06E21 - The Stranger
+tvdb_episode:168151_1_9  # Suspect Behavior S01E09 - Smother
+tvdb_episode:75710_6_22  # Criminal Minds S06E22 - Out of the Light
+tvdb_episode:168151_1_10  # Suspect Behavior S01E10 - The Time is Now
+tvdb_episode:75710_6_23  # Criminal Minds S06E23 - Big Sea
+tvdb_episode:168151_1_11  # Suspect Behavior S01E11 - Strays
+tvdb_episode:75710_6_24  # Criminal Minds S06E24 - Supply & Demand
+tvdb_episode:168151_1_12  # Suspect Behavior S01E12 - The Girl in the Blue Mask
+tvdb_episode:168151_1_13  # Suspect Behavior S01E13 - Death by a Thousand Cuts
+tvdb_episode:75710_7_1  # Criminal Minds S07E01 - It Takes a Village
+tvdb_episode:75710_7_2  # Criminal Minds S07E02 - Proof
+tvdb_episode:75710_7_3  # Criminal Minds S07E03 - Dorado Falls
+tvdb_episode:75710_7_4  # Criminal Minds S07E04 - Painless
+tvdb_episode:75710_7_5  # Criminal Minds S07E05 - From Childhood's Hour
+tvdb_episode:75710_7_6  # Criminal Minds S07E06 - Epilogue
+tvdb_episode:75710_7_7  # Criminal Minds S07E07 - There's No Place Like Home
+tvdb_episode:75710_7_8  # Criminal Minds S07E08 - Hope
+tvdb_episode:75710_7_9  # Criminal Minds S07E09 - Self-Fulfilling Prophecy
+tvdb_episode:75710_7_10  # Criminal Minds S07E10 - The Bittersweet Science
+tvdb_episode:75710_7_11  # Criminal Minds S07E11 - True Genius
+tvdb_episode:75710_7_12  # Criminal Minds S07E12 - Unknown Subject
+tvdb_episode:75710_7_13  # Criminal Minds S07E13 - Snake Eyes
+tvdb_episode:75710_7_14  # Criminal Minds S07E14 - Closing Time
+tvdb_episode:75710_7_15  # Criminal Minds S07E15 - A Thin Line
+tvdb_episode:75710_7_16  # Criminal Minds S07E16 - A Family Affair
+tvdb_episode:75710_7_17  # Criminal Minds S07E17 - I Love You, Tommy Brown
+tvdb_episode:75710_7_18  # Criminal Minds S07E18 - Foundation
+tvdb_episode:75710_7_19  # Criminal Minds S07E19 - Heathridge Manor
+tvdb_episode:75710_7_20  # Criminal Minds S07E20 - The Company
+tvdb_episode:75710_7_21  # Criminal Minds S07E21 - Divining Rod
+tvdb_episode:75710_7_22  # Criminal Minds S07E22 - Profiling 101
+tvdb_episode:75710_7_23  # Criminal Minds S07E23 - Hit
+tvdb_episode:75710_7_24  # Criminal Minds S07E24 - Run
+tvdb_episode:75710_8_1  # Criminal Minds S08E01 - The Silencer
+tvdb_episode:75710_8_2  # Criminal Minds S08E02 - The Pact
+tvdb_episode:75710_8_3  # Criminal Minds S08E03 - Through the Looking Glass
+tvdb_episode:75710_8_4  # Criminal Minds S08E04 - God Complex
+tvdb_episode:75710_8_5  # Criminal Minds S08E05 - The Good Earth
+tvdb_episode:75710_8_6  # Criminal Minds S08E06 - The Apprenticeship
+tvdb_episode:75710_8_7  # Criminal Minds S08E07 - The Fallen
+tvdb_episode:75710_8_8  # Criminal Minds S08E08 - The Wheels on the Bus…
+tvdb_episode:75710_8_9  # Criminal Minds S08E09 - Magnificent Light
+tvdb_episode:75710_8_10  # Criminal Minds S08E10 - The Lesson
+tvdb_episode:75710_8_11  # Criminal Minds S08E11 - Perennials
+tvdb_episode:75710_8_12  # Criminal Minds S08E12 - Zugzwang
+tvdb_episode:75710_8_13  # Criminal Minds S08E13 - Magnum Opus
+tvdb_episode:75710_8_14  # Criminal Minds S08E14 - All That Remains
+tvdb_episode:75710_8_15  # Criminal Minds S08E15 - Broken
+tvdb_episode:75710_8_16  # Criminal Minds S08E16 - Carbon Copy
+tvdb_episode:75710_8_17  # Criminal Minds S08E17 - The Gathering
+tvdb_episode:75710_8_18  # Criminal Minds S08E18 - Restoration
+tvdb_episode:75710_8_19  # Criminal Minds S08E19 - Pay It Forward
+tvdb_episode:75710_8_20  # Criminal Minds S08E20 - Alchemy
+tvdb_episode:75710_8_21  # Criminal Minds S08E21 - Nanny Dearest
+tvdb_episode:75710_8_22  # Criminal Minds S08E22 - #6
+tvdb_episode:75710_8_23  # Criminal Minds S08E23 - Brothers Hotchner
+tvdb_episode:75710_8_24  # Criminal Minds S08E24 - The Replicator
+tvdb_episode:75710_9_1  # Criminal Minds S09E01 - The Inspiration
+tvdb_episode:75710_9_2  # Criminal Minds S09E02 - The Inspired
+tvdb_episode:75710_9_3  # Criminal Minds S09E03 - Final Shot
+tvdb_episode:75710_9_4  # Criminal Minds S09E04 - To Bear Witness
+tvdb_episode:75710_9_5  # Criminal Minds S09E05 - Route 66
+tvdb_episode:75710_9_6  # Criminal Minds S09E06 - In the Blood
+tvdb_episode:75710_9_7  # Criminal Minds S09E07 - Gatekeeper
+tvdb_episode:75710_9_8  # Criminal Minds S09E08 - The Return
+tvdb_episode:75710_9_9  # Criminal Minds S09E09 - Strange Fruit
+tvdb_episode:75710_9_10  # Criminal Minds S09E10 - The Caller
+tvdb_episode:75710_9_11  # Criminal Minds S09E11 - Bully
+tvdb_episode:75710_9_12  # Criminal Minds S09E12 - The Black Queen
+tvdb_episode:75710_9_13  # Criminal Minds S09E13 - The Road Home
+tvdb_episode:75710_9_14  # Criminal Minds S09E14 - 200
+tvdb_episode:75710_9_15  # Criminal Minds S09E15 - Mr. & Mrs. Anderson
+tvdb_episode:75710_9_16  # Criminal Minds S09E16 - Gabby
+tvdb_episode:75710_9_17  # Criminal Minds S09E17 - Persuasion
+tvdb_episode:75710_9_18  # Criminal Minds S09E18 - Rabid
+tvdb_episode:75710_9_19  # Criminal Minds S09E19 - The Edge of Winter
+tvdb_episode:75710_9_20  # Criminal Minds S09E20 - Blood Relations
+tvdb_episode:75710_9_21  # Criminal Minds S09E21 - What Happens in Mecklinburg…
+tvdb_episode:75710_9_22  # Criminal Minds S09E22 - Fatal
+tvdb_episode:75710_9_23  # Criminal Minds S09E23 - Angels
+tvdb_episode:75710_9_24  # Criminal Minds S09E24 - Demons
+tvdb_episode:75710_10_1  # Criminal Minds S10E01 - 'X'
+tvdb_episode:75710_10_2  # Criminal Minds S10E02 - Burn
+tvdb_episode:75710_10_3  # Criminal Minds S10E03 - A Thousand Suns
+tvdb_episode:75710_10_4  # Criminal Minds S10E04 - The Itch
+tvdb_episode:75710_10_5  # Criminal Minds S10E05 - Boxed In
+tvdb_episode:75710_10_6  # Criminal Minds S10E06 - If the Shoe Fits
+tvdb_episode:75710_10_7  # Criminal Minds S10E07 - Hashtag
+tvdb_episode:75710_10_8  # Criminal Minds S10E08 - The Boys of Sudworth Place
+tvdb_episode:75710_10_9  # Criminal Minds S10E09 - Fate
+tvdb_episode:75710_10_10  # Criminal Minds S10E10 - Amelia Porter
+tvdb_episode:75710_10_11  # Criminal Minds S10E11 - The Forever People
+tvdb_episode:75710_10_12  # Criminal Minds S10E12 - Anonymous
+tvdb_episode:75710_10_13  # Criminal Minds S10E13 - Nelson's Sparrow
+tvdb_episode:75710_10_14  # Criminal Minds S10E14 - Hero Worship
+tvdb_episode:75710_10_15  # Criminal Minds S10E15 - Scream
+tvdb_episode:75710_10_16  # Criminal Minds S10E16 - Lockdown
+tvdb_episode:75710_10_17  # Criminal Minds S10E17 - Breath Play
+tvdb_episode:75710_10_18  # Criminal Minds S10E18 - Rock Creek Park
+tvdb_episode:75710_10_19  # Criminal Minds S10E19 - Beyond Borders
+tvdb_episode:75710_10_20  # Criminal Minds S10E20 - A Place at the Table
+tvdb_episode:75710_10_21  # Criminal Minds S10E21 - Mr. Scratch
+tvdb_episode:75710_10_22  # Criminal Minds S10E22 - Protection
+tvdb_episode:75710_10_23  # Criminal Minds S10E23 - The Hunt
+tvdb_episode:75710_11_1  # Criminal Minds S11E01 - The Job
+tvdb_episode:75710_11_2  # Criminal Minds S11E02 - The Witness
+tvdb_episode:75710_11_3  # Criminal Minds S11E03 - Til Death Do Us Part
+tvdb_episode:75710_11_4  # Criminal Minds S11E04 - Outlaw
+tvdb_episode:75710_11_5  # Criminal Minds S11E05 - The Night Watch
+tvdb_episode:75710_11_6  # Criminal Minds S11E06 - Pariahville
+tvdb_episode:75710_11_7  # Criminal Minds S11E07 - Target Rich
+tvdb_episode:75710_11_8  # Criminal Minds S11E08 - Awake
+tvdb_episode:75710_11_9  # Criminal Minds S11E09 - Internal Affairs
+tvdb_episode:75710_11_10  # Criminal Minds S11E10 - Future Perfect
+tvdb_episode:75710_11_11  # Criminal Minds S11E11 - Entropy
+tvdb_episode:75710_11_12  # Criminal Minds S11E12 - Drive
+tvdb_episode:75710_11_13  # Criminal Minds S11E13 - The Bond
+tvdb_episode:75710_11_14  # Criminal Minds S11E14 - Hostage
+tvdb_episode:75710_11_15  # Criminal Minds S11E15 - A Badge and a Gun
+tvdb_episode:75710_11_16  # Criminal Minds S11E16 - Derek
+tvdb_episode:75710_11_17  # Criminal Minds S11E17 - The Sandman
+tvdb_episode:296654_1_1  # Beyond Borders S01E01 - The Harmful One
+tvdb_episode:75710_11_18  # Criminal Minds S11E18 - A Beautiful Disaster
+tvdb_episode:296654_1_2  # Beyond Borders S01E02 - Harvested
+tvdb_episode:75710_11_19  # Criminal Minds S11E19 - Tribute
+tvdb_episode:296654_1_3  # Beyond Borders S01E03 - Denial
+tvdb_episode:296654_1_4  # Beyond Borders S01E04 - Whispering Death
+tvdb_episode:296654_1_5  # Beyond Borders S01E05 - The Lonely Heart
+tvdb_episode:75710_11_20  # Criminal Minds S11E20 - Inner Beauty
+tvdb_episode:296654_1_6  # Beyond Borders S01E06 - Love Interrupted
+tvdb_episode:75710_11_21  # Criminal Minds S11E21 - Devil's Backbone
+tvdb_episode:296654_1_7  # Beyond Borders S01E07 - Citizens of the World
+tvdb_episode:296654_1_8  # Beyond Borders S01E08 - De Los Inocentes
+tvdb_episode:75710_11_22  # Criminal Minds S11E22 - The Storm
+tvdb_episode:296654_1_9  # Beyond Borders S01E09 - The Matchmaker
+tvdb_episode:296654_1_10  # Beyond Borders S01E10 - IQINISO
+tvdb_episode:296654_1_11  # Beyond Borders S01E11 - The Ballad of Nick & Nat
+tvdb_episode:296654_1_12  # Beyond Borders S01E12 - El Toro Bravo
+tvdb_episode:296654_1_13  # Beyond Borders S01E13 - Paper Orphans
+tvdb_episode:75710_12_1  # Criminal Minds S12E01 - The Crimson King
+tvdb_episode:75710_12_2  # Criminal Minds S12E02 - Sick Day
+tvdb_episode:75710_12_3  # Criminal Minds S12E03 - Taboo
+tvdb_episode:75710_12_4  # Criminal Minds S12E04 - Keeper
+tvdb_episode:75710_12_5  # Criminal Minds S12E05 - The Anti-Terror Squad
+tvdb_episode:75710_12_6  # Criminal Minds S12E06 - Elliott's Pond
+tvdb_episode:75710_12_7  # Criminal Minds S12E07 - Mirror Image
+tvdb_episode:75710_12_8  # Criminal Minds S12E08 - Scarecrow
+tvdb_episode:75710_12_9  # Criminal Minds S12E09 - Profiling 202
+tvdb_episode:75710_12_10  # Criminal Minds S12E10 - Seek and Destroy
+tvdb_episode:75710_12_11  # Criminal Minds S12E11 - Surface Tension
+tvdb_episode:75710_12_12  # Criminal Minds S12E12 - A Good Husband
+tvdb_episode:75710_12_13  # Criminal Minds S12E13 - Spencer
+tvdb_episode:75710_12_14  # Criminal Minds S12E14 - Collision Course
+tvdb_episode:75710_12_15  # Criminal Minds S12E15 - Alpha Male
+tvdb_episode:296654_2_1  # Beyond Borders S02E01 - Lost Souls
+tvdb_episode:75710_12_16  # Criminal Minds S12E16 - Assistance is Futile
+tvdb_episode:296654_2_2  # Beyond Borders S02E02 - Il Mostro
+tvdb_episode:75710_12_17  # Criminal Minds S12E17 - In the Dark
+tvdb_episode:296654_2_3  # Beyond Borders S02E03 - The Devil's Breath
+tvdb_episode:75710_12_18  # Criminal Minds S12E18 - Hell's Kitchen
+tvdb_episode:296654_2_4  # Beyond Borders S02E04 - Pretty Like Me
+tvdb_episode:75710_12_19  # Criminal Minds S12E19 - True North
+tvdb_episode:296654_2_5  # Beyond Borders S02E05 - Made In…
+tvdb_episode:296654_2_6  # Beyond Borders S02E06 - Cinderella and the Dragon
+tvdb_episode:296654_2_7  # Beyond Borders S02E07 - La Huesuda
+tvdb_episode:296654_2_8  # Beyond Borders S02E08 - Pankration
+tvdb_episode:75710_12_20  # Criminal Minds S12E20 - Unforgettable
+tvdb_episode:296654_2_9  # Beyond Borders S02E09 - Blowback
+tvdb_episode:75710_12_21  # Criminal Minds S12E21 - Green Light
+tvdb_episode:296654_2_10  # Beyond Borders S02E10 - Type A
+tvdb_episode:75710_12_22  # Criminal Minds S12E22 - Red Light
+tvdb_episode:296654_2_11  # Beyond Borders S02E11 - Obey
+tvdb_episode:296654_2_12  # Beyond Borders S02E12 - Abominable
+tvdb_episode:296654_2_13  # Beyond Borders S02E13 - The Ripper of Riga
+tvdb_episode:75710_13_1  # Criminal Minds S13E01 - Wheels Up
+tvdb_episode:75710_13_2  # Criminal Minds S13E02 - To a Better Place
+tvdb_episode:75710_13_3  # Criminal Minds S13E03 - Blue Angel
+tvdb_episode:75710_13_4  # Criminal Minds S13E04 - Killer App
+tvdb_episode:75710_13_5  # Criminal Minds S13E05 - Lucky Strikes
+tvdb_episode:75710_13_6  # Criminal Minds S13E06 - The Bunker
+tvdb_episode:75710_13_7  # Criminal Minds S13E07 - Dust and Bones
+tvdb_episode:75710_13_8  # Criminal Minds S13E08 - Neon Terror
+tvdb_episode:75710_13_9  # Criminal Minds S13E09 - False Flag
+tvdb_episode:75710_13_10  # Criminal Minds S13E10 - Submerged
+tvdb_episode:75710_13_11  # Criminal Minds S13E11 - Full-Tilt Boogie
+tvdb_episode:75710_13_12  # Criminal Minds S13E12 - Bad Moon on the Rise
+tvdb_episode:75710_13_13  # Criminal Minds S13E13 - Cure
+tvdb_episode:75710_13_14  # Criminal Minds S13E14 - Miasma
+tvdb_episode:75710_13_15  # Criminal Minds S13E15 - Annihilator
+tvdb_episode:75710_13_16  # Criminal Minds S13E16 - Last Gasp
+tvdb_episode:75710_13_17  # Criminal Minds S13E17 - The Capilanos
+tvdb_episode:75710_13_18  # Criminal Minds S13E18 - The Dance of Love
+tvdb_episode:75710_13_19  # Criminal Minds S13E19 - Ex Parte
+tvdb_episode:75710_13_20  # Criminal Minds S13E20 - All You Can Eat
+tvdb_episode:75710_13_21  # Criminal Minds S13E21 - Mixed Signals
+tvdb_episode:75710_13_22  # Criminal Minds S13E22 - Believer
+tvdb_episode:75710_14_1  # Criminal Minds S14E01 - 300
+tvdb_episode:75710_14_2  # Criminal Minds S14E02 - Starter Home
+tvdb_episode:75710_14_3  # Criminal Minds S14E03 - Rule 34
+tvdb_episode:75710_14_4  # Criminal Minds S14E04 - Innocence
+tvdb_episode:75710_14_5  # Criminal Minds S14E05 - The Tall Man
+tvdb_episode:75710_14_6  # Criminal Minds S14E06 - Luke
+tvdb_episode:75710_14_7  # Criminal Minds S14E07 - Twenty Seven
+tvdb_episode:75710_14_8  # Criminal Minds S14E08 - Ashley
+tvdb_episode:75710_14_9  # Criminal Minds S14E09 - Broken Wing
+tvdb_episode:75710_14_10  # Criminal Minds S14E10 - Flesh and Blood
+tvdb_episode:75710_14_11  # Criminal Minds S14E11 - Night Lights
+tvdb_episode:75710_14_12  # Criminal Minds S14E12 - Hamelin
+tvdb_episode:75710_14_13  # Criminal Minds S14E13 - Chameleon
+tvdb_episode:75710_14_14  # Criminal Minds S14E14 - Sick and Evil
+tvdb_episode:75710_14_15  # Criminal Minds S14E15 - Truth or Dare
+tvdb_episode:75710_15_1  # Criminal Minds S15E01 - Under the Skin
+tvdb_episode:75710_15_2  # Criminal Minds S15E02 - Awakenings
+tvdb_episode:75710_15_3  # Criminal Minds S15E03 - Spectator Slowing
+tvdb_episode:75710_15_4  # Criminal Minds S15E04 - Saturday
+tvdb_episode:75710_15_5  # Criminal Minds S15E05 - Ghost
+tvdb_episode:75710_15_6  # Criminal Minds S15E06 - Date Night
+tvdb_episode:75710_15_7  # Criminal Minds S15E07 - Rusty
+tvdb_episode:75710_15_8  # Criminal Minds S15E08 - Family Tree
+tvdb_episode:75710_15_9  # Criminal Minds S15E09 - Face Off
+tvdb_episode:75710_15_10  # Criminal Minds S15E10 - And in the End
+tvdb_episode:75710_16_1  # Criminal Minds S16E01 - Just Getting Started
+tvdb_episode:75710_16_2  # Criminal Minds S16E02 - Sicarius
+tvdb_episode:75710_16_3  # Criminal Minds S16E03 - Moose
+tvdb_episode:75710_16_4  # Criminal Minds S16E04 - Pay-Per-View
+tvdb_episode:75710_16_5  # Criminal Minds S16E05 - Oedipus Wrecks
+tvdb_episode:75710_16_6  # Criminal Minds S16E06 - True Conviction
+tvdb_episode:75710_16_7  # Criminal Minds S16E07 - What Doesn't Kill Us
+tvdb_episode:75710_16_8  # Criminal Minds S16E08 - Forget Me Knots
+tvdb_episode:75710_16_9  # Criminal Minds S16E09 - Memento Mori
+tvdb_episode:75710_16_10  # Criminal Minds S16E10 - Dead End
+tvdb_episode:75710_17_1  # Criminal Minds S17E01 - Gold Star
+tvdb_episode:75710_17_2  # Criminal Minds S17E02 - Contagion
+tvdb_episode:75710_17_3  # Criminal Minds S17E03 - Homesick
+tvdb_episode:75710_17_4  # Criminal Minds S17E04 - Kingdom of the Blind
+tvdb_episode:75710_17_5  # Criminal Minds S17E05 - Conspiracy vs. Theory
+tvdb_episode:75710_17_6  # Criminal Minds S17E06 - Message in a Bottle
+tvdb_episode:75710_17_7  # Criminal Minds S17E07 - Piranha
+tvdb_episode:75710_17_8  # Criminal Minds S17E08 - North Star
+tvdb_episode:75710_17_9  # Criminal Minds S17E09 - Stars & Stripes
+tvdb_episode:75710_17_10  # Criminal Minds S17E10 - Save the Children
+tvdb_episode:75710_18_1  # Criminal Minds S18E01 - Swimmer's Calculus
+tvdb_episode:75710_18_2  # Criminal Minds S18E02 - The Zookeeper
+tvdb_episode:75710_18_3  # Criminal Minds S18E03 - Time to Say Goodbye
+tvdb_episode:75710_18_4  # Criminal Minds S18E04 - I'm Fine, It's Fine. Everything is Fine.
+tvdb_episode:75710_18_5  # Criminal Minds S18E05 - The Brutal Man
+tvdb_episode:75710_18_6  # Criminal Minds S18E06 - Hell is Empty…
+tvdb_episode:75710_18_7  # Criminal Minds S18E07 - …All the Devils Are Here
+tvdb_episode:75710_18_8  # Criminal Minds S18E08 - Tara
+tvdb_episode:75710_18_9  # Criminal Minds S18E09 - CollateRal
+tvdb_episode:75710_18_10  # Criminal Minds S18E10 - The Disciple
+tvdb_episode:75710_19_1  # Criminal Minds S19E01 - Now and Then
+tvdb_episode:75710_19_2  # Criminal Minds S19E02 - Cluster
+tvdb_episode:75710_19_3  # Criminal Minds S19E03 - Body Count
+tvdb_episode:75710_19_4  # Criminal Minds S19E04 - The Witching Hour
+tvdb_episode:75710_19_5  # Criminal Minds S19E05 - Friendly Fire
+tvdb_episode:75710_19_6  # Criminal Minds S19E06 - Proxy
+tvdb_episode:75710_19_7  # Criminal Minds S19E07 - The Furies
+tvdb_episode:75710_19_8  # Criminal Minds S19E08 - Requiem
+tvdb_episode:75710_19_9  # Criminal Minds S19E09 - Special Agent Garrity
+tvdb_episode:75710_19_10  # Criminal Minds S19E10 - Badder Blood

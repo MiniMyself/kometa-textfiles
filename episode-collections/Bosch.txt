@@ -1,0 +1,111 @@
+# Last updated: 2026-07-19
+# Scope: The full Bosch universe — Bosch (2015–2021, 7 seasons), Bosch: Legacy (2022–2025, 3 seasons), and the spin-off Ballard (2025–, ongoing); no specials
+# Ordered by air date and time per TVmaze
+tvdb_episode:277928_1_1  # Bosch S01E01 - 'Tis the Season
+tvdb_episode:277928_1_2  # Bosch S01E02 - Lost Light
+tvdb_episode:277928_1_3  # Bosch S01E03 - Blue Religion
+tvdb_episode:277928_1_4  # Bosch S01E04 - Fugazi
+tvdb_episode:277928_1_5  # Bosch S01E05 - Mama's Boy
+tvdb_episode:277928_1_6  # Bosch S01E06 - Donkey's Years
+tvdb_episode:277928_1_7  # Bosch S01E07 - Lost Boys
+tvdb_episode:277928_1_8  # Bosch S01E08 - High Low
+tvdb_episode:277928_1_9  # Bosch S01E09 - The Magic Castle
+tvdb_episode:277928_1_10  # Bosch S01E10 - Us and Them
+tvdb_episode:277928_2_1  # Bosch S02E01 - Trunk Music
+tvdb_episode:277928_2_2  # Bosch S02E02 - The Thing About Secrets
+tvdb_episode:277928_2_3  # Bosch S02E03 - Victim of the Night
+tvdb_episode:277928_2_4  # Bosch S02E04 - Who's Lucky Now?
+tvdb_episode:277928_2_5  # Bosch S02E05 - Gone
+tvdb_episode:277928_2_6  # Bosch S02E06 - Heart Attack
+tvdb_episode:277928_2_7  # Bosch S02E07 - Exit Time
+tvdb_episode:277928_2_8  # Bosch S02E08 - Follow the Money
+tvdb_episode:277928_2_9  # Bosch S02E09 - Queen of Martyrs
+tvdb_episode:277928_2_10  # Bosch S02E10 - Everybody Counts
+tvdb_episode:277928_3_1  # Bosch S03E01 - The Smog Cutter
+tvdb_episode:277928_3_2  # Bosch S03E02 - The Four Last Things
+tvdb_episode:277928_3_3  # Bosch S03E03 - God Sees
+tvdb_episode:277928_3_4  # Bosch S03E04 - El Compadre
+tvdb_episode:277928_3_5  # Bosch S03E05 - Blood Under the Bridge
+tvdb_episode:277928_3_6  # Bosch S03E06 - Birdland
+tvdb_episode:277928_3_7  # Bosch S03E07 - Right Play
+tvdb_episode:277928_3_8  # Bosch S03E08 - Aye Papi
+tvdb_episode:277928_3_9  # Bosch S03E09 - Clear Shot
+tvdb_episode:277928_3_10  # Bosch S03E10 - The Sea King
+tvdb_episode:277928_4_1  # Bosch S04E01 - Ask the Dust
+tvdb_episode:277928_4_2  # Bosch S04E02 - Dreams of Bunker Hill
+tvdb_episode:277928_4_3  # Bosch S04E03 - Devil in the House
+tvdb_episode:277928_4_4  # Bosch S04E04 - Past Lives
+tvdb_episode:277928_4_5  # Bosch S04E05 - The Coping
+tvdb_episode:277928_4_6  # Bosch S04E06 - The Wine of Youth
+tvdb_episode:277928_4_7  # Bosch S04E07 - Missed Connections
+tvdb_episode:277928_4_8  # Bosch S04E08 - Dark Sky
+tvdb_episode:277928_4_9  # Bosch S04E09 - Rojo Profundo
+tvdb_episode:277928_4_10  # Bosch S04E10 - Book of the Unclaimed Dead
+tvdb_episode:277928_5_1  # Bosch S05E01 - Two Kinds of Truth
+tvdb_episode:277928_5_2  # Bosch S05E02 - Pill Shills
+tvdb_episode:277928_5_3  # Bosch S05E03 - The Last Scrip
+tvdb_episode:277928_5_4  # Bosch S05E04 - Raise the Dead
+tvdb_episode:277928_5_5  # Bosch S05E05 - Tunnel Vision
+tvdb_episode:277928_5_6  # Bosch S05E06 - The Space Between the Stars
+tvdb_episode:277928_5_7  # Bosch S05E07 - The Wisdom of the Desert
+tvdb_episode:277928_5_8  # Bosch S05E08 - Salvation Mountain
+tvdb_episode:277928_5_9  # Bosch S05E09 - Hold Back the Night
+tvdb_episode:277928_5_10  # Bosch S05E10 - Creep Signed His Kill
+tvdb_episode:277928_6_1  # Bosch S06E01 - The Overlook
+tvdb_episode:277928_6_2  # Bosch S06E02 - Good People on Both Sides
+tvdb_episode:277928_6_3  # Bosch S06E03 - Three Widows
+tvdb_episode:277928_6_4  # Bosch S06E04 - Part of the Deal
+tvdb_episode:277928_6_5  # Bosch S06E05 - Money, Honey
+tvdb_episode:277928_6_6  # Bosch S06E06 - The Ace Hotel
+tvdb_episode:277928_6_7  # Bosch S06E07 - Hard Feelings
+tvdb_episode:277928_6_8  # Bosch S06E08 - Copy Cat
+tvdb_episode:277928_6_9  # Bosch S06E09 - Dark Sacred Night
+tvdb_episode:277928_6_10  # Bosch S06E10 - Some Measure of Justice
+tvdb_episode:277928_7_1  # Bosch S07E01 - Brazen
+tvdb_episode:277928_7_2  # Bosch S07E02 - The Dog You Feed
+tvdb_episode:277928_7_3  # Bosch S07E03 - Sabes Demasiado
+tvdb_episode:277928_7_4  # Bosch S07E04 - Triple Play
+tvdb_episode:277928_7_5  # Bosch S07E05 - Jury's Still Out
+tvdb_episode:277928_7_6  # Bosch S07E06 - The Greater Good
+tvdb_episode:277928_7_7  # Bosch S07E07 - Workaround
+tvdb_episode:277928_7_8  # Bosch S07E08 - Por Sonia
+tvdb_episode:414553_1_1  # Bosch: Legacy S01E01 - The Wrong Side of Goodbye
+tvdb_episode:414553_1_2  # Bosch: Legacy S01E02 - Pumped
+tvdb_episode:414553_1_3  # Bosch: Legacy S01E03 - Message in a Bottle
+tvdb_episode:414553_1_4  # Bosch: Legacy S01E04 - Horseshoes and Hand Grenades
+tvdb_episode:414553_1_5  # Bosch: Legacy S01E05 - Plan B
+tvdb_episode:414553_1_6  # Bosch: Legacy S01E06 - Chain of Authenticity
+tvdb_episode:414553_1_7  # Bosch: Legacy S01E07 - One of Your Own
+tvdb_episode:414553_1_8  # Bosch: Legacy S01E08 - Bloodline
+tvdb_episode:414553_1_9  # Bosch: Legacy S01E09 - Cat Got a Name?
+tvdb_episode:414553_1_10  # Bosch: Legacy S01E10 - Always/All Ways
+tvdb_episode:414553_2_1  # Bosch: Legacy S02E01 - The Lady Vanishes
+tvdb_episode:414553_2_2  # Bosch: Legacy S02E02 - Zzyzx
+tvdb_episode:414553_2_3  # Bosch: Legacy S02E03 - Inside Man
+tvdb_episode:414553_2_4  # Bosch: Legacy S02E04 - Musso & Frank
+tvdb_episode:414553_2_5  # Bosch: Legacy S02E05 - Hollywood Forever
+tvdb_episode:414553_2_6  # Bosch: Legacy S02E06 - Dos Matadores
+tvdb_episode:414553_2_7  # Bosch: Legacy S02E07 - I Miss Vin Scully
+tvdb_episode:414553_2_8  # Bosch: Legacy S02E08 - Seventy-Four Degrees in Belize
+tvdb_episode:414553_2_9  # Bosch: Legacy S02E09 - Escape Plan
+tvdb_episode:414553_2_10  # Bosch: Legacy S02E10 - A Step Ahead
+tvdb_episode:414553_3_1  # Bosch: Legacy S03E01 - Goes Where it Goes
+tvdb_episode:414553_3_2  # Bosch: Legacy S03E02 - Bosching Bosch
+tvdb_episode:414553_3_3  # Bosch: Legacy S03E03 - Blankie
+tvdb_episode:414553_3_4  # Bosch: Legacy S03E04 - Whippoorwills
+tvdb_episode:414553_3_5  # Bosch: Legacy S03E05 - F***ing Politics
+tvdb_episode:414553_3_6  # Bosch: Legacy S03E06 - Broken Order
+tvdb_episode:414553_3_7  # Bosch: Legacy S03E07 - Welcome to the Other Side
+tvdb_episode:414553_3_8  # Bosch: Legacy S03E08 - La Zone Rosa
+tvdb_episode:414553_3_9  # Bosch: Legacy S03E09 - Badlands
+tvdb_episode:414553_3_10  # Bosch: Legacy S03E10 - Dig Down
+tvdb_episode:453659_1_1  # Ballard S01E01 - Library of Lost Souls
+tvdb_episode:453659_1_2  # Ballard S01E02 - Haystacks
+tvdb_episode:453659_1_3  # Ballard S01E03 - BYOB
+tvdb_episode:453659_1_4  # Ballard S01E04 - Landmines
+tvdb_episode:453659_1_5  # Ballard S01E05 - What's Done in the Dark
+tvdb_episode:453659_1_6  # Ballard S01E06 - Beneath the Surface
+tvdb_episode:453659_1_7  # Ballard S01E07 - Fork in the Road
+tvdb_episode:453659_1_8  # Ballard S01E08 - Last Call
+tvdb_episode:453659_1_9  # Ballard S01E09 - Collateral
+tvdb_episode:453659_1_10  # Ballard S01E10 - End of the Line
