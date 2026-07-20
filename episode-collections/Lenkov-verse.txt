@@ -1,0 +1,433 @@
+# Last updated: 2026-07-20
+# Scope: Hawaii Five-0 (2010), MacGyver (2016) and Magnum P.I. (2018); excludes specials
+# Ordered by air date and time per TVmaze
+tvdb_episode:164541_1_1  # Hawaii Five-0 S01E01 - Pailaka
+tvdb_episode:164541_1_2  # Hawaii Five-0 S01E02 - Ohana
+tvdb_episode:164541_1_3  # Hawaii Five-0 S01E03 - Malama Ka Aina
+tvdb_episode:164541_1_4  # Hawaii Five-0 S01E04 - Lanakila
+tvdb_episode:164541_1_5  # Hawaii Five-0 S01E05 - Nalowale
+tvdb_episode:164541_1_6  # Hawaii Five-0 S01E06 - Ko'olauloa
+tvdb_episode:164541_1_7  # Hawaii Five-0 S01E07 - Ho'apono
+tvdb_episode:164541_1_8  # Hawaii Five-0 S01E08 - Mana'o
+tvdb_episode:164541_1_9  # Hawaii Five-0 S01E09 - Po'ipu
+tvdb_episode:164541_1_10  # Hawaii Five-0 S01E10 - Heihei
+tvdb_episode:164541_1_11  # Hawaii Five-0 S01E11 - Palekaiko
+tvdb_episode:164541_1_12  # Hawaii Five-0 S01E12 - Hana 'a'a Makehewa
+tvdb_episode:164541_1_13  # Hawaii Five-0 S01E13 - Ke Kinohi
+tvdb_episode:164541_1_14  # Hawaii Five-0 S01E14 - He Kane Hewa'ole
+tvdb_episode:164541_1_15  # Hawaii Five-0 S01E15 - Kai E'e
+tvdb_episode:164541_1_16  # Hawaii Five-0 S01E16 - E Malama
+tvdb_episode:164541_1_17  # Hawaii Five-0 S01E17 - Powa Maka Moana
+tvdb_episode:164541_1_18  # Hawaii Five-0 S01E18 - Loa Aloha
+tvdb_episode:164541_1_19  # Hawaii Five-0 S01E19 - Na Me'e Laua Na Paio
+tvdb_episode:164541_1_20  # Hawaii Five-0 S01E20 - Ma Ke Kahakai
+tvdb_episode:164541_1_21  # Hawaii Five-0 S01E21 - Ho'opa'i
+tvdb_episode:164541_1_22  # Hawaii Five-0 S01E22 - Ho'ohuli Na'au
+tvdb_episode:164541_1_23  # Hawaii Five-0 S01E23 - Ua Hiki Mai Kapalena Pau
+tvdb_episode:164541_1_24  # Hawaii Five-0 S01E24 - Oia'i'o
+tvdb_episode:164541_2_1  # Hawaii Five-0 S02E01 - Ha'i'ole
+tvdb_episode:164541_2_2  # Hawaii Five-0 S02E02 - Ua Lawe Wale
+tvdb_episode:164541_2_3  # Hawaii Five-0 S02E03 - Kame'e
+tvdb_episode:164541_2_4  # Hawaii Five-0 S02E04 - Mea Makamae
+tvdb_episode:164541_2_5  # Hawaii Five-0 S02E05 - Ma'ema'e
+tvdb_episode:164541_2_6  # Hawaii Five-0 S02E06 - Ka Hakaka Maika'i
+tvdb_episode:164541_2_7  # Hawaii Five-0 S02E07 - Ka Iwi Kapu
+tvdb_episode:164541_2_8  # Hawaii Five-0 S02E08 - Lapa'au
+tvdb_episode:164541_2_9  # Hawaii Five-0 S02E09 - Ike Maka
+tvdb_episode:164541_2_10  # Hawaii Five-0 S02E10 - Ki'lua
+tvdb_episode:164541_2_11  # Hawaii Five-0 S02E11 - Pahele
+tvdb_episode:164541_2_12  # Hawaii Five-0 S02E12 - Alaheo Pau'ole
+tvdb_episode:164541_2_13  # Hawaii Five-0 S02E13 - Ka Ho'oponopono
+tvdb_episode:164541_2_14  # Hawaii Five-0 S02E14 - Pu'olo
+tvdb_episode:164541_2_15  # Hawaii Five-0 S02E15 - Mai Ka Wa Kahiko
+tvdb_episode:164541_2_16  # Hawaii Five-0 S02E16 - I Helu Pu
+tvdb_episode:164541_2_17  # Hawaii Five-0 S02E17 - Kupale
+tvdb_episode:164541_2_18  # Hawaii Five-0 S02E18 - Lekio
+tvdb_episode:164541_2_19  # Hawaii Five-0 S02E19 - Kalele
+tvdb_episode:164541_2_20  # Hawaii Five-0 S02E20 - Ha'alele
+tvdb_episode:164541_2_21  # Hawaii Five-0 S02E21 - Pa Make Loa
+tvdb_episode:164541_2_22  # Hawaii Five-0 S02E22 - Ua Hopu
+tvdb_episode:164541_2_23  # Hawaii Five-0 S02E23 - Ua Hala
+tvdb_episode:164541_3_1  # Hawaii Five-0 S03E01 - La O Na Makuahine
+tvdb_episode:164541_3_2  # Hawaii Five-0 S03E02 - Kanalua
+tvdb_episode:164541_3_3  # Hawaii Five-0 S03E03 - Lana I Ka Moana
+tvdb_episode:164541_3_4  # Hawaii Five-0 S03E04 - Popilikia
+tvdb_episode:164541_3_5  # Hawaii Five-0 S03E05 - Mohai
+tvdb_episode:164541_3_6  # Hawaii Five-0 S03E06 - I Ka Wa Mamua
+tvdb_episode:164541_3_7  # Hawaii Five-0 S03E07 - Ohuna
+tvdb_episode:164541_3_8  # Hawaii Five-0 S03E08 - Wahine'inoloa
+tvdb_episode:164541_3_9  # Hawaii Five-0 S03E09 - Ha'awe Make Loa
+tvdb_episode:164541_3_10  # Hawaii Five-0 S03E10 - Huaka'i Kula
+tvdb_episode:164541_3_11  # Hawaii Five-0 S03E11 - Kahu
+tvdb_episode:164541_3_12  # Hawaii Five-0 S03E12 - Kapu
+tvdb_episode:164541_3_13  # Hawaii Five-0 S03E13 - Olelo Ho'opa'i Make
+tvdb_episode:164541_3_14  # Hawaii Five-0 S03E14 - Hana I Wa 'ia
+tvdb_episode:164541_3_15  # Hawaii Five-0 S03E15 - Hookman
+tvdb_episode:164541_3_16  # Hawaii Five-0 S03E16 - Kekoa
+tvdb_episode:164541_3_17  # Hawaii Five-0 S03E17 - Pa'ani
+tvdb_episode:164541_3_18  # Hawaii Five-0 S03E18 - Na Ki'i
+tvdb_episode:164541_3_19  # Hawaii Five-0 S03E19 - Hoa Pili
+tvdb_episode:164541_3_20  # Hawaii Five-0 S03E20 - Olelo Pa'a
+tvdb_episode:164541_3_21  # Hawaii Five-0 S03E21 - Imi Loko Ka 'uhane
+tvdb_episode:164541_3_22  # Hawaii Five-0 S03E22 - Ho' Opio
+tvdb_episode:164541_3_23  # Hawaii Five-0 S03E23 - He Welo 'oihana
+tvdb_episode:164541_3_24  # Hawaii Five-0 S03E24 - Aloha Malama Pono
+tvdb_episode:164541_4_1  # Hawaii Five-0 S04E01 - Aloha Ke Kahi I Ke Kahi
+tvdb_episode:164541_4_2  # Hawaii Five-0 S04E02 - A' Ale Ma'a Wau
+tvdb_episode:164541_4_3  # Hawaii Five-0 S04E03 - Ka 'oia'i'o Ma Loko
+tvdb_episode:164541_4_4  # Hawaii Five-0 S04E04 - A Ia La Aku
+tvdb_episode:164541_4_5  # Hawaii Five-0 S04E05 - Kupu'eu
+tvdb_episode:164541_4_6  # Hawaii Five-0 S04E06 - Kupouli 'la
+tvdb_episode:164541_4_7  # Hawaii Five-0 S04E07 - Ua Nalohia
+tvdb_episode:164541_4_8  # Hawaii Five-0 S04E08 - Akanahe
+tvdb_episode:164541_4_9  # Hawaii Five-0 S04E09 - Hau'oli La Ho'omaika'i
+tvdb_episode:164541_4_10  # Hawaii Five-0 S04E10 - Ho' Onani Makuakane
+tvdb_episode:164541_4_11  # Hawaii Five-0 S04E11 - Pukana
+tvdb_episode:164541_4_12  # Hawaii Five-0 S04E12 - O Kēlā Me Kēia Manawa
+tvdb_episode:164541_4_13  # Hawaii Five-0 S04E13 - Hana Lokomaika'i
+tvdb_episode:164541_4_14  # Hawaii Five-0 S04E14 - Na Hala A Ka Makua
+tvdb_episode:164541_4_15  # Hawaii Five-0 S04E15 - Pale 'la
+tvdb_episode:164541_4_16  # Hawaii Five-0 S04E16 - Hoku Welowelo
+tvdb_episode:164541_4_17  # Hawaii Five-0 S04E17 - Ma Lalo O Ka 'ili
+tvdb_episode:164541_4_18  # Hawaii Five-0 S04E18 - Ho'i Hou
+tvdb_episode:164541_4_19  # Hawaii Five-0 S04E19 - Ku I Ka Pili Koko
+tvdb_episode:164541_4_20  # Hawaii Five-0 S04E20 - Pe'epe'e Kanaka
+tvdb_episode:164541_4_21  # Hawaii Five-0 S04E21 - Makani 'olu A Holo Mālie
+tvdb_episode:164541_4_22  # Hawaii Five-0 S04E22 - 'o Ka Pili 'ohana Ka 'oi
+tvdb_episode:164541_5_1  # Hawaii Five-0 S05E01 - A'ohe Kahi E Pe'e Ai
+tvdb_episode:164541_5_2  # Hawaii Five-0 S05E02 - Ka Makuakane
+tvdb_episode:164541_5_3  # Hawaii Five-0 S05E03 - Kanalu Hope Loa
+tvdb_episode:164541_5_4  # Hawaii Five-0 S05E04 - Ka No'eau
+tvdb_episode:164541_5_5  # Hawaii Five-0 S05E05 - Ho'oilina
+tvdb_episode:164541_5_6  # Hawaii Five-0 S05E06 - Ho'oma'ike
+tvdb_episode:164541_5_7  # Hawaii Five-0 S05E07 - Ina Paha
+tvdb_episode:164541_5_8  # Hawaii Five-0 S05E08 - Ka Hana Malu
+tvdb_episode:164541_5_9  # Hawaii Five-0 S05E09 - Ke Koho Mamao Aku
+tvdb_episode:164541_5_10  # Hawaii Five-0 S05E10 - Wawahi Moe'uhane
+tvdb_episode:164541_5_11  # Hawaii Five-0 S05E11 - Ua'aihue
+tvdb_episode:164541_5_12  # Hawaii Five-0 S05E12 - Poina 'ole
+tvdb_episode:164541_5_13  # Hawaii Five-0 S05E13 - La Po'ino
+tvdb_episode:164541_5_14  # Hawaii Five-0 S05E14 - Powehiwehi
+tvdb_episode:164541_5_15  # Hawaii Five-0 S05E15 - E 'imi Pono
+tvdb_episode:164541_5_16  # Hawaii Five-0 S05E16 - Nanahu
+tvdb_episode:164541_5_17  # Hawaii Five-0 S05E17 - Kuka'awale
+tvdb_episode:164541_5_18  # Hawaii Five-0 S05E18 - Pono Kaulike
+tvdb_episode:164541_5_19  # Hawaii Five-0 S05E19 - Kahania
+tvdb_episode:164541_5_20  # Hawaii Five-0 S05E20 - 'ike Hanau
+tvdb_episode:164541_5_21  # Hawaii Five-0 S05E21 - Ua Helele'i Ka Hoku
+tvdb_episode:164541_5_22  # Hawaii Five-0 S05E22 - Ho'amoano
+tvdb_episode:164541_5_23  # Hawaii Five-0 S05E23 - Mo'o 'olelo Pu
+tvdb_episode:164541_5_24  # Hawaii Five-0 S05E24 - Luapo'i
+tvdb_episode:164541_5_25  # Hawaii Five-0 S05E25 - A Make Kaua
+tvdb_episode:164541_6_1  # Hawaii Five-0 S06E01 - Mai Ho`oni I Ka Wai Lana Mâlie
+tvdb_episode:164541_6_2  # Hawaii Five-0 S06E02 - Lehu A Lehu
+tvdb_episode:164541_6_3  # Hawaii Five-0 S06E03 - Ua 'o'oloku Ke Anu I Na Mauna
+tvdb_episode:164541_6_4  # Hawaii Five-0 S06E04 - Ka Papahana Holo Pono
+tvdb_episode:164541_6_5  # Hawaii Five-0 S06E05 - Ka 'alapahi Nui
+tvdb_episode:164541_6_6  # Hawaii Five-0 S06E06 - Na Pilikua Nui
+tvdb_episode:164541_6_7  # Hawaii Five-0 S06E07 - Na Kama Hele
+tvdb_episode:164541_6_8  # Hawaii Five-0 S06E08 - Piko Pau 'iole
+tvdb_episode:164541_6_9  # Hawaii Five-0 S06E09 - Hana Keaka
+tvdb_episode:164541_6_10  # Hawaii Five-0 S06E10 - Ka Makau Kaa Kaua
+tvdb_episode:164541_6_11  # Hawaii Five-0 S06E11 - Kuleana
+tvdb_episode:164541_6_12  # Hawaii Five-0 S06E12 - Ua Ola Loko I Ke Aloha
+tvdb_episode:164541_6_13  # Hawaii Five-0 S06E13 - Umia Ka Hanu
+tvdb_episode:164541_6_14  # Hawaii Five-0 S06E14 - Hoa 'inea
+tvdb_episode:164541_6_15  # Hawaii Five-0 S06E15 - Ke Koa Lokomaika'i
+tvdb_episode:164541_6_16  # Hawaii Five-0 S06E16 - Ka Pohaku Kihi Pa'a
+tvdb_episode:164541_6_17  # Hawaii Five-0 S06E17 - Waiwai
+tvdb_episode:164541_6_18  # Hawaii Five-0 S06E18 - Kanaka Hahai
+tvdb_episode:164541_6_19  # Hawaii Five-0 S06E19 - Malama Ka Po'e
+tvdb_episode:164541_6_20  # Hawaii Five-0 S06E20 - Ka Haunaele
+tvdb_episode:164541_6_21  # Hawaii Five-0 S06E21 - Ka Pono Ku'oko'a
+tvdb_episode:164541_6_22  # Hawaii Five-0 S06E22 - I'ike Ke Ao
+tvdb_episode:164541_6_23  # Hawaii Five-0 S06E23 - Pilina Koko
+tvdb_episode:164541_6_24  # Hawaii Five-0 S06E24 - Pa'a Ka 'ipuka I Ka 'upena Nananana
+tvdb_episode:164541_6_25  # Hawaii Five-0 S06E25 - O Ke Ali'i Wale No Ka'u Makemake
+tvdb_episode:311902_1_1  # MacGyver S01E01 - The Rising
+tvdb_episode:164541_7_1  # Hawaii Five-0 S07E01 - Makaukau 'oe E Pa'ani?
+tvdb_episode:311902_1_2  # MacGyver S01E02 - Metal Saw
+tvdb_episode:164541_7_2  # Hawaii Five-0 S07E02 - No Ke Ali'i Wahine A Me Ka 'aina
+tvdb_episode:311902_1_3  # MacGyver S01E03 - Awl
+tvdb_episode:164541_7_3  # Hawaii Five-0 S07E03 - He Moho Hou
+tvdb_episode:311902_1_4  # MacGyver S01E04 - Wire Cutter
+tvdb_episode:164541_7_4  # Hawaii Five-0 S07E04 - Hu A'e Ke Ahi Lanakila A Kamaile
+tvdb_episode:311902_1_5  # MacGyver S01E05 - Toothpick
+tvdb_episode:164541_7_5  # Hawaii Five-0 S07E05 - Ke Kū 'Ana
+tvdb_episode:311902_1_6  # MacGyver S01E06 - Wrench
+tvdb_episode:164541_7_6  # Hawaii Five-0 S07E06 - Ka Hale Ho'okauweli
+tvdb_episode:311902_1_7  # MacGyver S01E07 - Can Opener
+tvdb_episode:164541_7_7  # Hawaii Five-0 S07E07 - Ka Makuahine A Me Ke Keikikane
+tvdb_episode:311902_1_8  # MacGyver S01E08 - Corkscrew
+tvdb_episode:164541_7_8  # Hawaii Five-0 S07E08 - Hana Komo Pae
+tvdb_episode:311902_1_9  # MacGyver S01E09 - Chisel
+tvdb_episode:164541_7_9  # Hawaii Five-0 S07E09 - 'elua La Ma Nowemapa
+tvdb_episode:311902_1_10  # MacGyver S01E10 - Pliers
+tvdb_episode:164541_7_10  # Hawaii Five-0 S07E10 - Ka Luhi
+tvdb_episode:311902_1_11  # MacGyver S01E11 - Scissors
+tvdb_episode:164541_7_11  # Hawaii Five-0 S07E11 - Ka'ili Aku
+tvdb_episode:311902_1_12  # MacGyver S01E12 - Screwdriver
+tvdb_episode:164541_7_12  # Hawaii Five-0 S07E12 - Ka 'aelike
+tvdb_episode:311902_1_13  # MacGyver S01E13 - Large Blade
+tvdb_episode:164541_7_13  # Hawaii Five-0 S07E13 - Ua Ho'i Ka 'opua I Awalua
+tvdb_episode:164541_7_14  # Hawaii Five-0 S07E14 - Ka Laina Ma Ke One
+tvdb_episode:311902_1_14  # MacGyver S01E14 - Fish Scaler
+tvdb_episode:164541_7_15  # Hawaii Five-0 S07E15 - Ka Pa'ani Nui
+tvdb_episode:311902_1_15  # MacGyver S01E15 - Magnifying Glass
+tvdb_episode:164541_7_16  # Hawaii Five-0 S07E16 - Poniu I Ke Aloha
+tvdb_episode:311902_1_16  # MacGyver S01E16 - Hook
+tvdb_episode:164541_7_17  # Hawaii Five-0 S07E17 - Hahai I Na Pilikua Nui
+tvdb_episode:311902_1_17  # MacGyver S01E17 - Ruler
+tvdb_episode:164541_7_18  # Hawaii Five-0 S07E18 - E Malama Pono
+tvdb_episode:311902_1_18  # MacGyver S01E18 - Flashlight
+tvdb_episode:164541_7_19  # Hawaii Five-0 S07E19 - Puka 'ana
+tvdb_episode:311902_1_19  # MacGyver S01E19 - Compass
+tvdb_episode:164541_7_20  # Hawaii Five-0 S07E20 - Huikau Na Makau A Na Lawai'a
+tvdb_episode:311902_1_20  # MacGyver S01E20 - Hole Puncher
+tvdb_episode:164541_7_21  # Hawaii Five-0 S07E21 - Ua Malo'o Ka Wai
+tvdb_episode:311902_1_21  # MacGyver S01E21 - Cigar Cutter
+tvdb_episode:164541_7_22  # Hawaii Five-0 S07E22 - Waimaka 'ele'ele
+tvdb_episode:164541_7_23  # Hawaii Five-0 S07E23 - Wehe 'ana
+tvdb_episode:164541_7_24  # Hawaii Five-0 S07E24 - He Ke'u Na Ka 'alae A Hina
+tvdb_episode:164541_7_25  # Hawaii Five-0 S07E25 - Ua Mau Ke Ea O Ka Aina I Ka Pono
+tvdb_episode:311902_2_1  # MacGyver S02E01 - DIY or DIE
+tvdb_episode:164541_8_1  # Hawaii Five-0 S08E01 - 'a'ole E 'olelo Mai Ana Ke Ahi Ua Ana Ia
+tvdb_episode:311902_2_2  # MacGyver S02E02 - Muscle Car + Paper Clips
+tvdb_episode:164541_8_2  # Hawaii Five-0 S08E02 - Na La 'ilio
+tvdb_episode:311902_2_3  # MacGyver S02E03 - Roulette Wheel + Wire
+tvdb_episode:164541_8_3  # Hawaii Five-0 S08E03 - Kau Pahi, Ko'u Kua, Kau Pu, Ko'u Po'o
+tvdb_episode:311902_2_4  # MacGyver S02E04 - X-Ray + Penny
+tvdb_episode:164541_8_4  # Hawaii Five-0 S08E04 - E Uhi Wale No 'a'ole E Nalo, He Imu Puhi
+tvdb_episode:311902_2_5  # MacGyver S02E05 - Skull + Electromagnet
+tvdb_episode:311902_2_6  # MacGyver S02E06 - Jet Engine + Pickup Truck
+tvdb_episode:164541_8_5  # Hawaii Five-0 S08E05 - Kama'oma'o, Ka 'aina Huli Hana
+tvdb_episode:311902_2_7  # MacGyver S02E07 - Duct Tape + Jack
+tvdb_episode:164541_8_6  # Hawaii Five-0 S08E06 - Mohala I Ka Wai Ka Maka O Ka Pua
+tvdb_episode:311902_2_8  # MacGyver S02E08 - Packing Peanuts + Fire
+tvdb_episode:164541_8_7  # Hawaii Five-0 S08E07 - Kau Ka 'onohi Ali'i I Luna
+tvdb_episode:311902_2_9  # MacGyver S02E09 - CD-ROM + Hoagie Foil
+tvdb_episode:164541_8_8  # Hawaii Five-0 S08E08 - He Kaha Lu'u Ke Ala, Mai Ho'okolo Aku
+tvdb_episode:311902_2_10  # MacGyver S02E10 - War Room + Ship
+tvdb_episode:164541_8_9  # Hawaii Five-0 S08E09 - Make Me Kai
+tvdb_episode:311902_2_11  # MacGyver S02E11 - Bullet + Pen
+tvdb_episode:164541_8_10  # Hawaii Five-0 S08E10 - I Ka Wa Ma Mua, I Ka Wa Ma Hope
+tvdb_episode:164541_8_11  # Hawaii Five-0 S08E11 - Oni Kalalea Ke Ku A Ka La'au Loa
+tvdb_episode:311902_2_12  # MacGyver S02E12 - Mac + Jack
+tvdb_episode:164541_8_12  # Hawaii Five-0 S08E12 - Ka Hopu Nui 'ana
+tvdb_episode:311902_2_13  # MacGyver S02E13 - CO2 Sensor + Tree Branch
+tvdb_episode:164541_8_13  # Hawaii Five-0 S08E13 - O Ka Mea Ua Hala, Ua Hala Ia.
+tvdb_episode:311902_2_14  # MacGyver S02E14 - Mardi Gras Beads + Chair
+tvdb_episode:164541_8_14  # Hawaii Five-0 S08E14 - Na Keiki A Kalaihaohia
+tvdb_episode:311902_2_15  # MacGyver S02E15 - Murdoc + Handcuffs
+tvdb_episode:164541_8_15  # Hawaii Five-0 S08E15 - He Puko'a Kani 'aina
+tvdb_episode:311902_2_16  # MacGyver S02E16 - Hammock + Balcony
+tvdb_episode:164541_8_16  # Hawaii Five-0 S08E16 - O Na Hoku O Ka Lani Ka I 'ike Ia Pae'
+tvdb_episode:311902_2_17  # MacGyver S02E17 - Bear Trap + Mob Boss
+tvdb_episode:164541_8_17  # Hawaii Five-0 S08E17 - Holapu Ke Ahi, Koe Iho Ka Lehu
+tvdb_episode:311902_2_18  # MacGyver S02E18 - Riley + Airplane
+tvdb_episode:164541_8_18  # Hawaii Five-0 S08E18 - E Ho'oko Kuleana
+tvdb_episode:311902_2_19  # MacGyver S02E19 - Benjamin Franklin + Grey Duffle
+tvdb_episode:164541_8_19  # Hawaii Five-0 S08E19 - Aohe Mea Make I Ka Hewa; Make No I Ka Mihi Ole
+tvdb_episode:311902_2_20  # MacGyver S02E20 - Skyscraper - Power
+tvdb_episode:164541_8_20  # Hawaii Five-0 S08E20 - He Lokomaika'i Ka Manu O Kaiona
+tvdb_episode:311902_2_21  # MacGyver S02E21 - Wind + Water
+tvdb_episode:164541_8_21  # Hawaii Five-0 S08E21 - Ahuwale Ka Nane Huna
+tvdb_episode:311902_2_22  # MacGyver S02E22 - UFO + Area 51
+tvdb_episode:164541_8_22  # Hawaii Five-0 S08E22 - Kopi Wale No I Ka I'a A 'eu No Ka Ilo.
+tvdb_episode:311902_2_23  # MacGyver S02E23 - MacGyver + MacGyver
+tvdb_episode:164541_8_23  # Hawaii Five-0 S08E23 - Ka Hana A Ka Makua, O Ka Hana No Ia A Keiki
+tvdb_episode:164541_8_24  # Hawaii Five-0 S08E24 - Ka Lala Kaukonakona Haki 'ole I Ka Pa A Ka Makani Kona.
+tvdb_episode:164541_8_25  # Hawaii Five-0 S08E25 - Waiho Wale Kahiko
+tvdb_episode:350068_1_1  # Magnum P.I. S01E01 - I Saw the Sun Rise
+tvdb_episode:311902_3_1  # MacGyver S03E01 - Improvise
+tvdb_episode:164541_9_1  # Hawaii Five-0 S09E01 - Ka 'owili'oka'i
+tvdb_episode:350068_1_2  # Magnum P.I. S01E02 - From the Head Down
+tvdb_episode:311902_3_2  # MacGyver S03E02 - Bravo Lead + Loyalty + Friendship
+tvdb_episode:164541_9_2  # Hawaii Five-0 S09E02 - Ke Kanaka I Ha'ule Mai Ka Lewa Mai
+tvdb_episode:350068_1_3  # Magnum P.I. S01E03 - The Woman Who Never Died
+tvdb_episode:311902_3_3  # MacGyver S03E03 - Bozer + Booze + Back to School
+tvdb_episode:164541_9_3  # Hawaii Five-0 S09E03 - Mimiki Ke Kai, Ahuwale Ka Papa Leho
+tvdb_episode:350068_1_4  # Magnum P.I. S01E04 - Six Paintings, One Frame
+tvdb_episode:311902_3_4  # MacGyver S03E04 - Guts + Fuel + Hope
+tvdb_episode:164541_9_4  # Hawaii Five-0 S09E04 - A'ohe Kio Pohaku Nalo I Ke Alo Pali
+tvdb_episode:350068_1_5  # Magnum P.I. S01E05 - Sudden Death
+tvdb_episode:311902_3_5  # MacGyver S03E05 - Dia de Muertos + Sicarios + Family
+tvdb_episode:164541_9_5  # Hawaii Five-0 S09E05 - A'ohe Mea 'imi A Ka Maka
+tvdb_episode:350068_1_6  # Magnum P.I. S01E06 - Death Is Only Temporary
+tvdb_episode:311902_3_6  # MacGyver S03E06 - Murdoc + MacGyver + Murdoc
+tvdb_episode:164541_9_6  # Hawaii Five-0 S09E06 - Aia I Hi'ikua; I Hi'ialo
+tvdb_episode:350068_1_7  # Magnum P.I. S01E07 - The Cat Who Cried Wolf
+tvdb_episode:311902_3_7  # MacGyver S03E07 - Scavengers + Hard Drive + Dragonfly
+tvdb_episode:164541_9_7  # Hawaii Five-0 S09E07 - Pua A'e La Ka Uwahi O Ka Moe
+tvdb_episode:350068_1_8  # Magnum P.I. S01E08 - Die He Said
+tvdb_episode:311902_3_8  # MacGyver S03E08 - Revenge + Catacombs + Le Fantome
+tvdb_episode:164541_9_8  # Hawaii Five-0 S09E08 - Lele Pu Na Manu Like
+tvdb_episode:350068_1_9  # Magnum P.I. S01E09 - The Ties That Bind
+tvdb_episode:311902_3_9  # MacGyver S03E09 - Specimen 234 + PAPR + Outbreak
+tvdb_episode:164541_9_9  # Hawaii Five-0 S09E09 - Mai Ka Po Mai Ka 'oia'i'o
+tvdb_episode:311902_3_10  # MacGyver S03E10 - Matty + Ethan + Fidelity
+tvdb_episode:164541_9_10  # Hawaii Five-0 S09E10 - Pio Ke Kukui, Po'ele Ka Hale
+tvdb_episode:350068_1_10  # Magnum P.I. S01E10 - Bad Day to Be a Hero
+tvdb_episode:311902_3_11  # MacGyver S03E11 - Mac + Fallout + Jack
+tvdb_episode:164541_9_11  # Hawaii Five-0 S09E11 - Hala I Ke Ala O'i'ole Mai
+tvdb_episode:311902_3_12  # MacGyver S03E12 - Fence + Suitcase + Americium-241
+tvdb_episode:164541_9_12  # Hawaii Five-0 S09E12 - Ka Hauli O Ka Mea Hewa 'ole, He Nalowale Koke
+tvdb_episode:350068_1_11  # Magnum P.I. S01E11 - Nowhere to Hide
+tvdb_episode:311902_3_13  # MacGyver S03E13 - Wilderness + Training + Survival
+tvdb_episode:164541_9_13  # Hawaii Five-0 S09E13 - Ke Iho Mai Nei Ko Luna
+tvdb_episode:350068_1_12  # Magnum P.I. S01E12 - Winner Takes All
+tvdb_episode:350068_1_13  # Magnum P.I. S01E13 - Day of the Viper
+tvdb_episode:350068_1_14  # Magnum P.I. S01E14 - I, The Deceased
+tvdb_episode:311902_3_14  # MacGyver S03E14 - Father + Bride + Betrayal
+tvdb_episode:164541_9_14  # Hawaii Five-0 S09E14 - Ikiiki I Ka La O Keawalua
+tvdb_episode:311902_3_15  # MacGyver S03E15 - K9 + Smugglers + New Recruit
+tvdb_episode:164541_9_15  # Hawaii Five-0 S09E15 - Ho'opio 'ia E Ka Noho Ali'i A Ka Ua
+tvdb_episode:350068_1_15  # Magnum P.I. S01E15 - Day the Past Came Back
+tvdb_episode:311902_3_16  # MacGyver S03E16 - Lidar + Rogues + Duty
+tvdb_episode:164541_9_16  # Hawaii Five-0 S09E16 - Hapai Ke Kuko, Hanau Ka Hewa
+tvdb_episode:164541_9_17  # Hawaii Five-0 S09E17 - E'ao Lu'au A Kualima
+tvdb_episode:350068_1_16  # Magnum P.I. S01E16 - Murder Is Never Quiet
+tvdb_episode:350068_1_17  # Magnum P.I. S01E17 - Black Is the Widow
+tvdb_episode:164541_9_18  # Hawaii Five-0 S09E18 - Ai No I Ka 'ape He Mane'o No Ko Ka Nuku.
+tvdb_episode:350068_1_18  # Magnum P.I. S01E18 - A Kiss Before Dying
+tvdb_episode:311902_3_17  # MacGyver S03E17 - Seeds + Permafrost + Feather
+tvdb_episode:164541_9_19  # Hawaii Five-0 S09E19 - Pupuhi Ka He'e O Kai Uli
+tvdb_episode:350068_1_19  # Magnum P.I. S01E19 - Blood in the Water
+tvdb_episode:350068_1_20  # Magnum P.I. S01E20 - The Day It All Came Together
+tvdb_episode:311902_3_18  # MacGyver S03E18 - Murdoc + Helman + Hit
+tvdb_episode:164541_9_20  # Hawaii Five-0 S09E20 - Ke Ala O Ka Pū
+tvdb_episode:311902_3_19  # MacGyver S03E19 - Friends + Enemies + Border
+tvdb_episode:164541_9_21  # Hawaii Five-0 S09E21 - He Kama Na Ka Pueo
+tvdb_episode:311902_3_20  # MacGyver S03E20 - No-Go + High-Voltage + Rescue
+tvdb_episode:164541_9_22  # Hawaii Five-0 S09E22 - O Ke Kumu, O Ka Mana, Ho'opuka 'ia
+tvdb_episode:311902_3_21  # MacGyver S03E21 - Treason + Heartbreak + Gum
+tvdb_episode:164541_9_23  # Hawaii Five-0 S09E23 - Ho'okahi No La O Ka Malihini
+tvdb_episode:311902_3_22  # MacGyver S03E22 - Mason + Cable + Choices
+tvdb_episode:164541_9_24  # Hawaii Five-0 S09E24 - Hewa Ka Lima
+tvdb_episode:164541_9_25  # Hawaii Five-0 S09E25 - Hana Mao 'ole Ka Ua O Waianae
+tvdb_episode:164541_10_1  # Hawaii Five-0 S10E01 - Ua ʻeha Ka ʻili I Ka Maka O Ka Ihe
+tvdb_episode:350068_2_1  # Magnum P.I. S02E01 - Payback Is for Beginners
+tvdb_episode:164541_10_2  # Hawaii Five-0 S10E02 - Kuipeia E Ka Makani Apaa
+tvdb_episode:350068_2_2  # Magnum P.I. S02E02 - Honor Among Thieves
+tvdb_episode:164541_10_3  # Hawaii Five-0 S10E03 - E Uhi Ana Ka Wa I Hala I Na Mea I Hala
+tvdb_episode:350068_2_3  # Magnum P.I. S02E03 - Knight Lasts Forever
+tvdb_episode:164541_10_4  # Hawaii Five-0 S10E04 - Ukuli'i Ka Pua, Onaona I Ka Mau'u
+tvdb_episode:350068_2_4  # Magnum P.I. S02E04 - Dead Inside
+tvdb_episode:164541_10_5  # Hawaii Five-0 S10E05 - He ‘oi‘o Kuhihewa; He Kaka Ola I ‘ike ‘ia E Ka Makaula
+tvdb_episode:350068_2_5  # Magnum P.I. S02E05 - Make It 'Til Dawn
+tvdb_episode:164541_10_6  # Hawaii Five-0 S10E06 - A‘ohe Pau Ka ‘ike I Ka Halau Ho‘okahi
+tvdb_episode:350068_2_6  # Magnum P.I. S02E06 - Lie, Cheat, Steal, Kill
+tvdb_episode:164541_10_7  # Hawaii Five-0 S10E07 - Ka 'i'o
+tvdb_episode:350068_2_7  # Magnum P.I. S02E07 - The Man in the Secret Room
+tvdb_episode:164541_10_8  # Hawaii Five-0 S10E08 - Ne'e aku, ne'e mai ke one o Punahoa
+tvdb_episode:350068_2_8  # Magnum P.I. S02E08 - He Came by Night
+tvdb_episode:164541_10_9  # Hawaii Five-0 S10E09 - Ka La‘au Kumu ‘ole O Kahilikolo
+tvdb_episode:350068_2_9  # Magnum P.I. S02E09 - A Bullet Named Fate
+tvdb_episode:164541_10_10  # Hawaii Five-0 S10E10 - O 'oe, a 'owau, nalo ia mea
+tvdb_episode:350068_2_10  # Magnum P.I. S02E10 - Blood Brothers
+tvdb_episode:164541_10_11  # Hawaii Five-0 S10E11 - Kā i ka ‘ino, no ka ‘ino
+tvdb_episode:350068_2_11  # Magnum P.I. S02E11 - Day I Met the Devil
+tvdb_episode:164541_10_12  # Hawaii Five-0 S10E12 - Ihea ‘oe i ka wa a ka ua e loku ana?
+tvdb_episode:350068_2_12  # Magnum P.I. S02E12 - Desperate Measures
+tvdb_episode:164541_10_13  # Hawaii Five-0 S10E13 - Loa‘a pono ka ‘iole i ka pūnana
+tvdb_episode:350068_2_13  # Magnum P.I. S02E13 - Mondays are for Murder
+tvdb_episode:164541_10_14  # Hawaii Five-0 S10E14 - I ho‘olulu, ho‘ohulei ‘ia e ka makani
+tvdb_episode:350068_2_14  # Magnum P.I. S02E14 - A Game of Cat and Mouse
+tvdb_episode:311902_4_1  # MacGyver S04E01 - Fire + Ashes + Legacy = Phoenix
+tvdb_episode:164541_10_15  # Hawaii Five-0 S10E15 - He waha kou o ka he'e
+tvdb_episode:311902_4_2  # MacGyver S04E02 - Red Cell + Quantum + Cold + Committed
+tvdb_episode:164541_10_16  # Hawaii Five-0 S10E16 - He kauwa ke kanaka na ke aloha
+tvdb_episode:311902_4_3  # MacGyver S04E03 - Kid + Plane + Cable + Truck
+tvdb_episode:164541_10_17  # Hawaii Five-0 S10E17 - He kohu puahiohio i ka ho‘olele i ka lepo i luna
+tvdb_episode:311902_4_4  # MacGyver S04E04 - Windmill + Acetone + Celluloid + Firing Pin
+tvdb_episode:164541_10_18  # Hawaii Five-0 S10E18 - Nalowale i ke ‘ehu o he kai
+tvdb_episode:311902_4_5  # MacGyver S04E05 - Soccer + Desi + Merchant + Titan
+tvdb_episode:164541_10_19  # Hawaii Five-0 S10E19 - E ho'i na keiki oki uaua o na pali
+tvdb_episode:311902_4_6  # MacGyver S04E06 - Right + Wrong + Both + Neither
+tvdb_episode:164541_10_20  # Hawaii Five-0 S10E20 - He puhe'e miki
+tvdb_episode:311902_4_7  # MacGyver S04E07 - Mac + Desi + Riley + Aubrey
+tvdb_episode:164541_10_21  # Hawaii Five-0 S10E21 - A 'ohe ia e loa'a aku, he ulua kapapa no ka moana
+tvdb_episode:311902_4_8  # MacGyver S04E08 - Father + Son + Father + Matriarch
+tvdb_episode:164541_10_22  # Hawaii Five-0 S10E22 - Aloha
+tvdb_episode:311902_4_9  # MacGyver S04E09 - Code + Artemis + Nuclear + N3mesis
+tvdb_episode:350068_2_15  # Magnum P.I. S02E15 - Say Hello to Your Past
+tvdb_episode:311902_4_10  # MacGyver S04E10 - Tesla + Bell + Edison + Mac
+tvdb_episode:350068_2_16  # Magnum P.I. S02E16 - Farewell to Love
+tvdb_episode:311902_4_11  # MacGyver S04E11 - Psy-Op + Cell + Merchant + Birds
+tvdb_episode:350068_2_17  # Magnum P.I. S02E17 - The Night Has Eyes
+tvdb_episode:311902_4_12  # MacGyver S04E12 - Loyalty + Family + Rogue + Hellfire
+tvdb_episode:350068_2_18  # Magnum P.I. S02E18 - A World of Trouble
+tvdb_episode:311902_4_13  # MacGyver S04E13 - Save + The + Dam + World
+tvdb_episode:350068_2_19  # Magnum P.I. S02E19 - May the Best One Win
+tvdb_episode:350068_2_20  # Magnum P.I. S02E20 - A Leopard on the Prowl
+tvdb_episode:311902_5_1  # MacGyver S05E01 - Resort + Desi + Riley + Window Cleaner + Witness
+tvdb_episode:350068_3_1  # Magnum P.I. S03E01 - Double Jeopardy
+tvdb_episode:311902_5_2  # MacGyver S05E02 - Thief + Painting + Auction + Viro-486 + Justice
+tvdb_episode:350068_3_2  # Magnum P.I. S03E02 - Easy Money
+tvdb_episode:311902_5_3  # MacGyver S05E03 - Eclipse + Usmc-1856707 + Step Potential + Chain Lock + Ma
+tvdb_episode:350068_3_3  # Magnum P.I. S03E03 - No Way Out
+tvdb_episode:311902_5_4  # MacGyver S05E04 - Banh Bao + Sterno + Drill + Burner + Mason
+tvdb_episode:350068_3_4  # Magnum P.I. S03E04 - First the Beatdown, Then the Blowback
+tvdb_episode:311902_5_5  # MacGyver S05E05 - Jack + Kinematics + Safe Cracker + MgKNO3 + GTO
+tvdb_episode:350068_3_5  # Magnum P.I. S03E05 - The Day Danger Walked In
+tvdb_episode:311902_5_6  # MacGyver S05E06 - Quarantine + N95 + Landline + Telescope + Social Distance
+tvdb_episode:350068_3_6  # Magnum P.I. S03E06 - Tell No One
+tvdb_episode:311902_5_7  # MacGyver S05E07 - Golden Lancehead + Venom + Pole Vault + Blood + Baggage
+tvdb_episode:350068_3_7  # Magnum P.I. S03E07 - Killer on the Midnight Watch
+tvdb_episode:311902_5_8  # MacGyver S05E08 - SOS + Hazmat + Ultrasound + Frequency + Malihini
+tvdb_episode:350068_3_8  # Magnum P.I. S03E08 - Someone to Watch Over Me
+tvdb_episode:311902_5_9  # MacGyver S05E09 - Rails + Pitons + Pulley + Pipe + Salt
+tvdb_episode:350068_3_9  # Magnum P.I. S03E09 - The Big Payback
+tvdb_episode:311902_5_10  # MacGyver S05E10 - Diamond + Quake + Carbon + Comms + Tower
+tvdb_episode:350068_3_10  # Magnum P.I. S03E10 - The Long Way Home
+tvdb_episode:311902_5_11  # MacGyver S05E11 - C8H7CIO + Nano-Trackers + Resistance + Maldives + Mind Games
+tvdb_episode:350068_3_11  # Magnum P.I. S03E11 - The Lies We Tell
+tvdb_episode:311902_5_12  # MacGyver S05E12 - Royalty + Marriage + Vivaah Sanskar + Zinc + Henna
+tvdb_episode:350068_3_12  # Magnum P.I. S03E12 - Dark Harvest
+tvdb_episode:311902_5_13  # MacGyver S05E13 - Barn Find + Engine Oil + La Punzonatura + Lab Rats + Tachometer
+tvdb_episode:350068_3_13  # Magnum P.I. S03E13 - Cry Murder
+tvdb_episode:311902_5_14  # MacGyver S05E14 - H2O + Orthophosphates + Mission City + Corrosion + Origins
+tvdb_episode:350068_3_14  # Magnum P.I. S03E14 - Whispers of Death
+tvdb_episode:311902_5_15  # MacGyver S05E15 - Abduction + Memory + Time + Fireworks + Dispersal
+tvdb_episode:350068_3_15  # Magnum P.I. S03E15 - Before the Fall
+tvdb_episode:350068_3_16  # Magnum P.I. S03E16 - Bloodline
+tvdb_episode:350068_4_1  # Magnum P.I. S04E01 - Island Vibes
+tvdb_episode:350068_4_2  # Magnum P.I. S04E02 - The Harder They Fall
+tvdb_episode:350068_4_3  # Magnum P.I. S04E03 - Texas Wedge
+tvdb_episode:350068_4_4  # Magnum P.I. S04E04 - Those We Leave Behind
+tvdb_episode:350068_4_5  # Magnum P.I. S04E05 - Til Death
+tvdb_episode:350068_4_6  # Magnum P.I. S04E06 - Devil on the Doorstep
+tvdb_episode:350068_4_7  # Magnum P.I. S04E07 - A New Lease on Death
+tvdb_episode:350068_4_8  # Magnum P.I. S04E08 - A Fire in the Ashes
+tvdb_episode:350068_4_9  # Magnum P.I. S04E09 - Better Watch Out
+tvdb_episode:350068_4_10  # Magnum P.I. S04E10 - Dream Lover
+tvdb_episode:350068_4_11  # Magnum P.I. S04E11 - If I Should Die Before I Wake
+tvdb_episode:350068_4_12  # Magnum P.I. S04E12 - Angels Sometimes Kill
+tvdb_episode:350068_4_13  # Magnum P.I. S04E13 - Judge Me Not
+tvdb_episode:350068_4_14  # Magnum P.I. S04E14 - Run, Baby, Run
+tvdb_episode:350068_4_15  # Magnum P.I. S04E15 - Dead Man Walking
+tvdb_episode:350068_4_16  # Magnum P.I. S04E16 - Evil Walks Softly
+tvdb_episode:350068_4_17  # Magnum P.I. S04E17 - Remember Me Tomorrow
+tvdb_episode:350068_4_18  # Magnum P.I. S04E18 - Shallow Grave, Deep Water
+tvdb_episode:350068_4_19  # Magnum P.I. S04E19 - The Long Sleep
+tvdb_episode:350068_4_20  # Magnum P.I. S04E20 - Close to Home
+tvdb_episode:350068_5_1  # Magnum P.I. S05E01 - The Passenger
+tvdb_episode:350068_5_2  # Magnum P.I. S05E02 - The Breaking Point
+tvdb_episode:350068_5_3  # Magnum P.I. S05E03 - Number One With a Bullet
+tvdb_episode:350068_5_4  # Magnum P.I. S05E04 - NSFW
+tvdb_episode:350068_5_5  # Magnum P.I. S05E05 - Welcome to Paradise, Now Die!
+tvdb_episode:350068_5_6  # Magnum P.I. S05E06 - Dead Ringer
+tvdb_episode:350068_5_7  # Magnum P.I. S05E07 - Birthright
+tvdb_episode:350068_5_8  # Magnum P.I. S05E08 - Dark Skies
+tvdb_episode:350068_5_9  # Magnum P.I. S05E09 - Out of Sight, Out of Mind
+tvdb_episode:350068_5_10  # Magnum P.I. S05E10 - Charlie Foxtrot
+tvdb_episode:350068_5_11  # Magnum P.I. S05E11 - Hit and Run
+tvdb_episode:350068_5_12  # Magnum P.I. S05E12 - Three Bridges
+tvdb_episode:350068_5_13  # Magnum P.I. S05E13 - Appetite for Danger
+tvdb_episode:350068_5_14  # Magnum P.I. S05E14 - Night Has a Thousand Eyes
+tvdb_episode:350068_5_15  # Magnum P.I. S05E15 - The Retrieval
+tvdb_episode:350068_5_16  # Magnum P.I. S05E16 - Run with the Devil
+tvdb_episode:350068_5_17  # Magnum P.I. S05E17 - Consciousness of Guilt
+tvdb_episode:350068_5_18  # Magnum P.I. S05E18 - Extracurricular Activities
+tvdb_episode:350068_5_19  # Magnum P.I. S05E19 - Ashes to Ashes
+tvdb_episode:350068_5_20  # Magnum P.I. S05E20 - The Big Squeeze
