@@ -1,5 +1,5 @@
 # Last updated: 2026-07-11
-# Scope: Arrow, The Flash, Supergirl, DC's Legends of Tomorrow, Constantine, Vixen, Freedom Fighters: The Ray, Black Lightning, Batwoman, Stargirl, and Superman & Lois.
+# Scope: Arrow, The Flash, Supergirl, DC's Legends of Tomorrow, Constantine, Vixen, Freedom Fighters: The Ray, Black Lightning, Batwoman, Stargirl, and Superman & Lois
 # Based on community list: https://arrowverse.info/
 tvdb_episode:257655_1_1  # Arrow S01E01 - Pilot
 tvdb_episode:257655_1_2  # Arrow S01E02 - Honor Thy Father

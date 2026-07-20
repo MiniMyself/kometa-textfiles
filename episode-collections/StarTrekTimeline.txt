@@ -1,7 +1,7 @@
 # Last updated: 2026-07-18
 # Scope: TOS, TAS, TNG, DS9, VOY, ENT, Discovery, Short Treks, Picard, Lower Decks, Prodigy, Strange New Worlds, Starfleet Academy and the TOS pilot 'The Cage' (S00E01); excludes remaining specials and all movies
 # Ordered by the in-universe viewing order at https://startrekviewingguide.com/lo-fi-print-ready-listing.html
-# SNW season 4 and Starfleet Academy excluded: both aired after the guide's 2026-02-03 revision.
+# SNW season 4 and Starfleet Academy excluded for now: both aired after the guide's 2026-02-03 revision.
 tvdb_episode:73893_1_1  # ENT S01E01 - Broken Bow
 tvdb_episode:73893_1_2  # ENT S01E02 - Broken Bow
 tvdb_episode:73893_1_3  # ENT S01E03 - Fight or Flight

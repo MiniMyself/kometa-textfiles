@@ -1,6 +1,6 @@
 # Last updated: 2026-07-19
 # Scope: Pretty Little Liars, Ravenswood, Pretty Little Liars: The Perfectionists and Pretty Little Liars: Original Sin; excludes the Pretty Dirty Secrets web series
-# Ordered by air date and time per TVmaze, with airtimes verified per episode
+# Ordered by air date and time per TVmaze
 tvdb_episode:146711_1_1  # Pretty Little Liars S01E01 - Pilot
 tvdb_episode:146711_1_2  # Pretty Little Liars S01E02 - The Jenna Thing
 tvdb_episode:146711_1_3  # Pretty Little Liars S01E03 - To Kill a Mocking Girl

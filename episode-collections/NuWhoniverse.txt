@@ -1,0 +1,306 @@
+# Last updated: 2026-07-20
+# Scope: Doctor Who (2005), Doctor Who (2023), Torchwood, The Sarah Jane Adventures and Class, all holiday/anniversary specials; excludes other specials, minisodes and prequels, the Classic Doctor Who (1963) and the 1996 TV Movie
+# Ordered by air date and time per TVmaze
+tvdb_episode:78804_1_1  # S01E01 - Rose
+tvdb_episode:78804_1_2  # S01E02 - The End of the World
+tvdb_episode:78804_1_3  # S01E03 - The Unquiet Dead
+tvdb_episode:78804_1_4  # S01E04 - Aliens of London
+tvdb_episode:78804_1_5  # S01E05 - World War Three
+tvdb_episode:78804_1_6  # S01E06 - Dalek
+tvdb_episode:78804_1_7  # S01E07 - The Long Game
+tvdb_episode:78804_1_8  # S01E08 - Father's Day
+tvdb_episode:78804_1_9  # S01E09 - The Empty Child
+tvdb_episode:78804_1_10  # S01E10 - The Doctor Dances
+tvdb_episode:78804_1_11  # S01E11 - Boom Town
+tvdb_episode:78804_1_12  # S01E12 - Bad Wolf
+tvdb_episode:78804_1_13  # S01E13 - The Parting of the Ways
+tvdb_episode:78804_0_2  # S00E02 - The Christmas Invasion
+tvdb_episode:78804_2_1  # S02E01 - New Earth
+tvdb_episode:78804_2_2  # S02E02 - Tooth and Claw
+tvdb_episode:78804_2_3  # S02E03 - School Reunion
+tvdb_episode:78804_2_4  # S02E04 - The Girl in the Fireplace
+tvdb_episode:78804_2_5  # S02E05 - Rise of the Cybermen
+tvdb_episode:78804_2_6  # S02E06 - The Age of Steel
+tvdb_episode:78804_2_7  # S02E07 - The Idiot's Lantern
+tvdb_episode:78804_2_8  # S02E08 - The Impossible Planet
+tvdb_episode:78804_2_9  # S02E09 - The Satan Pit
+tvdb_episode:78804_2_10  # S02E10 - Love & Monsters
+tvdb_episode:78804_2_11  # S02E11 - Fear Her
+tvdb_episode:78804_2_12  # S02E12 - Army of Ghosts
+tvdb_episode:78804_2_13  # S02E13 - Doomsday
+tvdb_episode:79511_1_1  # S01E01 - Everything Changes
+tvdb_episode:79511_1_2  # S01E02 - Day One
+tvdb_episode:79511_1_3  # S01E03 - Ghost Machine
+tvdb_episode:79511_1_4  # S01E04 - Cyberwoman
+tvdb_episode:79511_1_5  # S01E05 - Small Worlds
+tvdb_episode:79511_1_6  # S01E06 - Countrycide
+tvdb_episode:79511_1_7  # S01E07 - Greeks Bearing Gifts
+tvdb_episode:79511_1_8  # S01E08 - They Keep Killing Suzie
+tvdb_episode:79511_1_9  # S01E09 - Random Shoes
+tvdb_episode:79511_1_10  # S01E10 - Out of Time
+tvdb_episode:79511_1_11  # S01E11 - Combat
+tvdb_episode:78804_0_4  # S00E04 - The Runaway Bride
+tvdb_episode:79708_0_1  # S00E01 - Invasion of the Bane
+tvdb_episode:79511_1_12  # S01E12 - Captain Jack Harkness
+tvdb_episode:79511_1_13  # S01E13 - End of Days
+tvdb_episode:78804_3_1  # S03E01 - Smith and Jones
+tvdb_episode:78804_3_2  # S03E02 - The Shakespeare Code
+tvdb_episode:78804_3_3  # S03E03 - Gridlock
+tvdb_episode:78804_3_4  # S03E04 - Daleks in Manhattan
+tvdb_episode:78804_3_5  # S03E05 - Evolution of the Daleks
+tvdb_episode:78804_3_6  # S03E06 - The Lazarus Experiment
+tvdb_episode:78804_3_7  # S03E07 - 42
+tvdb_episode:78804_3_8  # S03E08 - Human Nature
+tvdb_episode:78804_3_9  # S03E09 - The Family of Blood
+tvdb_episode:78804_3_10  # S03E10 - Blink
+tvdb_episode:78804_3_11  # S03E11 - Utopia
+tvdb_episode:78804_3_12  # S03E12 - The Sound of Drums
+tvdb_episode:78804_3_13  # S03E13 - Last of the Time Lords
+tvdb_episode:79708_1_1  # S01E01 - REVENGE OF THE SLITHEEN Part One
+tvdb_episode:79708_1_2  # S01E02 - REVENGE OF THE SLITHEEN Part Two
+tvdb_episode:79708_1_3  # S01E03 - EYE OF THE GORGON Part One
+tvdb_episode:79708_1_4  # S01E04 - EYE OF THE GORGON Part Two
+tvdb_episode:79708_1_5  # S01E05 - WARRIORS OF KUDLAK Part One
+tvdb_episode:79708_1_6  # S01E06 - WARRIORS OF KUDLAK Part Two
+tvdb_episode:79708_1_7  # S01E07 - WHATEVER HAPPENED TO SARAH JANE? Part One
+tvdb_episode:79708_1_8  # S01E08 - WHATEVER HAPPENED TO SARAH JANE? Part Two
+tvdb_episode:79708_1_9  # S01E09 - THE LOST BOY Part One
+tvdb_episode:79708_1_10  # S01E10 - THE LOST BOY Part Two
+tvdb_episode:78804_0_7  # S00E07 - Voyage of the Damned
+tvdb_episode:79511_2_1  # S02E01 - Kiss Kiss, Bang Bang
+tvdb_episode:79511_2_2  # S02E02 - Sleeper
+tvdb_episode:79511_2_3  # S02E03 - To the Last Man
+tvdb_episode:79511_2_4  # S02E04 - Meat
+tvdb_episode:79511_2_5  # S02E05 - Adam
+tvdb_episode:79511_2_6  # S02E06 - Reset
+tvdb_episode:79511_2_7  # S02E07 - Dead Man Walking
+tvdb_episode:79511_2_8  # S02E08 - A Day in the Death
+tvdb_episode:79511_2_9  # S02E09 - Something Borrowed
+tvdb_episode:79511_2_10  # S02E10 - From Out of the Rain
+tvdb_episode:79511_2_11  # S02E11 - Adrift
+tvdb_episode:79511_2_12  # S02E12 - Fragments
+tvdb_episode:79511_2_13  # S02E13 - Exit Wounds
+tvdb_episode:78804_4_1  # S04E01 - Partners in Crime
+tvdb_episode:78804_4_2  # S04E02 - The Fires of Pompeii
+tvdb_episode:78804_4_3  # S04E03 - Planet of the Ood
+tvdb_episode:78804_4_4  # S04E04 - The Sontaran Stratagem
+tvdb_episode:78804_4_5  # S04E05 - The Poison Sky
+tvdb_episode:78804_4_6  # S04E06 - The Doctor's Daughter
+tvdb_episode:78804_4_7  # S04E07 - The Unicorn and the Wasp
+tvdb_episode:78804_4_8  # S04E08 - Silence in the Library
+tvdb_episode:78804_4_9  # S04E09 - Forest of the Dead
+tvdb_episode:78804_4_10  # S04E10 - Midnight
+tvdb_episode:78804_4_11  # S04E11 - Turn Left
+tvdb_episode:78804_4_12  # S04E12 - The Stolen Earth
+tvdb_episode:78804_4_13  # S04E13 - Journey's End
+tvdb_episode:79708_2_1  # S02E01 - THE LAST SONTARAN Part One
+tvdb_episode:79708_2_2  # S02E02 - THE LAST SONTARAN Part Two
+tvdb_episode:79708_2_3  # S02E03 - THE DAY OF THE CLOWN Part One
+tvdb_episode:79708_2_4  # S02E04 - THE DAY OF THE CLOWN Part Two
+tvdb_episode:79708_2_5  # S02E05 - SECRETS OF THE STARS Part One
+tvdb_episode:79708_2_6  # S02E06 - SECRETS OF THE STARS Part Two
+tvdb_episode:79708_2_7  # S02E07 - THE MARK OF THE BERSERKER Part One
+tvdb_episode:79708_2_8  # S02E08 - THE MASK OF THE BERSERKER Part Two
+tvdb_episode:79708_2_9  # S02E09 - THE TEMPTATION OF SARAH JANE SMITH Part One
+tvdb_episode:79708_2_10  # S02E10 - THE TEMPTATION OF SARAH JANE SMITH Part Two
+tvdb_episode:79708_2_11  # S02E11 - ENEMY OF THE BANE Part One
+tvdb_episode:79708_2_12  # S02E12 - ENEMY OF THE BANE Part Two
+tvdb_episode:78804_0_9  # S00E09 - The Next Doctor
+tvdb_episode:78804_0_13  # S00E13 - Planet of the Dead
+tvdb_episode:79511_3_1  # S03E01 - Day One
+tvdb_episode:79511_3_2  # S03E02 - Day Two
+tvdb_episode:79511_3_3  # S03E03 - Day Three
+tvdb_episode:79511_3_4  # S03E04 - Day Four
+tvdb_episode:79511_3_5  # S03E05 - Day Five
+tvdb_episode:79708_3_1  # S03E01 - PRISONER OF THE JUDOON Part One
+tvdb_episode:79708_3_2  # S03E02 - PRISONER OF THE JUDOON Part Two
+tvdb_episode:79708_3_3  # S03E03 - THE MAD WOMAN IN THE ATTIC Part One
+tvdb_episode:79708_3_4  # S03E04 - THE MAD WOMAN IN THE ATTIC Part Two
+tvdb_episode:79708_3_5  # S03E05 - THE WEDDING OF SARAH JANE SMITH Part One
+tvdb_episode:79708_3_6  # S03E06 - THE WEDDING OF SARAH JANE SMITH Part Two
+tvdb_episode:79708_3_7  # S03E07 - THE ETERNITY TRAP Part One
+tvdb_episode:79708_3_8  # S03E08 - THE ETERNITY TRAP Part Two
+tvdb_episode:79708_3_9  # S03E09 - MONA LISA'S REVENGE Part One
+tvdb_episode:79708_3_10  # S03E10 - MONA LISA'S REVENGE Part Two
+tvdb_episode:78804_0_14  # S00E14 - The Waters of Mars
+tvdb_episode:79708_3_11  # S03E11 - THE GIFT Part One
+tvdb_episode:79708_3_12  # S03E12 - THE GIFT Part Two
+tvdb_episode:78804_0_16  # S00E16 - The End of Time - Part One
+tvdb_episode:78804_0_17  # S00E17 - The End of Time - Part Two
+tvdb_episode:78804_5_1  # S05E01 - The Eleventh Hour
+tvdb_episode:78804_5_2  # S05E02 - The Beast Below
+tvdb_episode:78804_5_3  # S05E03 - Victory of the Daleks
+tvdb_episode:78804_5_4  # S05E04 - The Time of Angels
+tvdb_episode:78804_5_5  # S05E05 - Flesh and Stone
+tvdb_episode:78804_5_6  # S05E06 - The Vampires of Venice
+tvdb_episode:78804_5_7  # S05E07 - Amy's Choice
+tvdb_episode:78804_5_8  # S05E08 - The Hungry Earth
+tvdb_episode:78804_5_9  # S05E09 - Cold Blood
+tvdb_episode:78804_5_10  # S05E10 - Vincent and the Doctor
+tvdb_episode:78804_5_11  # S05E11 - The Lodger
+tvdb_episode:78804_5_12  # S05E12 - The Pandorica Opens
+tvdb_episode:78804_5_13  # S05E13 - The Big Bang
+tvdb_episode:79708_4_1  # S04E01 - THE NIGHTMARE MAN Part One
+tvdb_episode:79708_4_2  # S04E02 - THE NIGHTMARE MAN Part Two
+tvdb_episode:79708_4_3  # S04E03 - THE VAULT OF SECRETS Part One
+tvdb_episode:79708_4_4  # S04E04 - THE VAULT OF SECRETS Part Two
+tvdb_episode:79708_4_5  # S04E05 - DEATH OF THE DOCTOR Part One
+tvdb_episode:79708_4_6  # S04E06 - DEATH OF THE DOCTOR Part Two
+tvdb_episode:79708_4_7  # S04E07 - THE EMPTY PLANET Part One
+tvdb_episode:79708_4_8  # S04E08 - THE EMPTY PLANET Part Two
+tvdb_episode:79708_4_9  # S04E09 - LOST IN TIME Part One
+tvdb_episode:79708_4_10  # S04E10 - LOST IN TIME Part Two
+tvdb_episode:79708_4_11  # S04E11 - GOODBYE, SARAH JANE SMITH Part One
+tvdb_episode:79708_4_12  # S04E12 - GOODBYE, SARAH JANE SMITH Part Two
+tvdb_episode:78804_0_34  # S00E34 - A Christmas Carol
+tvdb_episode:78804_6_1  # S06E01 - The Impossible Astronaut
+tvdb_episode:78804_6_2  # S06E02 - Day of the Moon
+tvdb_episode:78804_6_3  # S06E03 - The Curse of the Black Spot
+tvdb_episode:78804_6_4  # S06E04 - The Doctor's Wife
+tvdb_episode:78804_6_5  # S06E05 - The Rebel Flesh
+tvdb_episode:78804_6_6  # S06E06 - The Almost People
+tvdb_episode:78804_6_7  # S06E07 - A Good Man Goes to War
+tvdb_episode:79511_4_1  # S04E01 - The New World
+tvdb_episode:79511_4_2  # S04E02 - Rendition
+tvdb_episode:79511_4_3  # S04E03 - Dead of Night
+tvdb_episode:79511_4_4  # S04E04 - Escape to L.A.
+tvdb_episode:79511_4_5  # S04E05 - The Categories of Life
+tvdb_episode:79511_4_6  # S04E06 - The Middle Men
+tvdb_episode:79511_4_7  # S04E07 - Immortal Sins
+tvdb_episode:79511_4_8  # S04E08 - End of the Road
+tvdb_episode:78804_6_8  # S06E08 - Let's Kill Hitler
+tvdb_episode:79511_4_9  # S04E09 - The Gathering
+tvdb_episode:78804_6_9  # S06E09 - Night Terrors
+tvdb_episode:79511_4_10  # S04E10 - The Blood Line
+tvdb_episode:78804_6_10  # S06E10 - The Girl Who Waited
+tvdb_episode:78804_6_11  # S06E11 - The God Complex
+tvdb_episode:78804_6_12  # S06E12 - Closing Time
+tvdb_episode:78804_6_13  # S06E13 - The Wedding of River Song
+tvdb_episode:79708_5_1  # S05E01 - SKY Part One
+tvdb_episode:79708_5_2  # S05E02 - SKY Part Two
+tvdb_episode:79708_5_3  # S05E03 - THE CURSE OF CLYDE LANGER Part One
+tvdb_episode:79708_5_4  # S05E04 - THE CURSE OF CLYDE LANGER Part Two
+tvdb_episode:79708_5_5  # S05E05 - THE MAN WHO NEVER WAS Part One
+tvdb_episode:79708_5_6  # S05E06 - THE MAN WHO NEVER WAS Part Two
+tvdb_episode:78804_0_48  # S00E48 - The Doctor, the Widow and the Wardrobe
+tvdb_episode:78804_7_1  # S07E01 - Asylum of the Daleks
+tvdb_episode:78804_7_2  # S07E02 - Dinosaurs on a Spaceship
+tvdb_episode:78804_7_3  # S07E03 - A Town Called Mercy
+tvdb_episode:78804_7_4  # S07E04 - The Power of Three
+tvdb_episode:78804_7_5  # S07E05 - The Angels Take Manhattan
+tvdb_episode:78804_0_66  # S00E66 - The Snowmen
+tvdb_episode:78804_7_6  # S07E06 - The Bells of Saint John
+tvdb_episode:78804_7_7  # S07E07 - The Rings of Akhaten
+tvdb_episode:78804_7_8  # S07E08 - Cold War
+tvdb_episode:78804_7_9  # S07E09 - Hide
+tvdb_episode:78804_7_10  # S07E10 - Journey to the Centre of the TARDIS
+tvdb_episode:78804_7_11  # S07E11 - The Crimson Horror
+tvdb_episode:78804_7_12  # S07E12 - Nightmare in Silver
+tvdb_episode:78804_7_13  # S07E13 - The Name of the Doctor
+tvdb_episode:78804_0_83  # S00E83 - The Day of the Doctor
+tvdb_episode:78804_0_84  # S00E84 - The Time of the Doctor
+tvdb_episode:78804_8_1  # S08E01 - Deep Breath
+tvdb_episode:78804_8_2  # S08E02 - Into the Dalek
+tvdb_episode:78804_8_3  # S08E03 - Robot of Sherwood
+tvdb_episode:78804_8_4  # S08E04 - Listen
+tvdb_episode:78804_8_5  # S08E05 - Time Heist
+tvdb_episode:78804_8_6  # S08E06 - The Caretaker
+tvdb_episode:78804_8_7  # S08E07 - Kill the Moon
+tvdb_episode:78804_8_8  # S08E08 - Mummy on the Orient Express
+tvdb_episode:78804_8_9  # S08E09 - Flatline
+tvdb_episode:78804_8_10  # S08E10 - In the Forest of the Night
+tvdb_episode:78804_8_11  # S08E11 - Dark Water
+tvdb_episode:78804_8_12  # S08E12 - Death in Heaven
+tvdb_episode:78804_0_142  # S00E142 - Last Christmas
+tvdb_episode:78804_9_1  # S09E01 - The Magician's Apprentice
+tvdb_episode:78804_9_2  # S09E02 - The Witch's Familiar
+tvdb_episode:78804_9_3  # S09E03 - Under the Lake
+tvdb_episode:78804_9_4  # S09E04 - Before the Flood
+tvdb_episode:78804_9_5  # S09E05 - The Girl Who Died
+tvdb_episode:78804_9_6  # S09E06 - The Woman Who Lived
+tvdb_episode:78804_9_7  # S09E07 - The Zygon Invasion
+tvdb_episode:78804_9_8  # S09E08 - The Zygon Inversion
+tvdb_episode:78804_9_9  # S09E09 - Sleep No More
+tvdb_episode:78804_9_10  # S09E10 - Face The Raven
+tvdb_episode:78804_9_11  # S09E11 - Heaven Sent
+tvdb_episode:78804_9_12  # S09E12 - Hell Bent
+tvdb_episode:78804_0_148  # S00E148 - The Husbands of River Song
+tvdb_episode:309893_1_1  # S01E01 - For Tonight We Might Die
+tvdb_episode:309893_1_2  # S01E02 - The Coach with the Dragon Tattoo
+tvdb_episode:309893_1_3  # S01E03 - Nightvisiting
+tvdb_episode:309893_1_4  # S01E04 - Co-Owner of a Lonely Heart
+tvdb_episode:309893_1_5  # S01E05 - Brave-ish Heart
+tvdb_episode:309893_1_6  # S01E06 - Detained
+tvdb_episode:309893_1_7  # S01E07 - The Metaphysical Engine, or What Quill Did
+tvdb_episode:309893_1_8  # S01E08 - The Lost
+tvdb_episode:78804_0_149  # S00E149 - The Return of Doctor Mysterio
+tvdb_episode:78804_10_1  # S10E01 - The Pilot
+tvdb_episode:78804_10_2  # S10E02 - Smile
+tvdb_episode:78804_10_3  # S10E03 - Thin Ice
+tvdb_episode:78804_10_4  # S10E04 - Knock Knock
+tvdb_episode:78804_10_5  # S10E05 - Oxygen
+tvdb_episode:78804_10_6  # S10E06 - Extremis
+tvdb_episode:78804_10_7  # S10E07 - The Pyramid at the End of the World
+tvdb_episode:78804_10_8  # S10E08 - The Lie of the Land
+tvdb_episode:78804_10_9  # S10E09 - Empress of Mars
+tvdb_episode:78804_10_10  # S10E10 - The Eaters of Light
+tvdb_episode:78804_10_11  # S10E11 - World Enough and Time
+tvdb_episode:78804_10_12  # S10E12 - The Doctor Falls
+tvdb_episode:78804_0_154  # S00E154 - Twice Upon a Time
+tvdb_episode:78804_11_1  # S11E01 - The Woman Who Fell to Earth
+tvdb_episode:78804_11_2  # S11E02 - The Ghost Monument
+tvdb_episode:78804_11_3  # S11E03 - Rosa
+tvdb_episode:78804_11_4  # S11E04 - Arachnids in the UK
+tvdb_episode:78804_11_5  # S11E05 - The Tsuranga Conundrum
+tvdb_episode:78804_11_6  # S11E06 - Demons of the Punjab
+tvdb_episode:78804_11_7  # S11E07 - Kerblam!
+tvdb_episode:78804_11_8  # S11E08 - The Witchfinders
+tvdb_episode:78804_11_9  # S11E09 - It Takes You Away
+tvdb_episode:78804_11_10  # S11E10 - The Battle of Ranskoor Av Kolos
+tvdb_episode:78804_0_156  # S00E156 - Resolution
+tvdb_episode:78804_12_1  # S12E01 - Spyfall, Part 1
+tvdb_episode:78804_12_2  # S12E02 - Spyfall, Part 2
+tvdb_episode:78804_12_3  # S12E03 - Orphan 55
+tvdb_episode:78804_12_4  # S12E04 - Nikola Tesla's Night of Terror
+tvdb_episode:78804_12_5  # S12E05 - Fugitive of the Judoon
+tvdb_episode:78804_12_6  # S12E06 - Praxeus
+tvdb_episode:78804_12_7  # S12E07 - Can You Hear Me?
+tvdb_episode:78804_12_8  # S12E08 - The Haunting of Villa Diodati
+tvdb_episode:78804_12_9  # S12E09 - Ascension of the Cybermen
+tvdb_episode:78804_12_10  # S12E10 - The Timeless Children
+tvdb_episode:78804_0_157  # S00E157 - Revolution of the Daleks
+tvdb_episode:78804_13_1  # S13E01 - Chapter One: The Halloween Apocalypse
+tvdb_episode:78804_13_2  # S13E02 - Chapter Two: War of the Sontarans
+tvdb_episode:78804_13_3  # S13E03 - Chapter Three: Once, Upon Time
+tvdb_episode:78804_13_4  # S13E04 - Chapter Four: Village of the Angels
+tvdb_episode:78804_13_5  # S13E05 - Chapter Five: Survivors of the Flux
+tvdb_episode:78804_13_6  # S13E06 - Chapter Six: The Vanquishers
+tvdb_episode:78804_0_158  # S00E158 - Eve of the Daleks
+tvdb_episode:78804_0_159  # S00E159 - Legend of the Sea Devils
+tvdb_episode:78804_0_161  # S00E161 - The Power of the Doctor
+tvdb_episode:449991_0_1  # S00E01 - The Star Beast
+tvdb_episode:449991_0_2  # S00E02 - Wild Blue Yonder
+tvdb_episode:449991_0_3  # S00E03 - The Giggle
+tvdb_episode:449991_0_4  # S00E04 - The Church on Ruby Road
+tvdb_episode:449991_1_1  # S01E01 - Space Babies
+tvdb_episode:449991_1_2  # S01E02 - The Devil's Chord
+tvdb_episode:449991_1_3  # S01E03 - Boom
+tvdb_episode:449991_1_4  # S01E04 - 73 Yards
+tvdb_episode:449991_1_5  # S01E05 - Dot and Bubble
+tvdb_episode:449991_1_6  # S01E06 - Rogue
+tvdb_episode:449991_1_7  # S01E07 - The Legend of Ruby Sunday
+tvdb_episode:449991_1_8  # S01E08 - Empire of Death
+tvdb_episode:449991_0_5  # S00E05 - Joy to the World
+tvdb_episode:449991_2_1  # S02E01 - The Robot Revolution
+tvdb_episode:449991_2_2  # S02E02 - Lux
+tvdb_episode:449991_2_3  # S02E03 - The Well
+tvdb_episode:449991_2_4  # S02E04 - Lucky Day
+tvdb_episode:449991_2_5  # S02E05 - The Story & the Engine
+tvdb_episode:449991_2_6  # S02E06 - The Interstellar Song Contest
+tvdb_episode:449991_2_7  # S02E07 - Wish World
+tvdb_episode:449991_2_8  # S02E08 - The Reality War
+tvdb_episode:444613_1_1  # S01E01 - Homo Aqua
+tvdb_episode:444613_1_2  # S01E02 - Plastic Apocalypse
+tvdb_episode:444613_1_3  # S01E03 - The Deep
+tvdb_episode:444613_1_4  # S01E04 - The Witch of the Waterfall
+tvdb_episode:444613_1_5  # S01E05 - The End of the War

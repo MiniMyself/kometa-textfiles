@@ -1,0 +1,301 @@
+# Last updated: 2026-07-20
+# Scope: The X-Files, Millennium and The Lone Gunmen; excludes specials, the two X-Files movies and the TV show Harsh Realm.
+# Ordered by air date and time per TVmaze
+tvdb_episode:77398_1_1  # The X-Files S01E01 - Pilot
+tvdb_episode:77398_1_2  # The X-Files S01E02 - Deep Throat
+tvdb_episode:77398_1_3  # The X-Files S01E03 - Squeeze
+tvdb_episode:77398_1_4  # The X-Files S01E04 - Conduit
+tvdb_episode:77398_1_5  # The X-Files S01E05 - The Jersey Devil
+tvdb_episode:77398_1_6  # The X-Files S01E06 - Shadows
+tvdb_episode:77398_1_7  # The X-Files S01E07 - Ghost in the Machine
+tvdb_episode:77398_1_8  # The X-Files S01E08 - Ice
+tvdb_episode:77398_1_9  # The X-Files S01E09 - Space
+tvdb_episode:77398_1_10  # The X-Files S01E10 - Fallen Angel
+tvdb_episode:77398_1_11  # The X-Files S01E11 - Eve
+tvdb_episode:77398_1_12  # The X-Files S01E12 - Fire
+tvdb_episode:77398_1_13  # The X-Files S01E13 - Beyond the Sea
+tvdb_episode:77398_1_14  # The X-Files S01E14 - Genderbender
+tvdb_episode:77398_1_15  # The X-Files S01E15 - Lazarus
+tvdb_episode:77398_1_16  # The X-Files S01E16 - Young at Heart
+tvdb_episode:77398_1_17  # The X-Files S01E17 - E.B.E.
+tvdb_episode:77398_1_18  # The X-Files S01E18 - Miracle Man
+tvdb_episode:77398_1_19  # The X-Files S01E19 - Shapes
+tvdb_episode:77398_1_20  # The X-Files S01E20 - Darkness Falls
+tvdb_episode:77398_1_21  # The X-Files S01E21 - Tooms
+tvdb_episode:77398_1_22  # The X-Files S01E22 - Born Again
+tvdb_episode:77398_1_23  # The X-Files S01E23 - Roland
+tvdb_episode:77398_1_24  # The X-Files S01E24 - The Erlenmeyer Flask
+tvdb_episode:77398_2_1  # The X-Files S02E01 - Little Green Men
+tvdb_episode:77398_2_2  # The X-Files S02E02 - The Host
+tvdb_episode:77398_2_3  # The X-Files S02E03 - Blood
+tvdb_episode:77398_2_4  # The X-Files S02E04 - Sleepless
+tvdb_episode:77398_2_5  # The X-Files S02E05 - Duane Barry
+tvdb_episode:77398_2_6  # The X-Files S02E06 - Ascension
+tvdb_episode:77398_2_7  # The X-Files S02E07 - 3
+tvdb_episode:77398_2_8  # The X-Files S02E08 - One Breath
+tvdb_episode:77398_2_9  # The X-Files S02E09 - Firewalker
+tvdb_episode:77398_2_10  # The X-Files S02E10 - Red Museum
+tvdb_episode:77398_2_11  # The X-Files S02E11 - Excelsis Dei
+tvdb_episode:77398_2_12  # The X-Files S02E12 - Aubrey
+tvdb_episode:77398_2_13  # The X-Files S02E13 - Irresistible
+tvdb_episode:77398_2_14  # The X-Files S02E14 - Die Hand die Verletzt
+tvdb_episode:77398_2_15  # The X-Files S02E15 - Fresh Bones
+tvdb_episode:77398_2_16  # The X-Files S02E16 - Colony
+tvdb_episode:77398_2_17  # The X-Files S02E17 - End Game
+tvdb_episode:77398_2_18  # The X-Files S02E18 - Fearful Symmetry
+tvdb_episode:77398_2_19  # The X-Files S02E19 - Død Kalm
+tvdb_episode:77398_2_20  # The X-Files S02E20 - Humbug
+tvdb_episode:77398_2_21  # The X-Files S02E21 - The Calusari
+tvdb_episode:77398_2_22  # The X-Files S02E22 - F. Emasculata
+tvdb_episode:77398_2_23  # The X-Files S02E23 - Soft Light
+tvdb_episode:77398_2_24  # The X-Files S02E24 - Our Town
+tvdb_episode:77398_2_25  # The X-Files S02E25 - Anasazi
+tvdb_episode:77398_3_1  # The X-Files S03E01 - The Blessing Way
+tvdb_episode:77398_3_2  # The X-Files S03E02 - Paper Clip
+tvdb_episode:77398_3_3  # The X-Files S03E03 - D.P.O.
+tvdb_episode:77398_3_4  # The X-Files S03E04 - Clyde Bruckman's Final Repose
+tvdb_episode:77398_3_5  # The X-Files S03E05 - The List
+tvdb_episode:77398_3_6  # The X-Files S03E06 - 2Shy
+tvdb_episode:77398_3_7  # The X-Files S03E07 - The Walk
+tvdb_episode:77398_3_8  # The X-Files S03E08 - Oubliette
+tvdb_episode:77398_3_9  # The X-Files S03E09 - Nisei (1)
+tvdb_episode:77398_3_10  # The X-Files S03E10 - 731 (2)
+tvdb_episode:77398_3_11  # The X-Files S03E11 - Revelations
+tvdb_episode:77398_3_12  # The X-Files S03E12 - War of the Coprophages
+tvdb_episode:77398_3_13  # The X-Files S03E13 - Syzygy
+tvdb_episode:77398_3_14  # The X-Files S03E14 - Grotesque
+tvdb_episode:77398_3_15  # The X-Files S03E15 - Piper Maru
+tvdb_episode:77398_3_16  # The X-Files S03E16 - Apocrypha
+tvdb_episode:77398_3_17  # The X-Files S03E17 - Pusher
+tvdb_episode:77398_3_18  # The X-Files S03E18 - Teso dos Bichos
+tvdb_episode:77398_3_19  # The X-Files S03E19 - Hell Money
+tvdb_episode:77398_3_20  # The X-Files S03E20 - Jose Chung's 'From Outer Space'
+tvdb_episode:77398_3_21  # The X-Files S03E21 - Avatar
+tvdb_episode:77398_3_22  # The X-Files S03E22 - Quagmire
+tvdb_episode:77398_3_23  # The X-Files S03E23 - Wetwired
+tvdb_episode:77398_3_24  # The X-Files S03E24 - Talitha Cumi
+tvdb_episode:77398_4_1  # The X-Files S04E01 - Herrenvolk
+tvdb_episode:77398_4_2  # The X-Files S04E02 - Home
+tvdb_episode:77398_4_3  # The X-Files S04E03 - Teliko
+tvdb_episode:70940_1_1  # Millennium S01E01 - Pilot
+tvdb_episode:77398_4_4  # The X-Files S04E04 - Unruhe
+tvdb_episode:70940_1_2  # Millennium S01E02 - Gehenna
+tvdb_episode:77398_4_5  # The X-Files S04E05 - The Field Where I Died
+tvdb_episode:70940_1_3  # Millennium S01E03 - Dead Letters
+tvdb_episode:77398_4_6  # The X-Files S04E06 - Sanguinarium
+tvdb_episode:70940_1_4  # Millennium S01E04 - The Judge
+tvdb_episode:77398_4_7  # The X-Files S04E07 - Musings of a Cigarette-Smoking Man
+tvdb_episode:70940_1_5  # Millennium S01E05 - 522666
+tvdb_episode:77398_4_8  # The X-Files S04E08 - Tunguska
+tvdb_episode:70940_1_6  # Millennium S01E06 - Kingdom Come
+tvdb_episode:77398_4_9  # The X-Files S04E09 - Terma
+tvdb_episode:70940_1_7  # Millennium S01E07 - Blood Relatives
+tvdb_episode:77398_4_10  # The X-Files S04E10 - Paper Hearts
+tvdb_episode:70940_1_8  # Millennium S01E08 - The Well-Worn Lock
+tvdb_episode:70940_1_9  # Millennium S01E09 - Wide Open
+tvdb_episode:70940_1_10  # Millennium S01E10 - The Wild and the Innocent
+tvdb_episode:77398_4_11  # The X-Files S04E11 - El Mundo Gira
+tvdb_episode:70940_1_11  # Millennium S01E11 - Weeds
+tvdb_episode:77398_4_12  # The X-Files S04E12 - Leonard Betts
+tvdb_episode:70940_1_12  # Millennium S01E12 - Loin Like a Hunting Flame
+tvdb_episode:77398_4_13  # The X-Files S04E13 - Never Again
+tvdb_episode:70940_1_13  # Millennium S01E13 - Force Majeure
+tvdb_episode:77398_4_14  # The X-Files S04E14 - Memento Mori
+tvdb_episode:70940_1_14  # Millennium S01E14 - The Thin White Line
+tvdb_episode:77398_4_15  # The X-Files S04E15 - Kaddish
+tvdb_episode:70940_1_15  # Millennium S01E15 - Sacrament
+tvdb_episode:77398_4_16  # The X-Files S04E16 - Unrequited
+tvdb_episode:77398_4_17  # The X-Files S04E17 - Tempus Fugit
+tvdb_episode:70940_1_16  # Millennium S01E16 - Covenant
+tvdb_episode:77398_4_18  # The X-Files S04E18 - Max
+tvdb_episode:70940_1_17  # Millennium S01E17 - Walkabout
+tvdb_episode:77398_4_19  # The X-Files S04E19 - Synchrony
+tvdb_episode:70940_1_18  # Millennium S01E18 - Lamentation
+tvdb_episode:77398_4_20  # The X-Files S04E20 - Small Potatoes
+tvdb_episode:70940_1_19  # Millennium S01E19 - Powers, Principalities, Thrones and Dominions
+tvdb_episode:77398_4_21  # The X-Files S04E21 - Zero Sum
+tvdb_episode:70940_1_20  # Millennium S01E20 - Broken World
+tvdb_episode:77398_4_22  # The X-Files S04E22 - Elegy
+tvdb_episode:70940_1_21  # Millennium S01E21 - Maranatha
+tvdb_episode:77398_4_23  # The X-Files S04E23 - Demons
+tvdb_episode:70940_1_22  # Millennium S01E22 - Paper Dove
+tvdb_episode:77398_4_24  # The X-Files S04E24 - Gethsemane
+tvdb_episode:70940_2_1  # Millennium S02E01 - The Beginning & The End
+tvdb_episode:70940_2_2  # Millennium S02E02 - Beware of the Dog
+tvdb_episode:70940_2_3  # Millennium S02E03 - Sense and Antisense
+tvdb_episode:70940_2_4  # Millennium S02E04 - Monster
+tvdb_episode:70940_2_5  # Millennium S02E05 - A Single Blade of Grass
+tvdb_episode:70940_2_6  # Millennium S02E06 - The Curse of Frank Black
+tvdb_episode:77398_5_1  # The X-Files S05E01 - Redux (1)
+tvdb_episode:70940_2_7  # Millennium S02E07 - 19:19
+tvdb_episode:77398_5_2  # The X-Files S05E02 - Redux (2)
+tvdb_episode:70940_2_8  # Millennium S02E08 - The Hand of Saint Sebastian
+tvdb_episode:77398_5_3  # The X-Files S05E03 - Unusual Suspects
+tvdb_episode:70940_2_9  # Millennium S02E09 - Jose Chung's Doomsday Defense
+tvdb_episode:77398_5_4  # The X-Files S05E04 - Detour
+tvdb_episode:77398_5_5  # The X-Files S05E05 - The Post-Modern Prometheus
+tvdb_episode:77398_5_6  # The X-Files S05E06 - Christmas Carol
+tvdb_episode:77398_5_7  # The X-Files S05E07 - Emily
+tvdb_episode:70940_2_10  # Millennium S02E10 - Midnight of the Century
+tvdb_episode:77398_5_8  # The X-Files S05E08 - Kitsunegari
+tvdb_episode:70940_2_11  # Millennium S02E11 - Goodbye Charlie
+tvdb_episode:77398_5_9  # The X-Files S05E09 - Schizogeny
+tvdb_episode:70940_2_12  # Millennium S02E12 - Luminary
+tvdb_episode:70940_2_13  # Millennium S02E13 - The Mikado
+tvdb_episode:77398_5_10  # The X-Files S05E10 - Chinga
+tvdb_episode:77398_5_11  # The X-Files S05E11 - Kill Switch
+tvdb_episode:77398_5_12  # The X-Files S05E12 - Bad Blood
+tvdb_episode:70940_2_14  # Millennium S02E14 - The Pest House
+tvdb_episode:77398_5_13  # The X-Files S05E13 - Patient X
+tvdb_episode:70940_2_15  # Millennium S02E15 - Owls
+tvdb_episode:77398_5_14  # The X-Files S05E14 - The Red and the Black
+tvdb_episode:70940_2_16  # Millennium S02E16 - Roosters
+tvdb_episode:70940_2_17  # Millennium S02E17 - Siren
+tvdb_episode:77398_5_15  # The X-Files S05E15 - Travelers
+tvdb_episode:70940_2_18  # Millennium S02E18 - In Arcadia Ego
+tvdb_episode:70940_2_19  # Millennium S02E19 - Anamnesis
+tvdb_episode:77398_5_16  # The X-Files S05E16 - Mind's Eye
+tvdb_episode:70940_2_20  # Millennium S02E20 - A Room with No View
+tvdb_episode:77398_5_17  # The X-Files S05E17 - All Souls
+tvdb_episode:70940_2_21  # Millennium S02E21 - Somehow, Satan Got Behind Me
+tvdb_episode:77398_5_18  # The X-Files S05E18 - The Pine Bluff Variant
+tvdb_episode:70940_2_22  # Millennium S02E22 - The Fourth Horseman
+tvdb_episode:77398_5_19  # The X-Files S05E19 - Folie a Deux
+tvdb_episode:70940_2_23  # Millennium S02E23 - The Time is Now
+tvdb_episode:77398_5_20  # The X-Files S05E20 - The End
+tvdb_episode:70940_3_1  # Millennium S03E01 - The Innocents
+tvdb_episode:70940_3_2  # Millennium S03E02 - Exegesis
+tvdb_episode:70940_3_3  # Millennium S03E03 - TEOTWAWKI
+tvdb_episode:70940_3_4  # Millennium S03E04 - Closure
+tvdb_episode:70940_3_5  # Millennium S03E05 - ...Thirteen Years Later
+tvdb_episode:70940_3_6  # Millennium S03E06 - Skull and Bones
+tvdb_episode:77398_6_1  # The X-Files S06E01 - The Beginning
+tvdb_episode:70940_3_7  # Millennium S03E07 - Through a Glass, Darkly
+tvdb_episode:77398_6_2  # The X-Files S06E02 - Drive
+tvdb_episode:77398_6_3  # The X-Files S06E03 - Triangle
+tvdb_episode:77398_6_4  # The X-Files S06E04 - Dreamland (1)
+tvdb_episode:77398_6_5  # The X-Files S06E05 - Dreamland (2)
+tvdb_episode:70940_3_8  # Millennium S03E08 - Human Essence
+tvdb_episode:77398_6_6  # The X-Files S06E06 - How the Ghosts Stole Christmas
+tvdb_episode:70940_3_9  # Millennium S03E09 - Omerta
+tvdb_episode:77398_6_7  # The X-Files S06E07 - Terms of Endearment
+tvdb_episode:77398_6_8  # The X-Files S06E08 - The Rain King
+tvdb_episode:70940_3_10  # Millennium S03E10 - Borrowed Time
+tvdb_episode:77398_6_9  # The X-Files S06E09 - S.R. 819
+tvdb_episode:70940_3_11  # Millennium S03E11 - Collateral Damage
+tvdb_episode:77398_6_10  # The X-Files S06E10 - Tithonus
+tvdb_episode:70940_3_12  # Millennium S03E12 - The Sound of Snow
+tvdb_episode:77398_6_11  # The X-Files S06E11 - Two Fathers
+tvdb_episode:70940_3_13  # Millennium S03E13 - Antipas
+tvdb_episode:77398_6_12  # The X-Files S06E12 - One Son
+tvdb_episode:70940_3_14  # Millennium S03E14 - Matryoshka
+tvdb_episode:77398_6_13  # The X-Files S06E13 - Agua Mala
+tvdb_episode:77398_6_14  # The X-Files S06E14 - Monday
+tvdb_episode:77398_6_15  # The X-Files S06E15 - Arcadia
+tvdb_episode:70940_3_15  # Millennium S03E15 - Forcing the End
+tvdb_episode:77398_6_16  # The X-Files S06E16 - Alpha
+tvdb_episode:70940_3_16  # Millennium S03E16 - Saturn Dreaming of Mercury
+tvdb_episode:77398_6_17  # The X-Files S06E17 - Trevor
+tvdb_episode:70940_3_17  # Millennium S03E17 - Darwin's Eye
+tvdb_episode:77398_6_18  # The X-Files S06E18 - Milagro
+tvdb_episode:70940_3_18  # Millennium S03E18 - Bardo Thodol
+tvdb_episode:77398_6_19  # The X-Files S06E19 - The Unnatural
+tvdb_episode:70940_3_19  # Millennium S03E19 - Seven and One
+tvdb_episode:77398_6_20  # The X-Files S06E20 - Three of a Kind
+tvdb_episode:70940_3_20  # Millennium S03E20 - Nostalgia
+tvdb_episode:77398_6_21  # The X-Files S06E21 - Field Trip
+tvdb_episode:70940_3_21  # Millennium S03E21 - Via Dolorosa
+tvdb_episode:77398_6_22  # The X-Files S06E22 - Biogenesis
+tvdb_episode:70940_3_22  # Millennium S03E22 - Goodbye to All That
+tvdb_episode:77398_7_1  # The X-Files S07E01 - The Sixth Extinction
+tvdb_episode:77398_7_2  # The X-Files S07E02 - The Sixth Extinction: Amor Fati
+tvdb_episode:77398_7_3  # The X-Files S07E03 - Hungry
+tvdb_episode:77398_7_4  # The X-Files S07E04 - Millennium
+tvdb_episode:77398_7_5  # The X-Files S07E05 - Rush
+tvdb_episode:77398_7_6  # The X-Files S07E06 - The Goldberg Variation
+tvdb_episode:77398_7_7  # The X-Files S07E07 - Orison
+tvdb_episode:77398_7_8  # The X-Files S07E08 - The Amazing Maleeni
+tvdb_episode:77398_7_9  # The X-Files S07E09 - Signs and Wonders
+tvdb_episode:77398_7_10  # The X-Files S07E10 - Sein und Zeit
+tvdb_episode:77398_7_11  # The X-Files S07E11 - Closure
+tvdb_episode:77398_7_12  # The X-Files S07E12 - X-Cops
+tvdb_episode:77398_7_13  # The X-Files S07E13 - First Person Shooter
+tvdb_episode:77398_7_14  # The X-Files S07E14 - Theef
+tvdb_episode:77398_7_15  # The X-Files S07E15 - En Ami
+tvdb_episode:77398_7_16  # The X-Files S07E16 - Chimera
+tvdb_episode:77398_7_17  # The X-Files S07E17 - all things
+tvdb_episode:77398_7_18  # The X-Files S07E18 - Brand X
+tvdb_episode:77398_7_19  # The X-Files S07E19 - Hollywood A.D.
+tvdb_episode:77398_7_20  # The X-Files S07E20 - Fight Club
+tvdb_episode:77398_7_21  # The X-Files S07E21 - Je Souhaite
+tvdb_episode:77398_7_22  # The X-Files S07E22 - Requiem
+tvdb_episode:77398_8_1  # The X-Files S08E01 - Within
+tvdb_episode:77398_8_2  # The X-Files S08E02 - Without
+tvdb_episode:77398_8_3  # The X-Files S08E03 - Patience
+tvdb_episode:77398_8_4  # The X-Files S08E04 - Roadrunners
+tvdb_episode:77398_8_5  # The X-Files S08E05 - Invocation
+tvdb_episode:77398_8_6  # The X-Files S08E06 - Redrum
+tvdb_episode:77398_8_7  # The X-Files S08E07 - Via Negativa
+tvdb_episode:77398_8_8  # The X-Files S08E08 - Surekill
+tvdb_episode:77398_8_9  # The X-Files S08E09 - Salvage
+tvdb_episode:77398_8_10  # The X-Files S08E10 - Badlaa
+tvdb_episode:77398_8_11  # The X-Files S08E11 - The Gift
+tvdb_episode:77398_8_12  # The X-Files S08E12 - Medusa
+tvdb_episode:77398_8_13  # The X-Files S08E13 - Per Manum
+tvdb_episode:77398_8_14  # The X-Files S08E14 - This is Not Happening
+tvdb_episode:76245_1_1  # The Lone Gunmen S01E01 - Pilot
+tvdb_episode:76245_1_2  # The Lone Gunmen S01E02 - Bond, Jimmy Bond
+tvdb_episode:76245_1_3  # The Lone Gunmen S01E03 - Eine Kleine Frohike
+tvdb_episode:76245_1_4  # The Lone Gunmen S01E04 - Like Water for Octane
+tvdb_episode:76245_1_5  # The Lone Gunmen S01E05 - Three Men and a Smoking Diaper
+tvdb_episode:76245_1_6  # The Lone Gunmen S01E06 - Madam, I'm Adam
+tvdb_episode:77398_8_15  # The X-Files S08E15 - DeadAlive
+tvdb_episode:76245_1_7  # The Lone Gunmen S01E07 - Planet of the Frohikes
+tvdb_episode:77398_8_16  # The X-Files S08E16 - Three Words
+tvdb_episode:76245_1_8  # The Lone Gunmen S01E08 - Maximum Byers
+tvdb_episode:77398_8_17  # The X-Files S08E17 - Empedocles
+tvdb_episode:76245_1_9  # The Lone Gunmen S01E09 - Diagnosis: Jimmy
+tvdb_episode:77398_8_18  # The X-Files S08E18 - Vienen
+tvdb_episode:76245_1_10  # The Lone Gunmen S01E10 - Tango de los Pistoleros
+tvdb_episode:76245_1_11  # The Lone Gunmen S01E11 - The Lying Game
+tvdb_episode:77398_8_19  # The X-Files S08E19 - Alone
+tvdb_episode:76245_1_12  # The Lone Gunmen S01E12 - The Cap'n Toby Show
+tvdb_episode:77398_8_20  # The X-Files S08E20 - Essence
+tvdb_episode:77398_8_21  # The X-Files S08E21 - Existence
+tvdb_episode:76245_1_13  # The Lone Gunmen S01E13 - All About Yves
+tvdb_episode:77398_9_1  # The X-Files S09E01 - Nothing Important Happened Today (1)
+tvdb_episode:77398_9_2  # The X-Files S09E02 - Nothing Important Happened Today (2)
+tvdb_episode:77398_9_3  # The X-Files S09E03 - Dæmonicus
+tvdb_episode:77398_9_4  # The X-Files S09E04 - 4-D
+tvdb_episode:77398_9_5  # The X-Files S09E05 - Lord of the Flies
+tvdb_episode:77398_9_6  # The X-Files S09E06 - Trust No 1
+tvdb_episode:77398_9_7  # The X-Files S09E07 - John Doe
+tvdb_episode:77398_9_8  # The X-Files S09E08 - Hellbound
+tvdb_episode:77398_9_9  # The X-Files S09E09 - Provenance
+tvdb_episode:77398_9_10  # The X-Files S09E10 - Providence
+tvdb_episode:77398_9_11  # The X-Files S09E11 - Audrey Pauley
+tvdb_episode:77398_9_12  # The X-Files S09E12 - Underneath
+tvdb_episode:77398_9_13  # The X-Files S09E13 - Improbable
+tvdb_episode:77398_9_14  # The X-Files S09E14 - Scary Monsters
+tvdb_episode:77398_9_15  # The X-Files S09E15 - Jump the Shark
+tvdb_episode:77398_9_16  # The X-Files S09E16 - William
+tvdb_episode:77398_9_17  # The X-Files S09E17 - Release
+tvdb_episode:77398_9_18  # The X-Files S09E18 - Sunshine Days
+tvdb_episode:77398_9_19  # The X-Files S09E19 - The Truth (1)
+tvdb_episode:77398_9_20  # The X-Files S09E20 - The Truth (2)
+tvdb_episode:77398_10_1  # The X-Files S10E01 - My Struggle
+tvdb_episode:77398_10_2  # The X-Files S10E02 - Founder's Mutation
+tvdb_episode:77398_10_3  # The X-Files S10E03 - Mulder and Scully Meet the Were-Monster
+tvdb_episode:77398_10_4  # The X-Files S10E04 - Home Again
+tvdb_episode:77398_10_5  # The X-Files S10E05 - Babylon
+tvdb_episode:77398_10_6  # The X-Files S10E06 - My Struggle II
+tvdb_episode:77398_11_1  # The X-Files S11E01 - My Struggle III
+tvdb_episode:77398_11_2  # The X-Files S11E02 - This
+tvdb_episode:77398_11_3  # The X-Files S11E03 - Plus One
+tvdb_episode:77398_11_4  # The X-Files S11E04 - The Lost Art of Forehead Sweat
+tvdb_episode:77398_11_5  # The X-Files S11E05 - Ghouli
+tvdb_episode:77398_11_6  # The X-Files S11E06 - Kitten
+tvdb_episode:77398_11_7  # The X-Files S11E07 - Rm9sbG93ZXJz
+tvdb_episode:77398_11_8  # The X-Files S11E08 - Familiar
+tvdb_episode:77398_11_9  # The X-Files S11E09 - Nothing Lasts Forever
+tvdb_episode:77398_11_10  # The X-Files S11E10 - My Struggle IV

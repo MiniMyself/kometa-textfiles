@@ -1,6 +1,6 @@
 # Last updated: 2026-07-19
-# Scope: 1883, 1923, Yellowstone, Marshals and Dutton Ranch; excludes the greater-Duttonverse Lawmen: Bass Reeves.
-# Ordered by in-universe chronology; within a block, episodes run in air order.
+# Scope: 1883, 1923, Yellowstone, Marshals and Dutton Ranch; excludes the greater-Duttonverse Lawmen: Bass Reeves
+# Ordered by in-universe chronology; within a block, episodes run in air order
 tvdb_episode:396390_1_1  # 1883 S01E01 - 1883
 tvdb_episode:396390_1_2  # 1883 S01E02 - Behind Us, A Cliff
 tvdb_episode:396390_1_3  # 1883 S01E03 - River

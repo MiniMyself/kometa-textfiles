@@ -1,0 +1,235 @@
+# Last updated: 2026-07-20
+# Scope: 9-1-1, 9-1-1: Lone Star and 9-1-1: Nashville; excludes specials
+# Ordered by air date and time per TVmaze
+tvdb_episode:337907_1_1  # 9-1-1 S01E01 - Pilot
+tvdb_episode:337907_1_2  # 9-1-1 S01E02 - Let Go
+tvdb_episode:337907_1_3  # 9-1-1 S01E03 - Next of Kin
+tvdb_episode:337907_1_4  # 9-1-1 S01E04 - Worst Day Ever
+tvdb_episode:337907_1_5  # 9-1-1 S01E05 - Point of Origin
+tvdb_episode:337907_1_6  # 9-1-1 S01E06 - Heartbreaker
+tvdb_episode:337907_1_7  # 9-1-1 S01E07 - Full Moon (Creepy AF)
+tvdb_episode:337907_1_8  # 9-1-1 S01E08 - Karma's a Bitch
+tvdb_episode:337907_1_9  # 9-1-1 S01E09 - Trapped
+tvdb_episode:337907_1_10  # 9-1-1 S01E10 - A Whole New You
+tvdb_episode:337907_2_1  # 9-1-1 S02E01 - Under Pressure
+tvdb_episode:337907_2_2  # 9-1-1 S02E02 - 7.1
+tvdb_episode:337907_2_3  # 9-1-1 S02E03 - Help Is Not Coming
+tvdb_episode:337907_2_4  # 9-1-1 S02E04 - Stuck
+tvdb_episode:337907_2_5  # 9-1-1 S02E05 - Awful People
+tvdb_episode:337907_2_6  # 9-1-1 S02E06 - Dosed
+tvdb_episode:337907_2_7  # 9-1-1 S02E07 - Haunted
+tvdb_episode:337907_2_8  # 9-1-1 S02E08 - Buck, Actually
+tvdb_episode:337907_2_9  # 9-1-1 S02E09 - Hen Begins
+tvdb_episode:337907_2_10  # 9-1-1 S02E10 - Merry Ex-Mas
+tvdb_episode:337907_2_11  # 9-1-1 S02E11 - New Beginnings
+tvdb_episode:337907_2_12  # 9-1-1 S02E12 - Chimney Begins
+tvdb_episode:337907_2_13  # 9-1-1 S02E13 - Fight or Flight
+tvdb_episode:337907_2_14  # 9-1-1 S02E14 - Broken
+tvdb_episode:337907_2_15  # 9-1-1 S02E15 - Ocean's 9-1-1
+tvdb_episode:337907_2_16  # 9-1-1 S02E16 - Bobby Begins Again
+tvdb_episode:337907_2_17  # 9-1-1 S02E17 - Careful What You Wish For
+tvdb_episode:337907_2_18  # 9-1-1 S02E18 - This Life We Choose
+tvdb_episode:337907_3_1  # 9-1-1 S03E01 - Kids Today
+tvdb_episode:337907_3_2  # 9-1-1 S03E02 - Sink or Swim
+tvdb_episode:337907_3_3  # 9-1-1 S03E03 - The Searchers
+tvdb_episode:337907_3_4  # 9-1-1 S03E04 - Triggers
+tvdb_episode:337907_3_5  # 9-1-1 S03E05 - Rage
+tvdb_episode:337907_3_6  # 9-1-1 S03E06 - Monsters
+tvdb_episode:337907_3_7  # 9-1-1 S03E07 - Athena Begins
+tvdb_episode:337907_3_8  # 9-1-1 S03E08 - Malfunction
+tvdb_episode:337907_3_9  # 9-1-1 S03E09 - Fallout
+tvdb_episode:337907_3_10  # 9-1-1 S03E10 - Christmas Spirit
+tvdb_episode:364080_1_1  # 9-1-1: Lone Star S01E01 - Pilot
+tvdb_episode:364080_1_2  # 9-1-1: Lone Star S01E02 - Yee-Haw
+tvdb_episode:364080_1_3  # 9-1-1: Lone Star S01E03 - Texas Proud
+tvdb_episode:364080_1_4  # 9-1-1: Lone Star S01E04 - Act of God
+tvdb_episode:364080_1_5  # 9-1-1: Lone Star S01E05 - Studs
+tvdb_episode:364080_1_6  # 9-1-1: Lone Star S01E06 - Friends Like These
+tvdb_episode:364080_1_7  # 9-1-1: Lone Star S01E07 - Bum Steer
+tvdb_episode:364080_1_8  # 9-1-1: Lone Star S01E08 - Monster Inside
+tvdb_episode:364080_1_9  # 9-1-1: Lone Star S01E09 - Awakening
+tvdb_episode:364080_1_10  # 9-1-1: Lone Star S01E10 - Austin, We Have a Problem
+tvdb_episode:337907_3_11  # 9-1-1 S03E11 - Seize the Day
+tvdb_episode:337907_3_12  # 9-1-1 S03E12 - Fools
+tvdb_episode:337907_3_13  # 9-1-1 S03E13 - Pinned
+tvdb_episode:337907_3_14  # 9-1-1 S03E14 - The Taking of Dispatch 9-1-1
+tvdb_episode:337907_3_15  # 9-1-1 S03E15 - Eddie Begins
+tvdb_episode:337907_3_16  # 9-1-1 S03E16 - The One That Got Away
+tvdb_episode:337907_3_17  # 9-1-1 S03E17 - Powerless
+tvdb_episode:337907_3_18  # 9-1-1 S03E18 - What's Next?
+tvdb_episode:337907_4_1  # 9-1-1 S04E01 - The New Abnormal
+tvdb_episode:364080_2_1  # 9-1-1: Lone Star S02E01 - Back in the Saddle
+tvdb_episode:337907_4_2  # 9-1-1 S04E02 - Alone Together
+tvdb_episode:364080_2_2  # 9-1-1: Lone Star S02E02 - 2100Â°
+tvdb_episode:337907_4_3  # 9-1-1 S04E03 - Future Tense
+tvdb_episode:364080_2_3  # 9-1-1: Lone Star S02E03 - Hold the Line
+tvdb_episode:337907_4_4  # 9-1-1 S04E04 - 9-1-1, What's Your Grievance?
+tvdb_episode:364080_2_4  # 9-1-1: Lone Star S02E04 - Friends with Benefits
+tvdb_episode:337907_4_5  # 9-1-1 S04E05 - Buck Begins
+tvdb_episode:364080_2_5  # 9-1-1: Lone Star S02E05 - Difficult Conversations
+tvdb_episode:337907_4_6  # 9-1-1 S04E06 - Jinx
+tvdb_episode:364080_2_6  # 9-1-1: Lone Star S02E06 - Everyone and Their Brother
+tvdb_episode:337907_4_7  # 9-1-1 S04E07 - There Goes the Neighborhood
+tvdb_episode:364080_2_7  # 9-1-1: Lone Star S02E07 - Displaced
+tvdb_episode:337907_4_8  # 9-1-1 S04E08 - Breaking Point
+tvdb_episode:364080_2_8  # 9-1-1: Lone Star S02E08 - Bad Call
+tvdb_episode:337907_4_9  # 9-1-1 S04E09 - Blindsided
+tvdb_episode:364080_2_9  # 9-1-1: Lone Star S02E09 - Saving Grace
+tvdb_episode:337907_4_10  # 9-1-1 S04E10 - Parenthood
+tvdb_episode:364080_2_10  # 9-1-1: Lone Star S02E10 - A Little Help from My Friends
+tvdb_episode:337907_4_11  # 9-1-1 S04E11 - First Responders
+tvdb_episode:364080_2_11  # 9-1-1: Lone Star S02E11 - Slow Burn
+tvdb_episode:337907_4_12  # 9-1-1 S04E12 - Treasure Hunt
+tvdb_episode:364080_2_12  # 9-1-1: Lone Star S02E12 - The Big Heat
+tvdb_episode:337907_4_13  # 9-1-1 S04E13 - Suspicion
+tvdb_episode:364080_2_13  # 9-1-1: Lone Star S02E13 - One Day
+tvdb_episode:337907_4_14  # 9-1-1 S04E14 - Survivors
+tvdb_episode:364080_2_14  # 9-1-1: Lone Star S02E14 - Dust to Dust
+tvdb_episode:337907_5_1  # 9-1-1 S05E01 - Panic
+tvdb_episode:337907_5_2  # 9-1-1 S05E02 - Desperate Times
+tvdb_episode:337907_5_3  # 9-1-1 S05E03 - Desperate Measures
+tvdb_episode:337907_5_4  # 9-1-1 S05E04 - Home and Away
+tvdb_episode:337907_5_5  # 9-1-1 S05E05 - Peer Pressure
+tvdb_episode:337907_5_6  # 9-1-1 S05E06 - Brawl in Cell Block 9-1-1
+tvdb_episode:337907_5_7  # 9-1-1 S05E07 - Ghost Stories
+tvdb_episode:337907_5_8  # 9-1-1 S05E08 - Defend in Place
+tvdb_episode:337907_5_9  # 9-1-1 S05E09 - Past Is Prologue
+tvdb_episode:337907_5_10  # 9-1-1 S05E10 - Wrapped in Red
+tvdb_episode:364080_3_1  # 9-1-1: Lone Star S03E01 - The Big Chill
+tvdb_episode:364080_3_2  # 9-1-1: Lone Star S03E02 - Thin Ice
+tvdb_episode:364080_3_3  # 9-1-1: Lone Star S03E03 - Shock & Thaw
+tvdb_episode:364080_3_4  # 9-1-1: Lone Star S03E04 - Push
+tvdb_episode:364080_3_5  # 9-1-1: Lone Star S03E05 - Child Care
+tvdb_episode:364080_3_6  # 9-1-1: Lone Star S03E06 - The ATX-Files
+tvdb_episode:364080_3_7  # 9-1-1: Lone Star S03E07 - Red vs. Blue
+tvdb_episode:364080_3_8  # 9-1-1: Lone Star S03E08 - In the Unlikely Event of an Emergency
+tvdb_episode:364080_3_9  # 9-1-1: Lone Star S03E09 - The Bird
+tvdb_episode:364080_3_10  # 9-1-1: Lone Star S03E10 - Parental Guidance
+tvdb_episode:337907_5_11  # 9-1-1 S05E11 - Outside Looking In
+tvdb_episode:364080_3_11  # 9-1-1: Lone Star S03E11 - Prince Albert in a Can
+tvdb_episode:337907_5_12  # 9-1-1 S05E12 - Boston
+tvdb_episode:364080_3_12  # 9-1-1: Lone Star S03E12 - Negative Space
+tvdb_episode:337907_5_13  # 9-1-1 S05E13 - Fear-o-Phobia
+tvdb_episode:364080_3_13  # 9-1-1: Lone Star S03E13 - Riddle of the Sphynx
+tvdb_episode:337907_5_14  # 9-1-1 S05E14 - Dumb Luck
+tvdb_episode:364080_3_14  # 9-1-1: Lone Star S03E14 - Impulse Control
+tvdb_episode:337907_5_15  # 9-1-1 S05E15 - FOMO
+tvdb_episode:364080_3_15  # 9-1-1: Lone Star S03E15 - Down to Clown
+tvdb_episode:337907_5_16  # 9-1-1 S05E16 - May Day
+tvdb_episode:364080_3_16  # 9-1-1: Lone Star S03E16 - Shift-Less
+tvdb_episode:337907_5_17  # 9-1-1 S05E17 - Hero Complex
+tvdb_episode:364080_3_17  # 9-1-1: Lone Star S03E17 - Spring Cleaning
+tvdb_episode:337907_5_18  # 9-1-1 S05E18 - Starting Over
+tvdb_episode:364080_3_18  # 9-1-1: Lone Star S03E18 - A Bright and Cloudless Morning
+tvdb_episode:337907_6_1  # 9-1-1 S06E01 - Let the Games Begin
+tvdb_episode:337907_6_2  # 9-1-1 S06E02 - Crash and Learn
+tvdb_episode:337907_6_3  # 9-1-1 S06E03 - The Devil You Know
+tvdb_episode:337907_6_4  # 9-1-1 S06E04 - Animal Instincts
+tvdb_episode:337907_6_5  # 9-1-1 S06E05 - Home Invasion
+tvdb_episode:337907_6_6  # 9-1-1 S06E06 - Tomorrow
+tvdb_episode:337907_6_7  # 9-1-1 S06E07 - Cursed
+tvdb_episode:337907_6_8  # 9-1-1 S06E08 - What's Your Fantasy?
+tvdb_episode:337907_6_9  # 9-1-1 S06E09 - Red Flag
+tvdb_episode:364080_4_1  # 9-1-1: Lone Star S04E01 - The New Hotness
+tvdb_episode:364080_4_2  # 9-1-1: Lone Star S04E02 - The New Hot Mess
+tvdb_episode:364080_4_3  # 9-1-1: Lone Star S04E03 - Cry Wolf
+tvdb_episode:364080_4_4  # 9-1-1: Lone Star S04E04 - Abandoned
+tvdb_episode:364080_4_5  # 9-1-1: Lone Star S04E05 - Human Resources
+tvdb_episode:364080_4_6  # 9-1-1: Lone Star S04E06 - This Is Not a Drill
+tvdb_episode:337907_6_10  # 9-1-1 S06E10 - In a Flash
+tvdb_episode:364080_4_7  # 9-1-1: Lone Star S04E07 - Tommy Dearest
+tvdb_episode:337907_6_11  # 9-1-1 S06E11 - In Another Life
+tvdb_episode:364080_4_8  # 9-1-1: Lone Star S04E08 - Control Freaks
+tvdb_episode:337907_6_12  # 9-1-1 S06E12 - Recovery
+tvdb_episode:364080_4_9  # 9-1-1: Lone Star S04E09 - Road Kill
+tvdb_episode:364080_4_10  # 9-1-1: Lone Star S04E10 - Sellouts
+tvdb_episode:364080_4_11  # 9-1-1: Lone Star S04E11 - Double Trouble
+tvdb_episode:337907_6_13  # 9-1-1 S06E13 - Mixed Feelings
+tvdb_episode:364080_4_12  # 9-1-1: Lone Star S04E12 - Swipe Left
+tvdb_episode:337907_6_14  # 9-1-1 S06E14 - Performance Anxiety
+tvdb_episode:364080_4_13  # 9-1-1: Lone Star S04E13 - Open
+tvdb_episode:337907_6_15  # 9-1-1 S06E15 - Death and Taxes
+tvdb_episode:364080_4_14  # 9-1-1: Lone Star S04E14 - Tongues Out
+tvdb_episode:337907_6_16  # 9-1-1 S06E16 - Lost & Found
+tvdb_episode:364080_4_15  # 9-1-1: Lone Star S04E15 - Donors
+tvdb_episode:337907_6_17  # 9-1-1 S06E17 - Love Is in the Air
+tvdb_episode:364080_4_16  # 9-1-1: Lone Star S04E16 - A House Divided
+tvdb_episode:337907_6_18  # 9-1-1 S06E18 - Pay It Forward
+tvdb_episode:364080_4_17  # 9-1-1: Lone Star S04E17 - Best of Men
+tvdb_episode:364080_4_18  # 9-1-1: Lone Star S04E18 - In Sickness and in Health
+tvdb_episode:337907_7_1  # 9-1-1 S07E01 - Abandon Ships
+tvdb_episode:337907_7_2  # 9-1-1 S07E02 - Rock the Boat
+tvdb_episode:337907_7_3  # 9-1-1 S07E03 - Capsized
+tvdb_episode:337907_7_4  # 9-1-1 S07E04 - Buck, Bothered and Bewildered
+tvdb_episode:337907_7_5  # 9-1-1 S07E05 - You Don't Know Me
+tvdb_episode:337907_7_6  # 9-1-1 S07E06 - There Goes the Groom
+tvdb_episode:337907_7_7  # 9-1-1 S07E07 - Ghost of a Second Chance
+tvdb_episode:337907_7_8  # 9-1-1 S07E08 - Step Nine
+tvdb_episode:337907_7_9  # 9-1-1 S07E09 - Ashes, Ashes
+tvdb_episode:337907_7_10  # 9-1-1 S07E10 - All Fall Down
+tvdb_episode:364080_5_1  # 9-1-1: Lone Star S05E01 - Both Sides, Now
+tvdb_episode:337907_8_1  # 9-1-1 S08E01 - Buzzkill
+tvdb_episode:364080_5_2  # 9-1-1: Lone Star S05E02 - Trainwrecks
+tvdb_episode:337907_8_2  # 9-1-1 S08E02 - When the Boeing Gets Tough...
+tvdb_episode:364080_5_3  # 9-1-1: Lone Star S05E03 - Cl2
+tvdb_episode:337907_8_3  # 9-1-1 S08E03 - Final Approach
+tvdb_episode:364080_5_4  # 9-1-1: Lone Star S05E04 - My Way
+tvdb_episode:337907_8_4  # 9-1-1 S08E04 - No Place Like Home
+tvdb_episode:364080_5_5  # 9-1-1: Lone Star S05E05 - Thunderstruck
+tvdb_episode:337907_8_5  # 9-1-1 S08E05 - Masks
+tvdb_episode:364080_5_6  # 9-1-1: Lone Star S05E06 - Naked Truth
+tvdb_episode:337907_8_6  # 9-1-1 S08E06 - Confessions
+tvdb_episode:364080_5_7  # 9-1-1: Lone Star S05E07 - Kiddos
+tvdb_episode:337907_8_7  # 9-1-1 S08E07 - Hotshots
+tvdb_episode:364080_5_8  # 9-1-1: Lone Star S05E08 - The Quiet Ones
+tvdb_episode:337907_8_8  # 9-1-1 S08E08 - Wannabes
+tvdb_episode:364080_5_9  # 9-1-1: Lone Star S05E09 - Fall from Grace
+tvdb_episode:364080_5_10  # 9-1-1: Lone Star S05E10 - All Who Wander
+tvdb_episode:364080_5_11  # 9-1-1: Lone Star S05E11 - Impact
+tvdb_episode:364080_5_12  # 9-1-1: Lone Star S05E12 - Homecoming
+tvdb_episode:337907_8_9  # 9-1-1 S08E09 - Sob Stories
+tvdb_episode:337907_8_10  # 9-1-1 S08E10 - Voices
+tvdb_episode:337907_8_11  # 9-1-1 S08E11 - Holy Mother of God
+tvdb_episode:337907_8_12  # 9-1-1 S08E12 - Disconnected
+tvdb_episode:337907_8_13  # 9-1-1 S08E13 - Invisible
+tvdb_episode:337907_8_14  # 9-1-1 S08E14 - Sick Day
+tvdb_episode:337907_8_15  # 9-1-1 S08E15 - Lab Rats
+tvdb_episode:337907_8_16  # 9-1-1 S08E16 - The Last Alarm
+tvdb_episode:337907_8_17  # 9-1-1 S08E17 - Don't Drink the Water
+tvdb_episode:337907_8_18  # 9-1-1 S08E18 - Seismic Shifts
+tvdb_episode:337907_9_1  # 9-1-1 S09E01 - Eat the Rich
+tvdb_episode:460463_1_1  # 9-1-1: Nashville S01E01 - Pilot
+tvdb_episode:337907_9_2  # 9-1-1 S09E02 - Spiraling
+tvdb_episode:460463_1_2  # 9-1-1: Nashville S01E02 - Hell and High Water
+tvdb_episode:337907_9_3  # 9-1-1 S09E03 - The Sky Is Falling
+tvdb_episode:460463_1_3  # 9-1-1: Nashville S01E03 - Forces of Nature
+tvdb_episode:337907_9_4  # 9-1-1 S09E04 - Reentry
+tvdb_episode:460463_1_4  # 9-1-1: Nashville S01E04 - Bad Case of the Blues
+tvdb_episode:337907_9_5  # 9-1-1 S09E05 - DÃ­a de los Muertos
+tvdb_episode:460463_1_5  # 9-1-1: Nashville S01E05 - Lost Children
+tvdb_episode:337907_9_6  # 9-1-1 S09E06 - Family History
+tvdb_episode:460463_1_6  # 9-1-1: Nashville S01E06 - Good Southern Manors
+tvdb_episode:337907_9_7  # 9-1-1 S09E07 - Secrets
+tvdb_episode:460463_1_7  # 9-1-1: Nashville S01E07 - You've Been Boarded
+tvdb_episode:337907_9_8  # 9-1-1 S09E08 - War
+tvdb_episode:460463_1_8  # 9-1-1: Nashville S01E08 - All Hands
+tvdb_episode:337907_9_9  # 9-1-1 S09E09 - Fighting Back
+tvdb_episode:460463_1_9  # 9-1-1: Nashville S01E09 - Pipe Dreams
+tvdb_episode:337907_9_10  # 9-1-1 S09E10 - Handle with Care
+tvdb_episode:460463_1_10  # 9-1-1: Nashville S01E10 - Let It R.I.P.
+tvdb_episode:337907_9_11  # 9-1-1 S09E11 - Going Once, Going Twice
+tvdb_episode:460463_1_11  # 9-1-1: Nashville S01E11 - Don Begins
+tvdb_episode:337907_9_12  # 9-1-1 S09E12 - Dads and Cads
+tvdb_episode:460463_1_12  # 9-1-1: Nashville S01E12 - Spirit of the Games
+tvdb_episode:337907_9_13  # 9-1-1 S09E13 - Mother's Boy
+tvdb_episode:460463_1_13  # 9-1-1: Nashville S01E13 - Small Potatoes
+tvdb_episode:337907_9_14  # 9-1-1 S09E14 - D.I.Y.
+tvdb_episode:460463_1_14  # 9-1-1: Nashville S01E14 - Hard Knox
+tvdb_episode:337907_9_15  # 9-1-1 S09E15 - Pick Your Poison
+tvdb_episode:460463_1_15  # 9-1-1: Nashville S01E15 - Bad Girls
+tvdb_episode:337907_9_16  # 9-1-1 S09E16 - Where There's Smoke
+tvdb_episode:460463_1_16  # 9-1-1: Nashville S01E16 - Love to Death
+tvdb_episode:337907_9_17  # 9-1-1 S09E17 - I Got You Babe
+tvdb_episode:460463_1_17  # 9-1-1: Nashville S01E17 - Saboteurs
+tvdb_episode:337907_9_18  # 9-1-1 S09E18 - Hearts and Flowers
+tvdb_episode:460463_1_18  # 9-1-1: Nashville S01E18 - Intrusive Thoughts

@@ -1,6 +1,6 @@
 # Last updated: 2026-07-11
-# Scope: NCIS, NCIS: Los Angeles, NCIS: New Orleans, NCIS: Hawaiʻi, NCIS: Sydney, NCIS: Origins, NCIS: Tony & Ziva, and NCIS: New York; excludes Recap/clip specials & JAG (the parent/backdoor-pilot show).
-# Ordered by actual air date and time per TVmaze (airtimes verified per episode)
+# Scope: NCIS, NCIS: Los Angeles, NCIS: New Orleans, NCIS: Hawaiʻi, NCIS: Sydney, NCIS: Origins, NCIS: Tony & Ziva, and NCIS: New York; excludes Recap/clip specials & JAG (the parent/backdoor-pilot show)
+# Ordered by air date and time per TVmaze
 tvdb_episode:72108_1_1  # NCIS S01E01 - Yankee White
 tvdb_episode:72108_1_2  # NCIS S01E02 - Hung Out to Dry
 tvdb_episode:72108_1_3  # NCIS S01E03 - Seadog

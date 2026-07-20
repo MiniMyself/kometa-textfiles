@@ -1,0 +1,257 @@
+# Last updated: 2026-07-19
+# Scope: Buffy the Vampire Slayer and Angel; excludes the 1992 movie
+# Ordered by air date and time per TVmaze
+tvdb_episode:70327_1_1  # Buffy S01E01 - Welcome to the Hellmouth
+tvdb_episode:70327_1_2  # Buffy S01E02 - The Harvest
+tvdb_episode:70327_1_3  # Buffy S01E03 - Witch
+tvdb_episode:70327_1_4  # Buffy S01E04 - Teacher's Pet
+tvdb_episode:70327_1_5  # Buffy S01E05 - Never Kill a Boy on the First Date
+tvdb_episode:70327_1_6  # Buffy S01E06 - The Pack
+tvdb_episode:70327_1_7  # Buffy S01E07 - Angel
+tvdb_episode:70327_1_8  # Buffy S01E08 - I, Robot... You, Jane
+tvdb_episode:70327_1_9  # Buffy S01E09 - The Puppet Show
+tvdb_episode:70327_1_10  # Buffy S01E10 - Nightmares
+tvdb_episode:70327_1_11  # Buffy S01E11 - Out of Mind, Out of Sight
+tvdb_episode:70327_1_12  # Buffy S01E12 - Prophecy Girl
+tvdb_episode:70327_2_1  # Buffy S02E01 - When She Was Bad
+tvdb_episode:70327_2_2  # Buffy S02E02 - Some Assembly Required
+tvdb_episode:70327_2_3  # Buffy S02E03 - School Hard
+tvdb_episode:70327_2_4  # Buffy S02E04 - Inca Mummy Girl
+tvdb_episode:70327_2_5  # Buffy S02E05 - Reptile Boy
+tvdb_episode:70327_2_6  # Buffy S02E06 - Halloween
+tvdb_episode:70327_2_7  # Buffy S02E07 - Lie to Me
+tvdb_episode:70327_2_8  # Buffy S02E08 - The Dark Age
+tvdb_episode:70327_2_9  # Buffy S02E09 - What's My Line?: Part I
+tvdb_episode:70327_2_10  # Buffy S02E10 - What's My Line?: Part II
+tvdb_episode:70327_2_11  # Buffy S02E11 - Ted
+tvdb_episode:70327_2_12  # Buffy S02E12 - Bad Eggs
+tvdb_episode:70327_2_13  # Buffy S02E13 - Surprise
+tvdb_episode:70327_2_14  # Buffy S02E14 - Innocence
+tvdb_episode:70327_2_15  # Buffy S02E15 - Phases
+tvdb_episode:70327_2_16  # Buffy S02E16 - Bewitched, Bothered and Bewildered
+tvdb_episode:70327_2_17  # Buffy S02E17 - Passion
+tvdb_episode:70327_2_18  # Buffy S02E18 - Killed by Death
+tvdb_episode:70327_2_19  # Buffy S02E19 - I Only Have Eyes for You
+tvdb_episode:70327_2_20  # Buffy S02E20 - Go Fish
+tvdb_episode:70327_2_21  # Buffy S02E21 - Becoming: Part I
+tvdb_episode:70327_2_22  # Buffy S02E22 - Becoming: Part II
+tvdb_episode:70327_3_1  # Buffy S03E01 - Anne
+tvdb_episode:70327_3_2  # Buffy S03E02 - Dead Man's Party
+tvdb_episode:70327_3_3  # Buffy S03E03 - Faith, Hope & Trick
+tvdb_episode:70327_3_4  # Buffy S03E04 - Beauty and the Beasts
+tvdb_episode:70327_3_5  # Buffy S03E05 - Homecoming
+tvdb_episode:70327_3_6  # Buffy S03E06 - Band Candy
+tvdb_episode:70327_3_7  # Buffy S03E07 - Revelations
+tvdb_episode:70327_3_8  # Buffy S03E08 - Lovers Walk
+tvdb_episode:70327_3_9  # Buffy S03E09 - The Wish
+tvdb_episode:70327_3_10  # Buffy S03E10 - Amends
+tvdb_episode:70327_3_11  # Buffy S03E11 - Gingerbread
+tvdb_episode:70327_3_12  # Buffy S03E12 - Helpless
+tvdb_episode:70327_3_13  # Buffy S03E13 - The Zeppo
+tvdb_episode:70327_3_14  # Buffy S03E14 - Bad Girls
+tvdb_episode:70327_3_15  # Buffy S03E15 - Consequences
+tvdb_episode:70327_3_16  # Buffy S03E16 - Doppelgangland
+tvdb_episode:70327_3_17  # Buffy S03E17 - Enemies
+tvdb_episode:70327_3_18  # Buffy S03E18 - Earshot
+tvdb_episode:70327_3_19  # Buffy S03E19 - Choices
+tvdb_episode:70327_3_20  # Buffy S03E20 - The Prom
+tvdb_episode:70327_3_21  # Buffy S03E21 - Graduation Day: Part I
+tvdb_episode:70327_3_22  # Buffy S03E22 - Graduation Day: Part II
+tvdb_episode:70327_4_1  # Buffy S04E01 - The Freshman
+tvdb_episode:71035_1_1  # Angel S01E01 - City of
+tvdb_episode:70327_4_2  # Buffy S04E02 - Living Conditions
+tvdb_episode:71035_1_2  # Angel S01E02 - Lonely Hearts
+tvdb_episode:70327_4_3  # Buffy S04E03 - The Harsh Light of Day
+tvdb_episode:71035_1_3  # Angel S01E03 - In the Dark
+tvdb_episode:70327_4_4  # Buffy S04E04 - Fear, Itself
+tvdb_episode:71035_1_4  # Angel S01E04 - I Fall to Pieces
+tvdb_episode:70327_4_5  # Buffy S04E05 - Beer Bad
+tvdb_episode:71035_1_5  # Angel S01E05 - Rm w/a Vu
+tvdb_episode:70327_4_6  # Buffy S04E06 - Wild at Heart
+tvdb_episode:71035_1_6  # Angel S01E06 - Sense & Sensitivity
+tvdb_episode:70327_4_7  # Buffy S04E07 - The Initiative
+tvdb_episode:71035_1_7  # Angel S01E07 - The Bachelor Party
+tvdb_episode:70327_4_8  # Buffy S04E08 - Pangs
+tvdb_episode:71035_1_8  # Angel S01E08 - I Will Remember You
+tvdb_episode:70327_4_9  # Buffy S04E09 - Something Blue
+tvdb_episode:71035_1_9  # Angel S01E09 - Hero
+tvdb_episode:70327_4_10  # Buffy S04E10 - Hush
+tvdb_episode:71035_1_10  # Angel S01E10 - Parting Gifts
+tvdb_episode:70327_4_11  # Buffy S04E11 - Doomed
+tvdb_episode:71035_1_11  # Angel S01E11 - Somnambulist
+tvdb_episode:70327_4_12  # Buffy S04E12 - A New Man
+tvdb_episode:71035_1_12  # Angel S01E12 - Expecting
+tvdb_episode:70327_4_13  # Buffy S04E13 - The I in Team
+tvdb_episode:71035_1_13  # Angel S01E13 - She
+tvdb_episode:70327_4_14  # Buffy S04E14 - Goodbye Iowa
+tvdb_episode:71035_1_14  # Angel S01E14 - I've Got You Under My Skin
+tvdb_episode:70327_4_15  # Buffy S04E15 - This Year's Girl
+tvdb_episode:71035_1_15  # Angel S01E15 - The Prodigal
+tvdb_episode:70327_4_16  # Buffy S04E16 - Who Are You?
+tvdb_episode:71035_1_16  # Angel S01E16 - The Ring
+tvdb_episode:70327_4_17  # Buffy S04E17 - Superstar
+tvdb_episode:71035_1_17  # Angel S01E17 - Eternity
+tvdb_episode:70327_4_18  # Buffy S04E18 - Where the Wild Things Are
+tvdb_episode:71035_1_18  # Angel S01E18 - Five by Five
+tvdb_episode:70327_4_19  # Buffy S04E19 - New Moon Rising
+tvdb_episode:71035_1_19  # Angel S01E19 - Sanctuary
+tvdb_episode:70327_4_20  # Buffy S04E20 - The Yoko Factor
+tvdb_episode:71035_1_20  # Angel S01E20 - War Zone
+tvdb_episode:70327_4_21  # Buffy S04E21 - Primeval
+tvdb_episode:71035_1_21  # Angel S01E21 - Blind Date
+tvdb_episode:70327_4_22  # Buffy S04E22 - Restless
+tvdb_episode:71035_1_22  # Angel S01E22 - To Shanshu in L.A.
+tvdb_episode:70327_5_1  # Buffy S05E01 - Buffy vs. Dracula
+tvdb_episode:71035_2_1  # Angel S02E01 - Judgment
+tvdb_episode:70327_5_2  # Buffy S05E02 - Real Me
+tvdb_episode:71035_2_2  # Angel S02E02 - Are You Now or Have You Ever Been?
+tvdb_episode:70327_5_3  # Buffy S05E03 - The Replacement
+tvdb_episode:71035_2_3  # Angel S02E03 - First Impressions
+tvdb_episode:70327_5_4  # Buffy S05E04 - Out of My Mind
+tvdb_episode:71035_2_4  # Angel S02E04 - Untouched
+tvdb_episode:70327_5_5  # Buffy S05E05 - No Place Like Home
+tvdb_episode:71035_2_5  # Angel S02E05 - Dear Boy
+tvdb_episode:70327_5_6  # Buffy S05E06 - Family
+tvdb_episode:71035_2_6  # Angel S02E06 - Guise Will Be Guise
+tvdb_episode:70327_5_7  # Buffy S05E07 - Fool for Love
+tvdb_episode:71035_2_7  # Angel S02E07 - Darla
+tvdb_episode:70327_5_8  # Buffy S05E08 - Shadow
+tvdb_episode:71035_2_8  # Angel S02E08 - The Shroud of Rahmon
+tvdb_episode:70327_5_9  # Buffy S05E09 - Listening to Fear
+tvdb_episode:71035_2_9  # Angel S02E09 - The Trial
+tvdb_episode:70327_5_10  # Buffy S05E10 - Into the Woods
+tvdb_episode:71035_2_10  # Angel S02E10 - Reunion
+tvdb_episode:70327_5_11  # Buffy S05E11 - Triangle
+tvdb_episode:71035_2_11  # Angel S02E11 - Redefinition
+tvdb_episode:70327_5_12  # Buffy S05E12 - Checkpoint
+tvdb_episode:71035_2_12  # Angel S02E12 - Blood Money
+tvdb_episode:70327_5_13  # Buffy S05E13 - Blood Ties
+tvdb_episode:71035_2_13  # Angel S02E13 - Happy Anniversary
+tvdb_episode:70327_5_14  # Buffy S05E14 - Crush
+tvdb_episode:71035_2_14  # Angel S02E14 - The Thin Dead Line
+tvdb_episode:70327_5_15  # Buffy S05E15 - I Was Made to Love You
+tvdb_episode:71035_2_15  # Angel S02E15 - Reprise
+tvdb_episode:70327_5_16  # Buffy S05E16 - The Body
+tvdb_episode:71035_2_16  # Angel S02E16 - Epiphany
+tvdb_episode:70327_5_17  # Buffy S05E17 - Forever
+tvdb_episode:71035_2_17  # Angel S02E17 - Disharmony
+tvdb_episode:70327_5_18  # Buffy S05E18 - Intervention
+tvdb_episode:71035_2_18  # Angel S02E18 - Dead End
+tvdb_episode:70327_5_19  # Buffy S05E19 - Tough Love
+tvdb_episode:71035_2_19  # Angel S02E19 - Belonging
+tvdb_episode:70327_5_20  # Buffy S05E20 - Spiral
+tvdb_episode:71035_2_20  # Angel S02E20 - Over the Rainbow
+tvdb_episode:70327_5_21  # Buffy S05E21 - The Weight of the World
+tvdb_episode:71035_2_21  # Angel S02E21 - Through the Looking Glass
+tvdb_episode:70327_5_22  # Buffy S05E22 - The Gift
+tvdb_episode:71035_2_22  # Angel S02E22 - There's No Place Like Plrtz Glrb
+tvdb_episode:71035_3_1  # Angel S03E01 - Heartthrob
+tvdb_episode:71035_3_2  # Angel S03E02 - That Vision Thing
+tvdb_episode:70327_6_1  # Buffy S06E01 - Bargaining - Part 1
+tvdb_episode:70327_6_2  # Buffy S06E02 - Bargaining - Part 2
+tvdb_episode:71035_3_3  # Angel S03E03 - That Old Gang of Mine
+tvdb_episode:70327_6_3  # Buffy S06E03 - After Life
+tvdb_episode:71035_3_4  # Angel S03E04 - Carpe Noctem
+tvdb_episode:70327_6_4  # Buffy S06E04 - Flooded
+tvdb_episode:71035_3_5  # Angel S03E05 - Fredless
+tvdb_episode:70327_6_5  # Buffy S06E05 - Life Serial
+tvdb_episode:71035_3_6  # Angel S03E06 - Billy
+tvdb_episode:70327_6_6  # Buffy S06E06 - All the Way
+tvdb_episode:71035_3_7  # Angel S03E07 - Offspring
+tvdb_episode:70327_6_7  # Buffy S06E07 - Once More, with Feeling
+tvdb_episode:71035_3_8  # Angel S03E08 - Quickening
+tvdb_episode:70327_6_8  # Buffy S06E08 - Tabula Rasa
+tvdb_episode:71035_3_9  # Angel S03E09 - Lullaby
+tvdb_episode:70327_6_9  # Buffy S06E09 - Smashed
+tvdb_episode:70327_6_10  # Buffy S06E10 - Wrecked
+tvdb_episode:71035_3_10  # Angel S03E10 - Dad
+tvdb_episode:70327_6_11  # Buffy S06E11 - Gone
+tvdb_episode:71035_3_11  # Angel S03E11 - Birthday
+tvdb_episode:71035_3_12  # Angel S03E12 - Provider
+tvdb_episode:70327_6_12  # Buffy S06E12 - Doublemeat Palace
+tvdb_episode:71035_3_13  # Angel S03E13 - Waiting in the Wings
+tvdb_episode:70327_6_13  # Buffy S06E13 - Dead Things
+tvdb_episode:70327_6_14  # Buffy S06E14 - Older and Far Away
+tvdb_episode:71035_3_14  # Angel S03E14 - Couplet
+tvdb_episode:71035_3_15  # Angel S03E15 - Loyalty
+tvdb_episode:70327_6_15  # Buffy S06E15 - As You Were
+tvdb_episode:71035_3_16  # Angel S03E16 - Sleep Tight
+tvdb_episode:70327_6_16  # Buffy S06E16 - Hell's Bells
+tvdb_episode:70327_6_17  # Buffy S06E17 - Normal Again
+tvdb_episode:71035_3_17  # Angel S03E17 - Forgiving
+tvdb_episode:71035_3_18  # Angel S03E18 - Double or Nothing
+tvdb_episode:71035_3_19  # Angel S03E19 - The Price
+tvdb_episode:70327_6_18  # Buffy S06E18 - Entropy
+tvdb_episode:71035_3_20  # Angel S03E20 - A New World
+tvdb_episode:70327_6_19  # Buffy S06E19 - Seeing Red
+tvdb_episode:71035_3_21  # Angel S03E21 - Benediction
+tvdb_episode:70327_6_20  # Buffy S06E20 - Villains
+tvdb_episode:71035_3_22  # Angel S03E22 - Tomorrow
+tvdb_episode:70327_6_21  # Buffy S06E21 - Two to Go
+tvdb_episode:70327_6_22  # Buffy S06E22 - Grave
+tvdb_episode:70327_7_1  # Buffy S07E01 - Lessons
+tvdb_episode:70327_7_2  # Buffy S07E02 - Beneath You
+tvdb_episode:71035_4_1  # Angel S04E01 - Deep Down
+tvdb_episode:70327_7_3  # Buffy S07E03 - Same Time, Same Place
+tvdb_episode:71035_4_2  # Angel S04E02 - Ground State
+tvdb_episode:70327_7_4  # Buffy S07E04 - Help
+tvdb_episode:71035_4_3  # Angel S04E03 - The House Always Wins
+tvdb_episode:70327_7_5  # Buffy S07E05 - Selfless
+tvdb_episode:71035_4_4  # Angel S04E04 - Slouching Toward Bethlehem
+tvdb_episode:71035_4_5  # Angel S04E05 - Supersymmetry
+tvdb_episode:70327_7_6  # Buffy S07E06 - Him
+tvdb_episode:71035_4_6  # Angel S04E06 - Spin the Bottle
+tvdb_episode:70327_7_7  # Buffy S07E07 - Conversations with Dead People
+tvdb_episode:71035_4_7  # Angel S04E07 - Apocalypse, Nowish
+tvdb_episode:70327_7_8  # Buffy S07E08 - Sleeper
+tvdb_episode:70327_7_9  # Buffy S07E09 - Never Leave Me
+tvdb_episode:70327_7_10  # Buffy S07E10 - Bring on the Night
+tvdb_episode:70327_7_11  # Buffy S07E11 - Showtime
+tvdb_episode:71035_4_8  # Angel S04E08 - Habeas Corpses
+tvdb_episode:70327_7_12  # Buffy S07E12 - Potential
+tvdb_episode:71035_4_9  # Angel S04E09 - Long Day's Journey
+tvdb_episode:71035_4_10  # Angel S04E10 - Awakening
+tvdb_episode:70327_7_13  # Buffy S07E13 - The Killer in Me
+tvdb_episode:71035_4_11  # Angel S04E11 - Soulless
+tvdb_episode:70327_7_14  # Buffy S07E14 - First Date
+tvdb_episode:71035_4_12  # Angel S04E12 - Calvary
+tvdb_episode:70327_7_15  # Buffy S07E15 - Get It Done
+tvdb_episode:70327_7_16  # Buffy S07E16 - Storyteller
+tvdb_episode:71035_4_13  # Angel S04E13 - Salvage
+tvdb_episode:71035_4_14  # Angel S04E14 - Release
+tvdb_episode:71035_4_15  # Angel S04E15 - Orpheus
+tvdb_episode:70327_7_17  # Buffy S07E17 - Lies My Parents Told Me
+tvdb_episode:71035_4_16  # Angel S04E16 - Players
+tvdb_episode:71035_4_17  # Angel S04E17 - Inside Out
+tvdb_episode:71035_4_18  # Angel S04E18 - Shiny Happy People
+tvdb_episode:70327_7_18  # Buffy S07E18 - Dirty Girls
+tvdb_episode:71035_4_19  # Angel S04E19 - The Magic Bullet
+tvdb_episode:71035_4_20  # Angel S04E20 - Sacrifice
+tvdb_episode:70327_7_19  # Buffy S07E19 - Empty Places
+tvdb_episode:71035_4_21  # Angel S04E21 - Peace Out
+tvdb_episode:70327_7_20  # Buffy S07E20 - Touched
+tvdb_episode:71035_4_22  # Angel S04E22 - Home
+tvdb_episode:70327_7_21  # Buffy S07E21 - End of Days
+tvdb_episode:70327_7_22  # Buffy S07E22 - Chosen
+tvdb_episode:71035_5_1  # Angel S05E01 - Conviction
+tvdb_episode:71035_5_2  # Angel S05E02 - Just Rewards
+tvdb_episode:71035_5_3  # Angel S05E03 - Unleashed
+tvdb_episode:71035_5_4  # Angel S05E04 - Hell Bound
+tvdb_episode:71035_5_5  # Angel S05E05 - Life of the Party
+tvdb_episode:71035_5_6  # Angel S05E06 - The Cautionary Tale of Numero Cinco
+tvdb_episode:71035_5_7  # Angel S05E07 - Lineage
+tvdb_episode:71035_5_8  # Angel S05E08 - Destiny
+tvdb_episode:71035_5_9  # Angel S05E09 - Harm's Way
+tvdb_episode:71035_5_10  # Angel S05E10 - Soul Purpose
+tvdb_episode:71035_5_11  # Angel S05E11 - Damage
+tvdb_episode:71035_5_12  # Angel S05E12 - You're Welcome
+tvdb_episode:71035_5_13  # Angel S05E13 - Why We Fight
+tvdb_episode:71035_5_14  # Angel S05E14 - Smile Time
+tvdb_episode:71035_5_15  # Angel S05E15 - A Hole in the World
+tvdb_episode:71035_5_16  # Angel S05E16 - Shells
+tvdb_episode:71035_5_17  # Angel S05E17 - Underneath
+tvdb_episode:71035_5_18  # Angel S05E18 - Origin
+tvdb_episode:71035_5_19  # Angel S05E19 - Time Bomb
+tvdb_episode:71035_5_20  # Angel S05E20 - The Girl in Question
+tvdb_episode:71035_5_21  # Angel S05E21 - Power Play
+tvdb_episode:71035_5_22  # Angel S05E22 - Not Fade Away

@@ -1,6 +1,6 @@
 # Last updated: 2026-07-19
 # Scope: Yellowstone, 1883, 1923, Marshals, Dutton Ranch; excludes the greater-Duttonverse Lawmen: Bass Reeves
-# Ordered by actual air date and time per TVmaze
+# Ordered by air date and time per TVmaze
 tvdb_episode:341164_1_1  # Yellowstone S01E01 - Daybreak
 tvdb_episode:341164_1_2  # Yellowstone S01E02 - Kill the Messenger
 tvdb_episode:341164_1_3  # Yellowstone S01E03 - No Good Horses

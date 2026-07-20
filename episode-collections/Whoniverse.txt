@@ -1,0 +1,1027 @@
+# Last updated: 2026-07-20
+# Scope: Doctor Who (1963), Doctor Who (2005), Doctor Who (2023), Torchwood, The Sarah Jane Adventures, K9, Class and The War Between the Land and the Sea, all specials (The Five Doctors and the modern holiday/anniversary specials); excludes the never-broadcast serial Shada (Season 17), Tales of the TARDIS, minisodes and the 1996 TV Movie
+# Ordered by air date and time per TVmaze
+tvdb_episode:76107_1_1  # S01E01 - An Unearthly Child (An Unearthly Child, Part One)
+tvdb_episode:76107_1_2  # S01E02 - The Cave of Skulls (An Unearthly Child, Part Two)
+tvdb_episode:76107_1_3  # S01E03 - The Forest of Fear (An Unearthly Child, Part Three)
+tvdb_episode:76107_1_4  # S01E04 - The Firemaker (An Unearthly Child, Part Four)
+tvdb_episode:76107_1_5  # S01E05 - The Dead Planet (The Daleks, Part One)
+tvdb_episode:76107_1_6  # S01E06 - The Survivors (The Daleks, Part Two)
+tvdb_episode:76107_1_7  # S01E07 - The Escape (The Daleks, Part Three)
+tvdb_episode:76107_1_8  # S01E08 - The Ambush (The Daleks, Part Four)
+tvdb_episode:76107_1_9  # S01E09 - The Expedition (The Daleks, Part Five)
+tvdb_episode:76107_1_10  # S01E10 - The Ordeal (The Daleks, Part Six)
+tvdb_episode:76107_1_11  # S01E11 - The Rescue (The Daleks, Part Seven)
+tvdb_episode:76107_1_12  # S01E12 - The Edge of Destruction (The Edge of Destruction, Part One)
+tvdb_episode:76107_1_13  # S01E13 - The Brink of Disaster (The Edge of Destruction, Part Two)
+tvdb_episode:76107_1_14  # S01E14 - The Roof of the World (Marco Polo, Part One)
+tvdb_episode:76107_1_15  # S01E15 - The Singing Sands (Marco Polo, Part Two)
+tvdb_episode:76107_1_16  # S01E16 - Five Hundred Eyes (Marco Polo, Part Three)
+tvdb_episode:76107_1_17  # S01E17 - The Wall of Lies (Marco Polo, Part Four)
+tvdb_episode:76107_1_18  # S01E18 - Rider From Shang-Tu (Marco Polo, Part Five)
+tvdb_episode:76107_1_19  # S01E19 - Mighty Kublai Khan (Marco Polo, Part Six)
+tvdb_episode:76107_1_20  # S01E20 - Assassin at Peking (Marco Polo, Part Seven)
+tvdb_episode:76107_1_21  # S01E21 - The Sea of Death (The Keys of Marinus, Part One)
+tvdb_episode:76107_1_22  # S01E22 - The Velvet Web (The Keys of Marinus, Part Two)
+tvdb_episode:76107_1_23  # S01E23 - The Screaming Jungle (The Keys of Marinus, Part Three)
+tvdb_episode:76107_1_24  # S01E24 - The Snows of Terror (The Keys of Marinus, Part Four)
+tvdb_episode:76107_1_25  # S01E25 - Sentence of Death (The Keys of Marinus, Part Five)
+tvdb_episode:76107_1_26  # S01E26 - The Keys of Marinus (The Keys of Marinus, Part Six)
+tvdb_episode:76107_1_27  # S01E27 - The Temple of Evil (The Aztecs, Part One)
+tvdb_episode:76107_1_28  # S01E28 - The Warriors of Death (The Aztecs, Part Two)
+tvdb_episode:76107_1_29  # S01E29 - The Bride of Sacrifice (The Aztecs, Part Three)
+tvdb_episode:76107_1_30  # S01E30 - The Day of Darkness (The Aztecs, Part Four)
+tvdb_episode:76107_1_31  # S01E31 - Strangers in Space (The Sensorites, Part One)
+tvdb_episode:76107_1_32  # S01E32 - The Unwilling Warriors (The Sensorites, Part Two)
+tvdb_episode:76107_1_33  # S01E33 - Hidden Danger (The Sensorites, Part Three)
+tvdb_episode:76107_1_34  # S01E34 - A Race Against Death (The Sensorites, Part Four)
+tvdb_episode:76107_1_35  # S01E35 - Kidnap (The Sensorites, Part Five)
+tvdb_episode:76107_1_36  # S01E36 - A Desperate Venture (The Sensorites, Part Six)
+tvdb_episode:76107_1_37  # S01E37 - A Land of Fear (The Reign of Terror, Part One)
+tvdb_episode:76107_1_38  # S01E38 - Guests of Madame Guillotine (The Reign of Terror, Part Two)
+tvdb_episode:76107_1_39  # S01E39 - A Change of Identity (The Reign of Terror, Part Three)
+tvdb_episode:76107_1_40  # S01E40 - The Tyrant of France (The Reign of Terror, Part Four)
+tvdb_episode:76107_1_41  # S01E41 - A Bargain of Necessity (The Reign of Terror, Part Five)
+tvdb_episode:76107_1_42  # S01E42 - Prisoners of Conciergerie (The Reign of Terror, Part Six)
+tvdb_episode:76107_2_1  # S02E01 - Planet of Giants (Planet of Giants, Part One)
+tvdb_episode:76107_2_2  # S02E02 - Dangerous Journey (Planet of Giants, Part Two)
+tvdb_episode:76107_2_3  # S02E03 - Crisis (Planet of Giants, Part Three)
+tvdb_episode:76107_2_4  # S02E04 - World's End (The Dalek Invasion of Earth, Part One)
+tvdb_episode:76107_2_5  # S02E05 - The Daleks (The Dalek Invasion of Earth, Part Two)
+tvdb_episode:76107_2_6  # S02E06 - Day of Reckoning (The Dalek Invasion of Earth, Part Three)
+tvdb_episode:76107_2_7  # S02E07 - The End of Tomorrow (The Dalek Invasion of Earth, Part Four)
+tvdb_episode:76107_2_8  # S02E08 - The Waking Ally (The Dalek Invasion of Earth, Part Five)
+tvdb_episode:76107_2_9  # S02E09 - Flashpoint (The Dalek Invasion of Earth, Part Six)
+tvdb_episode:76107_2_10  # S02E10 - The Powerful Enemy (The Rescue, Part One)
+tvdb_episode:76107_2_11  # S02E11 - Desperate Measures (The Rescue, Part Two)
+tvdb_episode:76107_2_12  # S02E12 - The Slave Traders (The Romans, Part One)
+tvdb_episode:76107_2_13  # S02E13 - All Roads Lead to Rome (The Romans, Part Two)
+tvdb_episode:76107_2_14  # S02E14 - Conspiracy (The Romans, Part Three)
+tvdb_episode:76107_2_15  # S02E15 - Inferno (The Romans, Part Four)
+tvdb_episode:76107_2_16  # S02E16 - The Web Planet (The Web Planet, Part One)
+tvdb_episode:76107_2_17  # S02E17 - The Zarbi (The Web Planet, Part Two)
+tvdb_episode:76107_2_18  # S02E18 - Escape to Danger (The Web Planet, Part Three)
+tvdb_episode:76107_2_19  # S02E19 - Crater of Needles (The Web Planet, Part Four)
+tvdb_episode:76107_2_20  # S02E20 - Invasion (The Web Planet, Part Five)
+tvdb_episode:76107_2_21  # S02E21 - The Centre (The Web Planet, Part Six)
+tvdb_episode:76107_2_22  # S02E22 - The Lion (The Crusade, Part One)
+tvdb_episode:76107_2_23  # S02E23 - The Knight of Jaffa (The Crusade, Part Two)
+tvdb_episode:76107_2_24  # S02E24 - The Wheel of Fortune (The Crusade, Part Three)
+tvdb_episode:76107_2_25  # S02E25 - The Warlords (The Crusade, Part Four)
+tvdb_episode:76107_2_26  # S02E26 - The Space Museum (The Space Museum, Part One)
+tvdb_episode:76107_2_27  # S02E27 - The Dimensions of Time (The Space Museum, Part Two)
+tvdb_episode:76107_2_28  # S02E28 - The Search (The Space Museum, Part Three)
+tvdb_episode:76107_2_29  # S02E29 - The Final Phase (The Space Museum, Part Four)
+tvdb_episode:76107_2_30  # S02E30 - The Executioners (The Chase, Part One)
+tvdb_episode:76107_2_31  # S02E31 - The Death of Time (The Chase, Part Two)
+tvdb_episode:76107_2_32  # S02E32 - Flight through Eternity (The Chase, Part Three)
+tvdb_episode:76107_2_33  # S02E33 - Journey into Terror (The Chase, Part Four)
+tvdb_episode:76107_2_34  # S02E34 - The Death of Doctor Who (The Chase, Part Five)
+tvdb_episode:76107_2_35  # S02E35 - The Planet of Decision (The Chase, Part Six)
+tvdb_episode:76107_2_36  # S02E36 - The Watcher (The Time Meddler, Part One)
+tvdb_episode:76107_2_37  # S02E37 - The Meddling Monk (The Time Meddler, Part Two)
+tvdb_episode:76107_2_38  # S02E38 - A Battle of Wits (The Time Meddler, Part Three)
+tvdb_episode:76107_2_39  # S02E39 - Checkmate (The Time Meddler, Part Four)
+tvdb_episode:76107_3_1  # S03E01 - Four Hundred Dawns (Galaxy 4, Part One)
+tvdb_episode:76107_3_2  # S03E02 - Trap of Steel (Galaxy 4, Part Two)
+tvdb_episode:76107_3_3  # S03E03 - Air Lock (Galaxy 4, Part Three)
+tvdb_episode:76107_3_4  # S03E04 - The Exploding Planet (Galaxy 4, Part Four)
+tvdb_episode:76107_3_5  # S03E05 - Mission to the Unknown
+tvdb_episode:76107_3_6  # S03E06 - Temple of Secrets (The Myth Makers, Part One)
+tvdb_episode:76107_3_7  # S03E07 - Small Prophet, Quick Return (The Myth Makers, Part Two)
+tvdb_episode:76107_3_8  # S03E08 - Death of a Spy (The Myth Makers, Part Three)
+tvdb_episode:76107_3_9  # S03E09 - Horse of Destruction (The Myth Makers, Part Four)
+tvdb_episode:76107_3_10  # S03E10 - The Nightmare Begins (The Daleks' Master Plan, Part One)
+tvdb_episode:76107_3_11  # S03E11 - Day of Armageddon (The Daleks' Master Plan, Part Two)
+tvdb_episode:76107_3_12  # S03E12 - Devil's Planet (The Daleks' Master Plan, Part Three)
+tvdb_episode:76107_3_13  # S03E13 - The Traitors (The Daleks' Master Plan, Part Four)
+tvdb_episode:76107_3_14  # S03E14 - Counter Plot (The Daleks' Master Plan, Part Five)
+tvdb_episode:76107_3_15  # S03E15 - Coronas of the Sun (The Daleks' Master Plan, Part Six)
+tvdb_episode:76107_3_16  # S03E16 - The Feast of Steven (The Daleks' Master Plan, Part Seven)
+tvdb_episode:76107_3_17  # S03E17 - Volcano (The Daleks' Master Plan, Part Eight)
+tvdb_episode:76107_3_18  # S03E18 - Golden Death (The Daleks' Master Plan, Part Nine)
+tvdb_episode:76107_3_19  # S03E19 - Escape Switch (The Daleks' Master Plan, Part Ten)
+tvdb_episode:76107_3_20  # S03E20 - The Abandoned Planet (The Daleks' Master Plan, Part Eleven)
+tvdb_episode:76107_3_21  # S03E21 - Destruction of Time (The Daleks' Master Plan, Part Twelve)
+tvdb_episode:76107_3_22  # S03E22 - War of God (The Massacre of St Bartholomew's Eve, Part One)
+tvdb_episode:76107_3_23  # S03E23 - The Sea Beggar (The Massacre of St Bartholomew's Eve, Part Two)
+tvdb_episode:76107_3_24  # S03E24 - Priest of Death (The Massacre of St Bartholomew's Eve, Part Three)
+tvdb_episode:76107_3_25  # S03E25 - Bell of Doom (The Massacre of St Bartholomew's Eve, Part Four)
+tvdb_episode:76107_3_26  # S03E26 - The Steel Sky (The Ark, Part One)
+tvdb_episode:76107_3_27  # S03E27 - The Plague (The Ark, Part Two)
+tvdb_episode:76107_3_28  # S03E28 - The Return (The Ark, Part Three)
+tvdb_episode:76107_3_29  # S03E29 - The Bomb (The Ark, Part Four)
+tvdb_episode:76107_3_30  # S03E30 - The Celestial Toyroom (The Celestial Toymaker, Part One)
+tvdb_episode:76107_3_31  # S03E31 - The Hall of Dolls (The Celestial Toymaker, Part Two)
+tvdb_episode:76107_3_32  # S03E32 - The Dancing Floor (The Celestial Toymaker, Part Three)
+tvdb_episode:76107_3_33  # S03E33 - The Final Test (The Celestial Toymaker, Part Four)
+tvdb_episode:76107_3_34  # S03E34 - A Holiday for the Doctor (The Gunfighters, Part One)
+tvdb_episode:76107_3_35  # S03E35 - Don't Shoot the Pianist (The Gunfighters, Part Two)
+tvdb_episode:76107_3_36  # S03E36 - Johnny Ringo (The Gunfighters, Part Three)
+tvdb_episode:76107_3_37  # S03E37 - The O.K. Corral (The Gunfighters, Part Four)
+tvdb_episode:76107_3_38  # S03E38 - The Savages, Part One
+tvdb_episode:76107_3_39  # S03E39 - The Savages, Part Two
+tvdb_episode:76107_3_40  # S03E40 - The Savages, Part Three
+tvdb_episode:76107_3_41  # S03E41 - The Savages, Part Four
+tvdb_episode:76107_3_42  # S03E42 - The War Machines, Part One
+tvdb_episode:76107_3_43  # S03E43 - The War Machines, Part Two
+tvdb_episode:76107_3_44  # S03E44 - The War Machines, Part Three
+tvdb_episode:76107_3_45  # S03E45 - The War Machines, Part Four
+tvdb_episode:76107_4_1  # S04E01 - The Smugglers, Part One
+tvdb_episode:76107_4_2  # S04E02 - The Smugglers, Part Two
+tvdb_episode:76107_4_3  # S04E03 - The Smugglers, Part Three
+tvdb_episode:76107_4_4  # S04E04 - The Smugglers, Part Four
+tvdb_episode:76107_4_5  # S04E05 - The Tenth Planet, Part One
+tvdb_episode:76107_4_6  # S04E06 - The Tenth Planet, Part Two
+tvdb_episode:76107_4_7  # S04E07 - The Tenth Planet, Part Three
+tvdb_episode:76107_4_8  # S04E08 - The Tenth Planet, Part Four
+tvdb_episode:76107_4_9  # S04E09 - The Power of the Daleks, Part One
+tvdb_episode:76107_4_10  # S04E10 - The Power of the Daleks, Part Two
+tvdb_episode:76107_4_11  # S04E11 - The Power of the Daleks, Part Three
+tvdb_episode:76107_4_12  # S04E12 - The Power of the Daleks, Part Four
+tvdb_episode:76107_4_13  # S04E13 - The Power of the Daleks, Part Five
+tvdb_episode:76107_4_14  # S04E14 - The Power of the Daleks, Part Six
+tvdb_episode:76107_4_15  # S04E15 - The Highlanders, Part One
+tvdb_episode:76107_4_16  # S04E16 - The Highlanders, Part Two
+tvdb_episode:76107_4_17  # S04E17 - The Highlanders, Part Three
+tvdb_episode:76107_4_18  # S04E18 - The Highlanders, Part Four
+tvdb_episode:76107_4_19  # S04E19 - The Underwater Menace, Part One
+tvdb_episode:76107_4_20  # S04E20 - The Underwater Menace, Part Two
+tvdb_episode:76107_4_21  # S04E21 - The Underwater Menace, Part Three
+tvdb_episode:76107_4_22  # S04E22 - The Underwater Menace, Part Four
+tvdb_episode:76107_4_23  # S04E23 - The Moonbase, Part One
+tvdb_episode:76107_4_24  # S04E24 - The Moonbase, Part Two
+tvdb_episode:76107_4_25  # S04E25 - The Moonbase, Part Three
+tvdb_episode:76107_4_26  # S04E26 - The Moonbase, Part Four
+tvdb_episode:76107_4_27  # S04E27 - The Macra Terror, Part One
+tvdb_episode:76107_4_28  # S04E28 - The Macra Terror, Part Two
+tvdb_episode:76107_4_29  # S04E29 - The Macra Terror, Part Three
+tvdb_episode:76107_4_30  # S04E30 - The Macra Terror, Part Four
+tvdb_episode:76107_4_31  # S04E31 - The Faceless Ones, Part One
+tvdb_episode:76107_4_32  # S04E32 - The Faceless Ones, Part Two
+tvdb_episode:76107_4_33  # S04E33 - The Faceless Ones, Part Three
+tvdb_episode:76107_4_34  # S04E34 - The Faceless Ones, Part Four
+tvdb_episode:76107_4_35  # S04E35 - The Faceless Ones, Part Five
+tvdb_episode:76107_4_36  # S04E36 - The Faceless Ones, Part Six
+tvdb_episode:76107_4_37  # S04E37 - The Evil of the Daleks, Part One
+tvdb_episode:76107_4_38  # S04E38 - The Evil of the Daleks, Part Two
+tvdb_episode:76107_4_39  # S04E39 - The Evil of the Daleks, Part Three
+tvdb_episode:76107_4_40  # S04E40 - The Evil of the Daleks, Part Four
+tvdb_episode:76107_4_41  # S04E41 - The Evil of the Daleks, Part Five
+tvdb_episode:76107_4_42  # S04E42 - The Evil of the Daleks, Part Six
+tvdb_episode:76107_4_43  # S04E43 - The Evil of the Daleks, Part Seven
+tvdb_episode:76107_5_1  # S05E01 - The Tomb of the Cybermen, Part One
+tvdb_episode:76107_5_2  # S05E02 - The Tomb of the Cybermen, Part Two
+tvdb_episode:76107_5_3  # S05E03 - The Tomb of the Cybermen, Part Three
+tvdb_episode:76107_5_4  # S05E04 - The Tomb of the Cybermen, Part Four
+tvdb_episode:76107_5_5  # S05E05 - The Abominable Snowmen, Part One
+tvdb_episode:76107_5_6  # S05E06 - The Abominable Snowmen, Part Two
+tvdb_episode:76107_5_7  # S05E07 - The Abominable Snowmen, Part Three
+tvdb_episode:76107_5_8  # S05E08 - The Abominable Snowmen, Part Four
+tvdb_episode:76107_5_9  # S05E09 - The Abominable Snowmen, Part Five
+tvdb_episode:76107_5_10  # S05E10 - The Abominable Snowmen, Part Six
+tvdb_episode:76107_5_11  # S05E11 - The Ice Warriors, Part One
+tvdb_episode:76107_5_12  # S05E12 - The Ice Warriors, Part Two
+tvdb_episode:76107_5_13  # S05E13 - The Ice Warriors, Part Three
+tvdb_episode:76107_5_14  # S05E14 - The Ice Warriors, Part Four
+tvdb_episode:76107_5_15  # S05E15 - The Ice Warriors, Part Five
+tvdb_episode:76107_5_16  # S05E16 - The Ice Warriors, Part Six
+tvdb_episode:76107_5_17  # S05E17 - The Enemy of the World, Part One
+tvdb_episode:76107_5_18  # S05E18 - The Enemy of the World, Part Two
+tvdb_episode:76107_5_19  # S05E19 - The Enemy of the World, Part Three
+tvdb_episode:76107_5_20  # S05E20 - The Enemy of the World, Part Four
+tvdb_episode:76107_5_21  # S05E21 - The Enemy of the World, Part Five
+tvdb_episode:76107_5_22  # S05E22 - The Enemy of the World, Part Six
+tvdb_episode:76107_5_23  # S05E23 - The Web of Fear, Part One
+tvdb_episode:76107_5_24  # S05E24 - The Web of Fear, Part Two
+tvdb_episode:76107_5_25  # S05E25 - The Web of Fear, Part Three
+tvdb_episode:76107_5_26  # S05E26 - The Web of Fear, Part Four
+tvdb_episode:76107_5_27  # S05E27 - The Web of Fear, Part Five
+tvdb_episode:76107_5_28  # S05E28 - The Web of Fear, Part Six
+tvdb_episode:76107_5_29  # S05E29 - Fury from the Deep, Part One
+tvdb_episode:76107_5_30  # S05E30 - Fury from the Deep, Part Two
+tvdb_episode:76107_5_31  # S05E31 - Fury from the Deep, Part Three
+tvdb_episode:76107_5_32  # S05E32 - Fury from the Deep, Part Four
+tvdb_episode:76107_5_33  # S05E33 - Fury from the Deep, Part Five
+tvdb_episode:76107_5_34  # S05E34 - Fury from the Deep, Part Six
+tvdb_episode:76107_5_35  # S05E35 - The Wheel in Space, Part One
+tvdb_episode:76107_5_36  # S05E36 - The Wheel in Space, Part Two
+tvdb_episode:76107_5_37  # S05E37 - The Wheel in Space, Part Three
+tvdb_episode:76107_5_38  # S05E38 - The Wheel in Space, Part Four
+tvdb_episode:76107_5_39  # S05E39 - The Wheel in Space, Part Five
+tvdb_episode:76107_5_40  # S05E40 - The Wheel in Space, Part Six
+tvdb_episode:76107_6_1  # S06E01 - The Dominators, Part One
+tvdb_episode:76107_6_2  # S06E02 - The Dominators, Part Two
+tvdb_episode:76107_6_3  # S06E03 - The Dominators, Part Three
+tvdb_episode:76107_6_4  # S06E04 - The Dominators, Part Four
+tvdb_episode:76107_6_5  # S06E05 - The Dominators, Part Five
+tvdb_episode:76107_6_6  # S06E06 - The Mind Robber, Part One
+tvdb_episode:76107_6_7  # S06E07 - The Mind Robber, Part Two
+tvdb_episode:76107_6_8  # S06E08 - The Mind Robber, Part Three
+tvdb_episode:76107_6_9  # S06E09 - The Mind Robber, Part Four
+tvdb_episode:76107_6_10  # S06E10 - The Mind Robber, Part Five
+tvdb_episode:76107_6_11  # S06E11 - The Invasion, Part One
+tvdb_episode:76107_6_12  # S06E12 - The Invasion, Part Two
+tvdb_episode:76107_6_13  # S06E13 - The Invasion, Part Three
+tvdb_episode:76107_6_14  # S06E14 - The Invasion, Part Four
+tvdb_episode:76107_6_15  # S06E15 - The Invasion, Part Five
+tvdb_episode:76107_6_16  # S06E16 - The Invasion, Part Six
+tvdb_episode:76107_6_17  # S06E17 - The Invasion, Part Seven
+tvdb_episode:76107_6_18  # S06E18 - The Invasion, Part Eight
+tvdb_episode:76107_6_19  # S06E19 - The Krotons, Part One
+tvdb_episode:76107_6_20  # S06E20 - The Krotons, Part Two
+tvdb_episode:76107_6_21  # S06E21 - The Krotons, Part Three
+tvdb_episode:76107_6_22  # S06E22 - The Krotons, Part Four
+tvdb_episode:76107_6_23  # S06E23 - The Seeds of Death, Part One
+tvdb_episode:76107_6_24  # S06E24 - The Seeds of Death, Part Two
+tvdb_episode:76107_6_25  # S06E25 - The Seeds of Death, Part Three
+tvdb_episode:76107_6_26  # S06E26 - The Seeds of Death, Part Four
+tvdb_episode:76107_6_27  # S06E27 - The Seeds of Death, Part Five
+tvdb_episode:76107_6_28  # S06E28 - The Seeds of Death, Part Six
+tvdb_episode:76107_6_29  # S06E29 - The Space Pirates, Part One
+tvdb_episode:76107_6_30  # S06E30 - The Space Pirates, Part Two
+tvdb_episode:76107_6_31  # S06E31 - The Space Pirates, Part Three
+tvdb_episode:76107_6_32  # S06E32 - The Space Pirates, Part Four
+tvdb_episode:76107_6_33  # S06E33 - The Space Pirates, Part Five
+tvdb_episode:76107_6_34  # S06E34 - The Space Pirates, Part Six
+tvdb_episode:76107_6_35  # S06E35 - The War Games, Part One
+tvdb_episode:76107_6_36  # S06E36 - The War Games, Part Two
+tvdb_episode:76107_6_37  # S06E37 - The War Games, Part Three
+tvdb_episode:76107_6_38  # S06E38 - The War Games, Part Four
+tvdb_episode:76107_6_39  # S06E39 - The War Games, Part Five
+tvdb_episode:76107_6_40  # S06E40 - The War Games, Part Six
+tvdb_episode:76107_6_41  # S06E41 - The War Games, Part Seven
+tvdb_episode:76107_6_42  # S06E42 - The War Games, Part Eight
+tvdb_episode:76107_6_43  # S06E43 - The War Games, Part Nine
+tvdb_episode:76107_6_44  # S06E44 - The War Games, Part Ten
+tvdb_episode:76107_7_1  # S07E01 - Spearhead from Space, Part One
+tvdb_episode:76107_7_2  # S07E02 - Spearhead from Space, Part Two
+tvdb_episode:76107_7_3  # S07E03 - Spearhead from Space, Part Three
+tvdb_episode:76107_7_4  # S07E04 - Spearhead from Space, Part Four
+tvdb_episode:76107_7_5  # S07E05 - The Silurians, Part One
+tvdb_episode:76107_7_6  # S07E06 - The Silurians, Part Two
+tvdb_episode:76107_7_7  # S07E07 - The Silurians, Part Three
+tvdb_episode:76107_7_8  # S07E08 - The Silurians, Part Four
+tvdb_episode:76107_7_9  # S07E09 - The Silurians, Part Five
+tvdb_episode:76107_7_10  # S07E10 - The Silurians, Part Six
+tvdb_episode:76107_7_11  # S07E11 - The Silurians, Part Seven
+tvdb_episode:76107_7_12  # S07E12 - The Ambassadors of Death, Part One
+tvdb_episode:76107_7_13  # S07E13 - The Ambassadors of Death, Part Two
+tvdb_episode:76107_7_14  # S07E14 - The Ambassadors of Death, Part Three
+tvdb_episode:76107_7_15  # S07E15 - The Ambassadors of Death, Part Four
+tvdb_episode:76107_7_16  # S07E16 - The Ambassadors of Death, Part Five
+tvdb_episode:76107_7_17  # S07E17 - The Ambassadors of Death, Part Six
+tvdb_episode:76107_7_18  # S07E18 - The Ambassadors of Death, Part Seven
+tvdb_episode:76107_7_19  # S07E19 - Inferno, Part One
+tvdb_episode:76107_7_20  # S07E20 - Inferno, Part Two
+tvdb_episode:76107_7_21  # S07E21 - Inferno, Part Three
+tvdb_episode:76107_7_22  # S07E22 - Inferno, Part Four
+tvdb_episode:76107_7_23  # S07E23 - Inferno, Part Five
+tvdb_episode:76107_7_24  # S07E24 - Inferno, Part Six
+tvdb_episode:76107_7_25  # S07E25 - Inferno, Part Seven
+tvdb_episode:76107_8_1  # S08E01 - Terror of the Autons, Part One
+tvdb_episode:76107_8_2  # S08E02 - Terror of the Autons, Part Two
+tvdb_episode:76107_8_3  # S08E03 - Terror of the Autons, Part Three
+tvdb_episode:76107_8_4  # S08E04 - Terror of the Autons, Part Four
+tvdb_episode:76107_8_5  # S08E05 - The Mind of Evil, Part One
+tvdb_episode:76107_8_6  # S08E06 - The Mind of Evil, Part Two
+tvdb_episode:76107_8_7  # S08E07 - The Mind of Evil, Part Three
+tvdb_episode:76107_8_8  # S08E08 - The Mind of Evil, Part Four
+tvdb_episode:76107_8_9  # S08E09 - The Mind of Evil, Part Five
+tvdb_episode:76107_8_10  # S08E10 - The Mind of Evil, Part Six
+tvdb_episode:76107_8_11  # S08E11 - The Claws of Axos, Part One
+tvdb_episode:76107_8_12  # S08E12 - The Claws of Axos, Part Two
+tvdb_episode:76107_8_13  # S08E13 - The Claws of Axos, Part Three
+tvdb_episode:76107_8_14  # S08E14 - The Claws of Axos, Part Four
+tvdb_episode:76107_8_15  # S08E15 - Colony in Space, Part One
+tvdb_episode:76107_8_16  # S08E16 - Colony in Space, Part Two
+tvdb_episode:76107_8_17  # S08E17 - Colony in Space, Part Three
+tvdb_episode:76107_8_18  # S08E18 - Colony in Space, Part Four
+tvdb_episode:76107_8_19  # S08E19 - Colony in Space, Part Five
+tvdb_episode:76107_8_20  # S08E20 - Colony in Space, Part Six
+tvdb_episode:76107_8_21  # S08E21 - The Dæmons, Part One
+tvdb_episode:76107_8_22  # S08E22 - The Dæmons, Part Two
+tvdb_episode:76107_8_23  # S08E23 - The Dæmons, Part Three
+tvdb_episode:76107_8_24  # S08E24 - The Dæmons, Part Four
+tvdb_episode:76107_8_25  # S08E25 - The Dæmons, Part Five
+tvdb_episode:76107_9_1  # S09E01 - Day of the Daleks, Part One
+tvdb_episode:76107_9_2  # S09E02 - Day of the Daleks, Part Two
+tvdb_episode:76107_9_3  # S09E03 - Day of the Daleks, Part Three
+tvdb_episode:76107_9_4  # S09E04 - Day of the Daleks, Part Four
+tvdb_episode:76107_9_5  # S09E05 - The Curse of Peladon, Part One
+tvdb_episode:76107_9_6  # S09E06 - The Curse of Peladon, Part Two
+tvdb_episode:76107_9_7  # S09E07 - The Curse of Peladon, Part Three
+tvdb_episode:76107_9_8  # S09E08 - The Curse of Peladon, Part Four
+tvdb_episode:76107_9_9  # S09E09 - The Sea Devils, Part One
+tvdb_episode:76107_9_10  # S09E10 - The Sea Devils, Part Two
+tvdb_episode:76107_9_11  # S09E11 - The Sea Devils, Part Three
+tvdb_episode:76107_9_12  # S09E12 - The Sea Devils, Part Four
+tvdb_episode:76107_9_13  # S09E13 - The Sea Devils, Part Five
+tvdb_episode:76107_9_14  # S09E14 - The Sea Devils, Part Six
+tvdb_episode:76107_9_15  # S09E15 - The Mutants, Part One
+tvdb_episode:76107_9_16  # S09E16 - The Mutants, Part Two
+tvdb_episode:76107_9_17  # S09E17 - The Mutants, Part Three
+tvdb_episode:76107_9_18  # S09E18 - The Mutants, Part Four
+tvdb_episode:76107_9_19  # S09E19 - The Mutants, Part Five
+tvdb_episode:76107_9_20  # S09E20 - The Mutants, Part Six
+tvdb_episode:76107_9_21  # S09E21 - The Time Monster, Part One
+tvdb_episode:76107_9_22  # S09E22 - The Time Monster, Part Two
+tvdb_episode:76107_9_23  # S09E23 - The Time Monster, Part Three
+tvdb_episode:76107_9_24  # S09E24 - The Time Monster, Part Four
+tvdb_episode:76107_9_25  # S09E25 - The Time Monster, Part Five
+tvdb_episode:76107_9_26  # S09E26 - The Time Monster, Part Six
+tvdb_episode:76107_10_1  # S10E01 - The Three Doctors, Part One
+tvdb_episode:76107_10_2  # S10E02 - The Three Doctors, Part Two
+tvdb_episode:76107_10_3  # S10E03 - The Three Doctors, Part Three
+tvdb_episode:76107_10_4  # S10E04 - The Three Doctors, Part Four
+tvdb_episode:76107_10_5  # S10E05 - Carnival of Monsters, Part One
+tvdb_episode:76107_10_6  # S10E06 - Carnival of Monsters, Part Two
+tvdb_episode:76107_10_7  # S10E07 - Carnival of Monsters, Part Three
+tvdb_episode:76107_10_8  # S10E08 - Carnival of Monsters, Part Four
+tvdb_episode:76107_10_9  # S10E09 - Frontier in Space, Part One
+tvdb_episode:76107_10_10  # S10E10 - Frontier in Space, Part Two
+tvdb_episode:76107_10_11  # S10E11 - Frontier in Space, Part Three
+tvdb_episode:76107_10_12  # S10E12 - Frontier in Space, Part Four
+tvdb_episode:76107_10_13  # S10E13 - Frontier in Space, Part Five
+tvdb_episode:76107_10_14  # S10E14 - Frontier in Space, Part Six
+tvdb_episode:76107_10_15  # S10E15 - Planet of the Daleks, Part One
+tvdb_episode:76107_10_16  # S10E16 - Planet of the Daleks, Part Two
+tvdb_episode:76107_10_17  # S10E17 - Planet of the Daleks, Part Three
+tvdb_episode:76107_10_18  # S10E18 - Planet of the Daleks, Part Four
+tvdb_episode:76107_10_19  # S10E19 - Planet of the Daleks, Part Five
+tvdb_episode:76107_10_20  # S10E20 - Planet of the Daleks, Part Six
+tvdb_episode:76107_10_21  # S10E21 - The Green Death, Part One
+tvdb_episode:76107_10_22  # S10E22 - The Green Death, Part Two
+tvdb_episode:76107_10_23  # S10E23 - The Green Death, Part Three
+tvdb_episode:76107_10_24  # S10E24 - The Green Death, Part Four
+tvdb_episode:76107_10_25  # S10E25 - The Green Death, Part Five
+tvdb_episode:76107_10_26  # S10E26 - The Green Death, Part Six
+tvdb_episode:76107_11_1  # S11E01 - The Time Warrior, Part One
+tvdb_episode:76107_11_2  # S11E02 - The Time Warrior, Part Two
+tvdb_episode:76107_11_3  # S11E03 - The Time Warrior, Part Three
+tvdb_episode:76107_11_4  # S11E04 - The Time Warrior, Part Four
+tvdb_episode:76107_11_5  # S11E05 - Invasion of the Dinosaurs, Part One
+tvdb_episode:76107_11_6  # S11E06 - Invasion of the Dinosaurs, Part Two
+tvdb_episode:76107_11_7  # S11E07 - Invasion of the Dinosaurs, Part Three
+tvdb_episode:76107_11_8  # S11E08 - Invasion of the Dinosaurs, Part Four
+tvdb_episode:76107_11_9  # S11E09 - Invasion of the Dinosaurs, Part Five
+tvdb_episode:76107_11_10  # S11E10 - Invasion of the Dinosaurs, Part Six
+tvdb_episode:76107_11_11  # S11E11 - Death to the Daleks, Part One
+tvdb_episode:76107_11_12  # S11E12 - Death to the Daleks, Part Two
+tvdb_episode:76107_11_13  # S11E13 - Death to the Daleks, Part Three
+tvdb_episode:76107_11_14  # S11E14 - Death to the Daleks, Part Four
+tvdb_episode:76107_11_15  # S11E15 - The Monster of Peladon, Part One
+tvdb_episode:76107_11_16  # S11E16 - The Monster of Peladon, Part Two
+tvdb_episode:76107_11_17  # S11E17 - The Monster of Peladon, Part Three
+tvdb_episode:76107_11_18  # S11E18 - The Monster of Peladon, Part Four
+tvdb_episode:76107_11_19  # S11E19 - The Monster of Peladon, Part Five
+tvdb_episode:76107_11_20  # S11E20 - The Monster of Peladon, Part Six
+tvdb_episode:76107_11_21  # S11E21 - Planet of the Spiders, Part One
+tvdb_episode:76107_11_22  # S11E22 - Planet of the Spiders, Part Two
+tvdb_episode:76107_11_23  # S11E23 - Planet of the Spiders, Part Three
+tvdb_episode:76107_11_24  # S11E24 - Planet of the Spiders, Part Four
+tvdb_episode:76107_11_25  # S11E25 - Planet of the Spiders, Part Five
+tvdb_episode:76107_11_26  # S11E26 - Planet of the Spiders, Part Six
+tvdb_episode:76107_12_1  # S12E01 - Robot, Part One
+tvdb_episode:76107_12_2  # S12E02 - Robot, Part Two
+tvdb_episode:76107_12_3  # S12E03 - Robot, Part Three
+tvdb_episode:76107_12_4  # S12E04 - Robot, Part Four
+tvdb_episode:76107_12_5  # S12E05 - The Ark in Space, Part One
+tvdb_episode:76107_12_6  # S12E06 - The Ark in Space, Part Two
+tvdb_episode:76107_12_7  # S12E07 - The Ark in Space, Part Three
+tvdb_episode:76107_12_8  # S12E08 - The Ark in Space, Part Four
+tvdb_episode:76107_12_9  # S12E09 - The Sontaran Experiment, Part One
+tvdb_episode:76107_12_10  # S12E10 - The Sontaran Experiment, Part Two
+tvdb_episode:76107_12_11  # S12E11 - Genesis of the Daleks, Part One
+tvdb_episode:76107_12_12  # S12E12 - Genesis of the Daleks, Part Two
+tvdb_episode:76107_12_13  # S12E13 - Genesis of the Daleks, Part Three
+tvdb_episode:76107_12_14  # S12E14 - Genesis of the Daleks, Part Four
+tvdb_episode:76107_12_15  # S12E15 - Genesis of the Daleks, Part Five
+tvdb_episode:76107_12_16  # S12E16 - Genesis of the Daleks, Part Six
+tvdb_episode:76107_12_17  # S12E17 - Revenge of the Cybermen, Part One
+tvdb_episode:76107_12_18  # S12E18 - Revenge of the Cybermen, Part Two
+tvdb_episode:76107_12_19  # S12E19 - Revenge of the Cybermen, Part Three
+tvdb_episode:76107_12_20  # S12E20 - Revenge of the Cybermen, Part Four
+tvdb_episode:76107_13_1  # S13E01 - Terror of the Zygons, Part One
+tvdb_episode:76107_13_2  # S13E02 - Terror of the Zygons, Part Two
+tvdb_episode:76107_13_3  # S13E03 - Terror of the Zygons, Part Three
+tvdb_episode:76107_13_4  # S13E04 - Terror of the Zygons, Part Four
+tvdb_episode:76107_13_5  # S13E05 - Planet of Evil, Part One
+tvdb_episode:76107_13_6  # S13E06 - Planet of Evil, Part Two
+tvdb_episode:76107_13_7  # S13E07 - Planet of Evil, Part Three
+tvdb_episode:76107_13_8  # S13E08 - Planet of Evil, Part Four
+tvdb_episode:76107_13_9  # S13E09 - Pyramids of Mars, Part One
+tvdb_episode:76107_13_10  # S13E10 - Pyramids of Mars, Part Two
+tvdb_episode:76107_13_11  # S13E11 - Pyramids of Mars, Part Three
+tvdb_episode:76107_13_12  # S13E12 - Pyramids of Mars, Part Four
+tvdb_episode:76107_13_13  # S13E13 - The Android Invasion, Part One
+tvdb_episode:76107_13_14  # S13E14 - The Android Invasion, Part Two
+tvdb_episode:76107_13_15  # S13E15 - The Android Invasion, Part Three
+tvdb_episode:76107_13_16  # S13E16 - The Android Invasion, Part Four
+tvdb_episode:76107_13_17  # S13E17 - The Brain of Morbius, Part One
+tvdb_episode:76107_13_18  # S13E18 - The Brain of Morbius, Part Two
+tvdb_episode:76107_13_19  # S13E19 - The Brain of Morbius, Part Three
+tvdb_episode:76107_13_20  # S13E20 - The Brain of Morbius, Part Four
+tvdb_episode:76107_13_21  # S13E21 - The Seeds of Doom, Part One
+tvdb_episode:76107_13_22  # S13E22 - The Seeds of Doom, Part Two
+tvdb_episode:76107_13_23  # S13E23 - The Seeds of Doom, Part Three
+tvdb_episode:76107_13_24  # S13E24 - The Seeds of Doom, Part Four
+tvdb_episode:76107_13_25  # S13E25 - The Seeds of Doom, Part Five
+tvdb_episode:76107_13_26  # S13E26 - The Seeds of Doom, Part Six
+tvdb_episode:76107_14_1  # S14E01 - The Masque of Mandragora, Part One
+tvdb_episode:76107_14_2  # S14E02 - The Masque of Mandragora, Part Two
+tvdb_episode:76107_14_3  # S14E03 - The Masque of Mandragora, Part Three
+tvdb_episode:76107_14_4  # S14E04 - The Masque of Mandragora, Part Four
+tvdb_episode:76107_14_5  # S14E05 - The Hand of Fear, Part One
+tvdb_episode:76107_14_6  # S14E06 - The Hand of Fear, Part Two
+tvdb_episode:76107_14_7  # S14E07 - The Hand of Fear, Part Three
+tvdb_episode:76107_14_8  # S14E08 - The Hand of Fear, Part Four
+tvdb_episode:76107_14_9  # S14E09 - The Deadly Assassin, Part One
+tvdb_episode:76107_14_10  # S14E10 - The Deadly Assassin, Part Two
+tvdb_episode:76107_14_11  # S14E11 - The Deadly Assassin, Part Three
+tvdb_episode:76107_14_12  # S14E12 - The Deadly Assassin, Part Four
+tvdb_episode:76107_14_13  # S14E13 - The Face of Evil, Part One
+tvdb_episode:76107_14_14  # S14E14 - The Face of Evil, Part Two
+tvdb_episode:76107_14_15  # S14E15 - The Face of Evil, Part Three
+tvdb_episode:76107_14_16  # S14E16 - The Face of Evil, Part Four
+tvdb_episode:76107_14_17  # S14E17 - The Robots of Death, Part One
+tvdb_episode:76107_14_18  # S14E18 - The Robots of Death, Part Two
+tvdb_episode:76107_14_19  # S14E19 - The Robots of Death, Part Three
+tvdb_episode:76107_14_20  # S14E20 - The Robots of Death, Part Four
+tvdb_episode:76107_14_21  # S14E21 - The Talons of Weng-Chiang, Part One
+tvdb_episode:76107_14_22  # S14E22 - The Talons of Weng-Chiang, Part Two
+tvdb_episode:76107_14_23  # S14E23 - The Talons of Weng-Chiang, Part Three
+tvdb_episode:76107_14_24  # S14E24 - The Talons of Weng-Chiang, Part Four
+tvdb_episode:76107_14_25  # S14E25 - The Talons of Weng-Chiang, Part Five
+tvdb_episode:76107_14_26  # S14E26 - The Talons of Weng-Chiang, Part Six
+tvdb_episode:76107_15_1  # S15E01 - Horror of Fang Rock, Part One
+tvdb_episode:76107_15_2  # S15E02 - Horror of Fang Rock, Part Two
+tvdb_episode:76107_15_3  # S15E03 - Horror of Fang Rock, Part Three
+tvdb_episode:76107_15_4  # S15E04 - Horror of Fang Rock, Part Four
+tvdb_episode:76107_15_5  # S15E05 - The Invisible Enemy, Part One
+tvdb_episode:76107_15_6  # S15E06 - The Invisible Enemy, Part Two
+tvdb_episode:76107_15_7  # S15E07 - The Invisible Enemy, Part Three
+tvdb_episode:76107_15_8  # S15E08 - The Invisible Enemy, Part Four
+tvdb_episode:76107_15_9  # S15E09 - Image of the Fendahl, Part One
+tvdb_episode:76107_15_10  # S15E10 - Image of the Fendahl, Part Two
+tvdb_episode:76107_15_11  # S15E11 - Image of the Fendahl, Part Three
+tvdb_episode:76107_15_12  # S15E12 - Image of the Fendahl, Part Four
+tvdb_episode:76107_15_13  # S15E13 - The Sun Makers, Part One
+tvdb_episode:76107_15_14  # S15E14 - The Sun Makers, Part Two
+tvdb_episode:76107_15_15  # S15E15 - The Sun Makers, Part Three
+tvdb_episode:76107_15_16  # S15E16 - The Sun Makers, Part Four
+tvdb_episode:76107_15_17  # S15E17 - Underworld, Part One
+tvdb_episode:76107_15_18  # S15E18 - Underworld, Part Two
+tvdb_episode:76107_15_19  # S15E19 - Underworld, Part Three
+tvdb_episode:76107_15_20  # S15E20 - Underworld, Part Four
+tvdb_episode:76107_15_21  # S15E21 - The Invasion of Time, Part One
+tvdb_episode:76107_15_22  # S15E22 - The Invasion of Time, Part Two
+tvdb_episode:76107_15_23  # S15E23 - The Invasion of Time, Part Three
+tvdb_episode:76107_15_24  # S15E24 - The Invasion of Time, Part Four
+tvdb_episode:76107_15_25  # S15E25 - The Invasion of Time, Part Five
+tvdb_episode:76107_15_26  # S15E26 - The Invasion of Time, Part Six
+tvdb_episode:76107_16_1  # S16E01 - The Ribos Operation, Part One
+tvdb_episode:76107_16_2  # S16E02 - The Ribos Operation, Part Two
+tvdb_episode:76107_16_3  # S16E03 - The Ribos Operation, Part Three
+tvdb_episode:76107_16_4  # S16E04 - The Ribos Operation, Part Four
+tvdb_episode:76107_16_5  # S16E05 - The Pirate Planet, Part One
+tvdb_episode:76107_16_6  # S16E06 - The Pirate Planet, Part Two
+tvdb_episode:76107_16_7  # S16E07 - The Pirate Planet, Part Three
+tvdb_episode:76107_16_8  # S16E08 - The Pirate Planet, Part Four
+tvdb_episode:76107_16_9  # S16E09 - The Stones of Blood, Part One
+tvdb_episode:76107_16_10  # S16E10 - The Stones of Blood, Part Two
+tvdb_episode:76107_16_11  # S16E11 - The Stones of Blood, Part Three
+tvdb_episode:76107_16_12  # S16E12 - The Stones of Blood, Part Four
+tvdb_episode:76107_16_13  # S16E13 - The Androids of Tara, Part One
+tvdb_episode:76107_16_14  # S16E14 - The Androids of Tara, Part Two
+tvdb_episode:76107_16_15  # S16E15 - The Androids of Tara, Part Three
+tvdb_episode:76107_16_16  # S16E16 - The Androids of Tara, Part Four
+tvdb_episode:76107_16_17  # S16E17 - The Power of Kroll, Part One
+tvdb_episode:76107_16_18  # S16E18 - The Power of Kroll, Part Two
+tvdb_episode:76107_16_19  # S16E19 - The Power of Kroll, Part Three
+tvdb_episode:76107_16_20  # S16E20 - The Power of Kroll, Part Four
+tvdb_episode:76107_16_21  # S16E21 - The Armageddon Factor, Part One
+tvdb_episode:76107_16_22  # S16E22 - The Armageddon Factor, Part Two
+tvdb_episode:76107_16_23  # S16E23 - The Armageddon Factor, Part Three
+tvdb_episode:76107_16_24  # S16E24 - The Armageddon Factor, Part Four
+tvdb_episode:76107_16_25  # S16E25 - The Armageddon Factor, Part Five
+tvdb_episode:76107_16_26  # S16E26 - The Armageddon Factor, Part Six
+tvdb_episode:76107_17_1  # S17E01 - Destiny of the Daleks, Part One
+tvdb_episode:76107_17_2  # S17E02 - Destiny of the Daleks, Part Two
+tvdb_episode:76107_17_3  # S17E03 - Destiny of the Daleks, Part Three
+tvdb_episode:76107_17_4  # S17E04 - Destiny of the Daleks, Part Four
+tvdb_episode:76107_17_5  # S17E05 - City of Death, Part One
+tvdb_episode:76107_17_6  # S17E06 - City of Death, Part Two
+tvdb_episode:76107_17_7  # S17E07 - City of Death, Part Three
+tvdb_episode:76107_17_8  # S17E08 - City of Death, Part Four
+tvdb_episode:76107_17_9  # S17E09 - The Creature from the Pit, Part One
+tvdb_episode:76107_17_10  # S17E10 - The Creature from the Pit, Part Two
+tvdb_episode:76107_17_11  # S17E11 - The Creature from the Pit, Part Three
+tvdb_episode:76107_17_12  # S17E12 - The Creature from the Pit, Part Four
+tvdb_episode:76107_17_13  # S17E13 - Nightmare of Eden, Part One
+tvdb_episode:76107_17_14  # S17E14 - Nightmare of Eden, Part Two
+tvdb_episode:76107_17_15  # S17E15 - Nightmare of Eden, Part Three
+tvdb_episode:76107_17_16  # S17E16 - Nightmare of Eden, Part Four
+tvdb_episode:76107_17_17  # S17E17 - The Horns of Nimon, Part One
+tvdb_episode:76107_17_18  # S17E18 - The Horns of Nimon, Part Two
+tvdb_episode:76107_17_19  # S17E19 - The Horns of Nimon, Part Three
+tvdb_episode:76107_17_20  # S17E20 - The Horns of Nimon, Part Four
+tvdb_episode:76107_18_1  # S18E01 - The Leisure Hive, Part One
+tvdb_episode:76107_18_2  # S18E02 - The Leisure Hive, Part Two
+tvdb_episode:76107_18_3  # S18E03 - The Leisure Hive, Part Three
+tvdb_episode:76107_18_4  # S18E04 - The Leisure Hive, Part Four
+tvdb_episode:76107_18_5  # S18E05 - Meglos, Part One
+tvdb_episode:76107_18_6  # S18E06 - Meglos, Part Two
+tvdb_episode:76107_18_7  # S18E07 - Meglos, Part Three
+tvdb_episode:76107_18_8  # S18E08 - Meglos, Part Four
+tvdb_episode:76107_18_9  # S18E09 - Full Circle, Part One
+tvdb_episode:76107_18_10  # S18E10 - Full Circle, Part Two
+tvdb_episode:76107_18_11  # S18E11 - Full Circle, Part Three
+tvdb_episode:76107_18_12  # S18E12 - Full Circle, Part Four
+tvdb_episode:76107_18_13  # S18E13 - State of Decay, Part One
+tvdb_episode:76107_18_14  # S18E14 - State of Decay, Part Two
+tvdb_episode:76107_18_15  # S18E15 - State of Decay, Part Three
+tvdb_episode:76107_18_16  # S18E16 - State of Decay, Part Four
+tvdb_episode:76107_18_17  # S18E17 - Warriors' Gate, Part One
+tvdb_episode:76107_18_18  # S18E18 - Warriors' Gate, Part Two
+tvdb_episode:76107_18_19  # S18E19 - Warriors' Gate, Part Three
+tvdb_episode:76107_18_20  # S18E20 - Warriors' Gate, Part Four
+tvdb_episode:76107_18_21  # S18E21 - The Keeper of Traken, Part One
+tvdb_episode:76107_18_22  # S18E22 - The Keeper of Traken, Part Two
+tvdb_episode:76107_18_23  # S18E23 - The Keeper of Traken, Part Three
+tvdb_episode:76107_18_24  # S18E24 - The Keeper of Traken, Part Four
+tvdb_episode:76107_18_25  # S18E25 - Logopolis, Part One
+tvdb_episode:76107_18_26  # S18E26 - Logopolis, Part Two
+tvdb_episode:76107_18_27  # S18E27 - Logopolis, Part Three
+tvdb_episode:76107_18_28  # S18E28 - Logopolis, Part Four
+tvdb_episode:76107_19_1  # S19E01 - Castrovalva, Part One
+tvdb_episode:76107_19_2  # S19E02 - Castrovalva, Part Two
+tvdb_episode:76107_19_3  # S19E03 - Castrovalva, Part Three
+tvdb_episode:76107_19_4  # S19E04 - Castrovalva, Part Four
+tvdb_episode:76107_19_5  # S19E05 - Four to Doomsday, Part One
+tvdb_episode:76107_19_6  # S19E06 - Four to Doomsday, Part Two
+tvdb_episode:76107_19_7  # S19E07 - Four to Doomsday, Part Three
+tvdb_episode:76107_19_8  # S19E08 - Four to Doomsday, Part Four
+tvdb_episode:76107_19_9  # S19E09 - Kinda, Part One
+tvdb_episode:76107_19_10  # S19E10 - Kinda, Part Two
+tvdb_episode:76107_19_11  # S19E11 - Kinda, Part Three
+tvdb_episode:76107_19_12  # S19E12 - Kinda, Part Four
+tvdb_episode:76107_19_13  # S19E13 - The Visitation, Part One
+tvdb_episode:76107_19_14  # S19E14 - The Visitation, Part Two
+tvdb_episode:76107_19_15  # S19E15 - The Visitation, Part Three
+tvdb_episode:76107_19_16  # S19E16 - The Visitation, Part Four
+tvdb_episode:76107_19_17  # S19E17 - Black Orchid, Part One
+tvdb_episode:76107_19_18  # S19E18 - Black Orchid, Part Two
+tvdb_episode:76107_19_19  # S19E19 - Earthshock, Part One
+tvdb_episode:76107_19_20  # S19E20 - Earthshock, Part Two
+tvdb_episode:76107_19_21  # S19E21 - Earthshock, Part Three
+tvdb_episode:76107_19_22  # S19E22 - Earthshock, Part Four
+tvdb_episode:76107_19_23  # S19E23 - Time-Flight, Part One
+tvdb_episode:76107_19_24  # S19E24 - Time-Flight, Part Two
+tvdb_episode:76107_19_25  # S19E25 - Time-Flight, Part Three
+tvdb_episode:76107_19_26  # S19E26 - Time-Flight, Part Four
+tvdb_episode:76107_20_1  # S20E01 - Arc of Infinity, Part One
+tvdb_episode:76107_20_2  # S20E02 - Arc of Infinity, Part Two
+tvdb_episode:76107_20_3  # S20E03 - Arc of Infinity, Part Three
+tvdb_episode:76107_20_4  # S20E04 - Arc of Infinity, Part Four
+tvdb_episode:76107_20_5  # S20E05 - Snakedance, Part One
+tvdb_episode:76107_20_6  # S20E06 - Snakedance, Part Two
+tvdb_episode:76107_20_7  # S20E07 - Snakedance, Part Three
+tvdb_episode:76107_20_8  # S20E08 - Snakedance, Part Four
+tvdb_episode:76107_20_9  # S20E09 - Mawdryn Undead, Part One
+tvdb_episode:76107_20_10  # S20E10 - Mawdryn Undead, Part Two
+tvdb_episode:76107_20_11  # S20E11 - Mawdryn Undead, Part Three
+tvdb_episode:76107_20_12  # S20E12 - Mawdryn Undead, Part Four
+tvdb_episode:76107_20_13  # S20E13 - Terminus, Part One
+tvdb_episode:76107_20_14  # S20E14 - Terminus, Part Two
+tvdb_episode:76107_20_15  # S20E15 - Terminus, Part Three
+tvdb_episode:76107_20_16  # S20E16 - Terminus, Part Four
+tvdb_episode:76107_20_17  # S20E17 - Enlightenment, Part One
+tvdb_episode:76107_20_18  # S20E18 - Enlightenment, Part Two
+tvdb_episode:76107_20_19  # S20E19 - Enlightenment, Part Three
+tvdb_episode:76107_20_20  # S20E20 - Enlightenment, Part Four
+tvdb_episode:76107_20_21  # S20E21 - The King's Demons, Part One
+tvdb_episode:76107_20_22  # S20E22 - The King's Demons, Part Two
+tvdb_episode:76107_0_2  # S00E02 - The Five Doctors
+tvdb_episode:76107_21_1  # S21E01 - Warriors of the Deep, Part One
+tvdb_episode:76107_21_2  # S21E02 - Warriors of the Deep, Part Two
+tvdb_episode:76107_21_3  # S21E03 - Warriors of the Deep, Part Three
+tvdb_episode:76107_21_4  # S21E04 - Warriors of the Deep, Part Four
+tvdb_episode:76107_21_5  # S21E05 - The Awakening, Part One
+tvdb_episode:76107_21_6  # S21E06 - The Awakening, Part Two
+tvdb_episode:76107_21_7  # S21E07 - Frontios, Part One
+tvdb_episode:76107_21_8  # S21E08 - Frontios, Part Two
+tvdb_episode:76107_21_9  # S21E09 - Frontios, Part Three
+tvdb_episode:76107_21_10  # S21E10 - Frontios, Part Four
+tvdb_episode:76107_21_11  # S21E11 - Resurrection of the Daleks, Part One
+tvdb_episode:76107_21_12  # S21E12 - Resurrection of the Daleks, Part Two
+tvdb_episode:76107_21_13  # S21E13 - Planet of Fire, Part One
+tvdb_episode:76107_21_14  # S21E14 - Planet of Fire, Part Two
+tvdb_episode:76107_21_15  # S21E15 - Planet of Fire, Part Three
+tvdb_episode:76107_21_16  # S21E16 - Planet of Fire, Part Four
+tvdb_episode:76107_21_17  # S21E17 - The Caves of Androzani, Part One
+tvdb_episode:76107_21_18  # S21E18 - The Caves of Androzani, Part Two
+tvdb_episode:76107_21_19  # S21E19 - The Caves of Androzani, Part Three
+tvdb_episode:76107_21_20  # S21E20 - The Caves of Androzani, Part Four
+tvdb_episode:76107_21_21  # S21E21 - The Twin Dilemma, Part One
+tvdb_episode:76107_21_22  # S21E22 - The Twin Dilemma, Part Two
+tvdb_episode:76107_21_23  # S21E23 - The Twin Dilemma, Part Three
+tvdb_episode:76107_21_24  # S21E24 - The Twin Dilemma, Part Four
+tvdb_episode:76107_22_1  # S22E01 - Attack of the Cybermen, Part One
+tvdb_episode:76107_22_2  # S22E02 - Attack of the Cybermen, Part Two
+tvdb_episode:76107_22_3  # S22E03 - Vengeance on Varos, Part One
+tvdb_episode:76107_22_4  # S22E04 - Vengeance on Varos, Part Two
+tvdb_episode:76107_22_5  # S22E05 - The Mark of the Rani, Part One
+tvdb_episode:76107_22_6  # S22E06 - The Mark of the Rani, Part Two
+tvdb_episode:76107_22_7  # S22E07 - The Two Doctors, Part One
+tvdb_episode:76107_22_8  # S22E08 - The Two Doctors, Part Two
+tvdb_episode:76107_22_9  # S22E09 - The Two Doctors, Part Three
+tvdb_episode:76107_22_10  # S22E10 - Timelash, Part One
+tvdb_episode:76107_22_11  # S22E11 - Timelash, Part Two
+tvdb_episode:76107_22_12  # S22E12 - Revelation of the Daleks, Part One
+tvdb_episode:76107_22_13  # S22E13 - Revelation of the Daleks, Part Two
+tvdb_episode:76107_23_1  # S23E01 - The Trial of a Time Lord, Part One (The Mysterious Planet)
+tvdb_episode:76107_23_2  # S23E02 - The Trial of a Time Lord, Part Two (The Mysterious Planet)
+tvdb_episode:76107_23_3  # S23E03 - The Trial of a Time Lord, Part Three (The Mysterious Planet)
+tvdb_episode:76107_23_4  # S23E04 - The Trial of a Time Lord, Part Four (The Mysterious Planet)
+tvdb_episode:76107_23_5  # S23E05 - The Trial of a Time Lord, Part Five (Mindwarp)
+tvdb_episode:76107_23_6  # S23E06 - The Trial of a Time Lord, Part Six (Mindwarp)
+tvdb_episode:76107_23_7  # S23E07 - The Trial of a Time Lord, Part Seven (Mindwarp)
+tvdb_episode:76107_23_8  # S23E08 - The Trial of a Time Lord, Part Eight (Mindwarp)
+tvdb_episode:76107_23_9  # S23E09 - The Trial of a Time Lord, Part Nine (Terror of the Vervoids)
+tvdb_episode:76107_23_10  # S23E10 - The Trial of a Time Lord, Part Ten (Terror of the Vervoids)
+tvdb_episode:76107_23_11  # S23E11 - The Trial of a Time Lord, Part Eleven (Terror of the Vervoids)
+tvdb_episode:76107_23_12  # S23E12 - The Trial of a Time Lord, Part Twelve (Terror of the Vervoids)
+tvdb_episode:76107_23_13  # S23E13 - The Trial of a Time Lord, Part Thirteen (The Ultimate Foe)
+tvdb_episode:76107_23_14  # S23E14 - The Trial of a Time Lord, Part Fourteen (The Ultimate Foe)
+tvdb_episode:76107_24_1  # S24E01 - Time and the Rani, Part One
+tvdb_episode:76107_24_2  # S24E02 - Time and the Rani, Part Two
+tvdb_episode:76107_24_3  # S24E03 - Time and the Rani, Part Three
+tvdb_episode:76107_24_4  # S24E04 - Time and the Rani, Part Four
+tvdb_episode:76107_24_5  # S24E05 - Paradise Towers, Part One
+tvdb_episode:76107_24_6  # S24E06 - Paradise Towers, Part Two
+tvdb_episode:76107_24_7  # S24E07 - Paradise Towers, Part Three
+tvdb_episode:76107_24_8  # S24E08 - Paradise Towers, Part Four
+tvdb_episode:76107_24_9  # S24E09 - Delta and the Bannermen, Part One
+tvdb_episode:76107_24_10  # S24E10 - Delta and the Bannermen, Part Two
+tvdb_episode:76107_24_11  # S24E11 - Delta and the Bannermen, Part Three
+tvdb_episode:76107_24_12  # S24E12 - Dragonfire, Part One
+tvdb_episode:76107_24_13  # S24E13 - Dragonfire, Part Two
+tvdb_episode:76107_24_14  # S24E14 - Dragonfire, Part Three
+tvdb_episode:76107_25_1  # S25E01 - Remembrance of the Daleks, Part One
+tvdb_episode:76107_25_2  # S25E02 - Remembrance of the Daleks, Part Two
+tvdb_episode:76107_25_3  # S25E03 - Remembrance of the Daleks, Part Three
+tvdb_episode:76107_25_4  # S25E04 - Remembrance of the Daleks, Part Four
+tvdb_episode:76107_25_5  # S25E05 - The Happiness Patrol, Part One
+tvdb_episode:76107_25_6  # S25E06 - The Happiness Patrol, Part Two
+tvdb_episode:76107_25_7  # S25E07 - The Happiness Patrol, Part Three
+tvdb_episode:76107_25_8  # S25E08 - Silver Nemesis, Part One
+tvdb_episode:76107_25_9  # S25E09 - Silver Nemesis, Part Two
+tvdb_episode:76107_25_10  # S25E10 - Silver Nemesis, Part Three
+tvdb_episode:76107_25_11  # S25E11 - The Greatest Show in the Galaxy, Part One
+tvdb_episode:76107_25_12  # S25E12 - The Greatest Show in the Galaxy, Part Two
+tvdb_episode:76107_25_13  # S25E13 - The Greatest Show in the Galaxy, Part Three
+tvdb_episode:76107_25_14  # S25E14 - The Greatest Show in the Galaxy, Part Four
+tvdb_episode:76107_26_1  # S26E01 - Battlefield, Part One
+tvdb_episode:76107_26_2  # S26E02 - Battlefield, Part Two
+tvdb_episode:76107_26_3  # S26E03 - Battlefield, Part Three
+tvdb_episode:76107_26_4  # S26E04 - Battlefield, Part Four
+tvdb_episode:76107_26_5  # S26E05 - Ghost Light, Part One
+tvdb_episode:76107_26_6  # S26E06 - Ghost Light, Part Two
+tvdb_episode:76107_26_7  # S26E07 - Ghost Light, Part Three
+tvdb_episode:76107_26_8  # S26E08 - The Curse of Fenric, Part One
+tvdb_episode:76107_26_9  # S26E09 - The Curse of Fenric, Part Two
+tvdb_episode:76107_26_10  # S26E10 - The Curse of Fenric, Part Three
+tvdb_episode:76107_26_11  # S26E11 - The Curse of Fenric, Part Four
+tvdb_episode:76107_26_12  # S26E12 - Survival, Part One
+tvdb_episode:76107_26_13  # S26E13 - Survival, Part Two
+tvdb_episode:76107_26_14  # S26E14 - Survival, Part Three
+tvdb_episode:78804_1_1  # S01E01 - Rose
+tvdb_episode:78804_1_2  # S01E02 - The End of the World
+tvdb_episode:78804_1_3  # S01E03 - The Unquiet Dead
+tvdb_episode:78804_1_4  # S01E04 - Aliens of London
+tvdb_episode:78804_1_5  # S01E05 - World War Three
+tvdb_episode:78804_1_6  # S01E06 - Dalek
+tvdb_episode:78804_1_7  # S01E07 - The Long Game
+tvdb_episode:78804_1_8  # S01E08 - Father's Day
+tvdb_episode:78804_1_9  # S01E09 - The Empty Child
+tvdb_episode:78804_1_10  # S01E10 - The Doctor Dances
+tvdb_episode:78804_1_11  # S01E11 - Boom Town
+tvdb_episode:78804_1_12  # S01E12 - Bad Wolf
+tvdb_episode:78804_1_13  # S01E13 - The Parting of the Ways
+tvdb_episode:78804_0_2  # S00E02 - The Christmas Invasion
+tvdb_episode:78804_2_1  # S02E01 - New Earth
+tvdb_episode:78804_2_2  # S02E02 - Tooth and Claw
+tvdb_episode:78804_2_3  # S02E03 - School Reunion
+tvdb_episode:78804_2_4  # S02E04 - The Girl in the Fireplace
+tvdb_episode:78804_2_5  # S02E05 - Rise of the Cybermen
+tvdb_episode:78804_2_6  # S02E06 - The Age of Steel
+tvdb_episode:78804_2_7  # S02E07 - The Idiot's Lantern
+tvdb_episode:78804_2_8  # S02E08 - The Impossible Planet
+tvdb_episode:78804_2_9  # S02E09 - The Satan Pit
+tvdb_episode:78804_2_10  # S02E10 - Love & Monsters
+tvdb_episode:78804_2_11  # S02E11 - Fear Her
+tvdb_episode:78804_2_12  # S02E12 - Army of Ghosts
+tvdb_episode:78804_2_13  # S02E13 - Doomsday
+tvdb_episode:79511_1_1  # S01E01 - Everything Changes
+tvdb_episode:79511_1_2  # S01E02 - Day One
+tvdb_episode:79511_1_3  # S01E03 - Ghost Machine
+tvdb_episode:79511_1_4  # S01E04 - Cyberwoman
+tvdb_episode:79511_1_5  # S01E05 - Small Worlds
+tvdb_episode:79511_1_6  # S01E06 - Countrycide
+tvdb_episode:79511_1_7  # S01E07 - Greeks Bearing Gifts
+tvdb_episode:79511_1_8  # S01E08 - They Keep Killing Suzie
+tvdb_episode:79511_1_9  # S01E09 - Random Shoes
+tvdb_episode:79511_1_10  # S01E10 - Out of Time
+tvdb_episode:79511_1_11  # S01E11 - Combat
+tvdb_episode:78804_0_4  # S00E04 - The Runaway Bride
+tvdb_episode:79708_0_1  # S00E01 - Invasion of the Bane
+tvdb_episode:79511_1_12  # S01E12 - Captain Jack Harkness
+tvdb_episode:79511_1_13  # S01E13 - End of Days
+tvdb_episode:78804_3_1  # S03E01 - Smith and Jones
+tvdb_episode:78804_3_2  # S03E02 - The Shakespeare Code
+tvdb_episode:78804_3_3  # S03E03 - Gridlock
+tvdb_episode:78804_3_4  # S03E04 - Daleks in Manhattan
+tvdb_episode:78804_3_5  # S03E05 - Evolution of the Daleks
+tvdb_episode:78804_3_6  # S03E06 - The Lazarus Experiment
+tvdb_episode:78804_3_7  # S03E07 - 42
+tvdb_episode:78804_3_8  # S03E08 - Human Nature
+tvdb_episode:78804_3_9  # S03E09 - The Family of Blood
+tvdb_episode:78804_3_10  # S03E10 - Blink
+tvdb_episode:78804_3_11  # S03E11 - Utopia
+tvdb_episode:78804_3_12  # S03E12 - The Sound of Drums
+tvdb_episode:78804_3_13  # S03E13 - Last of the Time Lords
+tvdb_episode:79708_1_1  # S01E01 - REVENGE OF THE SLITHEEN Part One
+tvdb_episode:79708_1_2  # S01E02 - REVENGE OF THE SLITHEEN Part Two
+tvdb_episode:79708_1_3  # S01E03 - EYE OF THE GORGON Part One
+tvdb_episode:79708_1_4  # S01E04 - EYE OF THE GORGON Part Two
+tvdb_episode:79708_1_5  # S01E05 - WARRIORS OF KUDLAK Part One
+tvdb_episode:79708_1_6  # S01E06 - WARRIORS OF KUDLAK Part Two
+tvdb_episode:79708_1_7  # S01E07 - WHATEVER HAPPENED TO SARAH JANE? Part One
+tvdb_episode:79708_1_8  # S01E08 - WHATEVER HAPPENED TO SARAH JANE? Part Two
+tvdb_episode:79708_1_9  # S01E09 - THE LOST BOY Part One
+tvdb_episode:79708_1_10  # S01E10 - THE LOST BOY Part Two
+tvdb_episode:78804_0_7  # S00E07 - Voyage of the Damned
+tvdb_episode:79511_2_1  # S02E01 - Kiss Kiss, Bang Bang
+tvdb_episode:79511_2_2  # S02E02 - Sleeper
+tvdb_episode:79511_2_3  # S02E03 - To the Last Man
+tvdb_episode:79511_2_4  # S02E04 - Meat
+tvdb_episode:79511_2_5  # S02E05 - Adam
+tvdb_episode:79511_2_6  # S02E06 - Reset
+tvdb_episode:79511_2_7  # S02E07 - Dead Man Walking
+tvdb_episode:79511_2_8  # S02E08 - A Day in the Death
+tvdb_episode:79511_2_9  # S02E09 - Something Borrowed
+tvdb_episode:79511_2_10  # S02E10 - From Out of the Rain
+tvdb_episode:79511_2_11  # S02E11 - Adrift
+tvdb_episode:79511_2_12  # S02E12 - Fragments
+tvdb_episode:79511_2_13  # S02E13 - Exit Wounds
+tvdb_episode:78804_4_1  # S04E01 - Partners in Crime
+tvdb_episode:78804_4_2  # S04E02 - The Fires of Pompeii
+tvdb_episode:78804_4_3  # S04E03 - Planet of the Ood
+tvdb_episode:78804_4_4  # S04E04 - The Sontaran Stratagem
+tvdb_episode:78804_4_5  # S04E05 - The Poison Sky
+tvdb_episode:78804_4_6  # S04E06 - The Doctor's Daughter
+tvdb_episode:78804_4_7  # S04E07 - The Unicorn and the Wasp
+tvdb_episode:78804_4_8  # S04E08 - Silence in the Library
+tvdb_episode:78804_4_9  # S04E09 - Forest of the Dead
+tvdb_episode:78804_4_10  # S04E10 - Midnight
+tvdb_episode:78804_4_11  # S04E11 - Turn Left
+tvdb_episode:78804_4_12  # S04E12 - The Stolen Earth
+tvdb_episode:78804_4_13  # S04E13 - Journey's End
+tvdb_episode:79708_2_1  # S02E01 - THE LAST SONTARAN Part One
+tvdb_episode:79708_2_2  # S02E02 - THE LAST SONTARAN Part Two
+tvdb_episode:79708_2_3  # S02E03 - THE DAY OF THE CLOWN Part One
+tvdb_episode:79708_2_4  # S02E04 - THE DAY OF THE CLOWN Part Two
+tvdb_episode:79708_2_5  # S02E05 - SECRETS OF THE STARS Part One
+tvdb_episode:79708_2_6  # S02E06 - SECRETS OF THE STARS Part Two
+tvdb_episode:79708_2_7  # S02E07 - THE MARK OF THE BERSERKER Part One
+tvdb_episode:79708_2_8  # S02E08 - THE MASK OF THE BERSERKER Part Two
+tvdb_episode:79708_2_9  # S02E09 - THE TEMPTATION OF SARAH JANE SMITH Part One
+tvdb_episode:79708_2_10  # S02E10 - THE TEMPTATION OF SARAH JANE SMITH Part Two
+tvdb_episode:79708_2_11  # S02E11 - ENEMY OF THE BANE Part One
+tvdb_episode:79708_2_12  # S02E12 - ENEMY OF THE BANE Part Two
+tvdb_episode:78804_0_9  # S00E09 - The Next Doctor
+tvdb_episode:78804_0_13  # S00E13 - Planet of the Dead
+tvdb_episode:79511_3_1  # S03E01 - Day One
+tvdb_episode:79511_3_2  # S03E02 - Day Two
+tvdb_episode:79511_3_3  # S03E03 - Day Three
+tvdb_episode:79511_3_4  # S03E04 - Day Four
+tvdb_episode:79511_3_5  # S03E05 - Day Five
+tvdb_episode:79708_3_1  # S03E01 - PRISONER OF THE JUDOON Part One
+tvdb_episode:79708_3_2  # S03E02 - PRISONER OF THE JUDOON Part Two
+tvdb_episode:79708_3_3  # S03E03 - THE MAD WOMAN IN THE ATTIC Part One
+tvdb_episode:79708_3_4  # S03E04 - THE MAD WOMAN IN THE ATTIC Part Two
+tvdb_episode:79708_3_5  # S03E05 - THE WEDDING OF SARAH JANE SMITH Part One
+tvdb_episode:79708_3_6  # S03E06 - THE WEDDING OF SARAH JANE SMITH Part Two
+tvdb_episode:122651_1_1  # S01E01 - Regeneration (1)
+tvdb_episode:79708_3_7  # S03E07 - THE ETERNITY TRAP Part One
+tvdb_episode:79708_3_8  # S03E08 - THE ETERNITY TRAP Part Two
+tvdb_episode:79708_3_9  # S03E09 - MONA LISA'S REVENGE Part One
+tvdb_episode:79708_3_10  # S03E10 - MONA LISA'S REVENGE Part Two
+tvdb_episode:78804_0_14  # S00E14 - The Waters of Mars
+tvdb_episode:79708_3_11  # S03E11 - THE GIFT Part One
+tvdb_episode:79708_3_12  # S03E12 - THE GIFT Part Two
+tvdb_episode:78804_0_16  # S00E16 - The End of Time - Part One
+tvdb_episode:78804_0_17  # S00E17 - The End of Time - Part Two
+tvdb_episode:122651_1_2  # S01E02 - Liberation (2)
+tvdb_episode:122651_1_3  # S01E03 - The Korven (3)
+tvdb_episode:122651_1_4  # S01E04 - The Bounty Hunter
+tvdb_episode:122651_1_5  # S01E05 - Sirens of Ceres
+tvdb_episode:122651_1_6  # S01E06 - Fear Itself
+tvdb_episode:122651_1_7  # S01E07 - Fall of the House of Gryffen
+tvdb_episode:122651_1_8  # S01E08 - Jaws of Orthrus
+tvdb_episode:122651_1_9  # S01E09 - Dream-Eaters
+tvdb_episode:122651_1_10  # S01E10 - Curse of Anubis
+tvdb_episode:122651_1_11  # S01E11 - Oroborus
+tvdb_episode:122651_1_12  # S01E12 - Alien Avatar
+tvdb_episode:78804_5_1  # S05E01 - The Eleventh Hour
+tvdb_episode:122651_1_13  # S01E13 - Aeolian
+tvdb_episode:78804_5_2  # S05E02 - The Beast Below
+tvdb_episode:122651_1_14  # S01E14 - The Last Oak Tree
+tvdb_episode:78804_5_3  # S05E03 - Victory of the Daleks
+tvdb_episode:122651_1_15  # S01E15 - Black Hunger
+tvdb_episode:78804_5_4  # S05E04 - The Time of Angels
+tvdb_episode:122651_1_16  # S01E16 - The Cambridge Spy
+tvdb_episode:78804_5_5  # S05E05 - Flesh and Stone
+tvdb_episode:122651_1_17  # S01E17 - Lost Library of Ukko
+tvdb_episode:78804_5_6  # S05E06 - The Vampires of Venice
+tvdb_episode:122651_1_18  # S01E18 - Mutant Copper
+tvdb_episode:78804_5_7  # S05E07 - Amy's Choice
+tvdb_episode:122651_1_19  # S01E19 - The Custodians
+tvdb_episode:78804_5_8  # S05E08 - The Hungry Earth
+tvdb_episode:122651_1_20  # S01E20 - Taphony and the Time Loop
+tvdb_episode:78804_5_9  # S05E09 - Cold Blood
+tvdb_episode:122651_1_21  # S01E21 - Robot Gladiators
+tvdb_episode:78804_5_10  # S05E10 - Vincent and the Doctor
+tvdb_episode:122651_1_22  # S01E22 - Mind Snap (1)
+tvdb_episode:78804_5_11  # S05E11 - The Lodger
+tvdb_episode:122651_1_23  # S01E23 - Angel of the North (2)
+tvdb_episode:78804_5_12  # S05E12 - The Pandorica Opens
+tvdb_episode:122651_1_24  # S01E24 - The Last Precinct (3)
+tvdb_episode:78804_5_13  # S05E13 - The Big Bang
+tvdb_episode:122651_1_25  # S01E25 - Hound of the Korven (4)
+tvdb_episode:122651_1_26  # S01E26 - Eclipse of the Korven (5)
+tvdb_episode:79708_4_1  # S04E01 - THE NIGHTMARE MAN Part One
+tvdb_episode:79708_4_2  # S04E02 - THE NIGHTMARE MAN Part Two
+tvdb_episode:79708_4_3  # S04E03 - THE VAULT OF SECRETS Part One
+tvdb_episode:79708_4_4  # S04E04 - THE VAULT OF SECRETS Part Two
+tvdb_episode:79708_4_5  # S04E05 - DEATH OF THE DOCTOR Part One
+tvdb_episode:79708_4_6  # S04E06 - DEATH OF THE DOCTOR Part Two
+tvdb_episode:79708_4_7  # S04E07 - THE EMPTY PLANET Part One
+tvdb_episode:79708_4_8  # S04E08 - THE EMPTY PLANET Part Two
+tvdb_episode:79708_4_9  # S04E09 - LOST IN TIME Part One
+tvdb_episode:79708_4_10  # S04E10 - LOST IN TIME Part Two
+tvdb_episode:79708_4_11  # S04E11 - GOODBYE, SARAH JANE SMITH Part One
+tvdb_episode:79708_4_12  # S04E12 - GOODBYE, SARAH JANE SMITH Part Two
+tvdb_episode:78804_0_34  # S00E34 - A Christmas Carol
+tvdb_episode:78804_6_1  # S06E01 - The Impossible Astronaut
+tvdb_episode:78804_6_2  # S06E02 - Day of the Moon
+tvdb_episode:78804_6_3  # S06E03 - The Curse of the Black Spot
+tvdb_episode:78804_6_4  # S06E04 - The Doctor's Wife
+tvdb_episode:78804_6_5  # S06E05 - The Rebel Flesh
+tvdb_episode:78804_6_6  # S06E06 - The Almost People
+tvdb_episode:78804_6_7  # S06E07 - A Good Man Goes to War
+tvdb_episode:79511_4_1  # S04E01 - The New World
+tvdb_episode:79511_4_2  # S04E02 - Rendition
+tvdb_episode:79511_4_3  # S04E03 - Dead of Night
+tvdb_episode:79511_4_4  # S04E04 - Escape to L.A.
+tvdb_episode:79511_4_5  # S04E05 - The Categories of Life
+tvdb_episode:79511_4_6  # S04E06 - The Middle Men
+tvdb_episode:79511_4_7  # S04E07 - Immortal Sins
+tvdb_episode:79511_4_8  # S04E08 - End of the Road
+tvdb_episode:78804_6_8  # S06E08 - Let's Kill Hitler
+tvdb_episode:79511_4_9  # S04E09 - The Gathering
+tvdb_episode:78804_6_9  # S06E09 - Night Terrors
+tvdb_episode:79511_4_10  # S04E10 - The Blood Line
+tvdb_episode:78804_6_10  # S06E10 - The Girl Who Waited
+tvdb_episode:78804_6_11  # S06E11 - The God Complex
+tvdb_episode:78804_6_12  # S06E12 - Closing Time
+tvdb_episode:78804_6_13  # S06E13 - The Wedding of River Song
+tvdb_episode:79708_5_1  # S05E01 - SKY Part One
+tvdb_episode:79708_5_2  # S05E02 - SKY Part Two
+tvdb_episode:79708_5_3  # S05E03 - THE CURSE OF CLYDE LANGER Part One
+tvdb_episode:79708_5_4  # S05E04 - THE CURSE OF CLYDE LANGER Part Two
+tvdb_episode:79708_5_5  # S05E05 - THE MAN WHO NEVER WAS Part One
+tvdb_episode:79708_5_6  # S05E06 - THE MAN WHO NEVER WAS Part Two
+tvdb_episode:78804_0_48  # S00E48 - The Doctor, the Widow and the Wardrobe
+tvdb_episode:78804_7_1  # S07E01 - Asylum of the Daleks
+tvdb_episode:78804_7_2  # S07E02 - Dinosaurs on a Spaceship
+tvdb_episode:78804_7_3  # S07E03 - A Town Called Mercy
+tvdb_episode:78804_7_4  # S07E04 - The Power of Three
+tvdb_episode:78804_7_5  # S07E05 - The Angels Take Manhattan
+tvdb_episode:78804_0_66  # S00E66 - The Snowmen
+tvdb_episode:78804_7_6  # S07E06 - The Bells of Saint John
+tvdb_episode:78804_7_7  # S07E07 - The Rings of Akhaten
+tvdb_episode:78804_7_8  # S07E08 - Cold War
+tvdb_episode:78804_7_9  # S07E09 - Hide
+tvdb_episode:78804_7_10  # S07E10 - Journey to the Centre of the TARDIS
+tvdb_episode:78804_7_11  # S07E11 - The Crimson Horror
+tvdb_episode:78804_7_12  # S07E12 - Nightmare in Silver
+tvdb_episode:78804_7_13  # S07E13 - The Name of the Doctor
+tvdb_episode:78804_0_83  # S00E83 - The Day of the Doctor
+tvdb_episode:78804_0_84  # S00E84 - The Time of the Doctor
+tvdb_episode:78804_8_1  # S08E01 - Deep Breath
+tvdb_episode:78804_8_2  # S08E02 - Into the Dalek
+tvdb_episode:78804_8_3  # S08E03 - Robot of Sherwood
+tvdb_episode:78804_8_4  # S08E04 - Listen
+tvdb_episode:78804_8_5  # S08E05 - Time Heist
+tvdb_episode:78804_8_6  # S08E06 - The Caretaker
+tvdb_episode:78804_8_7  # S08E07 - Kill the Moon
+tvdb_episode:78804_8_8  # S08E08 - Mummy on the Orient Express
+tvdb_episode:78804_8_9  # S08E09 - Flatline
+tvdb_episode:78804_8_10  # S08E10 - In the Forest of the Night
+tvdb_episode:78804_8_11  # S08E11 - Dark Water
+tvdb_episode:78804_8_12  # S08E12 - Death in Heaven
+tvdb_episode:78804_0_142  # S00E142 - Last Christmas
+tvdb_episode:78804_9_1  # S09E01 - The Magician's Apprentice
+tvdb_episode:78804_9_2  # S09E02 - The Witch's Familiar
+tvdb_episode:78804_9_3  # S09E03 - Under the Lake
+tvdb_episode:78804_9_4  # S09E04 - Before the Flood
+tvdb_episode:78804_9_5  # S09E05 - The Girl Who Died
+tvdb_episode:78804_9_6  # S09E06 - The Woman Who Lived
+tvdb_episode:78804_9_7  # S09E07 - The Zygon Invasion
+tvdb_episode:78804_9_8  # S09E08 - The Zygon Inversion
+tvdb_episode:78804_9_9  # S09E09 - Sleep No More
+tvdb_episode:78804_9_10  # S09E10 - Face The Raven
+tvdb_episode:78804_9_11  # S09E11 - Heaven Sent
+tvdb_episode:78804_9_12  # S09E12 - Hell Bent
+tvdb_episode:78804_0_148  # S00E148 - The Husbands of River Song
+tvdb_episode:309893_1_1  # S01E01 - For Tonight We Might Die
+tvdb_episode:309893_1_2  # S01E02 - The Coach with the Dragon Tattoo
+tvdb_episode:309893_1_3  # S01E03 - Nightvisiting
+tvdb_episode:309893_1_4  # S01E04 - Co-Owner of a Lonely Heart
+tvdb_episode:309893_1_5  # S01E05 - Brave-ish Heart
+tvdb_episode:309893_1_6  # S01E06 - Detained
+tvdb_episode:309893_1_7  # S01E07 - The Metaphysical Engine, or What Quill Did
+tvdb_episode:309893_1_8  # S01E08 - The Lost
+tvdb_episode:78804_0_149  # S00E149 - The Return of Doctor Mysterio
+tvdb_episode:78804_10_1  # S10E01 - The Pilot
+tvdb_episode:78804_10_2  # S10E02 - Smile
+tvdb_episode:78804_10_3  # S10E03 - Thin Ice
+tvdb_episode:78804_10_4  # S10E04 - Knock Knock
+tvdb_episode:78804_10_5  # S10E05 - Oxygen
+tvdb_episode:78804_10_6  # S10E06 - Extremis
+tvdb_episode:78804_10_7  # S10E07 - The Pyramid at the End of the World
+tvdb_episode:78804_10_8  # S10E08 - The Lie of the Land
+tvdb_episode:78804_10_9  # S10E09 - Empress of Mars
+tvdb_episode:78804_10_10  # S10E10 - The Eaters of Light
+tvdb_episode:78804_10_11  # S10E11 - World Enough and Time
+tvdb_episode:78804_10_12  # S10E12 - The Doctor Falls
+tvdb_episode:78804_0_154  # S00E154 - Twice Upon a Time
+tvdb_episode:78804_11_1  # S11E01 - The Woman Who Fell to Earth
+tvdb_episode:78804_11_2  # S11E02 - The Ghost Monument
+tvdb_episode:78804_11_3  # S11E03 - Rosa
+tvdb_episode:78804_11_4  # S11E04 - Arachnids in the UK
+tvdb_episode:78804_11_5  # S11E05 - The Tsuranga Conundrum
+tvdb_episode:78804_11_6  # S11E06 - Demons of the Punjab
+tvdb_episode:78804_11_7  # S11E07 - Kerblam!
+tvdb_episode:78804_11_8  # S11E08 - The Witchfinders
+tvdb_episode:78804_11_9  # S11E09 - It Takes You Away
+tvdb_episode:78804_11_10  # S11E10 - The Battle of Ranskoor Av Kolos
+tvdb_episode:78804_0_156  # S00E156 - Resolution
+tvdb_episode:78804_12_1  # S12E01 - Spyfall, Part 1
+tvdb_episode:78804_12_2  # S12E02 - Spyfall, Part 2
+tvdb_episode:78804_12_3  # S12E03 - Orphan 55
+tvdb_episode:78804_12_4  # S12E04 - Nikola Tesla's Night of Terror
+tvdb_episode:78804_12_5  # S12E05 - Fugitive of the Judoon
+tvdb_episode:78804_12_6  # S12E06 - Praxeus
+tvdb_episode:78804_12_7  # S12E07 - Can You Hear Me?
+tvdb_episode:78804_12_8  # S12E08 - The Haunting of Villa Diodati
+tvdb_episode:78804_12_9  # S12E09 - Ascension of the Cybermen
+tvdb_episode:78804_12_10  # S12E10 - The Timeless Children
+tvdb_episode:78804_0_157  # S00E157 - Revolution of the Daleks
+tvdb_episode:78804_13_1  # S13E01 - Chapter One: The Halloween Apocalypse
+tvdb_episode:78804_13_2  # S13E02 - Chapter Two: War of the Sontarans
+tvdb_episode:78804_13_3  # S13E03 - Chapter Three: Once, Upon Time
+tvdb_episode:78804_13_4  # S13E04 - Chapter Four: Village of the Angels
+tvdb_episode:78804_13_5  # S13E05 - Chapter Five: Survivors of the Flux
+tvdb_episode:78804_13_6  # S13E06 - Chapter Six: The Vanquishers
+tvdb_episode:78804_0_158  # S00E158 - Eve of the Daleks
+tvdb_episode:78804_0_159  # S00E159 - Legend of the Sea Devils
+tvdb_episode:78804_0_161  # S00E161 - The Power of the Doctor
+tvdb_episode:449991_0_1  # S00E01 - The Star Beast
+tvdb_episode:449991_0_2  # S00E02 - Wild Blue Yonder
+tvdb_episode:449991_0_3  # S00E03 - The Giggle
+tvdb_episode:449991_0_4  # S00E04 - The Church on Ruby Road
+tvdb_episode:449991_1_1  # S01E01 - Space Babies
+tvdb_episode:449991_1_2  # S01E02 - The Devil's Chord
+tvdb_episode:449991_1_3  # S01E03 - Boom
+tvdb_episode:449991_1_4  # S01E04 - 73 Yards
+tvdb_episode:449991_1_5  # S01E05 - Dot and Bubble
+tvdb_episode:449991_1_6  # S01E06 - Rogue
+tvdb_episode:449991_1_7  # S01E07 - The Legend of Ruby Sunday
+tvdb_episode:449991_1_8  # S01E08 - Empire of Death
+tvdb_episode:449991_0_5  # S00E05 - Joy to the World
+tvdb_episode:449991_2_1  # S02E01 - The Robot Revolution
+tvdb_episode:449991_2_2  # S02E02 - Lux
+tvdb_episode:449991_2_3  # S02E03 - The Well
+tvdb_episode:449991_2_4  # S02E04 - Lucky Day
+tvdb_episode:449991_2_5  # S02E05 - The Story & the Engine
+tvdb_episode:449991_2_6  # S02E06 - The Interstellar Song Contest
+tvdb_episode:449991_2_7  # S02E07 - Wish World
+tvdb_episode:449991_2_8  # S02E08 - The Reality War
+tvdb_episode:444613_1_1  # S01E01 - Homo Aqua
+tvdb_episode:444613_1_2  # S01E02 - Plastic Apocalypse
+tvdb_episode:444613_1_3  # S01E03 - The Deep
+tvdb_episode:444613_1_4  # S01E04 - The Witch of the Waterfall
+tvdb_episode:444613_1_5  # S01E05 - The End of the War

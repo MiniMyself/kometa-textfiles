@@ -1,0 +1,357 @@
+# Last updated: 2026-07-20
+# Scope: Stargate SG-1, Stargate Atlantis and Stargate Universe; excludes Stargate Infinity, Stargate Origins and the three movies
+# Ordered by original broadcast (release) date, via https://chronolists.com/stargate/release
+tvdb_episode:72449_1_1  # SG-1 S01E01 - Children of the Gods (1)
+tvdb_episode:72449_1_2  # SG-1 S01E02 - Children of the Gods (2)
+tvdb_episode:72449_1_3  # SG-1 S01E03 - The Enemy Within
+tvdb_episode:72449_1_4  # SG-1 S01E04 - Emancipation
+tvdb_episode:72449_1_5  # SG-1 S01E05 - The Broca Divide
+tvdb_episode:72449_1_6  # SG-1 S01E06 - The First Commandment
+tvdb_episode:72449_1_7  # SG-1 S01E07 - Cold Lazarus
+tvdb_episode:72449_1_8  # SG-1 S01E08 - The Nox
+tvdb_episode:72449_1_9  # SG-1 S01E09 - Brief Candle
+tvdb_episode:72449_1_10  # SG-1 S01E10 - Thor's Hammer
+tvdb_episode:72449_1_11  # SG-1 S01E11 - The Torment of Tantalus
+tvdb_episode:72449_1_12  # SG-1 S01E12 - Bloodlines
+tvdb_episode:72449_1_13  # SG-1 S01E13 - Fire and Water
+tvdb_episode:72449_1_14  # SG-1 S01E14 - Hathor
+tvdb_episode:72449_1_15  # SG-1 S01E15 - Singularity
+tvdb_episode:72449_1_16  # SG-1 S01E16 - Cor-Ai
+tvdb_episode:72449_1_17  # SG-1 S01E17 - Enigma
+tvdb_episode:72449_1_18  # SG-1 S01E18 - Solitudes
+tvdb_episode:72449_1_19  # SG-1 S01E19 - Tin Man
+tvdb_episode:72449_1_20  # SG-1 S01E20 - There But For the Grace of God
+tvdb_episode:72449_1_21  # SG-1 S01E21 - Politics (1)
+tvdb_episode:72449_1_22  # SG-1 S01E22 - Within the Serpent's Grasp (2)
+tvdb_episode:72449_2_1  # SG-1 S02E01 - The Serpent's Lair (3)
+tvdb_episode:72449_2_2  # SG-1 S02E02 - In the Line of Duty
+tvdb_episode:72449_2_3  # SG-1 S02E03 - Prisoners
+tvdb_episode:72449_2_4  # SG-1 S02E04 - The Gamekeeper
+tvdb_episode:72449_2_5  # SG-1 S02E05 - Need
+tvdb_episode:72449_2_6  # SG-1 S02E06 - Thor's Chariot
+tvdb_episode:72449_2_7  # SG-1 S02E07 - Message in a Bottle
+tvdb_episode:72449_2_8  # SG-1 S02E08 - Family
+tvdb_episode:72449_2_9  # SG-1 S02E09 - Secrets
+tvdb_episode:72449_2_10  # SG-1 S02E10 - Bane
+tvdb_episode:72449_2_11  # SG-1 S02E11 - The Tok'ra (1)
+tvdb_episode:72449_2_12  # SG-1 S02E12 - The Tok'ra (2)
+tvdb_episode:72449_2_13  # SG-1 S02E13 - Spirits
+tvdb_episode:72449_2_14  # SG-1 S02E14 - Touchstone
+tvdb_episode:72449_2_15  # SG-1 S02E15 - The Fifth Race
+tvdb_episode:72449_2_16  # SG-1 S02E16 - A Matter of Time
+tvdb_episode:72449_2_17  # SG-1 S02E17 - Holiday
+tvdb_episode:72449_2_18  # SG-1 S02E18 - Serpent's Song
+tvdb_episode:72449_2_19  # SG-1 S02E19 - One False Step
+tvdb_episode:72449_2_20  # SG-1 S02E20 - Show and Tell
+tvdb_episode:72449_2_21  # SG-1 S02E21 - 1969
+tvdb_episode:72449_2_22  # SG-1 S02E22 - Out of Mind (1)
+tvdb_episode:72449_3_1  # SG-1 S03E01 - Into the Fire (2)
+tvdb_episode:72449_3_2  # SG-1 S03E02 - Seth
+tvdb_episode:72449_3_3  # SG-1 S03E03 - Fair Game
+tvdb_episode:72449_3_4  # SG-1 S03E04 - Legacy
+tvdb_episode:72449_3_5  # SG-1 S03E05 - Learning Curve
+tvdb_episode:72449_3_6  # SG-1 S03E06 - Point of View
+tvdb_episode:72449_3_7  # SG-1 S03E07 - Deadman Switch
+tvdb_episode:72449_3_8  # SG-1 S03E08 - Demons
+tvdb_episode:72449_3_9  # SG-1 S03E09 - Rules of Engagement
+tvdb_episode:72449_3_10  # SG-1 S03E10 - Forever in a Day
+tvdb_episode:72449_3_11  # SG-1 S03E11 - Past and Present
+tvdb_episode:72449_3_12  # SG-1 S03E12 - Jolinar's Memories (1)
+tvdb_episode:72449_3_13  # SG-1 S03E13 - The Devil You Know (2)
+tvdb_episode:72449_3_14  # SG-1 S03E14 - Foothold
+tvdb_episode:72449_3_15  # SG-1 S03E15 - Pretense
+tvdb_episode:72449_3_16  # SG-1 S03E16 - Urgo
+tvdb_episode:72449_3_17  # SG-1 S03E17 - A Hundred Days
+tvdb_episode:72449_3_18  # SG-1 S03E18 - Shades of Grey
+tvdb_episode:72449_3_19  # SG-1 S03E19 - New Ground
+tvdb_episode:72449_3_20  # SG-1 S03E20 - Maternal Instinct
+tvdb_episode:72449_3_21  # SG-1 S03E21 - Crystal Skull
+tvdb_episode:72449_3_22  # SG-1 S03E22 - Nemesis (1)
+tvdb_episode:72449_4_1  # SG-1 S04E01 - Small Victories (2)
+tvdb_episode:72449_4_2  # SG-1 S04E02 - The Other Side
+tvdb_episode:72449_4_3  # SG-1 S04E03 - Upgrades
+tvdb_episode:72449_4_4  # SG-1 S04E04 - Crossroads
+tvdb_episode:72449_4_5  # SG-1 S04E05 - Divide and Conquer
+tvdb_episode:72449_4_6  # SG-1 S04E06 - Window of Opportunity
+tvdb_episode:72449_4_7  # SG-1 S04E07 - Watergate
+tvdb_episode:72449_4_8  # SG-1 S04E08 - The First Ones
+tvdb_episode:72449_4_9  # SG-1 S04E09 - Scorched Earth
+tvdb_episode:72449_4_10  # SG-1 S04E10 - Beneath the Surface
+tvdb_episode:72449_4_11  # SG-1 S04E11 - Point of No Return
+tvdb_episode:72449_4_12  # SG-1 S04E12 - Tangent
+tvdb_episode:72449_4_13  # SG-1 S04E13 - The Curse
+tvdb_episode:72449_4_14  # SG-1 S04E14 - The Serpent's Venom
+tvdb_episode:72449_4_15  # SG-1 S04E15 - Chain Reaction
+tvdb_episode:72449_4_16  # SG-1 S04E16 - 2010
+tvdb_episode:72449_4_17  # SG-1 S04E17 - Absolute Power
+tvdb_episode:72449_4_18  # SG-1 S04E18 - The Light
+tvdb_episode:72449_4_19  # SG-1 S04E19 - Prodigy
+tvdb_episode:72449_4_20  # SG-1 S04E20 - Entity
+tvdb_episode:72449_4_21  # SG-1 S04E21 - Double Jeopardy
+tvdb_episode:72449_4_22  # SG-1 S04E22 - Exodus (1)
+tvdb_episode:72449_5_1  # SG-1 S05E01 - Enemies (2)
+tvdb_episode:72449_5_2  # SG-1 S05E02 - Threshold (3)
+tvdb_episode:72449_5_3  # SG-1 S05E03 - Ascension
+tvdb_episode:72449_5_4  # SG-1 S05E04 - The Fifth Man
+tvdb_episode:72449_5_5  # SG-1 S05E05 - Red Sky
+tvdb_episode:72449_5_6  # SG-1 S05E06 - Rite of Passage
+tvdb_episode:72449_5_7  # SG-1 S05E07 - Beast of Burden
+tvdb_episode:72449_5_8  # SG-1 S05E08 - The Tomb
+tvdb_episode:72449_5_9  # SG-1 S05E09 - Between Two Fires
+tvdb_episode:72449_5_10  # SG-1 S05E10 - 2001
+tvdb_episode:72449_5_11  # SG-1 S05E11 - Desperate Measures
+tvdb_episode:72449_5_12  # SG-1 S05E12 - Wormhole X-Treme!
+tvdb_episode:72449_5_13  # SG-1 S05E13 - Proving Ground
+tvdb_episode:72449_5_14  # SG-1 S05E14 - 48 Hours
+tvdb_episode:72449_5_15  # SG-1 S05E15 - Summit (1)
+tvdb_episode:72449_5_16  # SG-1 S05E16 - Last Stand (2)
+tvdb_episode:72449_5_17  # SG-1 S05E17 - Fail Safe
+tvdb_episode:72449_5_18  # SG-1 S05E18 - The Warrior
+tvdb_episode:72449_5_19  # SG-1 S05E19 - Menace
+tvdb_episode:72449_5_20  # SG-1 S05E20 - The Sentinel
+tvdb_episode:72449_5_21  # SG-1 S05E21 - Meridian
+tvdb_episode:72449_5_22  # SG-1 S05E22 - Revelations
+tvdb_episode:72449_6_1  # SG-1 S06E01 - Redemption (1)
+tvdb_episode:72449_6_2  # SG-1 S06E02 - Redemption (2)
+tvdb_episode:72449_6_3  # SG-1 S06E03 - Descent
+tvdb_episode:72449_6_4  # SG-1 S06E04 - Frozen
+tvdb_episode:72449_6_5  # SG-1 S06E05 - Nightwalkers
+tvdb_episode:72449_6_6  # SG-1 S06E06 - Abyss
+tvdb_episode:72449_6_7  # SG-1 S06E07 - Shadow Play
+tvdb_episode:72449_6_8  # SG-1 S06E08 - The Other Guys
+tvdb_episode:72449_6_9  # SG-1 S06E09 - Allegiance
+tvdb_episode:72449_6_10  # SG-1 S06E10 - Cure
+tvdb_episode:72449_6_11  # SG-1 S06E11 - Prometheus (1)
+tvdb_episode:72449_6_12  # SG-1 S06E12 - Unnatural Selection (2)
+tvdb_episode:72449_6_13  # SG-1 S06E13 - Sight Unseen
+tvdb_episode:72449_6_14  # SG-1 S06E14 - Smoke & Mirrors
+tvdb_episode:72449_6_15  # SG-1 S06E15 - Paradise Lost
+tvdb_episode:72449_6_16  # SG-1 S06E16 - Metamorphosis
+tvdb_episode:72449_6_17  # SG-1 S06E17 - Disclosure
+tvdb_episode:72449_6_18  # SG-1 S06E18 - Forsaken
+tvdb_episode:72449_6_19  # SG-1 S06E19 - The Changeling
+tvdb_episode:72449_6_20  # SG-1 S06E20 - Memento
+tvdb_episode:72449_6_21  # SG-1 S06E21 - Prophecy
+tvdb_episode:72449_6_22  # SG-1 S06E22 - Full Circle
+tvdb_episode:72449_7_1  # SG-1 S07E01 - Fallen (1)
+tvdb_episode:72449_7_2  # SG-1 S07E02 - Homecoming (2)
+tvdb_episode:72449_7_3  # SG-1 S07E03 - Fragile Balance
+tvdb_episode:72449_7_4  # SG-1 S07E04 - Orpheus
+tvdb_episode:72449_7_5  # SG-1 S07E05 - Revisions
+tvdb_episode:72449_7_6  # SG-1 S07E06 - Lifeboat
+tvdb_episode:72449_7_7  # SG-1 S07E07 - Enemy Mine
+tvdb_episode:72449_7_8  # SG-1 S07E08 - Space Race
+tvdb_episode:72449_7_9  # SG-1 S07E09 - Avenger 2.0
+tvdb_episode:72449_7_10  # SG-1 S07E10 - Birthright
+tvdb_episode:72449_7_11  # SG-1 S07E11 - Evolution (1)
+tvdb_episode:72449_7_12  # SG-1 S07E12 - Evolution (2)
+tvdb_episode:72449_7_13  # SG-1 S07E13 - Grace
+tvdb_episode:72449_7_14  # SG-1 S07E14 - Fallout
+tvdb_episode:72449_7_15  # SG-1 S07E15 - Chimera
+tvdb_episode:72449_7_16  # SG-1 S07E16 - Death Knell
+tvdb_episode:72449_7_17  # SG-1 S07E17 - Heroes (1)
+tvdb_episode:72449_7_18  # SG-1 S07E18 - Heroes (2)
+tvdb_episode:72449_7_19  # SG-1 S07E19 - Resurrection
+tvdb_episode:72449_7_20  # SG-1 S07E20 - Inauguration
+tvdb_episode:72449_7_21  # SG-1 S07E21 - Lost City (1)
+tvdb_episode:72449_7_22  # SG-1 S07E22 - Lost City (2)
+tvdb_episode:72449_8_1  # SG-1 S08E01 - New Order (1)
+tvdb_episode:72449_8_2  # SG-1 S08E02 - New Order (2)
+tvdb_episode:70851_1_1  # Atlantis S01E01 - Rising (1)
+tvdb_episode:70851_1_2  # Atlantis S01E02 - Rising (2)
+tvdb_episode:72449_8_3  # SG-1 S08E03 - Lockdown
+tvdb_episode:70851_1_3  # Atlantis S01E03 - Hide and Seek
+tvdb_episode:72449_8_4  # SG-1 S08E04 - Zero Hour
+tvdb_episode:70851_1_4  # Atlantis S01E04 - Thirty Eight Minutes
+tvdb_episode:72449_8_5  # SG-1 S08E05 - Icon
+tvdb_episode:70851_1_5  # Atlantis S01E05 - Suspicion
+tvdb_episode:72449_8_6  # SG-1 S08E06 - Avatar
+tvdb_episode:70851_1_6  # Atlantis S01E06 - Childhood's End
+tvdb_episode:72449_8_7  # SG-1 S08E07 - Affinity
+tvdb_episode:70851_1_7  # Atlantis S01E07 - Poisoning the Well
+tvdb_episode:72449_8_8  # SG-1 S08E08 - Covenant
+tvdb_episode:70851_1_8  # Atlantis S01E08 - Underground
+tvdb_episode:72449_8_9  # SG-1 S08E09 - Sacrifices
+tvdb_episode:70851_1_9  # Atlantis S01E09 - Home
+tvdb_episode:72449_8_10  # SG-1 S08E10 - Endgame
+tvdb_episode:70851_1_10  # Atlantis S01E10 - The Storm (1)
+tvdb_episode:70851_1_11  # Atlantis S01E11 - The Eye (2)
+tvdb_episode:70851_1_12  # Atlantis S01E12 - The Defiant One
+tvdb_episode:70851_1_13  # Atlantis S01E13 - Hot Zone
+tvdb_episode:70851_1_14  # Atlantis S01E14 - Sanctuary
+tvdb_episode:70851_1_15  # Atlantis S01E15 - Before I Sleep
+tvdb_episode:70851_1_16  # Atlantis S01E16 - The Brotherhood
+tvdb_episode:70851_1_17  # Atlantis S01E17 - Letters From Pegasus
+tvdb_episode:70851_1_18  # Atlantis S01E18 - The Gift
+tvdb_episode:72449_8_11  # SG-1 S08E11 - Gemini
+tvdb_episode:70851_1_19  # Atlantis S01E19 - The Siege (1)
+tvdb_episode:72449_8_12  # SG-1 S08E12 - Prometheus Unbound
+tvdb_episode:70851_1_20  # Atlantis S01E20 - The Siege (2)
+tvdb_episode:72449_8_13  # SG-1 S08E13 - It's Good to Be King
+tvdb_episode:72449_8_14  # SG-1 S08E14 - Full Alert
+tvdb_episode:72449_8_15  # SG-1 S08E15 - Citizen Joe
+tvdb_episode:72449_8_16  # SG-1 S08E16 - Reckoning (1)
+tvdb_episode:72449_8_17  # SG-1 S08E17 - Reckoning (2)
+tvdb_episode:72449_8_18  # SG-1 S08E18 - Threads
+tvdb_episode:72449_8_19  # SG-1 S08E19 - Moebius (1)
+tvdb_episode:72449_8_20  # SG-1 S08E20 - Moebius (2)
+tvdb_episode:72449_9_1  # SG-1 S09E01 - Avalon (1)
+tvdb_episode:70851_2_1  # Atlantis S02E01 - The Siege (3)
+tvdb_episode:72449_9_2  # SG-1 S09E02 - Avalon (2)
+tvdb_episode:70851_2_2  # Atlantis S02E02 - The Intruder
+tvdb_episode:72449_9_3  # SG-1 S09E03 - Origin (3)
+tvdb_episode:70851_2_3  # Atlantis S02E03 - Runner
+tvdb_episode:72449_9_4  # SG-1 S09E04 - The Ties That Bind
+tvdb_episode:70851_2_4  # Atlantis S02E04 - Duet
+tvdb_episode:72449_9_5  # SG-1 S09E05 - The Powers That Be
+tvdb_episode:70851_2_5  # Atlantis S02E05 - Condemned
+tvdb_episode:72449_9_6  # SG-1 S09E06 - Beachhead
+tvdb_episode:70851_2_6  # Atlantis S02E06 - Trinity
+tvdb_episode:72449_9_7  # SG-1 S09E07 - Ex Deus Machina
+tvdb_episode:70851_2_7  # Atlantis S02E07 - Instinct
+tvdb_episode:72449_9_8  # SG-1 S09E08 - Babylon
+tvdb_episode:70851_2_8  # Atlantis S02E08 - Conversion
+tvdb_episode:72449_9_9  # SG-1 S09E09 - Prototype
+tvdb_episode:72449_9_10  # SG-1 S09E10 - The Fourth Horseman (1)
+tvdb_episode:70851_2_9  # Atlantis S02E09 - Aurora
+tvdb_episode:70851_2_10  # Atlantis S02E10 - The Lost Boys (1)
+tvdb_episode:70851_2_11  # Atlantis S02E11 - The Hive (2)
+tvdb_episode:70851_2_12  # Atlantis S02E12 - Epiphany
+tvdb_episode:70851_2_13  # Atlantis S02E13 - Critical Mass
+tvdb_episode:70851_2_14  # Atlantis S02E14 - Grace Under Pressure
+tvdb_episode:70851_2_15  # Atlantis S02E15 - The Tower
+tvdb_episode:70851_2_16  # Atlantis S02E16 - The Long Goodbye
+tvdb_episode:72449_9_11  # SG-1 S09E11 - The Fourth Horseman (2)
+tvdb_episode:70851_2_17  # Atlantis S02E17 - Coup D'etat
+tvdb_episode:72449_9_12  # SG-1 S09E12 - Collateral Damage
+tvdb_episode:70851_2_18  # Atlantis S02E18 - Michael
+tvdb_episode:72449_9_13  # SG-1 S09E13 - Ripple Effect
+tvdb_episode:70851_2_19  # Atlantis S02E19 - Inferno
+tvdb_episode:72449_9_14  # SG-1 S09E14 - Stronghold
+tvdb_episode:70851_2_20  # Atlantis S02E20 - Allies (1)
+tvdb_episode:72449_9_15  # SG-1 S09E15 - Ethon
+tvdb_episode:72449_9_16  # SG-1 S09E16 - Off the Grid
+tvdb_episode:72449_9_17  # SG-1 S09E17 - The Scourge
+tvdb_episode:72449_9_18  # SG-1 S09E18 - Arthur's Mantle
+tvdb_episode:72449_9_19  # SG-1 S09E19 - Crusade
+tvdb_episode:72449_9_20  # SG-1 S09E20 - Camelot
+tvdb_episode:70851_3_1  # Atlantis S03E01 - No Man's Land (2)
+tvdb_episode:72449_10_1  # SG-1 S10E01 - Flesh and Blood
+tvdb_episode:70851_3_2  # Atlantis S03E02 - Misbegotten (3)
+tvdb_episode:72449_10_2  # SG-1 S10E02 - Morpheus
+tvdb_episode:70851_3_3  # Atlantis S03E03 - Irresistible
+tvdb_episode:72449_10_3  # SG-1 S10E03 - The Pegasus Project
+tvdb_episode:70851_3_4  # Atlantis S03E04 - Sateda
+tvdb_episode:72449_10_4  # SG-1 S10E04 - Insiders
+tvdb_episode:70851_3_5  # Atlantis S03E05 - Progeny
+tvdb_episode:72449_10_5  # SG-1 S10E05 - Uninvited
+tvdb_episode:70851_3_6  # Atlantis S03E06 - The Real World
+tvdb_episode:72449_10_6  # SG-1 S10E06 - 200
+tvdb_episode:70851_3_7  # Atlantis S03E07 - Common Ground
+tvdb_episode:72449_10_7  # SG-1 S10E07 - Counterstrike
+tvdb_episode:70851_3_8  # Atlantis S03E08 - McKay and Mrs. Miller
+tvdb_episode:72449_10_8  # SG-1 S10E08 - Memento Mori
+tvdb_episode:70851_3_9  # Atlantis S03E09 - Phantoms
+tvdb_episode:72449_10_9  # SG-1 S10E09 - Company of Thieves
+tvdb_episode:70851_3_10  # Atlantis S03E10 - The Return (1)
+tvdb_episode:72449_10_10  # SG-1 S10E10 - The Quest (1)
+tvdb_episode:70851_3_11  # Atlantis S03E11 - The Return (2)
+tvdb_episode:70851_3_12  # Atlantis S03E12 - Echoes
+tvdb_episode:70851_3_13  # Atlantis S03E13 - Irresponsible
+tvdb_episode:70851_3_14  # Atlantis S03E14 - Tao of Rodney
+tvdb_episode:70851_3_15  # Atlantis S03E15 - The Game
+tvdb_episode:70851_3_16  # Atlantis S03E16 - The Ark
+tvdb_episode:70851_3_17  # Atlantis S03E17 - Sunday
+tvdb_episode:70851_3_18  # Atlantis S03E18 - Submersion
+tvdb_episode:70851_3_19  # Atlantis S03E19 - Vengeance
+tvdb_episode:70851_3_20  # Atlantis S03E20 - First Strike (1)
+tvdb_episode:72449_10_11  # SG-1 S10E11 - The Quest (2)
+tvdb_episode:72449_10_12  # SG-1 S10E12 - Line in the Sand
+tvdb_episode:72449_10_13  # SG-1 S10E13 - The Road Not Taken
+tvdb_episode:72449_10_14  # SG-1 S10E14 - The Shroud
+tvdb_episode:72449_10_15  # SG-1 S10E15 - Bounty
+tvdb_episode:72449_10_16  # SG-1 S10E16 - Bad Guys
+tvdb_episode:72449_10_17  # SG-1 S10E17 - Talion
+tvdb_episode:72449_10_18  # SG-1 S10E18 - Family Ties
+tvdb_episode:72449_10_19  # SG-1 S10E19 - Dominion
+tvdb_episode:72449_10_20  # SG-1 S10E20 - Unending
+tvdb_episode:70851_4_1  # Atlantis S04E01 - Adrift (2)
+tvdb_episode:70851_4_2  # Atlantis S04E02 - Lifeline (3)
+tvdb_episode:70851_4_3  # Atlantis S04E03 - Reunion
+tvdb_episode:70851_4_4  # Atlantis S04E04 - Doppelganger
+tvdb_episode:70851_4_5  # Atlantis S04E05 - Travelers
+tvdb_episode:70851_4_6  # Atlantis S04E06 - Tabula Rasa
+tvdb_episode:70851_4_7  # Atlantis S04E07 - Missing
+tvdb_episode:70851_4_8  # Atlantis S04E08 - The Seer
+tvdb_episode:70851_4_9  # Atlantis S04E09 - Miller's Crossing
+tvdb_episode:70851_4_10  # Atlantis S04E10 - This Mortal Coil (1)
+tvdb_episode:70851_4_11  # Atlantis S04E11 - Be All My Sins Remember'd (2)
+tvdb_episode:70851_4_12  # Atlantis S04E12 - Spoils of War
+tvdb_episode:70851_4_13  # Atlantis S04E13 - Quarantine
+tvdb_episode:70851_4_14  # Atlantis S04E14 - Harmony
+tvdb_episode:70851_4_15  # Atlantis S04E15 - Outcast
+tvdb_episode:70851_4_16  # Atlantis S04E16 - Trio
+tvdb_episode:70851_4_17  # Atlantis S04E17 - Midway
+tvdb_episode:70851_4_18  # Atlantis S04E18 - The Kindred (1)
+tvdb_episode:70851_4_19  # Atlantis S04E19 - The Kindred (2)
+tvdb_episode:70851_4_20  # Atlantis S04E20 - The Last Man (1)
+tvdb_episode:70851_5_1  # Atlantis S05E01 - Search and Rescue (2)
+tvdb_episode:70851_5_2  # Atlantis S05E02 - The Seed
+tvdb_episode:70851_5_3  # Atlantis S05E03 - Broken Ties
+tvdb_episode:70851_5_4  # Atlantis S05E04 - The Daedalus Variations
+tvdb_episode:70851_5_5  # Atlantis S05E05 - Ghost in the Machine
+tvdb_episode:70851_5_6  # Atlantis S05E06 - The Shrine
+tvdb_episode:70851_5_7  # Atlantis S05E07 - Whispers
+tvdb_episode:70851_5_8  # Atlantis S05E08 - The Queen
+tvdb_episode:70851_5_9  # Atlantis S05E09 - Tracker
+tvdb_episode:70851_5_10  # Atlantis S05E10 - First Contact (1)
+tvdb_episode:70851_5_11  # Atlantis S05E11 - The Lost Tribe (2)
+tvdb_episode:70851_5_12  # Atlantis S05E12 - Outsiders
+tvdb_episode:70851_5_13  # Atlantis S05E13 - Inquisition
+tvdb_episode:70851_5_14  # Atlantis S05E14 - The Prodigal
+tvdb_episode:70851_5_15  # Atlantis S05E15 - Remnants
+tvdb_episode:70851_5_16  # Atlantis S05E16 - Brain Storm
+tvdb_episode:70851_5_17  # Atlantis S05E17 - Infection
+tvdb_episode:70851_5_18  # Atlantis S05E18 - Identity
+tvdb_episode:70851_5_19  # Atlantis S05E19 - Vegas
+tvdb_episode:70851_5_20  # Atlantis S05E20 - Enemy at the Gate
+tvdb_episode:83237_1_1  # Universe S01E01 - Air (1)
+tvdb_episode:83237_1_2  # Universe S01E02 - Air (2)
+tvdb_episode:83237_1_3  # Universe S01E03 - Air (3)
+tvdb_episode:83237_1_4  # Universe S01E04 - Darkness
+tvdb_episode:83237_1_5  # Universe S01E05 - Light
+tvdb_episode:83237_1_6  # Universe S01E06 - Water
+tvdb_episode:83237_1_7  # Universe S01E07 - Earth
+tvdb_episode:83237_1_8  # Universe S01E08 - Time
+tvdb_episode:83237_1_9  # Universe S01E09 - Life
+tvdb_episode:83237_1_10  # Universe S01E10 - Justice
+tvdb_episode:83237_1_11  # Universe S01E11 - Space (1)
+tvdb_episode:83237_1_12  # Universe S01E12 - Divided (2)
+tvdb_episode:83237_1_13  # Universe S01E13 - Faith
+tvdb_episode:83237_1_14  # Universe S01E14 - Human
+tvdb_episode:83237_1_15  # Universe S01E15 - Lost
+tvdb_episode:83237_1_16  # Universe S01E16 - Sabotage
+tvdb_episode:83237_1_17  # Universe S01E17 - Pain
+tvdb_episode:83237_1_18  # Universe S01E18 - Subversion
+tvdb_episode:83237_1_19  # Universe S01E19 - Incursion (1)
+tvdb_episode:83237_1_20  # Universe S01E20 - Incursion (2)
+tvdb_episode:83237_2_1  # Universe S02E01 - Intervention (3)
+tvdb_episode:83237_2_2  # Universe S02E02 - Aftermath
+tvdb_episode:83237_2_3  # Universe S02E03 - Awakening
+tvdb_episode:83237_2_4  # Universe S02E04 - Pathogen
+tvdb_episode:83237_2_5  # Universe S02E05 - Cloverdale
+tvdb_episode:83237_2_6  # Universe S02E06 - Trial and Error
+tvdb_episode:83237_2_7  # Universe S02E07 - The Greater Good
+tvdb_episode:83237_2_8  # Universe S02E08 - Malice
+tvdb_episode:83237_2_9  # Universe S02E09 - Visitation
+tvdb_episode:83237_2_10  # Universe S02E10 - Resurgence (1)
+tvdb_episode:83237_2_11  # Universe S02E11 - Deliverance (2)
+tvdb_episode:83237_2_12  # Universe S02E12 - Twin Destinies
+tvdb_episode:83237_2_13  # Universe S02E13 - Alliances
+tvdb_episode:83237_2_14  # Universe S02E14 - Hope
+tvdb_episode:83237_2_15  # Universe S02E15 - Seizure
+tvdb_episode:83237_2_16  # Universe S02E16 - The Hunt
+tvdb_episode:83237_2_17  # Universe S02E17 - Common Descent (1)
+tvdb_episode:83237_2_18  # Universe S02E18 - Epilogue (2)
+tvdb_episode:83237_2_19  # Universe S02E19 - Blockade
+tvdb_episode:83237_2_20  # Universe S02E20 - Gauntlet

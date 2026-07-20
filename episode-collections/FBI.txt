@@ -1,6 +1,6 @@
 # Last updated: 2026-06-28
-# Scope: FBI, FBI: Most Wanted, and FBI: International; excludes the wider Dick Wolf universe (e.g. Law & Order, NCIS).
-# Ordered by actual air date and time per TVmaze (airtimes verified per episode)
+# Scope: FBI, FBI: Most Wanted, and FBI: International; excludes the wider Dick Wolf universe (e.g. Law & Order, NCIS)
+# Ordered by air date and time per TVmaze
 tvdb_episode:350071_1_1  # FBI S01E01 - Pilot
 tvdb_episode:350071_1_2  # FBI S01E02 - Green Birds
 tvdb_episode:350071_1_3  # FBI S01E03 - Prey

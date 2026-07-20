@@ -1,0 +1,1540 @@
+# Last updated: 2026-07-19
+# Scope: Law & Order, Law & Order: Special Victims Unit, Law & Order: Criminal Intent, Law & Order: UK, Law & Order: LA, Law & Order: Trial by Jury, Law & Order: Organized Crime, Law & Order True Crime, Law & Order Toronto: Criminal Intent; excludes specials, Convictions and non-English adaptations
+# Ordered by air date and time per TVmaze
+tvdb_episode:72368_1_1  # Law & Order S01E01 - Prescription for Death
+tvdb_episode:72368_1_2  # Law & Order S01E02 - Subterranean Homeboy Blues
+tvdb_episode:72368_1_3  # Law & Order S01E03 - The Reaper's Helper
+tvdb_episode:72368_1_4  # Law & Order S01E04 - Kiss the Girls and Make Them Die
+tvdb_episode:72368_1_5  # Law & Order S01E05 - Happily Ever After
+tvdb_episode:72368_1_6  # Law & Order S01E06 - Everybody's Favorite Bagman
+tvdb_episode:72368_1_7  # Law & Order S01E07 - By Hooker, By Crook
+tvdb_episode:72368_1_8  # Law & Order S01E08 - Poison Ivy
+tvdb_episode:72368_1_9  # Law & Order S01E09 - Indifference
+tvdb_episode:72368_1_10  # Law & Order S01E10 - Prisoner of Love
+tvdb_episode:72368_1_11  # Law & Order S01E11 - Out of the Half-Light
+tvdb_episode:72368_1_12  # Law & Order S01E12 - Life Choice
+tvdb_episode:72368_1_13  # Law & Order S01E13 - A Death in the Family
+tvdb_episode:72368_1_14  # Law & Order S01E14 - The Violence of Summer
+tvdb_episode:72368_1_15  # Law & Order S01E15 - The Torrents of Greed, Part 1
+tvdb_episode:72368_1_16  # Law & Order S01E16 - The Torrents of Greed, Part 2
+tvdb_episode:72368_1_17  # Law & Order S01E17 - Mushrooms
+tvdb_episode:72368_1_18  # Law & Order S01E18 - The Secret Sharers
+tvdb_episode:72368_1_19  # Law & Order S01E19 - The Serpent's Tooth
+tvdb_episode:72368_1_20  # Law & Order S01E20 - The Troubles
+tvdb_episode:72368_1_21  # Law & Order S01E21 - Sonata for a Solo Organ
+tvdb_episode:72368_1_22  # Law & Order S01E22 - The Blue Wall
+tvdb_episode:72368_2_1  # Law & Order S02E01 - Confession
+tvdb_episode:72368_2_2  # Law & Order S02E02 - The Wages of Love
+tvdb_episode:72368_2_3  # Law & Order S02E03 - Aria
+tvdb_episode:72368_2_4  # Law & Order S02E04 - Asylum
+tvdb_episode:72368_2_5  # Law & Order S02E05 - God Bless the Child
+tvdb_episode:72368_2_6  # Law & Order S02E06 - Misconception
+tvdb_episode:72368_2_7  # Law & Order S02E07 - In Memory Of
+tvdb_episode:72368_2_8  # Law & Order S02E08 - Out of Control
+tvdb_episode:72368_2_9  # Law & Order S02E09 - Renunciation
+tvdb_episode:72368_2_10  # Law & Order S02E10 - Heaven
+tvdb_episode:72368_2_11  # Law & Order S02E11 - His Hour Upon the Stage
+tvdb_episode:72368_2_12  # Law & Order S02E12 - Star Struck
+tvdb_episode:72368_2_13  # Law & Order S02E13 - Severance
+tvdb_episode:72368_2_14  # Law & Order S02E14 - Blood Is Thicker...
+tvdb_episode:72368_2_15  # Law & Order S02E15 - Trust
+tvdb_episode:72368_2_16  # Law & Order S02E16 - Vengeance
+tvdb_episode:72368_2_17  # Law & Order S02E17 - Sisters of Mercy
+tvdb_episode:72368_2_18  # Law & Order S02E18 - Cradle to Grave
+tvdb_episode:72368_2_19  # Law & Order S02E19 - The Fertile Fields
+tvdb_episode:72368_2_20  # Law & Order S02E20 - Intolerance
+tvdb_episode:72368_2_21  # Law & Order S02E21 - Silence
+tvdb_episode:72368_2_22  # Law & Order S02E22 - The Working Stiff
+tvdb_episode:72368_3_1  # Law & Order S03E01 - Skin Deep
+tvdb_episode:72368_3_2  # Law & Order S03E02 - Conspiracy
+tvdb_episode:72368_3_3  # Law & Order S03E03 - Forgiveness
+tvdb_episode:72368_3_4  # Law & Order S03E04 - The Corporate Veil
+tvdb_episode:72368_3_5  # Law & Order S03E05 - Wedded Bliss
+tvdb_episode:72368_3_6  # Law & Order S03E06 - Helpless
+tvdb_episode:72368_3_7  # Law & Order S03E07 - Self Defense
+tvdb_episode:72368_3_8  # Law & Order S03E08 - Prince of Darkness
+tvdb_episode:72368_3_9  # Law & Order S03E09 - Point of View
+tvdb_episode:72368_3_10  # Law & Order S03E10 - Consultation
+tvdb_episode:72368_3_11  # Law & Order S03E11 - Extended Family
+tvdb_episode:72368_3_12  # Law & Order S03E12 - Right to Counsel
+tvdb_episode:72368_3_13  # Law & Order S03E13 - Night and Fog
+tvdb_episode:72368_3_14  # Law & Order S03E14 - Promises to Keep
+tvdb_episode:72368_3_15  # Law & Order S03E15 - Mother Love
+tvdb_episode:72368_3_16  # Law & Order S03E16 - Jurisdiction
+tvdb_episode:72368_3_17  # Law & Order S03E17 - Conduct Unbecoming
+tvdb_episode:72368_3_18  # Law & Order S03E18 - Animal Instinct
+tvdb_episode:72368_3_19  # Law & Order S03E19 - Virus
+tvdb_episode:72368_3_20  # Law & Order S03E20 - Securitate
+tvdb_episode:72368_3_21  # Law & Order S03E21 - Manhood
+tvdb_episode:72368_3_22  # Law & Order S03E22 - Benevolence
+tvdb_episode:72368_4_1  # Law & Order S04E01 - Sweeps
+tvdb_episode:72368_4_2  # Law & Order S04E02 - Volunteers
+tvdb_episode:72368_4_3  # Law & Order S04E03 - Discord
+tvdb_episode:72368_4_4  # Law & Order S04E04 - Profile
+tvdb_episode:72368_4_5  # Law & Order S04E05 - Black Tie
+tvdb_episode:72368_4_6  # Law & Order S04E06 - Pride and Joy
+tvdb_episode:72368_4_7  # Law & Order S04E07 - Apocrypha
+tvdb_episode:72368_4_8  # Law & Order S04E08 - American Dream
+tvdb_episode:72368_4_9  # Law & Order S04E09 - Born Bad
+tvdb_episode:72368_4_10  # Law & Order S04E10 - The Pursuit of Happiness
+tvdb_episode:72368_4_11  # Law & Order S04E11 - Golden Years
+tvdb_episode:72368_4_12  # Law & Order S04E12 - Snatched
+tvdb_episode:72368_4_13  # Law & Order S04E13 - Breeder
+tvdb_episode:72368_4_14  # Law & Order S04E14 - Censure
+tvdb_episode:72368_4_15  # Law & Order S04E15 - Kids
+tvdb_episode:72368_4_16  # Law & Order S04E16 - Big Bang
+tvdb_episode:72368_4_17  # Law & Order S04E17 - Mayhem
+tvdb_episode:72368_4_18  # Law & Order S04E18 - Wager
+tvdb_episode:72368_4_19  # Law & Order S04E19 - Sanctuary
+tvdb_episode:72368_4_20  # Law & Order S04E20 - Nurture
+tvdb_episode:72368_4_21  # Law & Order S04E21 - Doubles
+tvdb_episode:72368_4_22  # Law & Order S04E22 - Old Friends
+tvdb_episode:72368_5_1  # Law & Order S05E01 - Second Opinion
+tvdb_episode:72368_5_2  # Law & Order S05E02 - Coma
+tvdb_episode:72368_5_3  # Law & Order S05E03 - Blue Bamboo
+tvdb_episode:72368_5_4  # Law & Order S05E04 - Family Values
+tvdb_episode:72368_5_5  # Law & Order S05E05 - White Rabbit
+tvdb_episode:72368_5_6  # Law & Order S05E06 - Competence
+tvdb_episode:72368_5_7  # Law & Order S05E07 - Precious
+tvdb_episode:72368_5_8  # Law & Order S05E08 - Virtue
+tvdb_episode:72368_5_9  # Law & Order S05E09 - Scoundrels
+tvdb_episode:72368_5_10  # Law & Order S05E10 - House Counsel
+tvdb_episode:72368_5_11  # Law & Order S05E11 - Guardian
+tvdb_episode:72368_5_12  # Law & Order S05E12 - Progeny
+tvdb_episode:72368_5_13  # Law & Order S05E13 - Rage
+tvdb_episode:72368_5_14  # Law & Order S05E14 - Performance
+tvdb_episode:72368_5_15  # Law & Order S05E15 - Seed
+tvdb_episode:72368_5_16  # Law & Order S05E16 - Wannabe
+tvdb_episode:72368_5_17  # Law & Order S05E17 - Act of God
+tvdb_episode:72368_5_18  # Law & Order S05E18 - Privileged
+tvdb_episode:72368_5_19  # Law & Order S05E19 - Cruel and Unusual
+tvdb_episode:72368_5_20  # Law & Order S05E20 - Bad Faith
+tvdb_episode:72368_5_21  # Law & Order S05E21 - Purple Heart
+tvdb_episode:72368_5_22  # Law & Order S05E22 - Switch
+tvdb_episode:72368_5_23  # Law & Order S05E23 - Pride
+tvdb_episode:72368_6_1  # Law & Order S06E01 - Bitter Fruit
+tvdb_episode:72368_6_2  # Law & Order S06E02 - Rebels
+tvdb_episode:72368_6_3  # Law & Order S06E03 - Savages
+tvdb_episode:72368_6_4  # Law & Order S06E04 - Jeopardy
+tvdb_episode:72368_6_5  # Law & Order S06E05 - Hot Pursuit
+tvdb_episode:72368_6_6  # Law & Order S06E06 - Paranoia
+tvdb_episode:72368_6_7  # Law & Order S06E07 - Humiliation
+tvdb_episode:72368_6_8  # Law & Order S06E08 - Angel
+tvdb_episode:72368_6_9  # Law & Order S06E09 - Blood Libel
+tvdb_episode:72368_6_10  # Law & Order S06E10 - Remand
+tvdb_episode:72368_6_11  # Law & Order S06E11 - Corpus Delicti
+tvdb_episode:72368_6_12  # Law & Order S06E12 - Trophy
+tvdb_episode:72368_6_13  # Law & Order S06E13 - Charm City
+tvdb_episode:72368_6_14  # Law & Order S06E14 - Custody
+tvdb_episode:72368_6_15  # Law & Order S06E15 - Encore
+tvdb_episode:72368_6_16  # Law & Order S06E16 - Savior
+tvdb_episode:72368_6_17  # Law & Order S06E17 - Deceit
+tvdb_episode:72368_6_18  # Law & Order S06E18 - Atonement
+tvdb_episode:72368_6_19  # Law & Order S06E19 - Slave
+tvdb_episode:72368_6_20  # Law & Order S06E20 - Girlfriends
+tvdb_episode:72368_6_21  # Law & Order S06E21 - Pro Se
+tvdb_episode:72368_6_22  # Law & Order S06E22 - Homesick
+tvdb_episode:72368_6_23  # Law & Order S06E23 - Aftershock
+tvdb_episode:72368_7_1  # Law & Order S07E01 - Causa Mortis
+tvdb_episode:72368_7_2  # Law & Order S07E02 - ID
+tvdb_episode:72368_7_3  # Law & Order S07E03 - Good Girl
+tvdb_episode:72368_7_4  # Law & Order S07E04 - Survivor
+tvdb_episode:72368_7_5  # Law & Order S07E05 - Corruption
+tvdb_episode:72368_7_6  # Law & Order S07E06 - Double Blind
+tvdb_episode:72368_7_7  # Law & Order S07E07 - Deadbeat
+tvdb_episode:72368_7_8  # Law & Order S07E08 - Family Business
+tvdb_episode:72368_7_9  # Law & Order S07E09 - Entrapment
+tvdb_episode:72368_7_10  # Law & Order S07E10 - Legacy
+tvdb_episode:72368_7_11  # Law & Order S07E11 - Menace
+tvdb_episode:72368_7_12  # Law & Order S07E12 - Barter
+tvdb_episode:72368_7_13  # Law & Order S07E13 - Matrimony
+tvdb_episode:72368_7_14  # Law & Order S07E14 - Working Mom
+tvdb_episode:72368_7_15  # Law & Order S07E15 - D-Girl
+tvdb_episode:72368_7_16  # Law & Order S07E16 - Turnaround
+tvdb_episode:72368_7_17  # Law & Order S07E17 - Showtime
+tvdb_episode:72368_7_18  # Law & Order S07E18 - Mad Dog
+tvdb_episode:72368_7_19  # Law & Order S07E19 - Double Down
+tvdb_episode:72368_7_20  # Law & Order S07E20 - We Like Mike
+tvdb_episode:72368_7_21  # Law & Order S07E21 - Passion
+tvdb_episode:72368_7_22  # Law & Order S07E22 - Past Imperfect
+tvdb_episode:72368_7_23  # Law & Order S07E23 - Terminal
+tvdb_episode:72368_8_1  # Law & Order S08E01 - Thrill
+tvdb_episode:72368_8_2  # Law & Order S08E02 - Denial
+tvdb_episode:72368_8_3  # Law & Order S08E03 - Navy Blues
+tvdb_episode:72368_8_4  # Law & Order S08E04 - Harvest
+tvdb_episode:72368_8_5  # Law & Order S08E05 - Nullification
+tvdb_episode:72368_8_6  # Law & Order S08E06 - Baby, It's You
+tvdb_episode:72368_8_7  # Law & Order S08E07 - Blood
+tvdb_episode:72368_8_8  # Law & Order S08E08 - Shadow
+tvdb_episode:72368_8_9  # Law & Order S08E09 - Burned
+tvdb_episode:72368_8_10  # Law & Order S08E10 - Ritual
+tvdb_episode:72368_8_11  # Law & Order S08E11 - Under the Influence
+tvdb_episode:72368_8_12  # Law & Order S08E12 - Expert
+tvdb_episode:72368_8_13  # Law & Order S08E13 - Castoff
+tvdb_episode:72368_8_14  # Law & Order S08E14 - Grief
+tvdb_episode:72368_8_15  # Law & Order S08E15 - Faccia a Faccia
+tvdb_episode:72368_8_16  # Law & Order S08E16 - Divorce
+tvdb_episode:72368_8_17  # Law & Order S08E17 - Carrier
+tvdb_episode:72368_8_18  # Law & Order S08E18 - Stalker
+tvdb_episode:72368_8_19  # Law & Order S08E19 - Disappeared
+tvdb_episode:72368_8_20  # Law & Order S08E20 - Burden
+tvdb_episode:72368_8_21  # Law & Order S08E21 - Bad Girl
+tvdb_episode:72368_8_22  # Law & Order S08E22 - Damaged
+tvdb_episode:72368_8_23  # Law & Order S08E23 - Tabloid
+tvdb_episode:72368_8_24  # Law & Order S08E24 - Monster
+tvdb_episode:72368_9_1  # Law & Order S09E01 - Cherished
+tvdb_episode:72368_9_2  # Law & Order S09E02 - DWB
+tvdb_episode:72368_9_3  # Law & Order S09E03 - Bait
+tvdb_episode:72368_9_4  # Law & Order S09E04 - Flight
+tvdb_episode:72368_9_5  # Law & Order S09E05 - Agony
+tvdb_episode:72368_9_6  # Law & Order S09E06 - Scrambled
+tvdb_episode:72368_9_7  # Law & Order S09E07 - Venom
+tvdb_episode:72368_9_8  # Law & Order S09E08 - Punk
+tvdb_episode:72368_9_9  # Law & Order S09E09 - True North
+tvdb_episode:72368_9_10  # Law & Order S09E10 - Hate
+tvdb_episode:72368_9_11  # Law & Order S09E11 - Ramparts
+tvdb_episode:72368_9_12  # Law & Order S09E12 - Haven
+tvdb_episode:72368_9_13  # Law & Order S09E13 - Hunters
+tvdb_episode:72368_9_14  # Law & Order S09E14 - Sideshow
+tvdb_episode:72368_9_15  # Law & Order S09E15 - Disciple
+tvdb_episode:72368_9_16  # Law & Order S09E16 - Harm
+tvdb_episode:72368_9_17  # Law & Order S09E17 - Shield
+tvdb_episode:72368_9_18  # Law & Order S09E18 - Juvenile
+tvdb_episode:72368_9_19  # Law & Order S09E19 - Tabula Rasa
+tvdb_episode:72368_9_20  # Law & Order S09E20 - Empire
+tvdb_episode:72368_9_21  # Law & Order S09E21 - Ambitious
+tvdb_episode:72368_9_22  # Law & Order S09E22 - Admissions
+tvdb_episode:72368_9_23  # Law & Order S09E23 - Refuge (1)
+tvdb_episode:72368_9_24  # Law & Order S09E24 - Refuge (2)
+tvdb_episode:75692_1_1  # Law & Order: Special Victims Unit S01E01 - Payback
+tvdb_episode:72368_10_1  # Law & Order S10E01 - Gunshow
+tvdb_episode:75692_1_2  # Law & Order: Special Victims Unit S01E02 - A Single Life
+tvdb_episode:72368_10_2  # Law & Order S10E02 - Killerz
+tvdb_episode:75692_1_3  # Law & Order: Special Victims Unit S01E03 - ...Or Just Look Like One
+tvdb_episode:72368_10_3  # Law & Order S10E03 - DNR
+tvdb_episode:75692_1_4  # Law & Order: Special Victims Unit S01E04 - Hysteria
+tvdb_episode:72368_10_4  # Law & Order S10E04 - Merger
+tvdb_episode:75692_1_5  # Law & Order: Special Victims Unit S01E05 - Wanderlust
+tvdb_episode:75692_1_6  # Law & Order: Special Victims Unit S01E06 - Sophomore Jinx
+tvdb_episode:72368_10_5  # Law & Order S10E05 - Justice
+tvdb_episode:75692_1_7  # Law & Order: Special Victims Unit S01E07 - Uncivilized
+tvdb_episode:72368_10_6  # Law & Order S10E06 - Marathon
+tvdb_episode:75692_1_8  # Law & Order: Special Victims Unit S01E08 - Stalked
+tvdb_episode:72368_10_7  # Law & Order S10E07 - Patsy
+tvdb_episode:75692_1_9  # Law & Order: Special Victims Unit S01E09 - Stocks & Bondage
+tvdb_episode:72368_10_8  # Law & Order S10E08 - Blood Money
+tvdb_episode:72368_10_9  # Law & Order S10E09 - Sundown
+tvdb_episode:72368_10_10  # Law & Order S10E10 - Loco Parentis
+tvdb_episode:75692_1_10  # Law & Order: Special Victims Unit S01E10 - Closure
+tvdb_episode:75692_1_11  # Law & Order: Special Victims Unit S01E11 - Bad Blood
+tvdb_episode:75692_1_12  # Law & Order: Special Victims Unit S01E12 - Russian Love Poem
+tvdb_episode:72368_10_11  # Law & Order S10E11 - Collision
+tvdb_episode:75692_1_13  # Law & Order: Special Victims Unit S01E13 - Disrobed
+tvdb_episode:72368_10_12  # Law & Order S10E12 - Mother's Milk
+tvdb_episode:75692_1_14  # Law & Order: Special Victims Unit S01E14 - Limitations
+tvdb_episode:72368_10_13  # Law & Order S10E13 - Panic
+tvdb_episode:72368_10_14  # Law & Order S10E14 - Entitled, Part 2
+tvdb_episode:75692_1_15  # Law & Order: Special Victims Unit S01E15 - Entitled, Part 1
+tvdb_episode:72368_10_15  # Law & Order S10E15 - Fools for Love
+tvdb_episode:75692_1_16  # Law & Order: Special Victims Unit S01E16 - The Third Guy
+tvdb_episode:72368_10_16  # Law & Order S10E16 - Trade This
+tvdb_episode:72368_10_17  # Law & Order S10E17 - Black, White and Blue
+tvdb_episode:75692_1_17  # Law & Order: Special Victims Unit S01E17 - Misleader
+tvdb_episode:72368_10_18  # Law & Order S10E18 - Mega
+tvdb_episode:75692_1_18  # Law & Order: Special Victims Unit S01E18 - Chat Room
+tvdb_episode:72368_10_19  # Law & Order S10E19 - Surrender Dorothy
+tvdb_episode:75692_1_19  # Law & Order: Special Victims Unit S01E19 - Contact
+tvdb_episode:72368_10_20  # Law & Order S10E20 - Untitled
+tvdb_episode:75692_1_20  # Law & Order: Special Victims Unit S01E20 - Remorse
+tvdb_episode:72368_10_21  # Law & Order S10E21 - Narcosis
+tvdb_episode:75692_1_21  # Law & Order: Special Victims Unit S01E21 - Nocturne
+tvdb_episode:72368_10_22  # Law & Order S10E22 - High & Low
+tvdb_episode:75692_1_22  # Law & Order: Special Victims Unit S01E22 - Slaves
+tvdb_episode:72368_10_23  # Law & Order S10E23 - Stiff
+tvdb_episode:72368_10_24  # Law & Order S10E24 - Vaya Con Dios
+tvdb_episode:72368_11_1  # Law & Order S11E01 - Endurance
+tvdb_episode:75692_2_1  # Law & Order: Special Victims Unit S02E01 - Wrong is Right
+tvdb_episode:72368_11_2  # Law & Order S11E02 - Turnstile Justice
+tvdb_episode:75692_2_2  # Law & Order: Special Victims Unit S02E02 - Honor
+tvdb_episode:72368_11_3  # Law & Order S11E03 - Dissonance
+tvdb_episode:75692_2_3  # Law & Order: Special Victims Unit S02E03 - Closure, Part 2
+tvdb_episode:72368_11_4  # Law & Order S11E04 - Standoff
+tvdb_episode:75692_2_4  # Law & Order: Special Victims Unit S02E04 - Legacy
+tvdb_episode:72368_11_5  # Law & Order S11E05 - Return
+tvdb_episode:75692_2_5  # Law & Order: Special Victims Unit S02E05 - Baby Killer
+tvdb_episode:72368_11_6  # Law & Order S11E06 - Burn Baby Burn
+tvdb_episode:75692_2_6  # Law & Order: Special Victims Unit S02E06 - Noncompliance
+tvdb_episode:72368_11_7  # Law & Order S11E07 - Amends
+tvdb_episode:75692_2_7  # Law & Order: Special Victims Unit S02E07 - Asunder
+tvdb_episode:75692_2_8  # Law & Order: Special Victims Unit S02E08 - Taken
+tvdb_episode:72368_11_8  # Law & Order S11E08 - Thin Ice
+tvdb_episode:72368_11_9  # Law & Order S11E09 - Hubris
+tvdb_episode:75692_2_9  # Law & Order: Special Victims Unit S02E09 - Pixies
+tvdb_episode:72368_11_10  # Law & Order S11E10 - Whose Monkey Is It Anyway?
+tvdb_episode:75692_2_10  # Law & Order: Special Victims Unit S02E10 - Consent
+tvdb_episode:72368_11_11  # Law & Order S11E11 - Sunday in the Park with Jorge
+tvdb_episode:75692_2_11  # Law & Order: Special Victims Unit S02E11 - Abuse
+tvdb_episode:75692_2_12  # Law & Order: Special Victims Unit S02E12 - Secrets
+tvdb_episode:72368_11_12  # Law & Order S11E12 - Teenage Wasteland
+tvdb_episode:75692_2_13  # Law & Order: Special Victims Unit S02E13 - Victims
+tvdb_episode:72368_11_13  # Law & Order S11E13 - Phobia
+tvdb_episode:75692_2_14  # Law & Order: Special Victims Unit S02E14 - Paranoia
+tvdb_episode:72368_11_14  # Law & Order S11E14 - A Losing Season
+tvdb_episode:75692_2_15  # Law & Order: Special Victims Unit S02E15 - Countdown
+tvdb_episode:72368_11_15  # Law & Order S11E15 - Swept Away - A Very Special Episode
+tvdb_episode:75692_2_16  # Law & Order: Special Victims Unit S02E16 - Runaway
+tvdb_episode:72368_11_16  # Law & Order S11E16 - Bronx Cheer
+tvdb_episode:72368_11_17  # Law & Order S11E17 - Ego
+tvdb_episode:75692_2_17  # Law & Order: Special Victims Unit S02E17 - Folly
+tvdb_episode:72368_11_18  # Law & Order S11E18 - White Lie
+tvdb_episode:72368_11_19  # Law & Order S11E19 - Whiplash
+tvdb_episode:75692_2_18  # Law & Order: Special Victims Unit S02E18 - Manhunt
+tvdb_episode:75692_2_19  # Law & Order: Special Victims Unit S02E19 - Parasites
+tvdb_episode:72368_11_20  # Law & Order S11E20 - All My Children
+tvdb_episode:75692_2_20  # Law & Order: Special Victims Unit S02E20 - Pique
+tvdb_episode:72368_11_21  # Law & Order S11E21 - Brother's Keeper
+tvdb_episode:75692_2_21  # Law & Order: Special Victims Unit S02E21 - Scourge
+tvdb_episode:72368_11_22  # Law & Order S11E22 - School Daze
+tvdb_episode:72368_11_23  # Law & Order S11E23 - Judge Dread
+tvdb_episode:72368_11_24  # Law & Order S11E24 - Deep Vote
+tvdb_episode:72368_12_1  # Law & Order S12E01 - Who Let the Dogs Out?
+tvdb_episode:75692_3_1  # Law & Order: Special Victims Unit S03E01 - Repression
+tvdb_episode:71489_1_1  # Law & Order: Criminal Intent S01E01 - One
+tvdb_episode:72368_12_2  # Law & Order S12E02 - Armed Forces
+tvdb_episode:75692_3_2  # Law & Order: Special Victims Unit S03E02 - Wrath
+tvdb_episode:71489_1_2  # Law & Order: Criminal Intent S01E02 - Art
+tvdb_episode:72368_12_3  # Law & Order S12E03 - For Love or Money
+tvdb_episode:75692_3_3  # Law & Order: Special Victims Unit S03E03 - Stolen
+tvdb_episode:71489_1_3  # Law & Order: Criminal Intent S01E03 - Smothered
+tvdb_episode:71489_1_4  # Law & Order: Criminal Intent S01E04 - The Faithful
+tvdb_episode:75692_3_4  # Law & Order: Special Victims Unit S03E04 - Rooftop
+tvdb_episode:71489_1_5  # Law & Order: Criminal Intent S01E05 - Jones
+tvdb_episode:72368_12_4  # Law & Order S12E04 - Soldier of Fortune
+tvdb_episode:75692_3_5  # Law & Order: Special Victims Unit S03E05 - Tangled
+tvdb_episode:71489_1_6  # Law & Order: Criminal Intent S01E06 - The Extra Man
+tvdb_episode:72368_12_5  # Law & Order S12E05 - Possession
+tvdb_episode:75692_3_6  # Law & Order: Special Victims Unit S03E06 - Redemption
+tvdb_episode:72368_12_6  # Law & Order S12E06 - Formerly Famous
+tvdb_episode:75692_3_7  # Law & Order: Special Victims Unit S03E07 - Sacrifice
+tvdb_episode:71489_1_7  # Law & Order: Criminal Intent S01E07 - Poison
+tvdb_episode:72368_12_7  # Law & Order S12E07 - Myth of Fingerprints
+tvdb_episode:75692_3_8  # Law & Order: Special Victims Unit S03E08 - Inheritance
+tvdb_episode:71489_1_8  # Law & Order: Criminal Intent S01E08 - The Pardoner's Tale
+tvdb_episode:72368_12_8  # Law & Order S12E08 - The Fire This Time
+tvdb_episode:75692_3_9  # Law & Order: Special Victims Unit S03E09 - Care
+tvdb_episode:71489_1_9  # Law & Order: Criminal Intent S01E09 - The Good Doctor
+tvdb_episode:72368_12_9  # Law & Order S12E09 - 3 Dawg Night
+tvdb_episode:71489_1_10  # Law & Order: Criminal Intent S01E10 - Enemy Within
+tvdb_episode:72368_12_10  # Law & Order S12E10 - Prejudice
+tvdb_episode:75692_3_10  # Law & Order: Special Victims Unit S03E10 - Ridicule
+tvdb_episode:75692_3_11  # Law & Order: Special Victims Unit S03E11 - Monogamy
+tvdb_episode:71489_1_11  # Law & Order: Criminal Intent S01E11 - The Third Horseman
+tvdb_episode:72368_12_11  # Law & Order S12E11 - The Collar
+tvdb_episode:75692_3_12  # Law & Order: Special Victims Unit S03E12 - Protection
+tvdb_episode:71489_1_12  # Law & Order: Criminal Intent S01E12 - Crazy
+tvdb_episode:72368_12_12  # Law & Order S12E12 - Undercovered
+tvdb_episode:75692_3_13  # Law & Order: Special Victims Unit S03E13 - Prodigy
+tvdb_episode:75692_3_14  # Law & Order: Special Victims Unit S03E14 - Counterfeit
+tvdb_episode:71489_1_13  # Law & Order: Criminal Intent S01E13 - The Insider
+tvdb_episode:72368_12_13  # Law & Order S12E13 - DR 1-102
+tvdb_episode:75692_3_15  # Law & Order: Special Victims Unit S03E15 - Execution
+tvdb_episode:72368_12_14  # Law & Order S12E14 - Missing
+tvdb_episode:72368_12_15  # Law & Order S12E15 - Access Nation
+tvdb_episode:75692_3_16  # Law & Order: Special Victims Unit S03E16 - Popular
+tvdb_episode:71489_1_14  # Law & Order: Criminal Intent S01E14 - Homo Homini Lupus
+tvdb_episode:72368_12_16  # Law & Order S12E16 - Born Again
+tvdb_episode:75692_3_17  # Law & Order: Special Victims Unit S03E17 - Surveillance
+tvdb_episode:71489_1_15  # Law & Order: Criminal Intent S01E15 - Semi-Professional
+tvdb_episode:71489_1_16  # Law & Order: Criminal Intent S01E16 - Phantom
+tvdb_episode:72368_12_17  # Law & Order S12E17 - Girl Most Likely
+tvdb_episode:75692_3_18  # Law & Order: Special Victims Unit S03E18 - Guilt
+tvdb_episode:71489_1_17  # Law & Order: Criminal Intent S01E17 - Seizure
+tvdb_episode:72368_12_18  # Law & Order S12E18 - Equal Rights
+tvdb_episode:75692_3_19  # Law & Order: Special Victims Unit S03E19 - Justice
+tvdb_episode:72368_12_19  # Law & Order S12E19 - Slaughter
+tvdb_episode:71489_1_18  # Law & Order: Criminal Intent S01E18 - Yesterday
+tvdb_episode:71489_1_19  # Law & Order: Criminal Intent S01E19 - Maledictus
+tvdb_episode:72368_12_20  # Law & Order S12E20 - Dazzled
+tvdb_episode:75692_3_20  # Law & Order: Special Victims Unit S03E20 - Greed
+tvdb_episode:71489_1_20  # Law & Order: Criminal Intent S01E20 - Badge
+tvdb_episode:71489_1_21  # Law & Order: Criminal Intent S01E21 - Faith
+tvdb_episode:72368_12_21  # Law & Order S12E21 - Foul Play
+tvdb_episode:75692_3_21  # Law & Order: Special Victims Unit S03E21 - Denial
+tvdb_episode:72368_12_22  # Law & Order S12E22 - Attorney Client
+tvdb_episode:71489_1_22  # Law & Order: Criminal Intent S01E22 - Tuxedo Hill
+tvdb_episode:75692_3_22  # Law & Order: Special Victims Unit S03E22 - Competence
+tvdb_episode:72368_12_23  # Law & Order S12E23 - Oxymoron
+tvdb_episode:75692_3_23  # Law & Order: Special Victims Unit S03E23 - Silence
+tvdb_episode:72368_12_24  # Law & Order S12E24 - Patriot
+tvdb_episode:75692_4_1  # Law & Order: Special Victims Unit S04E01 - Chameleon
+tvdb_episode:71489_2_1  # Law & Order: Criminal Intent S02E01 - Dead
+tvdb_episode:72368_13_1  # Law & Order S13E01 - American Jihad
+tvdb_episode:75692_4_2  # Law & Order: Special Victims Unit S04E02 - Deception
+tvdb_episode:71489_2_2  # Law & Order: Criminal Intent S02E02 - Bright Boy
+tvdb_episode:72368_13_2  # Law & Order S13E02 - Shangri-La
+tvdb_episode:75692_4_3  # Law & Order: Special Victims Unit S04E03 - Vulnerable
+tvdb_episode:71489_2_3  # Law & Order: Criminal Intent S02E03 - Anti-Thesis
+tvdb_episode:72368_13_3  # Law & Order S13E03 - True Crime
+tvdb_episode:75692_4_4  # Law & Order: Special Victims Unit S04E04 - Lust
+tvdb_episode:71489_2_4  # Law & Order: Criminal Intent S02E04 - Best Defense
+tvdb_episode:75692_4_5  # Law & Order: Special Victims Unit S04E05 - Disappearing Acts
+tvdb_episode:71489_2_5  # Law & Order: Criminal Intent S02E05 - Chinoiserie
+tvdb_episode:72368_13_4  # Law & Order S13E04 - Tragedy on Rye
+tvdb_episode:75692_4_6  # Law & Order: Special Victims Unit S04E06 - Angels
+tvdb_episode:71489_2_6  # Law & Order: Criminal Intent S02E06 - Malignant
+tvdb_episode:72368_13_5  # Law & Order S13E05 - The Ring
+tvdb_episode:75692_4_7  # Law & Order: Special Victims Unit S04E07 - Dolls
+tvdb_episode:71489_2_7  # Law & Order: Criminal Intent S02E07 - Tomorrow
+tvdb_episode:72368_13_6  # Law & Order S13E06 - Hitman
+tvdb_episode:75692_4_8  # Law & Order: Special Victims Unit S04E08 - Waste
+tvdb_episode:71489_2_8  # Law & Order: Criminal Intent S02E08 - The Pilgrim
+tvdb_episode:72368_13_7  # Law & Order S13E07 - Open Season
+tvdb_episode:75692_4_9  # Law & Order: Special Victims Unit S04E09 - Juvenile
+tvdb_episode:72368_13_8  # Law & Order S13E08 - Asterisk
+tvdb_episode:71489_2_9  # Law & Order: Criminal Intent S02E09 - Shandeh
+tvdb_episode:75692_4_10  # Law & Order: Special Victims Unit S04E10 - Resilience
+tvdb_episode:72368_13_9  # Law & Order S13E09 - The Wheel
+tvdb_episode:71489_2_10  # Law & Order: Criminal Intent S02E10 - Con-Text
+tvdb_episode:72368_13_10  # Law & Order S13E10 - Mother's Day
+tvdb_episode:75692_4_11  # Law & Order: Special Victims Unit S04E11 - Damaged
+tvdb_episode:71489_2_11  # Law & Order: Criminal Intent S02E11 - Baggage
+tvdb_episode:72368_13_11  # Law & Order S13E11 - Chosen
+tvdb_episode:75692_4_12  # Law & Order: Special Victims Unit S04E12 - Risk
+tvdb_episode:75692_4_13  # Law & Order: Special Victims Unit S04E13 - Rotten
+tvdb_episode:75692_4_14  # Law & Order: Special Victims Unit S04E14 - Mercy
+tvdb_episode:71489_2_12  # Law & Order: Criminal Intent S02E12 - Suite Sorrow
+tvdb_episode:72368_13_12  # Law & Order S13E12 - Under God
+tvdb_episode:75692_4_15  # Law & Order: Special Victims Unit S04E15 - Pandora
+tvdb_episode:71489_2_13  # Law & Order: Criminal Intent S02E13 - See Me
+tvdb_episode:72368_13_13  # Law & Order S13E13 - Absentia
+tvdb_episode:75692_4_16  # Law & Order: Special Victims Unit S04E16 - Tortured
+tvdb_episode:71489_2_14  # Law & Order: Criminal Intent S02E14 - Probability
+tvdb_episode:72368_13_14  # Law & Order S13E14 - Star Crossed
+tvdb_episode:75692_4_17  # Law & Order: Special Victims Unit S04E17 - Privilege
+tvdb_episode:72368_13_15  # Law & Order S13E15 - Bitch
+tvdb_episode:71489_2_15  # Law & Order: Criminal Intent S02E15 - Monster
+tvdb_episode:71489_2_16  # Law & Order: Criminal Intent S02E16 - Cuba Libre
+tvdb_episode:75692_4_18  # Law & Order: Special Victims Unit S04E18 - Desperate
+tvdb_episode:72368_13_16  # Law & Order S13E16 - Suicide Box
+tvdb_episode:75692_4_19  # Law & Order: Special Victims Unit S04E19 - Appearances
+tvdb_episode:71489_2_17  # Law & Order: Criminal Intent S02E17 - Cold Comfort
+tvdb_episode:72368_13_17  # Law & Order S13E17 - Genius
+tvdb_episode:75692_4_20  # Law & Order: Special Victims Unit S04E20 - Dominance
+tvdb_episode:71489_2_18  # Law & Order: Criminal Intent S02E18 - Legion
+tvdb_episode:72368_13_18  # Law & Order S13E18 - Maritime
+tvdb_episode:75692_4_21  # Law & Order: Special Victims Unit S04E21 - Fallacy
+tvdb_episode:72368_13_19  # Law & Order S13E19 - Seer
+tvdb_episode:75692_4_22  # Law & Order: Special Victims Unit S04E22 - Futility
+tvdb_episode:71489_2_19  # Law & Order: Criminal Intent S02E19 - Cherry Red
+tvdb_episode:72368_13_20  # Law & Order S13E20 - Kid Pro Quo
+tvdb_episode:75692_4_23  # Law & Order: Special Victims Unit S04E23 - Grief
+tvdb_episode:71489_2_20  # Law & Order: Criminal Intent S02E20 - Blink
+tvdb_episode:72368_13_21  # Law & Order S13E21 - House Calls
+tvdb_episode:75692_4_24  # Law & Order: Special Victims Unit S04E24 - Perfect
+tvdb_episode:71489_2_21  # Law & Order: Criminal Intent S02E21 - Graansha
+tvdb_episode:72368_13_22  # Law & Order S13E22 - Sheltered
+tvdb_episode:75692_4_25  # Law & Order: Special Victims Unit S04E25 - Soulless
+tvdb_episode:71489_2_22  # Law & Order: Criminal Intent S02E22 - Zoonotic
+tvdb_episode:71489_2_23  # Law & Order: Criminal Intent S02E23 - A Person of Interest
+tvdb_episode:72368_13_23  # Law & Order S13E23 - Couples
+tvdb_episode:72368_13_24  # Law & Order S13E24 - Smoke
+tvdb_episode:75692_5_1  # Law & Order: Special Victims Unit S05E01 - Tragedy
+tvdb_episode:72368_14_1  # Law & Order S14E01 - Bodies
+tvdb_episode:71489_3_1  # Law & Order: Criminal Intent S03E01 - Undaunted Mettle
+tvdb_episode:75692_5_2  # Law & Order: Special Victims Unit S05E02 - Manic
+tvdb_episode:72368_14_2  # Law & Order S14E02 - Bounty
+tvdb_episode:71489_3_2  # Law & Order: Criminal Intent S03E02 - Gemini
+tvdb_episode:75692_5_3  # Law & Order: Special Victims Unit S05E03 - Mother
+tvdb_episode:72368_14_3  # Law & Order S14E03 - Patient Zero
+tvdb_episode:71489_3_3  # Law & Order: Criminal Intent S03E03 - The Gift
+tvdb_episode:75692_5_4  # Law & Order: Special Victims Unit S05E04 - Loss
+tvdb_episode:71489_3_4  # Law & Order: Criminal Intent S03E04 - But Not Forgotten
+tvdb_episode:75692_5_5  # Law & Order: Special Victims Unit S05E05 - Serendipity
+tvdb_episode:72368_14_4  # Law & Order S14E04 - Shrunk
+tvdb_episode:71489_3_5  # Law & Order: Criminal Intent S03E05 - Pravda
+tvdb_episode:75692_5_6  # Law & Order: Special Victims Unit S05E06 - Coerced
+tvdb_episode:72368_14_5  # Law & Order S14E05 - Blaze
+tvdb_episode:71489_3_6  # Law & Order: Criminal Intent S03E06 - Stray
+tvdb_episode:75692_5_7  # Law & Order: Special Victims Unit S05E07 - Choice
+tvdb_episode:72368_14_6  # Law & Order S14E06 - Identity
+tvdb_episode:71489_3_7  # Law & Order: Criminal Intent S03E07 - A Murderer Among Us
+tvdb_episode:75692_5_8  # Law & Order: Special Victims Unit S05E08 - Abomination
+tvdb_episode:72368_14_7  # Law & Order S14E07 - Floater
+tvdb_episode:71489_3_8  # Law & Order: Criminal Intent S03E08 - Sound Bodies
+tvdb_episode:75692_5_9  # Law & Order: Special Victims Unit S05E09 - Control
+tvdb_episode:72368_14_8  # Law & Order S14E08 - Embedded
+tvdb_episode:71489_3_9  # Law & Order: Criminal Intent S03E09 - Happy Family
+tvdb_episode:75692_5_10  # Law & Order: Special Victims Unit S05E10 - Shaken
+tvdb_episode:72368_14_9  # Law & Order S14E09 - Compassion
+tvdb_episode:75692_5_11  # Law & Order: Special Victims Unit S05E11 - Escape
+tvdb_episode:72368_14_10  # Law & Order S14E10 - Ill-Conceived
+tvdb_episode:71489_3_10  # Law & Order: Criminal Intent S03E10 - F.P.S.
+tvdb_episode:75692_5_12  # Law & Order: Special Victims Unit S05E12 - Brotherhood
+tvdb_episode:72368_14_11  # Law & Order S14E11 - Darwinian
+tvdb_episode:71489_3_11  # Law & Order: Criminal Intent S03E11 - Mad Hops
+tvdb_episode:75692_5_13  # Law & Order: Special Victims Unit S05E13 - Hate
+tvdb_episode:72368_14_12  # Law & Order S14E12 - Payback
+tvdb_episode:71489_3_12  # Law & Order: Criminal Intent S03E12 - Unrequited
+tvdb_episode:75692_5_14  # Law & Order: Special Victims Unit S05E14 - Ritual
+tvdb_episode:72368_14_13  # Law & Order S14E13 - Married with Children
+tvdb_episode:75692_5_15  # Law & Order: Special Victims Unit S05E15 - Families
+tvdb_episode:72368_14_14  # Law & Order S14E14 - City Hall
+tvdb_episode:71489_3_13  # Law & Order: Criminal Intent S03E13 - Pas de Deux
+tvdb_episode:75692_5_16  # Law & Order: Special Victims Unit S05E16 - Home
+tvdb_episode:72368_14_15  # Law & Order S14E15 - Veteran's Day
+tvdb_episode:71489_3_14  # Law & Order: Criminal Intent S03E14 - Mis-Labeled
+tvdb_episode:75692_5_17  # Law & Order: Special Victims Unit S05E17 - Mean
+tvdb_episode:72368_14_16  # Law & Order S14E16 - Can I Get a Witness?
+tvdb_episode:75692_5_18  # Law & Order: Special Victims Unit S05E18 - Careless
+tvdb_episode:72368_14_17  # Law & Order S14E17 - Hands Free
+tvdb_episode:71489_3_15  # Law & Order: Criminal Intent S03E15 - Shrink-Wrapped
+tvdb_episode:71489_3_16  # Law & Order: Criminal Intent S03E16 - The Saint
+tvdb_episode:72368_14_18  # Law & Order S14E18 - Evil Breeds
+tvdb_episode:71489_3_17  # Law & Order: Criminal Intent S03E17 - Conscience
+tvdb_episode:75692_5_19  # Law & Order: Special Victims Unit S05E19 - Sick
+tvdb_episode:72368_14_19  # Law & Order S14E19 - Nowhere Man
+tvdb_episode:75692_5_20  # Law & Order: Special Victims Unit S05E20 - Lowdown
+tvdb_episode:72368_14_20  # Law & Order S14E20 - Everybody Loves Raimondo's
+tvdb_episode:71489_3_18  # Law & Order: Criminal Intent S03E18 - Ill-Bred
+tvdb_episode:75692_5_21  # Law & Order: Special Victims Unit S05E21 - Criminal
+tvdb_episode:72368_14_21  # Law & Order S14E21 - Vendetta
+tvdb_episode:75692_5_22  # Law & Order: Special Victims Unit S05E22 - Painless
+tvdb_episode:72368_14_22  # Law & Order S14E22 - Gaijin
+tvdb_episode:75692_5_23  # Law & Order: Special Victims Unit S05E23 - Bound
+tvdb_episode:71489_3_19  # Law & Order: Criminal Intent S03E19 - Fico Di Capo
+tvdb_episode:75692_5_24  # Law & Order: Special Victims Unit S05E24 - Poison
+tvdb_episode:72368_14_23  # Law & Order S14E23 - Caviar Emptor
+tvdb_episode:71489_3_20  # Law & Order: Criminal Intent S03E20 - D.A.W.
+tvdb_episode:75692_5_25  # Law & Order: Special Victims Unit S05E25 - Head
+tvdb_episode:72368_14_24  # Law & Order S14E24 - C.O.D.
+tvdb_episode:71489_3_21  # Law & Order: Criminal Intent S03E21 - Consumed
+tvdb_episode:75692_6_1  # Law & Order: Special Victims Unit S06E01 - Birthright
+tvdb_episode:72368_15_1  # Law & Order S15E01 - Paradigm
+tvdb_episode:72368_15_2  # Law & Order S15E02 - The Dead Wives Club
+tvdb_episode:71489_4_1  # Law & Order: Criminal Intent S04E01 - Semi-Detached
+tvdb_episode:75692_6_2  # Law & Order: Special Victims Unit S06E02 - Debt
+tvdb_episode:72368_15_3  # Law & Order S15E03 - The Brotherhood
+tvdb_episode:71489_4_2  # Law & Order: Criminal Intent S04E02 - The Posthumous Collection
+tvdb_episode:72368_15_4  # Law & Order S15E04 - Coming Down Hard
+tvdb_episode:71489_4_3  # Law & Order: Criminal Intent S04E03 - Want
+tvdb_episode:75692_6_3  # Law & Order: Special Victims Unit S06E03 - Obscene
+tvdb_episode:71489_4_4  # Law & Order: Criminal Intent S04E04 - Great Barrier
+tvdb_episode:75692_6_4  # Law & Order: Special Victims Unit S06E04 - Scavenger
+tvdb_episode:72368_15_5  # Law & Order S15E05 - Gunplay
+tvdb_episode:71489_4_5  # Law & Order: Criminal Intent S04E05 - Eosphoros
+tvdb_episode:75692_6_5  # Law & Order: Special Victims Unit S06E05 - Outcry
+tvdb_episode:72368_15_6  # Law & Order S15E06 - Cut
+tvdb_episode:71489_4_6  # Law & Order: Criminal Intent S04E06 - In the Dark
+tvdb_episode:71489_4_7  # Law & Order: Criminal Intent S04E07 - Magnificat
+tvdb_episode:75692_6_6  # Law & Order: Special Victims Unit S06E06 - Conscience
+tvdb_episode:72368_15_7  # Law & Order S15E07 - Gov Love
+tvdb_episode:71489_4_8  # Law & Order: Criminal Intent S04E08 - Silver Lining
+tvdb_episode:75692_6_7  # Law & Order: Special Victims Unit S06E07 - Charisma
+tvdb_episode:72368_15_8  # Law & Order S15E08 - Cry Wolf
+tvdb_episode:71489_4_9  # Law & Order: Criminal Intent S04E09 - Inert Dwarf
+tvdb_episode:75692_6_8  # Law & Order: Special Victims Unit S06E08 - Doubt
+tvdb_episode:72368_15_9  # Law & Order S15E09 - All in the Family
+tvdb_episode:75692_6_9  # Law & Order: Special Victims Unit S06E09 - Weak
+tvdb_episode:72368_15_10  # Law & Order S15E10 - Enemy
+tvdb_episode:75692_6_10  # Law & Order: Special Victims Unit S06E10 - Haunted
+tvdb_episode:72368_15_11  # Law & Order S15E11 - Fixed
+tvdb_episode:71489_4_10  # Law & Order: Criminal Intent S04E10 - The View from Up Here
+tvdb_episode:72368_15_12  # Law & Order S15E12 - Mammon
+tvdb_episode:71489_4_11  # Law & Order: Criminal Intent S04E11 - Gone
+tvdb_episode:75692_6_11  # Law & Order: Special Victims Unit S06E11 - Contagious
+tvdb_episode:72368_15_13  # Law & Order S15E13 - Ain't No Love
+tvdb_episode:75692_6_12  # Law & Order: Special Victims Unit S06E12 - Identity
+tvdb_episode:72368_15_14  # Law & Order S15E14 - Fluency
+tvdb_episode:75692_6_13  # Law & Order: Special Victims Unit S06E13 - Quarry
+tvdb_episode:71489_4_12  # Law & Order: Criminal Intent S04E12 - Collective
+tvdb_episode:75692_6_14  # Law & Order: Special Victims Unit S06E14 - Game
+tvdb_episode:72368_15_15  # Law & Order S15E15 - Obsession
+tvdb_episode:71489_4_13  # Law & Order: Criminal Intent S04E13 - Stress Position
+tvdb_episode:75692_6_15  # Law & Order: Special Victims Unit S06E15 - Hooked
+tvdb_episode:72368_15_16  # Law & Order S15E16 - The Sixth Man
+tvdb_episode:71489_4_14  # Law & Order: Criminal Intent S04E14 - Sex Club
+tvdb_episode:75692_6_16  # Law & Order: Special Victims Unit S06E16 - Ghost
+tvdb_episode:72368_15_17  # Law & Order S15E17 - License to Kill
+tvdb_episode:75692_6_17  # Law & Order: Special Victims Unit S06E17 - Rage
+tvdb_episode:72368_15_18  # Law & Order S15E18 - Dining Out
+tvdb_episode:74191_1_1  # Law & Order: Trial by Jury S01E01 - The Abominable Showman
+tvdb_episode:74191_1_2  # Law & Order: Trial by Jury S01E02 - 41 Shots
+tvdb_episode:75692_6_18  # Law & Order: Special Victims Unit S06E18 - Pure
+tvdb_episode:74191_1_3  # Law & Order: Trial by Jury S01E03 - Vigilante
+tvdb_episode:71489_4_15  # Law & Order: Criminal Intent S04E15 - Death Roe
+tvdb_episode:74191_1_4  # Law & Order: Trial by Jury S01E04 - Truth or Consequences
+tvdb_episode:71489_4_16  # Law & Order: Criminal Intent S04E16 - Ex Stasis
+tvdb_episode:74191_1_5  # Law & Order: Trial by Jury S01E05 - Baby Boom
+tvdb_episode:71489_4_17  # Law & Order: Criminal Intent S04E17 - Shibboleth
+tvdb_episode:75692_6_19  # Law & Order: Special Victims Unit S06E19 - Intoxicated
+tvdb_episode:72368_15_19  # Law & Order S15E19 - Sects
+tvdb_episode:74191_1_6  # Law & Order: Trial by Jury S01E06 - Pattern of Conduct
+tvdb_episode:71489_4_18  # Law & Order: Criminal Intent S04E18 - The Good Child
+tvdb_episode:74191_1_7  # Law & Order: Trial by Jury S01E07 - Bang & Blame
+tvdb_episode:71489_4_19  # Law & Order: Criminal Intent S04E19 - Beast
+tvdb_episode:72368_15_20  # Law & Order S15E20 - Tombstone
+tvdb_episode:74191_1_8  # Law & Order: Trial by Jury S01E08 - Skeleton
+tvdb_episode:72368_15_21  # Law & Order S15E21 - Publish and Perish
+tvdb_episode:74191_1_9  # Law & Order: Trial by Jury S01E09 - The Line
+tvdb_episode:74191_1_10  # Law & Order: Trial by Jury S01E10 - Blue Wall
+tvdb_episode:71489_4_20  # Law & Order: Criminal Intent S04E20 - No Exit
+tvdb_episode:75692_6_20  # Law & Order: Special Victims Unit S06E20 - Night
+tvdb_episode:74191_1_11  # Law & Order: Trial by Jury S01E11 - Day
+tvdb_episode:72368_15_22  # Law & Order S15E22 - Sport of Kings
+tvdb_episode:74191_1_12  # Law & Order: Trial by Jury S01E12 - Boys Will Be Boys
+tvdb_episode:71489_4_21  # Law & Order: Criminal Intent S04E21 - The Unblinking Eye
+tvdb_episode:75692_6_21  # Law & Order: Special Victims Unit S06E21 - Blood
+tvdb_episode:72368_15_23  # Law & Order S15E23 - In God We Trust
+tvdb_episode:71489_4_22  # Law & Order: Criminal Intent S04E22 - My Good Name
+tvdb_episode:75692_6_22  # Law & Order: Special Victims Unit S06E22 - Parts
+tvdb_episode:72368_15_24  # Law & Order S15E24 - Locomotion
+tvdb_episode:75692_6_23  # Law & Order: Special Victims Unit S06E23 - Goliath
+tvdb_episode:71489_4_23  # Law & Order: Criminal Intent S04E23 - False-Hearted Judges
+tvdb_episode:75692_7_1  # Law & Order: Special Victims Unit S07E01 - Demons
+tvdb_episode:72368_16_1  # Law & Order S16E01 - Red Ball
+tvdb_episode:71489_5_1  # Law & Order: Criminal Intent S05E01 - Grow
+tvdb_episode:75692_7_2  # Law & Order: Special Victims Unit S07E02 - Design
+tvdb_episode:72368_16_2  # Law & Order S16E02 - Flaw
+tvdb_episode:71489_5_2  # Law & Order: Criminal Intent S05E02 - Diamond Dogs
+tvdb_episode:75692_7_3  # Law & Order: Special Victims Unit S07E03 - 911
+tvdb_episode:72368_16_3  # Law & Order S16E03 - Ghosts
+tvdb_episode:71489_5_3  # Law & Order: Criminal Intent S05E03 - Prisoner
+tvdb_episode:75692_7_4  # Law & Order: Special Victims Unit S07E04 - Ripped
+tvdb_episode:72368_16_4  # Law & Order S16E04 - Age of Innocence
+tvdb_episode:71489_5_4  # Law & Order: Criminal Intent S05E04 - Unchained
+tvdb_episode:75692_7_5  # Law & Order: Special Victims Unit S07E05 - Strain
+tvdb_episode:72368_16_5  # Law & Order S16E05 - Life Line
+tvdb_episode:71489_5_5  # Law & Order: Criminal Intent S05E05 - Acts of Contrition
+tvdb_episode:75692_7_6  # Law & Order: Special Victims Unit S07E06 - Raw
+tvdb_episode:72368_16_6  # Law & Order S16E06 - Birthright
+tvdb_episode:71489_5_6  # Law & Order: Criminal Intent S05E06 - In the Wee Small Hours (1)
+tvdb_episode:71489_5_7  # Law & Order: Criminal Intent S05E07 - In the Wee Small Hours (2)
+tvdb_episode:75692_7_7  # Law & Order: Special Victims Unit S07E07 - Name
+tvdb_episode:72368_16_7  # Law & Order S16E07 - House of Cards
+tvdb_episode:75692_7_8  # Law & Order: Special Victims Unit S07E08 - Starved
+tvdb_episode:72368_16_8  # Law & Order S16E08 - New York Minute
+tvdb_episode:75692_7_9  # Law & Order: Special Victims Unit S07E09 - Rockabye
+tvdb_episode:72368_16_9  # Law & Order S16E09 - Criminal Law
+tvdb_episode:71489_5_8  # Law & Order: Criminal Intent S05E08 - Saving Face
+tvdb_episode:75692_7_10  # Law & Order: Special Victims Unit S07E10 - Storm
+tvdb_episode:72368_16_10  # Law & Order S16E10 - Acid
+tvdb_episode:71489_5_9  # Law & Order: Criminal Intent S05E09 - Scared Crazy
+tvdb_episode:75692_7_11  # Law & Order: Special Victims Unit S07E11 - Alien
+tvdb_episode:72368_16_11  # Law & Order S16E11 - Bible Story
+tvdb_episode:75692_7_12  # Law & Order: Special Victims Unit S07E12 - Infected
+tvdb_episode:71489_5_10  # Law & Order: Criminal Intent S05E10 - Dollhouse
+tvdb_episode:75692_7_13  # Law & Order: Special Victims Unit S07E13 - Blast
+tvdb_episode:72368_16_12  # Law & Order S16E12 - Family Friend
+tvdb_episode:71489_5_11  # Law & Order: Criminal Intent S05E11 - Slither
+tvdb_episode:75692_7_14  # Law & Order: Special Victims Unit S07E14 - Taboo
+tvdb_episode:72368_16_13  # Law & Order S16E13 - Heart of Darkness
+tvdb_episode:74191_1_13  # Law & Order: Trial by Jury S01E13 - Eros in the Upper Eighties
+tvdb_episode:71489_5_12  # Law & Order: Criminal Intent S05E12 - Watch
+tvdb_episode:75692_7_15  # Law & Order: Special Victims Unit S07E15 - Manipulated
+tvdb_episode:72368_16_14  # Law & Order S16E14 - Magnet
+tvdb_episode:75692_7_16  # Law & Order: Special Victims Unit S07E16 - Gone
+tvdb_episode:72368_16_15  # Law & Order S16E15 - Choice of Evils
+tvdb_episode:72368_16_16  # Law & Order S16E16 - Cost of Capital
+tvdb_episode:71489_5_13  # Law & Order: Criminal Intent S05E13 - Proud Flesh
+tvdb_episode:71489_5_14  # Law & Order: Criminal Intent S05E14 - Wasichu
+tvdb_episode:75692_7_17  # Law & Order: Special Victims Unit S07E17 - Class
+tvdb_episode:72368_16_17  # Law & Order S16E17 - America, Inc.
+tvdb_episode:71489_5_15  # Law & Order: Criminal Intent S05E15 - Wrongful Life
+tvdb_episode:75692_7_18  # Law & Order: Special Victims Unit S07E18 - Venom
+tvdb_episode:72368_16_18  # Law & Order S16E18 - Thinking Makes It So
+tvdb_episode:75692_7_19  # Law & Order: Special Victims Unit S07E19 - Fault
+tvdb_episode:72368_16_19  # Law & Order S16E19 - Positive
+tvdb_episode:71489_5_16  # Law & Order: Criminal Intent S05E16 - Dramma Giocoso
+tvdb_episode:71489_5_17  # Law & Order: Criminal Intent S05E17 - Vacancy
+tvdb_episode:71489_5_18  # Law & Order: Criminal Intent S05E18 - The Healer
+tvdb_episode:71489_5_19  # Law & Order: Criminal Intent S05E19 - Cruise to Nowhere
+tvdb_episode:75692_7_20  # Law & Order: Special Victims Unit S07E20 - Fat
+tvdb_episode:72368_16_20  # Law & Order S16E20 - Kingmaker
+tvdb_episode:71489_5_20  # Law & Order: Criminal Intent S05E20 - To the Bone
+tvdb_episode:75692_7_21  # Law & Order: Special Victims Unit S07E21 - Web
+tvdb_episode:72368_16_21  # Law & Order S16E21 - Hindsight
+tvdb_episode:71489_5_21  # Law & Order: Criminal Intent S05E21 - On Fire
+tvdb_episode:71489_5_22  # Law & Order: Criminal Intent S05E22 - The Good
+tvdb_episode:75692_7_22  # Law & Order: Special Victims Unit S07E22 - Influence
+tvdb_episode:72368_16_22  # Law & Order S16E22 - Invaders
+tvdb_episode:71489_6_1  # Law & Order: Criminal Intent S06E01 - Blind Spot
+tvdb_episode:75692_8_1  # Law & Order: Special Victims Unit S08E01 - Informed
+tvdb_episode:72368_17_1  # Law & Order S17E01 - Fame
+tvdb_episode:71489_6_2  # Law & Order: Criminal Intent S06E02 - Tru Love
+tvdb_episode:75692_8_2  # Law & Order: Special Victims Unit S08E02 - Clock
+tvdb_episode:72368_17_2  # Law & Order S17E02 - Avatar
+tvdb_episode:71489_6_3  # Law & Order: Criminal Intent S06E03 - Siren Call
+tvdb_episode:75692_8_3  # Law & Order: Special Victims Unit S08E03 - Recall
+tvdb_episode:72368_17_3  # Law & Order S17E03 - Home Sweet
+tvdb_episode:71489_6_4  # Law & Order: Criminal Intent S06E04 - Maltese Cross
+tvdb_episode:75692_8_4  # Law & Order: Special Victims Unit S08E04 - Uncle
+tvdb_episode:72368_17_4  # Law & Order S17E04 - Fear America
+tvdb_episode:71489_6_5  # Law & Order: Criminal Intent S06E05 - Bedfellows
+tvdb_episode:75692_8_5  # Law & Order: Special Victims Unit S08E05 - Confrontation
+tvdb_episode:72368_17_5  # Law & Order S17E05 - Public Service Homicide
+tvdb_episode:72368_17_6  # Law & Order S17E06 - Profiteer
+tvdb_episode:71489_6_6  # Law & Order: Criminal Intent S06E06 - Masquerade
+tvdb_episode:75692_8_6  # Law & Order: Special Victims Unit S08E06 - Infiltrated
+tvdb_episode:72368_17_7  # Law & Order S17E07 - In Vino Veritas
+tvdb_episode:71489_6_7  # Law & Order: Criminal Intent S06E07 - Country Crossover
+tvdb_episode:72368_17_8  # Law & Order S17E08 - Release
+tvdb_episode:71489_6_8  # Law & Order: Criminal Intent S06E08 - The War at Home
+tvdb_episode:75692_8_7  # Law & Order: Special Victims Unit S08E07 - Underbelly
+tvdb_episode:72368_17_9  # Law & Order S17E09 - Deadlock
+tvdb_episode:71489_6_9  # Law & Order: Criminal Intent S06E09 - Blasters
+tvdb_episode:75692_8_8  # Law & Order: Special Victims Unit S08E08 - Cage
+tvdb_episode:71489_6_10  # Law & Order: Criminal Intent S06E10 - Weeping Willow
+tvdb_episode:75692_8_9  # Law & Order: Special Victims Unit S08E09 - Choreographed
+tvdb_episode:72368_17_10  # Law & Order S17E10 - Corner Office
+tvdb_episode:71489_6_11  # Law & Order: Criminal Intent S06E11 - World's Fair
+tvdb_episode:75692_8_10  # Law & Order: Special Victims Unit S08E10 - Scheherezade
+tvdb_episode:72368_17_11  # Law & Order S17E11 - Remains of the Day
+tvdb_episode:71489_6_12  # Law & Order: Criminal Intent S06E12 - Privilege
+tvdb_episode:75692_8_11  # Law & Order: Special Victims Unit S08E11 - Burned
+tvdb_episode:72368_17_12  # Law & Order S17E12 - Charity Case
+tvdb_episode:75692_8_12  # Law & Order: Special Victims Unit S08E12 - Outsider
+tvdb_episode:72368_17_13  # Law & Order S17E13 - Talking Points
+tvdb_episode:71489_6_13  # Law & Order: Criminal Intent S06E13 - Albatross
+tvdb_episode:75692_8_13  # Law & Order: Special Victims Unit S08E13 - Loophole
+tvdb_episode:72368_17_14  # Law & Order S17E14 - Church
+tvdb_episode:71489_6_14  # Law & Order: Criminal Intent S06E14 - Flipped
+tvdb_episode:75692_8_14  # Law & Order: Special Victims Unit S08E14 - Dependent
+tvdb_episode:72368_17_15  # Law & Order S17E15 - Melting Pot
+tvdb_episode:71489_6_15  # Law & Order: Criminal Intent S06E15 - Brother's Keeper
+tvdb_episode:75692_8_15  # Law & Order: Special Victims Unit S08E15 - Haystack
+tvdb_episode:72368_17_16  # Law & Order S17E16 - Murder Book
+tvdb_episode:71489_6_16  # Law & Order: Criminal Intent S06E16 - 30
+tvdb_episode:75692_8_16  # Law & Order: Special Victims Unit S08E16 - Philadelphia
+tvdb_episode:71489_6_17  # Law & Order: Criminal Intent S06E17 - Players
+tvdb_episode:75692_8_17  # Law & Order: Special Victims Unit S08E17 - Sin
+tvdb_episode:72368_17_17  # Law & Order S17E17 - Good Faith
+tvdb_episode:71489_6_18  # Law & Order: Criminal Intent S06E18 - Silencer
+tvdb_episode:75692_8_18  # Law & Order: Special Victims Unit S08E18 - Responsible
+tvdb_episode:72368_17_18  # Law & Order S17E18 - Bling
+tvdb_episode:72368_17_19  # Law & Order S17E19 - Fallout
+tvdb_episode:71489_6_19  # Law & Order: Criminal Intent S06E19 - Rocket Man
+tvdb_episode:75692_8_19  # Law & Order: Special Victims Unit S08E19 - Florida
+tvdb_episode:72368_17_20  # Law & Order S17E20 - Captive
+tvdb_episode:71489_6_20  # Law & Order: Criminal Intent S06E20 - Bombshell
+tvdb_episode:75692_8_20  # Law & Order: Special Victims Unit S08E20 - Annihilated
+tvdb_episode:72368_17_21  # Law & Order S17E21 - Over Here
+tvdb_episode:71489_6_21  # Law & Order: Criminal Intent S06E21 - Endgame
+tvdb_episode:75692_8_21  # Law & Order: Special Victims Unit S08E21 - Pretend
+tvdb_episode:72368_17_22  # Law & Order S17E22 - The Family Hour
+tvdb_episode:71489_6_22  # Law & Order: Criminal Intent S06E22 - Renewal
+tvdb_episode:75692_8_22  # Law & Order: Special Victims Unit S08E22 - Screwed
+tvdb_episode:75692_9_1  # Law & Order: Special Victims Unit S09E01 - Alternate
+tvdb_episode:75692_9_2  # Law & Order: Special Victims Unit S09E02 - Avatar
+tvdb_episode:71489_7_1  # Law & Order: Criminal Intent S07E01 - Amends
+tvdb_episode:75692_9_3  # Law & Order: Special Victims Unit S09E03 - Impulsive
+tvdb_episode:71489_7_2  # Law & Order: Criminal Intent S07E02 - Seeds
+tvdb_episode:75692_9_4  # Law & Order: Special Victims Unit S09E04 - Savant
+tvdb_episode:71489_7_3  # Law & Order: Criminal Intent S07E03 - Smile
+tvdb_episode:75692_9_5  # Law & Order: Special Victims Unit S09E05 - Harm
+tvdb_episode:71489_7_4  # Law & Order: Criminal Intent S07E04 - Lonelyville
+tvdb_episode:71489_7_5  # Law & Order: Criminal Intent S07E05 - Depths
+tvdb_episode:75692_9_6  # Law & Order: Special Victims Unit S09E06 - Svengali
+tvdb_episode:71489_7_6  # Law & Order: Criminal Intent S07E06 - Courtship
+tvdb_episode:75692_9_7  # Law & Order: Special Victims Unit S09E07 - Blinded
+tvdb_episode:71489_7_7  # Law & Order: Criminal Intent S07E07 - Self-Made
+tvdb_episode:75692_9_8  # Law & Order: Special Victims Unit S09E08 - Fight
+tvdb_episode:75692_9_9  # Law & Order: Special Victims Unit S09E09 - Paternity
+tvdb_episode:71489_7_8  # Law & Order: Criminal Intent S07E08 - Offense
+tvdb_episode:75692_9_10  # Law & Order: Special Victims Unit S09E10 - Snitch
+tvdb_episode:71489_7_9  # Law & Order: Criminal Intent S07E09 - Untethered
+tvdb_episode:71489_7_10  # Law & Order: Criminal Intent S07E10 - Senseless
+tvdb_episode:75692_9_11  # Law & Order: Special Victims Unit S09E11 - Streetwise
+tvdb_episode:72368_18_1  # Law & Order S18E01 - Called Home
+tvdb_episode:72368_18_2  # Law & Order S18E02 - Darkness
+tvdb_episode:75692_9_12  # Law & Order: Special Victims Unit S09E12 - Signature
+tvdb_episode:72368_18_3  # Law & Order S18E03 - Misbegotten
+tvdb_episode:75692_9_13  # Law & Order: Special Victims Unit S09E13 - Unorthodox
+tvdb_episode:72368_18_4  # Law & Order S18E04 - Bottomless
+tvdb_episode:75692_9_14  # Law & Order: Special Victims Unit S09E14 - Inconceivable
+tvdb_episode:72368_18_5  # Law & Order S18E05 - Driven
+tvdb_episode:72368_18_6  # Law & Order S18E06 - Political Animal
+tvdb_episode:72368_18_7  # Law & Order S18E07 - Quit Claim
+tvdb_episode:72368_18_8  # Law & Order S18E08 - Illegal
+tvdb_episode:72368_18_9  # Law & Order S18E09 - Executioner
+tvdb_episode:72368_18_10  # Law & Order S18E10 - Tango
+tvdb_episode:72368_18_11  # Law & Order S18E11 - Betrayal
+tvdb_episode:72368_18_12  # Law & Order S18E12 - Submission
+tvdb_episode:72368_18_13  # Law & Order S18E13 - Angelgrove
+tvdb_episode:75692_9_15  # Law & Order: Special Victims Unit S09E15 - Undercover
+tvdb_episode:75692_9_16  # Law & Order: Special Victims Unit S09E16 - Closet
+tvdb_episode:72368_18_14  # Law & Order S18E14 - Burn Card
+tvdb_episode:75692_9_17  # Law & Order: Special Victims Unit S09E17 - Authority
+tvdb_episode:72368_18_15  # Law & Order S18E15 - Bogeyman
+tvdb_episode:75692_9_18  # Law & Order: Special Victims Unit S09E18 - Trade
+tvdb_episode:72368_18_16  # Law & Order S18E16 - Strike
+tvdb_episode:75692_9_19  # Law & Order: Special Victims Unit S09E19 - Cold
+tvdb_episode:72368_18_17  # Law & Order S18E17 - Personae Non Grata
+tvdb_episode:72368_18_18  # Law & Order S18E18 - Excalibur
+tvdb_episode:71489_7_11  # Law & Order: Criminal Intent S07E11 - Purgatory
+tvdb_episode:71489_7_12  # Law & Order: Criminal Intent S07E12 - Contract
+tvdb_episode:71489_7_13  # Law & Order: Criminal Intent S07E13 - Betrayed
+tvdb_episode:71489_7_14  # Law & Order: Criminal Intent S07E14 - Assassin
+tvdb_episode:71489_7_15  # Law & Order: Criminal Intent S07E15 - Please Note We Are No Longer Accepting Letters of Recommendation from Henry Kissenger
+tvdb_episode:71489_7_16  # Law & Order: Criminal Intent S07E16 - Reunion
+tvdb_episode:71489_7_17  # Law & Order: Criminal Intent S07E17 - Vanishing Act
+tvdb_episode:71489_7_18  # Law & Order: Criminal Intent S07E18 - Ten Count
+tvdb_episode:71489_7_19  # Law & Order: Criminal Intent S07E19 - Legacy
+tvdb_episode:71489_7_20  # Law & Order: Criminal Intent S07E20 - Neighborhood Watch
+tvdb_episode:71489_7_21  # Law & Order: Criminal Intent S07E21 - Last Rites
+tvdb_episode:71489_7_22  # Law & Order: Criminal Intent S07E22 - Frame
+tvdb_episode:75692_10_1  # Law & Order: Special Victims Unit S10E01 - Trials
+tvdb_episode:75692_10_2  # Law & Order: Special Victims Unit S10E02 - Confession
+tvdb_episode:75692_10_3  # Law & Order: Special Victims Unit S10E03 - Swing
+tvdb_episode:75692_10_4  # Law & Order: Special Victims Unit S10E04 - Lunacy
+tvdb_episode:75692_10_5  # Law & Order: Special Victims Unit S10E05 - Retro
+tvdb_episode:72368_19_1  # Law & Order S19E01 - Rumble
+tvdb_episode:75692_10_6  # Law & Order: Special Victims Unit S10E06 - Babes
+tvdb_episode:72368_19_2  # Law & Order S19E02 - Challenged
+tvdb_episode:75692_10_7  # Law & Order: Special Victims Unit S10E07 - Wildlife
+tvdb_episode:72368_19_3  # Law & Order S19E03 - Lost Boys
+tvdb_episode:75692_10_8  # Law & Order: Special Victims Unit S10E08 - Persona
+tvdb_episode:72368_19_4  # Law & Order S19E04 - Falling
+tvdb_episode:75692_10_9  # Law & Order: Special Victims Unit S10E09 - PTSD
+tvdb_episode:72368_19_5  # Law & Order S19E05 - Knock Off
+tvdb_episode:75692_10_10  # Law & Order: Special Victims Unit S10E10 - Smut
+tvdb_episode:72368_19_6  # Law & Order S19E06 - Sweetie
+tvdb_episode:72368_19_7  # Law & Order S19E07 - Zero
+tvdb_episode:75692_10_11  # Law & Order: Special Victims Unit S10E11 - Stranger
+tvdb_episode:72368_19_8  # Law & Order S19E08 - Chattel
+tvdb_episode:75692_10_12  # Law & Order: Special Victims Unit S10E12 - Hothouse
+tvdb_episode:72368_19_9  # Law & Order S19E09 - By Perjury
+tvdb_episode:72368_19_10  # Law & Order S19E10 - Pledge
+tvdb_episode:72368_19_11  # Law & Order S19E11 - Lucky Stiff
+tvdb_episode:75692_10_13  # Law & Order: Special Victims Unit S10E13 - Snatched
+tvdb_episode:72368_19_12  # Law & Order S19E12 - Illegitimate
+tvdb_episode:72368_19_13  # Law & Order S19E13 - Crimebusters
+tvdb_episode:75692_10_14  # Law & Order: Special Victims Unit S10E14 - Transitions
+tvdb_episode:72368_19_14  # Law & Order S19E14 - Rapture
+tvdb_episode:85228_1_1  # Law & Order: UK S01E01 - Care
+tvdb_episode:85228_1_2  # Law & Order: UK S01E02 - Unloved
+tvdb_episode:85228_1_3  # Law & Order: UK S01E03 - Vice
+tvdb_episode:75692_10_15  # Law & Order: Special Victims Unit S10E15 - Lead
+tvdb_episode:72368_19_15  # Law & Order S19E15 - Bailout
+tvdb_episode:85228_1_4  # Law & Order: UK S01E04 - Unsafe
+tvdb_episode:75692_10_16  # Law & Order: Special Victims Unit S10E16 - Ballerina
+tvdb_episode:72368_19_16  # Law & Order S19E16 - Take-Out
+tvdb_episode:85228_1_5  # Law & Order: UK S01E05 - Buried
+tvdb_episode:72368_19_17  # Law & Order S19E17 - Anchors Away
+tvdb_episode:85228_1_6  # Law & Order: UK S01E06 - Paradise
+tvdb_episode:75692_10_17  # Law & Order: Special Victims Unit S10E17 - Hell
+tvdb_episode:85228_1_7  # Law & Order: UK S01E07 - Alesha
+tvdb_episode:75692_10_18  # Law & Order: Special Victims Unit S10E18 - Baggage
+tvdb_episode:71489_8_1  # Law & Order: Criminal Intent S08E01 - Playing Dead
+tvdb_episode:71489_8_2  # Law & Order: Criminal Intent S08E02 - Rock Star
+tvdb_episode:75692_10_19  # Law & Order: Special Victims Unit S10E19 - Selfish
+tvdb_episode:72368_19_18  # Law & Order S19E18 - Promote This!
+tvdb_episode:71489_8_3  # Law & Order: Criminal Intent S08E03 - Identity Crisis
+tvdb_episode:75692_10_20  # Law & Order: Special Victims Unit S10E20 - Crush
+tvdb_episode:72368_19_19  # Law & Order S19E19 - All New
+tvdb_episode:71489_8_4  # Law & Order: Criminal Intent S08E04 - In Treatment
+tvdb_episode:72368_19_20  # Law & Order S19E20 - Exchange
+tvdb_episode:71489_8_5  # Law & Order: Criminal Intent S08E05 - Faithfully
+tvdb_episode:75692_10_21  # Law & Order: Special Victims Unit S10E21 - Liberties
+tvdb_episode:72368_19_21  # Law & Order S19E21 - Skate or Die
+tvdb_episode:71489_8_6  # Law & Order: Criminal Intent S08E06 - Astoria Helen
+tvdb_episode:75692_10_22  # Law & Order: Special Victims Unit S10E22 - Zebras
+tvdb_episode:72368_19_22  # Law & Order S19E22 - The Drowned and the Saved
+tvdb_episode:71489_8_7  # Law & Order: Criminal Intent S08E07 - Folie a Deux
+tvdb_episode:71489_8_8  # Law & Order: Criminal Intent S08E08 - The Glory That Was...
+tvdb_episode:71489_8_9  # Law & Order: Criminal Intent S08E09 - Family Values
+tvdb_episode:71489_8_10  # Law & Order: Criminal Intent S08E10 - Salome in Manhattan
+tvdb_episode:71489_8_11  # Law & Order: Criminal Intent S08E11 - Lady's Man
+tvdb_episode:71489_8_12  # Law & Order: Criminal Intent S08E12 - Passion
+tvdb_episode:71489_8_13  # Law & Order: Criminal Intent S08E13 - All In
+tvdb_episode:71489_8_14  # Law & Order: Criminal Intent S08E14 - Major Case
+tvdb_episode:71489_8_15  # Law & Order: Criminal Intent S08E15 - Alpha Dog
+tvdb_episode:71489_8_16  # Law & Order: Criminal Intent S08E16 - Revolution
+tvdb_episode:75692_11_1  # Law & Order: Special Victims Unit S11E01 - Unstable
+tvdb_episode:72368_20_1  # Law & Order S20E01 - Memo from the Dark Side
+tvdb_episode:75692_11_2  # Law & Order: Special Victims Unit S11E02 - Sugar
+tvdb_episode:72368_20_2  # Law & Order S20E02 - Just a Girl in the World
+tvdb_episode:75692_11_3  # Law & Order: Special Victims Unit S11E03 - Solitary
+tvdb_episode:72368_20_3  # Law & Order S20E03 - Great Satan
+tvdb_episode:75692_11_4  # Law & Order: Special Victims Unit S11E04 - Hammered
+tvdb_episode:72368_20_4  # Law & Order S20E04 - Reality Bites
+tvdb_episode:75692_11_5  # Law & Order: Special Victims Unit S11E05 - Hardwired
+tvdb_episode:72368_20_5  # Law & Order S20E05 - Dignity
+tvdb_episode:75692_11_6  # Law & Order: Special Victims Unit S11E06 - Spooked
+tvdb_episode:72368_20_6  # Law & Order S20E06 - Human Flesh Search Engine
+tvdb_episode:75692_11_7  # Law & Order: Special Victims Unit S11E07 - Users
+tvdb_episode:72368_20_7  # Law & Order S20E07 - Boy Gone Astray
+tvdb_episode:72368_20_8  # Law & Order S20E08 - Doped
+tvdb_episode:75692_11_8  # Law & Order: Special Victims Unit S11E08 - Turmoil
+tvdb_episode:72368_20_9  # Law & Order S20E09 - For the Defense
+tvdb_episode:75692_11_9  # Law & Order: Special Victims Unit S11E09 - Perverted
+tvdb_episode:72368_20_10  # Law & Order S20E10 - Shotgun
+tvdb_episode:75692_11_10  # Law & Order: Special Victims Unit S11E10 - Anchor
+tvdb_episode:72368_20_11  # Law & Order S20E11 - Fed
+tvdb_episode:75692_11_11  # Law & Order: Special Victims Unit S11E11 - Quickie
+tvdb_episode:85228_2_1  # Law & Order: UK S02E01 - Samaritan
+tvdb_episode:75692_11_12  # Law & Order: Special Victims Unit S11E12 - Shadow
+tvdb_episode:72368_20_12  # Law & Order S20E12 - Blackmail
+tvdb_episode:85228_2_2  # Law & Order: UK S02E02 - Hidden
+tvdb_episode:85228_2_3  # Law & Order: UK S02E03 - Community Service
+tvdb_episode:85228_2_4  # Law & Order: UK S02E04 - Sacrifice
+tvdb_episode:85228_2_5  # Law & Order: UK S02E05 - Love and Loss
+tvdb_episode:85228_2_6  # Law & Order: UK S02E06 - Honour Bound
+tvdb_episode:72368_20_13  # Law & Order S20E13 - Steel-Eyed Death
+tvdb_episode:72368_20_14  # Law & Order S20E14 - Boy on Fire
+tvdb_episode:75692_11_13  # Law & Order: Special Victims Unit S11E13 - P.C.
+tvdb_episode:75692_11_14  # Law & Order: Special Victims Unit S11E14 - Savior
+tvdb_episode:72368_20_15  # Law & Order S20E15 - Brilliant Disguise
+tvdb_episode:75692_11_15  # Law & Order: Special Victims Unit S11E15 - Confidential
+tvdb_episode:72368_20_16  # Law & Order S20E16 - Innocence
+tvdb_episode:75692_11_16  # Law & Order: Special Victims Unit S11E16 - Witness
+tvdb_episode:72368_20_17  # Law & Order S20E17 - Four Cops Shot
+tvdb_episode:75692_11_17  # Law & Order: Special Victims Unit S11E17 - Disabled
+tvdb_episode:72368_20_18  # Law & Order S20E18 - Brazil
+tvdb_episode:71489_9_1  # Law & Order: Criminal Intent S09E01 - Loyalty (1)
+tvdb_episode:75692_11_18  # Law & Order: Special Victims Unit S11E18 - Bedtime
+tvdb_episode:71489_9_2  # Law & Order: Criminal Intent S09E02 - Loyalty (2)
+tvdb_episode:75692_11_19  # Law & Order: Special Victims Unit S11E19 - Conned
+tvdb_episode:71489_9_3  # Law & Order: Criminal Intent S09E03 - Broad Channel
+tvdb_episode:71489_9_4  # Law & Order: Criminal Intent S09E04 - Delicate
+tvdb_episode:75692_11_20  # Law & Order: Special Victims Unit S11E20 - Beef
+tvdb_episode:71489_9_5  # Law & Order: Criminal Intent S09E05 - Gods & Insects
+tvdb_episode:75692_11_21  # Law & Order: Special Victims Unit S11E21 - Torch
+tvdb_episode:72368_20_19  # Law & Order S20E19 - Crashers
+tvdb_episode:71489_9_6  # Law & Order: Criminal Intent S09E06 - Abel & Willing
+tvdb_episode:75692_11_22  # Law & Order: Special Victims Unit S11E22 - Ace
+tvdb_episode:72368_20_20  # Law & Order S20E20 - The Taxman Cometh
+tvdb_episode:71489_9_7  # Law & Order: Criminal Intent S09E07 - Love Sick
+tvdb_episode:75692_11_23  # Law & Order: Special Victims Unit S11E23 - Wannabe
+tvdb_episode:72368_20_21  # Law & Order S20E21 - Immortal
+tvdb_episode:72368_20_22  # Law & Order S20E22 - Love Eternal
+tvdb_episode:71489_9_8  # Law & Order: Criminal Intent S09E08 - Love on Ice
+tvdb_episode:75692_11_24  # Law & Order: Special Victims Unit S11E24 - Shattered
+tvdb_episode:72368_20_23  # Law & Order S20E23 - Rubber Room
+tvdb_episode:71489_9_9  # Law & Order: Criminal Intent S09E09 - Traffic
+tvdb_episode:71489_9_10  # Law & Order: Criminal Intent S09E10 - Disciple
+tvdb_episode:71489_9_11  # Law & Order: Criminal Intent S09E11 - Lost Children of the Blood
+tvdb_episode:71489_9_12  # Law & Order: Criminal Intent S09E12 - True Legacy
+tvdb_episode:71489_9_13  # Law & Order: Criminal Intent S09E13 - The Mobster Will See You Now
+tvdb_episode:71489_9_14  # Law & Order: Criminal Intent S09E14 - Palimpsest
+tvdb_episode:71489_9_15  # Law & Order: Criminal Intent S09E15 - Inhumane Society
+tvdb_episode:71489_9_16  # Law & Order: Criminal Intent S09E16 - Three-in-One
+tvdb_episode:85228_3_1  # Law & Order: UK S03E01 - Broken
+tvdb_episode:85228_3_2  # Law & Order: UK S03E02 - Hounded
+tvdb_episode:75692_12_1  # Law & Order: Special Victims Unit S12E01 - Locum
+tvdb_episode:75692_12_2  # Law & Order: Special Victims Unit S12E02 - Bullseye
+tvdb_episode:85228_3_3  # Law & Order: UK S03E03 - Defence
+tvdb_episode:75692_12_3  # Law & Order: Special Victims Unit S12E03 - Behave
+tvdb_episode:168161_1_1  # Law & Order: LA S01E01 - Hollywood
+tvdb_episode:85228_3_4  # Law & Order: UK S03E04 - Confession
+tvdb_episode:75692_12_4  # Law & Order: Special Victims Unit S12E04 - Merchandise
+tvdb_episode:168161_1_2  # Law & Order: LA S01E02 - Echo Park
+tvdb_episode:85228_3_5  # Law & Order: UK S03E05 - Survivor
+tvdb_episode:75692_12_5  # Law & Order: Special Victims Unit S12E05 - Wet
+tvdb_episode:168161_1_3  # Law & Order: LA S01E03 - Harbor City
+tvdb_episode:85228_3_6  # Law & Order: UK S03E06 - Masquerade
+tvdb_episode:75692_12_6  # Law & Order: Special Victims Unit S12E06 - Branded
+tvdb_episode:168161_1_4  # Law & Order: LA S01E04 - Sylmar
+tvdb_episode:85228_3_7  # Law & Order: UK S03E07 - Anonymous
+tvdb_episode:75692_12_7  # Law & Order: Special Victims Unit S12E07 - Trophy
+tvdb_episode:168161_1_5  # Law & Order: LA S01E05 - Pasadena
+tvdb_episode:75692_12_8  # Law & Order: Special Victims Unit S12E08 - Penetration
+tvdb_episode:168161_1_6  # Law & Order: LA S01E06 - Hondo Field
+tvdb_episode:75692_12_9  # Law & Order: Special Victims Unit S12E09 - Gray
+tvdb_episode:168161_1_7  # Law & Order: LA S01E07 - Ballona Creek
+tvdb_episode:75692_12_10  # Law & Order: Special Victims Unit S12E10 - Rescue
+tvdb_episode:168161_1_8  # Law & Order: LA S01E08 - Playa Vista
+tvdb_episode:75692_12_11  # Law & Order: Special Victims Unit S12E11 - Pop
+tvdb_episode:75692_12_12  # Law & Order: Special Victims Unit S12E12 - Possessed
+tvdb_episode:75692_12_13  # Law & Order: Special Victims Unit S12E13 - Mask
+tvdb_episode:75692_12_14  # Law & Order: Special Victims Unit S12E14 - Dirty
+tvdb_episode:75692_12_15  # Law & Order: Special Victims Unit S12E15 - Flight
+tvdb_episode:75692_12_16  # Law & Order: Special Victims Unit S12E16 - Spectacle
+tvdb_episode:75692_12_17  # Law & Order: Special Victims Unit S12E17 - Pursuit
+tvdb_episode:75692_12_18  # Law & Order: Special Victims Unit S12E18 - Bully
+tvdb_episode:85228_4_1  # Law & Order: UK S04E01 - Help
+tvdb_episode:85228_4_2  # Law & Order: UK S04E02 - Denial
+tvdb_episode:85228_4_3  # Law & Order: UK S04E03 - ID
+tvdb_episode:75692_12_19  # Law & Order: Special Victims Unit S12E19 - Bombshell
+tvdb_episode:85228_4_4  # Law & Order: UK S04E04 - Duty of Care
+tvdb_episode:75692_12_20  # Law & Order: Special Victims Unit S12E20 - Totem
+tvdb_episode:85228_4_5  # Law & Order: UK S04E05 - Shaken
+tvdb_episode:75692_12_21  # Law & Order: Special Victims Unit S12E21 - Reparations
+tvdb_episode:85228_4_6  # Law & Order: UK S04E06 - Skeletons
+tvdb_episode:168161_1_9  # Law & Order: LA S01E09 - Zuma Canyon
+tvdb_episode:168161_1_10  # Law & Order: LA S01E10 - Silver Lake
+tvdb_episode:168161_1_11  # Law & Order: LA S01E11 - East Pasadena
+tvdb_episode:168161_1_12  # Law & Order: LA S01E12 - Benedict Canyon
+tvdb_episode:71489_10_1  # Law & Order: Criminal Intent S10E01 - Rispetto
+tvdb_episode:168161_1_13  # Law & Order: LA S01E13 - Reseda
+tvdb_episode:75692_12_22  # Law & Order: Special Victims Unit S12E22 - Bang
+tvdb_episode:71489_10_2  # Law & Order: Criminal Intent S10E02 - The Consoler
+tvdb_episode:168161_1_14  # Law & Order: LA S01E14 - Runyon Canyon
+tvdb_episode:75692_12_23  # Law & Order: Special Victims Unit S12E23 - Delinquent
+tvdb_episode:71489_10_3  # Law & Order: Criminal Intent S10E03 - Boots on the Ground
+tvdb_episode:168161_1_15  # Law & Order: LA S01E15 - Hayden Tract
+tvdb_episode:75692_12_24  # Law & Order: Special Victims Unit S12E24 - Smoked
+tvdb_episode:71489_10_4  # Law & Order: Criminal Intent S10E04 - The Last Street in Manhattan
+tvdb_episode:168161_1_16  # Law & Order: LA S01E16 - Big Rock Mesa
+tvdb_episode:168161_1_17  # Law & Order: LA S01E17 - Angel's Knoll
+tvdb_episode:168161_1_18  # Law & Order: LA S01E18 - Plummer Park
+tvdb_episode:71489_10_5  # Law & Order: Criminal Intent S10E05 - Trophy Wine
+tvdb_episode:168161_1_19  # Law & Order: LA S01E19 - Carthay Circle
+tvdb_episode:71489_10_6  # Law & Order: Criminal Intent S10E06 - Cadaver
+tvdb_episode:71489_10_7  # Law & Order: Criminal Intent S10E07 - Icarus
+tvdb_episode:168161_1_20  # Law & Order: LA S01E20 - El Sereno
+tvdb_episode:71489_10_8  # Law & Order: Criminal Intent S10E08 - To the Boy in the Blue Knit Cap
+tvdb_episode:168161_1_21  # Law & Order: LA S01E21 - Van Nuys
+tvdb_episode:85228_5_1  # Law & Order: UK S05E01 - The Wrong Man
+tvdb_episode:168161_1_22  # Law & Order: LA S01E22 - Westwood
+tvdb_episode:85228_5_2  # Law & Order: UK S05E02 - Safe
+tvdb_episode:85228_5_3  # Law & Order: UK S05E03 - Crush
+tvdb_episode:85228_5_4  # Law & Order: UK S05E04 - Tick Tock
+tvdb_episode:85228_5_5  # Law & Order: UK S05E05 - Intent
+tvdb_episode:85228_5_6  # Law & Order: UK S05E06 - Deal
+tvdb_episode:75692_13_1  # Law & Order: Special Victims Unit S13E01 - Scorched Earth
+tvdb_episode:75692_13_2  # Law & Order: Special Victims Unit S13E02 - Personal Fouls
+tvdb_episode:75692_13_3  # Law & Order: Special Victims Unit S13E03 - Blood Brothers
+tvdb_episode:75692_13_4  # Law & Order: Special Victims Unit S13E04 - Double Strands
+tvdb_episode:75692_13_5  # Law & Order: Special Victims Unit S13E05 - Missing Pieces
+tvdb_episode:75692_13_6  # Law & Order: Special Victims Unit S13E06 - True Believers
+tvdb_episode:75692_13_7  # Law & Order: Special Victims Unit S13E07 - Russian Brides
+tvdb_episode:75692_13_8  # Law & Order: Special Victims Unit S13E08 - Educated Guess
+tvdb_episode:75692_13_9  # Law & Order: Special Victims Unit S13E09 - Lost Traveler
+tvdb_episode:75692_13_10  # Law & Order: Special Victims Unit S13E10 - Spiraling Down
+tvdb_episode:85228_6_1  # Law & Order: UK S06E01 - Survivor's Guilt
+tvdb_episode:75692_13_11  # Law & Order: Special Victims Unit S13E11 - Theatre Tricks
+tvdb_episode:85228_6_2  # Law & Order: UK S06E02 - Immune
+tvdb_episode:75692_13_12  # Law & Order: Special Victims Unit S13E12 - Official Story
+tvdb_episode:85228_6_3  # Law & Order: UK S06E03 - Haunted
+tvdb_episode:85228_6_4  # Law & Order: UK S06E04 - Trial
+tvdb_episode:85228_6_5  # Law & Order: UK S06E05 - Line Up
+tvdb_episode:75692_13_13  # Law & Order: Special Victims Unit S13E13 - Father's Shadow
+tvdb_episode:85228_6_6  # Law & Order: UK S06E06 - Dawn Till Dusk
+tvdb_episode:75692_13_14  # Law & Order: Special Victims Unit S13E14 - Home Invasions
+tvdb_episode:85228_6_7  # Law & Order: UK S06E07 - Fault Lines
+tvdb_episode:75692_13_15  # Law & Order: Special Victims Unit S13E15 - Hunting Ground
+tvdb_episode:75692_13_16  # Law & Order: Special Victims Unit S13E16 - Child's Welfare
+tvdb_episode:75692_13_17  # Law & Order: Special Victims Unit S13E17 - Justice Denied
+tvdb_episode:75692_13_18  # Law & Order: Special Victims Unit S13E18 - Valentine's Day
+tvdb_episode:75692_13_19  # Law & Order: Special Victims Unit S13E19 - Street Revenge
+tvdb_episode:75692_13_20  # Law & Order: Special Victims Unit S13E20 - Father Dearest
+tvdb_episode:75692_13_21  # Law & Order: Special Victims Unit S13E21 - Learning Curve
+tvdb_episode:75692_13_22  # Law & Order: Special Victims Unit S13E22 - Strange Beauty
+tvdb_episode:75692_13_23  # Law & Order: Special Victims Unit S13E23 - Rhodium Nights
+tvdb_episode:75692_14_1  # Law & Order: Special Victims Unit S14E01 - Lost Reputation
+tvdb_episode:75692_14_2  # Law & Order: Special Victims Unit S14E02 - Above Suspicion
+tvdb_episode:75692_14_3  # Law & Order: Special Victims Unit S14E03 - Twenty-Five Acts
+tvdb_episode:75692_14_4  # Law & Order: Special Victims Unit S14E04 - Acceptable Loss
+tvdb_episode:75692_14_5  # Law & Order: Special Victims Unit S14E05 - Manhattan Vigil
+tvdb_episode:75692_14_6  # Law & Order: Special Victims Unit S14E06 - Friending Emily
+tvdb_episode:75692_14_7  # Law & Order: Special Victims Unit S14E07 - Vanity's Bonfire
+tvdb_episode:75692_14_8  # Law & Order: Special Victims Unit S14E08 - Lessons Learned
+tvdb_episode:75692_14_9  # Law & Order: Special Victims Unit S14E09 - Dreams Deferred
+tvdb_episode:75692_14_10  # Law & Order: Special Victims Unit S14E10 - Presumed Guilty
+tvdb_episode:75692_14_11  # Law & Order: Special Victims Unit S14E11 - Beautiful Frame
+tvdb_episode:75692_14_12  # Law & Order: Special Victims Unit S14E12 - Criminal Hatred
+tvdb_episode:75692_14_13  # Law & Order: Special Victims Unit S14E13 - Monster's Legacy
+tvdb_episode:75692_14_14  # Law & Order: Special Victims Unit S14E14 - Secrets Exhumed
+tvdb_episode:75692_14_15  # Law & Order: Special Victims Unit S14E15 - Deadly Ambition
+tvdb_episode:75692_14_16  # Law & Order: Special Victims Unit S14E16 - Funny Valentine
+tvdb_episode:75692_14_17  # Law & Order: Special Victims Unit S14E17 - Undercover Blue
+tvdb_episode:75692_14_18  # Law & Order: Special Victims Unit S14E18 - Legitimate Rape
+tvdb_episode:75692_14_19  # Law & Order: Special Victims Unit S14E19 - Born Psychopath
+tvdb_episode:75692_14_20  # Law & Order: Special Victims Unit S14E20 - Girl Dishonored
+tvdb_episode:75692_14_21  # Law & Order: Special Victims Unit S14E21 - Traumatic Wound
+tvdb_episode:75692_14_22  # Law & Order: Special Victims Unit S14E22 - Poisoned Motive
+tvdb_episode:75692_14_23  # Law & Order: Special Victims Unit S14E23 - Brief Interlude
+tvdb_episode:75692_14_24  # Law & Order: Special Victims Unit S14E24 - Her Negotiation
+tvdb_episode:85228_7_1  # Law & Order: UK S07E01 - Tracks
+tvdb_episode:85228_7_2  # Law & Order: UK S07E02 - Tremors
+tvdb_episode:85228_7_3  # Law & Order: UK S07E03 - Paternal
+tvdb_episode:85228_7_4  # Law & Order: UK S07E04 - Fatherly Love
+tvdb_episode:85228_7_5  # Law & Order: UK S07E05 - Mortal
+tvdb_episode:85228_7_6  # Law & Order: UK S07E06 - Dependant
+tvdb_episode:75692_15_1  # Law & Order: Special Victims Unit S15E01 - Surrender Benson
+tvdb_episode:75692_15_2  # Law & Order: Special Victims Unit S15E02 - Imprisoned Lives
+tvdb_episode:75692_15_3  # Law & Order: Special Victims Unit S15E03 - American Tragedy
+tvdb_episode:75692_15_4  # Law & Order: Special Victims Unit S15E04 - Internal Affairs
+tvdb_episode:75692_15_5  # Law & Order: Special Victims Unit S15E05 - Wonderland Story
+tvdb_episode:75692_15_6  # Law & Order: Special Victims Unit S15E06 - October Surprise
+tvdb_episode:75692_15_7  # Law & Order: Special Victims Unit S15E07 - Dissonant Voices
+tvdb_episode:75692_15_8  # Law & Order: Special Victims Unit S15E08 - Military Justice
+tvdb_episode:75692_15_9  # Law & Order: Special Victims Unit S15E09 - Rapist Anonymous
+tvdb_episode:75692_15_10  # Law & Order: Special Victims Unit S15E10 - Psycho/Therapist
+tvdb_episode:75692_15_11  # Law & Order: Special Victims Unit S15E11 - Amaro's One-Eighty
+tvdb_episode:75692_15_12  # Law & Order: Special Victims Unit S15E12 - Jersey Breakdown
+tvdb_episode:75692_15_13  # Law & Order: Special Victims Unit S15E13 - Betrayal's Climax
+tvdb_episode:75692_15_14  # Law & Order: Special Victims Unit S15E14 - Wednesday's Child
+tvdb_episode:75692_15_15  # Law & Order: Special Victims Unit S15E15 - Comic Perversion
+tvdb_episode:75692_15_16  # Law & Order: Special Victims Unit S15E16 - Gridiron Soldier
+tvdb_episode:85228_8_1  # Law & Order: UK S08E01 - Flaw
+tvdb_episode:75692_15_17  # Law & Order: Special Victims Unit S15E17 - Gambler's Fallacy
+tvdb_episode:85228_8_2  # Law & Order: UK S08E02 - Safe from Harm
+tvdb_episode:75692_15_18  # Law & Order: Special Victims Unit S15E18 - Criminal Stories
+tvdb_episode:85228_8_3  # Law & Order: UK S08E03 - I Predict a Riot
+tvdb_episode:85228_8_4  # Law & Order: UK S08E04 - Pride
+tvdb_episode:75692_15_19  # Law & Order: Special Victims Unit S15E19 - Downloaded Child
+tvdb_episode:85228_8_5  # Law & Order: UK S08E05 - Customs
+tvdb_episode:75692_15_20  # Law & Order: Special Victims Unit S15E20 - Beast's Obsession
+tvdb_episode:85228_8_6  # Law & Order: UK S08E06 - Bad Romance
+tvdb_episode:85228_8_7  # Law & Order: UK S08E07 - Hard Stop
+tvdb_episode:75692_15_21  # Law & Order: Special Victims Unit S15E21 - Post-Mortem Blues
+tvdb_episode:75692_15_22  # Law & Order: Special Victims Unit S15E22 - Reasonable Doubt
+tvdb_episode:75692_15_23  # Law & Order: Special Victims Unit S15E23 - Thought Criminal
+tvdb_episode:75692_15_24  # Law & Order: Special Victims Unit S15E24 - Spring Awakening
+tvdb_episode:85228_8_8  # Law & Order: UK S08E08 - Repeat to Fade
+tvdb_episode:75692_16_1  # Law & Order: Special Victims Unit S16E01 - Girls Disappeared
+tvdb_episode:75692_16_2  # Law & Order: Special Victims Unit S16E02 - American Disgrace
+tvdb_episode:75692_16_3  # Law & Order: Special Victims Unit S16E03 - Producer's Backend
+tvdb_episode:75692_16_4  # Law & Order: Special Victims Unit S16E04 - Holden's Manifesto
+tvdb_episode:75692_16_5  # Law & Order: Special Victims Unit S16E05 - Pornstar's Requiem
+tvdb_episode:75692_16_6  # Law & Order: Special Victims Unit S16E06 - Glasgowman's Wrath
+tvdb_episode:75692_16_7  # Law & Order: Special Victims Unit S16E07 - Chicago Crossover
+tvdb_episode:75692_16_8  # Law & Order: Special Victims Unit S16E08 - Spousal Privilege
+tvdb_episode:75692_16_9  # Law & Order: Special Victims Unit S16E09 - Pattern Seventeen
+tvdb_episode:75692_16_10  # Law & Order: Special Victims Unit S16E10 - Forgiving Rollins
+tvdb_episode:75692_16_11  # Law & Order: Special Victims Unit S16E11 - Agent Provocateur
+tvdb_episode:75692_16_12  # Law & Order: Special Victims Unit S16E12 - Padre Sandunguero
+tvdb_episode:75692_16_13  # Law & Order: Special Victims Unit S16E13 - Decaying Morality
+tvdb_episode:75692_16_14  # Law & Order: Special Victims Unit S16E14 - Intimidation Game
+tvdb_episode:75692_16_15  # Law & Order: Special Victims Unit S16E15 - Undercover Mother
+tvdb_episode:75692_16_16  # Law & Order: Special Victims Unit S16E16 - December Solstice
+tvdb_episode:75692_16_17  # Law & Order: Special Victims Unit S16E17 - Parole Violations
+tvdb_episode:75692_16_18  # Law & Order: Special Victims Unit S16E18 - Devastating Story
+tvdb_episode:75692_16_19  # Law & Order: Special Victims Unit S16E19 - Granting Immunity
+tvdb_episode:75692_16_20  # Law & Order: Special Victims Unit S16E20 - Daydream Believer
+tvdb_episode:75692_16_21  # Law & Order: Special Victims Unit S16E21 - Perverted Justice
+tvdb_episode:75692_16_22  # Law & Order: Special Victims Unit S16E22 - Parent's Nightmare
+tvdb_episode:75692_16_23  # Law & Order: Special Victims Unit S16E23 - Surrendering Noah
+tvdb_episode:75692_17_1  # Law & Order: Special Victims Unit S17E01 - Devil's Dissections
+tvdb_episode:75692_17_2  # Law & Order: Special Victims Unit S17E02 - Criminal Pathology
+tvdb_episode:75692_17_3  # Law & Order: Special Victims Unit S17E03 - Transgender Bridge
+tvdb_episode:75692_17_4  # Law & Order: Special Victims Unit S17E04 - Institutional Fail
+tvdb_episode:75692_17_5  # Law & Order: Special Victims Unit S17E05 - Community Policing
+tvdb_episode:75692_17_6  # Law & Order: Special Victims Unit S17E06 - Maternal Instincts
+tvdb_episode:75692_17_7  # Law & Order: Special Victims Unit S17E07 - Patrimonial Burden
+tvdb_episode:75692_17_8  # Law & Order: Special Victims Unit S17E08 - Melancholy Pursuit
+tvdb_episode:75692_17_9  # Law & Order: Special Victims Unit S17E09 - Depravity Standard
+tvdb_episode:75692_17_10  # Law & Order: Special Victims Unit S17E10 - Catfishing Teacher
+tvdb_episode:75692_17_11  # Law & Order: Special Victims Unit S17E11 - Townhouse Incident
+tvdb_episode:75692_17_12  # Law & Order: Special Victims Unit S17E12 - A Misunderstanding
+tvdb_episode:75692_17_13  # Law & Order: Special Victims Unit S17E13 - Forty-One Witnesses
+tvdb_episode:75692_17_14  # Law & Order: Special Victims Unit S17E14 - Nationwide Manhunt
+tvdb_episode:75692_17_15  # Law & Order: Special Victims Unit S17E15 - Collateral Damages
+tvdb_episode:75692_17_16  # Law & Order: Special Victims Unit S17E16 - Star-Struck Victims
+tvdb_episode:75692_17_17  # Law & Order: Special Victims Unit S17E17 - Manhattan Transfer
+tvdb_episode:75692_17_18  # Law & Order: Special Victims Unit S17E18 - Unholiest Alliance
+tvdb_episode:75692_17_19  # Law & Order: Special Victims Unit S17E19 - Sheltered Outcasts
+tvdb_episode:75692_17_20  # Law & Order: Special Victims Unit S17E20 - Fashionable Crimes
+tvdb_episode:75692_17_21  # Law & Order: Special Victims Unit S17E21 - Assaulting Reality
+tvdb_episode:75692_17_22  # Law & Order: Special Victims Unit S17E22 - Intersecting Lives
+tvdb_episode:75692_17_23  # Law & Order: Special Victims Unit S17E23 - Heartfelt Passages
+tvdb_episode:75692_18_1  # Law & Order: Special Victims Unit S18E01 - Terrorized
+tvdb_episode:75692_18_2  # Law & Order: Special Victims Unit S18E02 - Making a Rapist
+tvdb_episode:75692_18_3  # Law & Order: Special Victims Unit S18E03 - Imposter
+tvdb_episode:75692_18_4  # Law & Order: Special Victims Unit S18E04 - Heightened Emotions
+tvdb_episode:75692_18_5  # Law & Order: Special Victims Unit S18E05 - Rape Interrupted
+tvdb_episode:75692_18_6  # Law & Order: Special Victims Unit S18E06 - Broken Rhymes
+tvdb_episode:75692_18_7  # Law & Order: Special Victims Unit S18E07 - Next Chapter
+tvdb_episode:75692_18_8  # Law & Order: Special Victims Unit S18E08 - Chasing Theo
+tvdb_episode:75692_18_9  # Law & Order: Special Victims Unit S18E09 - Decline and Fall
+tvdb_episode:75692_18_10  # Law & Order: Special Victims Unit S18E10 - Motherly Love
+tvdb_episode:75692_18_11  # Law & Order: Special Victims Unit S18E11 - Great Expectations
+tvdb_episode:75692_18_12  # Law & Order: Special Victims Unit S18E12 - No Surrender
+tvdb_episode:75692_18_13  # Law & Order: Special Victims Unit S18E13 - Genes
+tvdb_episode:75692_18_14  # Law & Order: Special Victims Unit S18E14 - Net Worth
+tvdb_episode:75692_18_15  # Law & Order: Special Victims Unit S18E15 - Know It All
+tvdb_episode:75692_18_16  # Law & Order: Special Victims Unit S18E16 - The Newsroom
+tvdb_episode:75692_18_17  # Law & Order: Special Victims Unit S18E17 - Real Fake News
+tvdb_episode:75692_18_18  # Law & Order: Special Victims Unit S18E18 - Spellbound
+tvdb_episode:75692_18_19  # Law & Order: Special Victims Unit S18E19 - Conversion
+tvdb_episode:75692_18_20  # Law & Order: Special Victims Unit S18E20 - American Dream
+tvdb_episode:75692_18_21  # Law & Order: Special Victims Unit S18E21 - Sanctuary
+tvdb_episode:328518_1_1  # Law & Order True Crime S01E01 - Episode 1
+tvdb_episode:75692_19_1  # Law & Order: Special Victims Unit S19E01 - Gone Fishin'
+tvdb_episode:328518_1_2  # Law & Order True Crime S01E02 - Episode 2
+tvdb_episode:75692_19_2  # Law & Order: Special Victims Unit S19E02 - Mood
+tvdb_episode:328518_1_3  # Law & Order True Crime S01E03 - Episode 3
+tvdb_episode:75692_19_3  # Law & Order: Special Victims Unit S19E03 - Contrapasso
+tvdb_episode:328518_1_4  # Law & Order True Crime S01E04 - Episode 4
+tvdb_episode:75692_19_4  # Law & Order: Special Victims Unit S19E04 - No Good Reason
+tvdb_episode:328518_1_5  # Law & Order True Crime S01E05 - Episode 5
+tvdb_episode:75692_19_5  # Law & Order: Special Victims Unit S19E05 - Complicated
+tvdb_episode:328518_1_6  # Law & Order True Crime S01E06 - Episode 6
+tvdb_episode:75692_19_6  # Law & Order: Special Victims Unit S19E06 - Unintended Consequences
+tvdb_episode:328518_1_7  # Law & Order True Crime S01E07 - Episode 7
+tvdb_episode:328518_1_8  # Law & Order True Crime S01E08 - Episode 8
+tvdb_episode:75692_19_7  # Law & Order: Special Victims Unit S19E07 - Something Happened
+tvdb_episode:75692_19_8  # Law & Order: Special Victims Unit S19E08 - Intent
+tvdb_episode:75692_19_9  # Law & Order: Special Victims Unit S19E09 - Gone Baby Gone
+tvdb_episode:75692_19_10  # Law & Order: Special Victims Unit S19E10 - Pathological
+tvdb_episode:75692_19_11  # Law & Order: Special Victims Unit S19E11 - Flight Risk
+tvdb_episode:75692_19_12  # Law & Order: Special Victims Unit S19E12 - Info Wars
+tvdb_episode:75692_19_13  # Law & Order: Special Victims Unit S19E13 - The Undiscovered Country
+tvdb_episode:75692_19_14  # Law & Order: Special Victims Unit S19E14 - Chasing Demons
+tvdb_episode:75692_19_15  # Law & Order: Special Victims Unit S19E15 - In Loco Parentis
+tvdb_episode:75692_19_16  # Law & Order: Special Victims Unit S19E16 - Dare
+tvdb_episode:75692_19_17  # Law & Order: Special Victims Unit S19E17 - Send in the Clowns
+tvdb_episode:75692_19_18  # Law & Order: Special Victims Unit S19E18 - Service
+tvdb_episode:75692_19_19  # Law & Order: Special Victims Unit S19E19 - Sunk Cost Fallacy
+tvdb_episode:75692_19_20  # Law & Order: Special Victims Unit S19E20 - The Book of Esther
+tvdb_episode:75692_19_21  # Law & Order: Special Victims Unit S19E21 - Guardian
+tvdb_episode:75692_19_22  # Law & Order: Special Victims Unit S19E22 - Mama
+tvdb_episode:75692_19_23  # Law & Order: Special Victims Unit S19E23 - Remember Me
+tvdb_episode:75692_19_24  # Law & Order: Special Victims Unit S19E24 - Remember Me Too
+tvdb_episode:75692_20_1  # Law & Order: Special Victims Unit S20E01 - Man Up
+tvdb_episode:75692_20_2  # Law & Order: Special Victims Unit S20E02 - Man Down
+tvdb_episode:75692_20_3  # Law & Order: Special Victims Unit S20E03 - Zero Tolerance
+tvdb_episode:75692_20_4  # Law & Order: Special Victims Unit S20E04 - Revenge
+tvdb_episode:75692_20_5  # Law & Order: Special Victims Unit S20E05 - Accredo
+tvdb_episode:75692_20_6  # Law & Order: Special Victims Unit S20E06 - Exile
+tvdb_episode:75692_20_7  # Law & Order: Special Victims Unit S20E07 - Caretaker
+tvdb_episode:75692_20_8  # Law & Order: Special Victims Unit S20E08 - Hell's Kitchen
+tvdb_episode:75692_20_9  # Law & Order: Special Victims Unit S20E09 - Mea Culpa
+tvdb_episode:75692_20_10  # Law & Order: Special Victims Unit S20E10 - Alta Kockers
+tvdb_episode:75692_20_11  # Law & Order: Special Victims Unit S20E11 - Plastic
+tvdb_episode:75692_20_12  # Law & Order: Special Victims Unit S20E12 - Dear Ben
+tvdb_episode:75692_20_13  # Law & Order: Special Victims Unit S20E13 - A Story of More Woe
+tvdb_episode:75692_20_14  # Law & Order: Special Victims Unit S20E14 - Part 33
+tvdb_episode:75692_20_15  # Law & Order: Special Victims Unit S20E15 - Brothel
+tvdb_episode:75692_20_16  # Law & Order: Special Victims Unit S20E16 - Facing Demons
+tvdb_episode:75692_20_17  # Law & Order: Special Victims Unit S20E17 - Missing
+tvdb_episode:75692_20_18  # Law & Order: Special Victims Unit S20E18 - Blackout
+tvdb_episode:75692_20_19  # Law & Order: Special Victims Unit S20E19 - Dearly Beloved
+tvdb_episode:75692_20_20  # Law & Order: Special Victims Unit S20E20 - The Good Girl
+tvdb_episode:75692_20_21  # Law & Order: Special Victims Unit S20E21 - Exchange
+tvdb_episode:75692_20_22  # Law & Order: Special Victims Unit S20E22 - Diss
+tvdb_episode:75692_20_23  # Law & Order: Special Victims Unit S20E23 - Assumptions
+tvdb_episode:75692_20_24  # Law & Order: Special Victims Unit S20E24 - End Game
+tvdb_episode:75692_21_1  # Law & Order: Special Victims Unit S21E01 - I'm Going to Make You a Star
+tvdb_episode:75692_21_2  # Law & Order: Special Victims Unit S21E02 - The Darkest Journey Home
+tvdb_episode:75692_21_3  # Law & Order: Special Victims Unit S21E03 - Down Low in Hell's Kitchen
+tvdb_episode:75692_21_4  # Law & Order: Special Victims Unit S21E04 - The Burden of Our Choices
+tvdb_episode:75692_21_5  # Law & Order: Special Victims Unit S21E05 - At Midnight in Manhattan
+tvdb_episode:75692_21_6  # Law & Order: Special Victims Unit S21E06 - Murdered at a Bad Address
+tvdb_episode:75692_21_7  # Law & Order: Special Victims Unit S21E07 - Counselor, It's Chinatown
+tvdb_episode:75692_21_8  # Law & Order: Special Victims Unit S21E08 - We Dream of Machine Elves
+tvdb_episode:75692_21_9  # Law & Order: Special Victims Unit S21E09 - Can't Be Held Accountable
+tvdb_episode:75692_21_10  # Law & Order: Special Victims Unit S21E10 - Must Be Held Accountable
+tvdb_episode:75692_21_11  # Law & Order: Special Victims Unit S21E11 - She Paints for Vengeance
+tvdb_episode:75692_21_12  # Law & Order: Special Victims Unit S21E12 - The Longest Night of Rain
+tvdb_episode:75692_21_13  # Law & Order: Special Victims Unit S21E13 - Redemption in Her Corner
+tvdb_episode:75692_21_14  # Law & Order: Special Victims Unit S21E14 - I Deserve Some Loving Too
+tvdb_episode:75692_21_15  # Law & Order: Special Victims Unit S21E15 - Swimming with the Sharks
+tvdb_episode:75692_21_16  # Law & Order: Special Victims Unit S21E16 - Eternal Relief From Pain
+tvdb_episode:75692_21_17  # Law & Order: Special Victims Unit S21E17 - Dance, Lies and Videotape
+tvdb_episode:75692_21_18  # Law & Order: Special Victims Unit S21E18 - Garland's Baptism by Fire
+tvdb_episode:75692_21_19  # Law & Order: Special Victims Unit S21E19 - Solving for the Unknowns
+tvdb_episode:75692_21_20  # Law & Order: Special Victims Unit S21E20 - The Things We Have to Lose
+tvdb_episode:75692_22_1  # Law & Order: Special Victims Unit S22E01 - Guardians and Gladiators
+tvdb_episode:75692_22_2  # Law & Order: Special Victims Unit S22E02 - The Ballad of Dwight and Irena
+tvdb_episode:75692_22_3  # Law & Order: Special Victims Unit S22E03 - Remember Me in Quarantine
+tvdb_episode:75692_22_4  # Law & Order: Special Victims Unit S22E04 - Sightless in a Savage Land
+tvdb_episode:75692_22_5  # Law & Order: Special Victims Unit S22E05 - Turn Me On Take Me Private
+tvdb_episode:75692_22_6  # Law & Order: Special Victims Unit S22E06 - The Long Arm of the Witness
+tvdb_episode:75692_22_7  # Law & Order: Special Victims Unit S22E07 - Hunt, Trap, Rape and Release
+tvdb_episode:75692_22_8  # Law & Order: Special Victims Unit S22E08 - The Only Way Out Is Through
+tvdb_episode:75692_22_9  # Law & Order: Special Victims Unit S22E09 - Return of the Prodigal Son
+tvdb_episode:383397_1_1  # Law & Order: Organized Crime S01E01 - What Happens in Puglia
+tvdb_episode:75692_22_10  # Law & Order: Special Victims Unit S22E10 - Welcome to the Pedo Motel
+tvdb_episode:383397_1_2  # Law & Order: Organized Crime S01E02 - Not Your Father's Organized Crime
+tvdb_episode:75692_22_11  # Law & Order: Special Victims Unit S22E11 - Our Words Will Not Be Heard
+tvdb_episode:383397_1_3  # Law & Order: Organized Crime S01E03 - Say Hello to My Little Friends
+tvdb_episode:75692_22_12  # Law & Order: Special Victims Unit S22E12 - In the Year We All Fell Down
+tvdb_episode:383397_1_4  # Law & Order: Organized Crime S01E04 - The Stuff that Dreams Are Made Of
+tvdb_episode:75692_22_13  # Law & Order: Special Victims Unit S22E13 - Trick-Rolled at the Moulin'
+tvdb_episode:383397_1_5  # Law & Order: Organized Crime S01E05 - An Inferior Product
+tvdb_episode:75692_22_14  # Law & Order: Special Victims Unit S22E14 - Post-Graduate Psychopath
+tvdb_episode:383397_1_6  # Law & Order: Organized Crime S01E06 - I Got This Rat
+tvdb_episode:75692_22_15  # Law & Order: Special Victims Unit S22E15 - What Can Happen in the Dark
+tvdb_episode:383397_1_7  # Law & Order: Organized Crime S01E07 - Everybody Takes a Beating Sometime
+tvdb_episode:75692_22_16  # Law & Order: Special Victims Unit S22E16 - Wolves in Sheep's Clothing
+tvdb_episode:383397_1_8  # Law & Order: Organized Crime S01E08 - Forget It, Jake; It's Chinatown
+tvdb_episode:75692_23_1  # Law & Order: Special Victims Unit S23E01 - And the Empire Strikes Back
+tvdb_episode:75692_23_2  # Law & Order: Special Victims Unit S23E02 - Never Turn Your Back on Them
+tvdb_episode:383397_2_1  # Law & Order: Organized Crime S02E01 - The Man With No Identity
+tvdb_episode:75692_23_3  # Law & Order: Special Victims Unit S23E03 - I Thought You Were on My Side
+tvdb_episode:383397_2_2  # Law & Order: Organized Crime S02E02 - New World Order
+tvdb_episode:383397_2_3  # Law & Order: Organized Crime S02E03 - The Outlaw Eddie Wagner
+tvdb_episode:75692_23_4  # Law & Order: Special Victims Unit S23E04 - One More Tale of Two Victims
+tvdb_episode:383397_2_4  # Law & Order: Organized Crime S02E04 - For a Few Lekë More
+tvdb_episode:75692_23_5  # Law & Order: Special Victims Unit S23E05 - Fast Times @TheWheelhouse
+tvdb_episode:383397_2_5  # Law & Order: Organized Crime S02E05 - The Good, the Bad, and the Lovely
+tvdb_episode:75692_23_6  # Law & Order: Special Victims Unit S23E06 - The Five Hundredth Episode
+tvdb_episode:383397_2_6  # Law & Order: Organized Crime S02E06 - Unforgivable
+tvdb_episode:75692_23_7  # Law & Order: Special Victims Unit S23E07 - They'd Already Disappeared
+tvdb_episode:383397_2_7  # Law & Order: Organized Crime S02E07 - High Planes Grifter
+tvdb_episode:75692_23_8  # Law & Order: Special Victims Unit S23E08 - Nightmares in Drill City
+tvdb_episode:383397_2_8  # Law & Order: Organized Crime S02E08 - Ashes to Ashes
+tvdb_episode:75692_23_9  # Law & Order: Special Victims Unit S23E09 - People vs Richard Wheatley
+tvdb_episode:383397_2_9  # Law & Order: Organized Crime S02E09 - The Christmas Episode
+tvdb_episode:75692_23_10  # Law & Order: Special Victims Unit S23E10 - Silent Night, Hateful Night
+tvdb_episode:383397_2_10  # Law & Order: Organized Crime S02E10 - Nemesis
+tvdb_episode:75692_23_11  # Law & Order: Special Victims Unit S23E11 - Burning With Rage Forever
+tvdb_episode:383397_2_11  # Law & Order: Organized Crime S02E11 - As Nottingham was to Robin Hood
+tvdb_episode:75692_23_12  # Law & Order: Special Victims Unit S23E12 - Tommy Baker's Hardest Fight
+tvdb_episode:383397_2_12  # Law & Order: Organized Crime S02E12 - As Iago Is to Othello
+tvdb_episode:72368_21_1  # Law & Order S21E01 - The Right Thing
+tvdb_episode:75692_23_13  # Law & Order: Special Victims Unit S23E13 - If I Knew Then What I Know Now
+tvdb_episode:383397_2_13  # Law & Order: Organized Crime S02E13 - As Hubris Is to Oedipus
+tvdb_episode:72368_21_2  # Law & Order S21E02 - Impossible Dream
+tvdb_episode:75692_23_14  # Law & Order: Special Victims Unit S23E14 - Video Killed the Radio Star
+tvdb_episode:383397_2_14  # Law & Order: Organized Crime S02E14 - ...Wheatley Is To Stabler
+tvdb_episode:72368_21_3  # Law & Order S21E03 - Filtered Life
+tvdb_episode:75692_23_15  # Law & Order: Special Victims Unit S23E15 - Promising Young Gentlemen
+tvdb_episode:383397_2_15  # Law & Order: Organized Crime S02E15 - Takeover
+tvdb_episode:72368_21_4  # Law & Order S21E04 - Fault Lines
+tvdb_episode:75692_23_16  # Law & Order: Special Victims Unit S23E16 - Sorry If It Got Weird for You
+tvdb_episode:383397_2_16  # Law & Order: Organized Crime S02E16 - Guns & Roses
+tvdb_episode:72368_21_5  # Law & Order S21E05 - Free Speech
+tvdb_episode:75692_23_17  # Law & Order: Special Victims Unit S23E17 - Once Upon a Time in El Barrio
+tvdb_episode:383397_2_17  # Law & Order: Organized Crime S02E17 - Can't Knock The Hustle
+tvdb_episode:72368_21_6  # Law & Order S21E06 - Wicked Game
+tvdb_episode:75692_23_18  # Law & Order: Special Victims Unit S23E18 - Eighteen Wheels a Predator
+tvdb_episode:383397_2_18  # Law & Order: Organized Crime S02E18 - Change The Game
+tvdb_episode:72368_21_7  # Law & Order S21E07 - Legacy
+tvdb_episode:75692_23_19  # Law & Order: Special Victims Unit S23E19 - Tangled Strands of Justice
+tvdb_episode:383397_2_19  # Law & Order: Organized Crime S02E19 - Dead Presidents
+tvdb_episode:72368_21_8  # Law & Order S21E08 - Severance
+tvdb_episode:75692_23_20  # Law & Order: Special Victims Unit S23E20 - Did You Believe in Miracles?
+tvdb_episode:383397_2_20  # Law & Order: Organized Crime S02E20 - Lost One
+tvdb_episode:72368_21_9  # Law & Order S21E09 - The Great Pretender
+tvdb_episode:75692_23_21  # Law & Order: Special Victims Unit S23E21 - Confess Your Sins to Be Free
+tvdb_episode:383397_2_21  # Law & Order: Organized Crime S02E21 - Streets Is Watching
+tvdb_episode:72368_21_10  # Law & Order S21E10 - Black and Blue
+tvdb_episode:75692_23_22  # Law & Order: Special Victims Unit S23E22 - A Final Call At Forlini's Bar
+tvdb_episode:383397_2_22  # Law & Order: Organized Crime S02E22 - Friend or Foe
+tvdb_episode:383397_3_1  # Law & Order: Organized Crime S03E01 - Gimme Shelter, Part I
+tvdb_episode:75692_24_1  # Law & Order: Special Victims Unit S24E01 - Gimme Shelter, Part II
+tvdb_episode:72368_22_1  # Law & Order S22E01 - Gimme Shelter, Part III
+tvdb_episode:72368_22_2  # Law & Order S22E02 - Battle Lines
+tvdb_episode:75692_24_2  # Law & Order: Special Victims Unit S24E02 - The One You Feed
+tvdb_episode:383397_3_2  # Law & Order: Organized Crime S03E02 - Everybody Knows the Dice Are Loaded
+tvdb_episode:72368_22_3  # Law & Order S22E03 - Camouflage
+tvdb_episode:75692_24_3  # Law & Order: Special Victims Unit S24E03 - Mirror Effect
+tvdb_episode:383397_3_3  # Law & Order: Organized Crime S03E03 - Catch Me If You Can
+tvdb_episode:72368_22_4  # Law & Order S22E04 - Benefit of the Doubt
+tvdb_episode:75692_24_4  # Law & Order: Special Victims Unit S24E04 - The Steps We Cannot Take
+tvdb_episode:383397_3_4  # Law & Order: Organized Crime S03E04 - Spirit in the Sky
+tvdb_episode:72368_22_5  # Law & Order S22E05 - 12 Seconds
+tvdb_episode:75692_24_5  # Law & Order: Special Victims Unit S24E05 - Breakwater
+tvdb_episode:383397_3_5  # Law & Order: Organized Crime S03E05 - Behind Blue Eyes
+tvdb_episode:72368_22_6  # Law & Order S22E06 - Vicious Cycle
+tvdb_episode:75692_24_6  # Law & Order: Special Victims Unit S24E06 - Controlled Burn
+tvdb_episode:383397_3_6  # Law & Order: Organized Crime S03E06 - Blaze of Glory
+tvdb_episode:72368_22_7  # Law & Order S22E07 - Only the Lonely
+tvdb_episode:75692_24_7  # Law & Order: Special Victims Unit S24E07 - Dead Ball
+tvdb_episode:383397_3_7  # Law & Order: Organized Crime S03E07 - All That Glitters
+tvdb_episode:72368_22_8  # Law & Order S22E08 - Chain of Command
+tvdb_episode:75692_24_8  # Law & Order: Special Victims Unit S24E08 - A Better Person
+tvdb_episode:383397_3_8  # Law & Order: Organized Crime S03E08 - Whipping Post
+tvdb_episode:72368_22_9  # Law & Order S22E09 - The System
+tvdb_episode:75692_24_9  # Law & Order: Special Victims Unit S24E09 - And a Trauma in a Pear Tree
+tvdb_episode:383397_3_9  # Law & Order: Organized Crime S03E09 - Last Christmas
+tvdb_episode:72368_22_10  # Law & Order S22E10 - Land of Opportunity
+tvdb_episode:75692_24_10  # Law & Order: Special Victims Unit S24E10 - Jumped In
+tvdb_episode:383397_3_10  # Law & Order: Organized Crime S03E10 - Trap
+tvdb_episode:72368_22_11  # Law & Order S22E11 - Second Chance
+tvdb_episode:75692_24_11  # Law & Order: Special Victims Unit S24E11 - Soldier Up
+tvdb_episode:383397_3_11  # Law & Order: Organized Crime S03E11 - The Infiltration Game
+tvdb_episode:72368_22_12  # Law & Order S22E12 - Almost Famous
+tvdb_episode:75692_24_12  # Law & Order: Special Victims Unit S24E12 - Blood Out
+tvdb_episode:383397_3_12  # Law & Order: Organized Crime S03E12 - Partners in Crime
+tvdb_episode:72368_22_13  # Law & Order S22E13 - Mammon
+tvdb_episode:75692_24_13  # Law & Order: Special Victims Unit S24E13 - Intersection
+tvdb_episode:383397_3_13  # Law & Order: Organized Crime S03E13 - Punch Drunk
+tvdb_episode:72368_22_14  # Law & Order S22E14 - Heroes
+tvdb_episode:75692_24_14  # Law & Order: Special Victims Unit S24E14 - Dutch Tears
+tvdb_episode:383397_3_14  # Law & Order: Organized Crime S03E14 - All in the Game
+tvdb_episode:72368_22_15  # Law & Order S22E15 - Fear and Loathing
+tvdb_episode:75692_24_15  # Law & Order: Special Victims Unit S24E15 - King of the Moon
+tvdb_episode:383397_3_15  # Law & Order: Organized Crime S03E15 - The Wild and the Innocent
+tvdb_episode:72368_22_16  # Law & Order S22E16 - Deadline
+tvdb_episode:75692_24_16  # Law & Order: Special Victims Unit S24E16 - The Presence of Absence
+tvdb_episode:383397_3_16  # Law & Order: Organized Crime S03E16 - Chinatown
+tvdb_episode:72368_22_17  # Law & Order S22E17 - Bias
+tvdb_episode:75692_24_17  # Law & Order: Special Victims Unit S24E17 - Lime Chaser
+tvdb_episode:383397_3_17  # Law & Order: Organized Crime S03E17 - Blood Ties
+tvdb_episode:72368_22_18  # Law & Order S22E18 - Collateral Damage
+tvdb_episode:75692_24_18  # Law & Order: Special Victims Unit S24E18 - Bubble Wrap
+tvdb_episode:383397_3_18  # Law & Order: Organized Crime S03E18 - Tag: GEN
+tvdb_episode:72368_22_19  # Law & Order S22E19 - Private Lives
+tvdb_episode:75692_24_19  # Law & Order: Special Victims Unit S24E19 - Bend the Law
+tvdb_episode:383397_3_19  # Law & Order: Organized Crime S03E19 - A Diplomatic Solution
+tvdb_episode:72368_22_20  # Law & Order S22E20 - Class Retreat
+tvdb_episode:75692_24_20  # Law & Order: Special Victims Unit S24E20 - Debatable
+tvdb_episode:383397_3_20  # Law & Order: Organized Crime S03E20 - Pareto Principle
+tvdb_episode:72368_22_21  # Law & Order S22E21 - Appraisal
+tvdb_episode:75692_24_21  # Law & Order: Special Victims Unit S24E21 - Bad Things
+tvdb_episode:383397_3_21  # Law & Order: Organized Crime S03E21 - Shadowërk
+tvdb_episode:72368_22_22  # Law & Order S22E22 - Open Wounds
+tvdb_episode:75692_24_22  # Law & Order: Special Victims Unit S24E22 - All Pain Is One Malady
+tvdb_episode:383397_3_22  # Law & Order: Organized Crime S03E22 - With Many Names
+tvdb_episode:72368_23_1  # Law & Order S23E01 - Freedom of Expression
+tvdb_episode:75692_25_1  # Law & Order: Special Victims Unit S25E01 - Tunnel Blind
+tvdb_episode:383397_4_1  # Law & Order: Organized Crime S04E01 - Memory Lane
+tvdb_episode:72368_23_2  # Law & Order S23E02 - Human Innovation
+tvdb_episode:75692_25_2  # Law & Order: Special Victims Unit S25E02 - Truth Embargo
+tvdb_episode:383397_4_2  # Law & Order: Organized Crime S04E02 - Deliver Us From Evil
+tvdb_episode:72368_23_3  # Law & Order S23E03 - Turn the Page
+tvdb_episode:75692_25_3  # Law & Order: Special Victims Unit S25E03 - The Punch List
+tvdb_episode:383397_4_3  # Law & Order: Organized Crime S04E03 - End of Innocence
+tvdb_episode:72368_23_4  # Law & Order S23E04 - Unintended Consequences
+tvdb_episode:75692_25_4  # Law & Order: Special Victims Unit S25E04 - Duty to Report
+tvdb_episode:383397_4_4  # Law & Order: Organized Crime S04E04 - The Last Supper
+tvdb_episode:72368_23_5  # Law & Order S23E05 - Last Dance
+tvdb_episode:435958_1_1  # Law & Order Toronto: Criminal Intent S01E01 - The Key to the Castle
+tvdb_episode:75692_25_5  # Law & Order: Special Victims Unit S25E05 - Zone Rouge
+tvdb_episode:383397_4_5  # Law & Order: Organized Crime S04E05 - Missing Persons
+tvdb_episode:72368_23_6  # Law & Order S23E06 - On the Ledge
+tvdb_episode:435958_1_2  # Law & Order Toronto: Criminal Intent S01E02 - Good Neighbours
+tvdb_episode:75692_25_6  # Law & Order: Special Victims Unit S25E06 - Carousel
+tvdb_episode:383397_4_6  # Law & Order: Organized Crime S04E06 - Beyond the Sea
+tvdb_episode:435958_1_3  # Law & Order Toronto: Criminal Intent S01E03 - The Real Eve
+tvdb_episode:72368_23_7  # Law & Order S23E07 - Balance of Power
+tvdb_episode:435958_1_4  # Law & Order Toronto: Criminal Intent S01E04 - Crack Reporter
+tvdb_episode:75692_25_7  # Law & Order: Special Victims Unit S25E07 - Probability of Doom
+tvdb_episode:383397_4_7  # Law & Order: Organized Crime S04E07 - Original Sin
+tvdb_episode:72368_23_8  # Law & Order S23E08 - Facade
+tvdb_episode:435958_1_5  # Law & Order Toronto: Criminal Intent S01E05 - Bleeding Heart
+tvdb_episode:75692_25_8  # Law & Order: Special Victims Unit S25E08 - Third Man Syndrome
+tvdb_episode:383397_4_8  # Law & Order: Organized Crime S04E08 - Sins of Our Fathers
+tvdb_episode:72368_23_9  # Law & Order S23E09 - Family Ties
+tvdb_episode:435958_1_6  # Law & Order Toronto: Criminal Intent S01E06 - Minnow and the Shark
+tvdb_episode:75692_25_9  # Law & Order: Special Victims Unit S25E09 - Children of Wolves
+tvdb_episode:383397_4_9  # Law & Order: Organized Crime S04E09 - Semper Fi
+tvdb_episode:72368_23_10  # Law & Order S23E10 - Inconvenient Truth
+tvdb_episode:435958_1_7  # Law & Order Toronto: Criminal Intent S01E07 - The Sound of Silence
+tvdb_episode:75692_25_10  # Law & Order: Special Victims Unit S25E10 - Combat Fatigue
+tvdb_episode:383397_4_10  # Law & Order: Organized Crime S04E10 - Crossroads
+tvdb_episode:72368_23_11  # Law & Order S23E11 - Castle in the Sky
+tvdb_episode:435958_1_8  # Law & Order Toronto: Criminal Intent S01E08 - Boys Will Be Boys
+tvdb_episode:75692_25_11  # Law & Order: Special Victims Unit S25E11 - Prima Nocta
+tvdb_episode:383397_4_11  # Law & Order: Organized Crime S04E11 - Redcoat
+tvdb_episode:72368_23_12  # Law & Order S23E12 - No Good Deed
+tvdb_episode:435958_1_9  # Law & Order Toronto: Criminal Intent S01E09 - Three Points
+tvdb_episode:75692_25_12  # Law & Order: Special Victims Unit S25E12 - Marauder
+tvdb_episode:383397_4_12  # Law & Order: Organized Crime S04E12 - Goodnight
+tvdb_episode:72368_23_13  # Law & Order S23E13 - In Harm's Way
+tvdb_episode:435958_1_10  # Law & Order Toronto: Criminal Intent S01E10 - Cul-De-Sac
+tvdb_episode:75692_25_13  # Law & Order: Special Victims Unit S25E13 - Duty To Hope
+tvdb_episode:383397_4_13  # Law & Order: Organized Crime S04E13 - Stabler's Lament
+tvdb_episode:72368_24_1  # Law & Order S24E01 - Catch and Kill
+tvdb_episode:75692_26_1  # Law & Order: Special Victims Unit S26E01 - Fractured
+tvdb_episode:72368_24_2  # Law & Order S24E02 - The Perfect Man
+tvdb_episode:75692_26_2  # Law & Order: Special Victims Unit S26E02 - Excavation
+tvdb_episode:72368_24_3  # Law & Order S24E03 - Big Brother
+tvdb_episode:75692_26_3  # Law & Order: Special Victims Unit S26E03 - Divide & Conquer
+tvdb_episode:72368_24_4  # Law & Order S24E04 - The Meaning of Life
+tvdb_episode:75692_26_4  # Law & Order: Special Victims Unit S26E04 - Constricted
+tvdb_episode:72368_24_5  # Law & Order S24E05 - Report Card
+tvdb_episode:75692_26_5  # Law & Order: Special Victims Unit S26E05 - Economics of Shame
+tvdb_episode:72368_24_6  # Law & Order S24E06 - Time Will Tell
+tvdb_episode:75692_26_6  # Law & Order: Special Victims Unit S26E06 - Rorschach
+tvdb_episode:72368_24_7  # Law & Order S24E07 - Truth and Consequences
+tvdb_episode:75692_26_7  # Law & Order: Special Victims Unit S26E07 - Tenfold
+tvdb_episode:72368_24_8  # Law & Order S24E08 - Bad Apple
+tvdb_episode:75692_26_8  # Law & Order: Special Victims Unit S26E08 - Cornered
+tvdb_episode:72368_24_9  # Law & Order S24E09 - Enemy of the State
+tvdb_episode:75692_26_9  # Law & Order: Special Victims Unit S26E09 - First Light
+tvdb_episode:72368_24_10  # Law & Order S24E10 - Greater Good
+tvdb_episode:75692_26_10  # Law & Order: Special Victims Unit S26E10 - Master Key
+tvdb_episode:72368_24_11  # Law & Order S24E11 - The Hardest Thing
+tvdb_episode:75692_26_11  # Law & Order: Special Victims Unit S26E11 - Deductible
+tvdb_episode:72368_24_12  # Law & Order S24E12 - Duty to Protect
+tvdb_episode:75692_26_12  # Law & Order: Special Victims Unit S26E12 - Calculated
+tvdb_episode:72368_24_13  # Law & Order S24E13 - In God We Trust
+tvdb_episode:435958_2_1  # Law & Order Toronto: Criminal Intent S02E01 - White Squirrel City
+tvdb_episode:75692_26_13  # Law & Order: Special Victims Unit S26E13 - Extinguished
+tvdb_episode:72368_24_14  # Law & Order S24E14 - A Price to Pay
+tvdb_episode:435958_2_2  # Law & Order Toronto: Criminal Intent S02E02 - Digital Lipstick
+tvdb_episode:75692_26_14  # Law & Order: Special Victims Unit S26E14 - The Grid Plan
+tvdb_episode:72368_24_15  # Law & Order S24E15 - Crossing Lines
+tvdb_episode:435958_2_3  # Law & Order Toronto: Criminal Intent S02E03 - Fool's Gold
+tvdb_episode:75692_26_15  # Law & Order: Special Victims Unit S26E15 - Undertow
+tvdb_episode:72368_24_16  # Law & Order S24E16 - Folk Hero
+tvdb_episode:435958_2_4  # Law & Order Toronto: Criminal Intent S02E04 - Hoggs Hollow
+tvdb_episode:75692_26_16  # Law & Order: Special Victims Unit S26E16 - Let Me Bring Pardon
+tvdb_episode:72368_24_17  # Law & Order S24E17 - A Perfect Family
+tvdb_episode:435958_2_5  # Law & Order Toronto: Criminal Intent S02E05 - Face Value
+tvdb_episode:75692_26_17  # Law & Order: Special Victims Unit S26E17 - Accomplice Liability
+tvdb_episode:72368_24_18  # Law & Order S24E18 - Inherent Bias
+tvdb_episode:435958_2_6  # Law & Order Toronto: Criminal Intent S02E06 - Disposable People
+tvdb_episode:75692_26_18  # Law & Order: Special Victims Unit S26E18 - The Accuser
+tvdb_episode:383397_5_1  # Law & Order: Organized Crime S05E01 - Lost Highway
+tvdb_episode:383397_5_2  # Law & Order: Organized Crime S05E02 - Dante's Inferno
+tvdb_episode:72368_24_19  # Law & Order S24E19 - Play With Fire Part 1
+tvdb_episode:435958_2_7  # Law & Order Toronto: Criminal Intent S02E07 - The Man in the Stadium
+tvdb_episode:75692_26_19  # Law & Order: Special Victims Unit S26E19 - Play With Fire Part 2
+tvdb_episode:383397_5_3  # Law & Order: Organized Crime S05E03 - Paranza Dei Bambini
+tvdb_episode:383397_5_4  # Law & Order: Organized Crime S05E04 - Promesse Infrante
+tvdb_episode:72368_24_20  # Law & Order S24E20 - Sins of the Father
+tvdb_episode:435958_2_8  # Law & Order Toronto: Criminal Intent S02E08 - Canadian Dream
+tvdb_episode:75692_26_20  # Law & Order: Special Victims Unit S26E20 - Shock Collar
+tvdb_episode:383397_5_5  # Law & Order: Organized Crime S05E05 - Lago D'Averno
+tvdb_episode:72368_24_21  # Law & Order S24E21 - Tough Love
+tvdb_episode:435958_2_9  # Law & Order Toronto: Criminal Intent S02E09 - Bitter Pill
+tvdb_episode:75692_26_21  # Law & Order: Special Victims Unit S26E21 - Aperture
+tvdb_episode:383397_5_6  # Law & Order: Organized Crime S05E06 - Red, White, Black and Blue
+tvdb_episode:72368_24_22  # Law & Order S24E22 - Look the Other Way
+tvdb_episode:435958_2_10  # Law & Order Toronto: Criminal Intent S02E10 - Tango Romeo
+tvdb_episode:75692_26_22  # Law & Order: Special Victims Unit S26E22 - Post-Rage
+tvdb_episode:383397_5_7  # Law & Order: Organized Crime S05E07 - Beautiful Disaster
+tvdb_episode:383397_5_8  # Law & Order: Organized Crime S05E08 - Fail Safe
+tvdb_episode:383397_5_9  # Law & Order: Organized Crime S05E09 - Off the Books
+tvdb_episode:383397_5_10  # Law & Order: Organized Crime S05E10 - He Was a Stabler
+tvdb_episode:72368_25_1  # Law & Order S25E01 - Street Justice
+tvdb_episode:75692_27_1  # Law & Order: Special Victims Unit S27E01 - In The Wind
+tvdb_episode:72368_25_2  # Law & Order S25E02 - Hindsight
+tvdb_episode:75692_27_2  # Law & Order: Special Victims Unit S27E02 - A Waiver of Consent
+tvdb_episode:72368_25_3  # Law & Order S25E03 - White Lies
+tvdb_episode:75692_27_3  # Law & Order: Special Victims Unit S27E03 - A Vicious Circle
+tvdb_episode:72368_25_4  # Law & Order S25E04 - Two And Twenty
+tvdb_episode:75692_27_4  # Law & Order: Special Victims Unit S27E04 - Clickbait
+tvdb_episode:72368_25_5  # Law & Order S25E05 - Bend the Knee
+tvdb_episode:75692_27_5  # Law & Order: Special Victims Unit S27E05 - Feed the Craving
+tvdb_episode:72368_25_6  # Law & Order S25E06 - Brotherly Love
+tvdb_episode:75692_27_6  # Law & Order: Special Victims Unit S27E06 - Under the Influence
+tvdb_episode:72368_25_7  # Law & Order S25E07 - Guardian
+tvdb_episode:75692_27_7  # Law & Order: Special Victims Unit S27E07 - False Idols
+tvdb_episode:72368_25_8  # Law & Order S25E08 - Parasite
+tvdb_episode:75692_27_8  # Law & Order: Special Victims Unit S27E08 - Showdown
+tvdb_episode:72368_25_9  # Law & Order S25E09 - Snowflakes
+tvdb_episode:75692_27_9  # Law & Order: Special Victims Unit S27E09 - Purity
+tvdb_episode:72368_25_10  # Law & Order S25E10 - Dream On
+tvdb_episode:75692_27_10  # Law & Order: Special Victims Unit S27E10 - Fidelis Ad Mortem
+tvdb_episode:72368_25_11  # Law & Order S25E11 - The Enemy of All Women
+tvdb_episode:75692_27_11  # Law & Order: Special Victims Unit S27E11 - Career Psychopath
+tvdb_episode:72368_25_12  # Law & Order S25E12 - Never Say Goodbye
+tvdb_episode:75692_27_12  # Law & Order: Special Victims Unit S27E12 - Hubris
+tvdb_episode:72368_25_13  # Law & Order S25E13 - New Normal
+tvdb_episode:75692_27_13  # Law & Order: Special Victims Unit S27E13 - Corrosive
+tvdb_episode:72368_25_14  # Law & Order S25E14 - Remedies
+tvdb_episode:75692_27_14  # Law & Order: Special Victims Unit S27E14 - Frequency
+tvdb_episode:435958_3_1  # Law & Order Toronto: Criminal Intent S03E01 - Skin Deep
+tvdb_episode:72368_25_15  # Law & Order S25E15 - Bright Lights
+tvdb_episode:75692_27_15  # Law & Order: Special Victims Unit S27E15 - Thirsty
+tvdb_episode:435958_3_2  # Law & Order Toronto: Criminal Intent S03E02 - WAGMI
+tvdb_episode:435958_3_3  # Law & Order Toronto: Criminal Intent S03E03 - Uncertain Justice
+tvdb_episode:435958_3_4  # Law & Order Toronto: Criminal Intent S03E04 - Forget Me Not
+tvdb_episode:72368_25_16  # Law & Order S25E16 - Fate's Cruel Joke
+tvdb_episode:75692_27_16  # Law & Order: Special Victims Unit S27E16 - Vivid
+tvdb_episode:435958_3_5  # Law & Order Toronto: Criminal Intent S03E05 - Up to Snuff
+tvdb_episode:72368_25_17  # Law & Order S25E17 - Beyond Measure
+tvdb_episode:75692_27_17  # Law & Order: Special Victims Unit S27E17 - Deep Under
+tvdb_episode:435958_3_6  # Law & Order Toronto: Criminal Intent S03E06 - Family Meal
+tvdb_episode:72368_25_18  # Law & Order S25E18 - Ride or Die
+tvdb_episode:75692_27_18  # Law & Order: Special Victims Unit S27E18 - Gimmick
+tvdb_episode:435958_3_7  # Law & Order Toronto: Criminal Intent S03E07 - Whole Lotta Love
+tvdb_episode:72368_25_19  # Law & Order S25E19 - Accidentally Like a Martyr
+tvdb_episode:75692_27_19  # Law & Order: Special Victims Unit S27E19 - Impropriety
+tvdb_episode:435958_3_8  # Law & Order Toronto: Criminal Intent S03E08 - The Winning Bid
+tvdb_episode:72368_25_20  # Law & Order S25E20 - Once Burned
+tvdb_episode:75692_27_20  # Law & Order: Special Victims Unit S27E20 - Old Friends
+tvdb_episode:435958_3_9  # Law & Order Toronto: Criminal Intent S03E09 - Lost & Unfound
+tvdb_episode:72368_25_21  # Law & Order S25E21 - Liberty
+tvdb_episode:75692_27_21  # Law & Order: Special Victims Unit S27E21 - Monster
+tvdb_episode:435958_3_10  # Law & Order Toronto: Criminal Intent S03E10 - XOXO
+tvdb_episode:435958_4_1  # Law & Order Toronto: Criminal Intent S04E01 - Second Wind
+tvdb_episode:75692_28_1  # Law & Order: Special Victims Unit S28E01 - TBA
+tvdb_episode:72368_26_1  # Law & Order S26E01 - TBA
