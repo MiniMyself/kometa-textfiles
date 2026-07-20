@@ -1,0 +1,67 @@
+# Last updated: 2026-07-20
+# Scope: The Boys, The Boys Presents: Diabolical and Gen V; excludes specials and the upcoming prequel Vought Rising and spin-off The Boys: Mexico (not yet aired)
+# Ordered by air date and time per TVmaze
+tvdb_episode:355567_1_1  # The Boys S01E01 - The Name of the Game
+tvdb_episode:355567_1_2  # The Boys S01E02 - Cherry
+tvdb_episode:355567_1_3  # The Boys S01E03 - Get Some
+tvdb_episode:355567_1_4  # The Boys S01E04 - The Female of the Species
+tvdb_episode:355567_1_5  # The Boys S01E05 - Good for the Soul
+tvdb_episode:355567_1_6  # The Boys S01E06 - The Innocents
+tvdb_episode:355567_1_7  # The Boys S01E07 - The Self-Preservation Society
+tvdb_episode:355567_1_8  # The Boys S01E08 - You Found Me
+tvdb_episode:355567_2_1  # The Boys S02E01 - The Big Ride
+tvdb_episode:355567_2_2  # The Boys S02E02 - Proper Preparation and Planning
+tvdb_episode:355567_2_3  # The Boys S02E03 - Over the Hill with the Swords of a Thousand Men
+tvdb_episode:355567_2_4  # The Boys S02E04 - Nothing Like It In the World
+tvdb_episode:355567_2_5  # The Boys S02E05 - We Gotta Go Now
+tvdb_episode:355567_2_6  # The Boys S02E06 - The Bloody Doors Off
+tvdb_episode:355567_2_7  # The Boys S02E07 - Butcher, Baker, Candlestick Maker
+tvdb_episode:355567_2_8  # The Boys S02E08 - What I Know
+tvdb_episode:413188_1_1  # Diabolical S01E01 - Laser Baby's Day Out
+tvdb_episode:413188_1_2  # Diabolical S01E02 - An Animated Short Where Pissed-Off Supes Kill Their Parents
+tvdb_episode:413188_1_3  # Diabolical S01E03 - I'm Your Pusher
+tvdb_episode:413188_1_4  # Diabolical S01E04 - Boyd in 3D
+tvdb_episode:413188_1_5  # Diabolical S01E05 - BFFs
+tvdb_episode:413188_1_6  # Diabolical S01E06 - Nubian vs Nubian
+tvdb_episode:413188_1_7  # Diabolical S01E07 - John and Sun-Hee
+tvdb_episode:413188_1_8  # Diabolical S01E08 - One Plus One Equals Two
+tvdb_episode:355567_3_1  # The Boys S03E01 - Payback
+tvdb_episode:355567_3_2  # The Boys S03E02 - The Only Man in the Sky
+tvdb_episode:355567_3_3  # The Boys S03E03 - Barbary Coast
+tvdb_episode:355567_3_4  # The Boys S03E04 - Glorious Five Year Plan
+tvdb_episode:355567_3_5  # The Boys S03E05 - The Last Time to Look on This World of Lies
+tvdb_episode:355567_3_6  # The Boys S03E06 - Herogasm
+tvdb_episode:355567_3_7  # The Boys S03E07 - Here Comes a Candle to Light You to Bed
+tvdb_episode:355567_3_8  # The Boys S03E08 - The Instant White-Hot Wild
+tvdb_episode:417909_1_1  # Gen V S01E01 - God U.
+tvdb_episode:417909_1_2  # Gen V S01E02 - First Day
+tvdb_episode:417909_1_3  # Gen V S01E03 - #ThinkBrink
+tvdb_episode:417909_1_4  # Gen V S01E04 - The Whole Truth
+tvdb_episode:417909_1_5  # Gen V S01E05 - Welcome to the Monster Club
+tvdb_episode:417909_1_6  # Gen V S01E06 - Jumanji
+tvdb_episode:417909_1_7  # Gen V S01E07 - Sick
+tvdb_episode:417909_1_8  # Gen V S01E08 - Guardians of Godolkin
+tvdb_episode:355567_4_1  # The Boys S04E01 - Department of Dirty Tricks
+tvdb_episode:355567_4_2  # The Boys S04E02 - Life Among the Septics
+tvdb_episode:355567_4_3  # The Boys S04E03 - We'll Keep the Red Flag Flying Here
+tvdb_episode:355567_4_4  # The Boys S04E04 - Wisdom of the Ages
+tvdb_episode:355567_4_5  # The Boys S04E05 - Beware the Jabberwock, My Son
+tvdb_episode:355567_4_6  # The Boys S04E06 - Dirty Business
+tvdb_episode:355567_4_7  # The Boys S04E07 - The Insider
+tvdb_episode:355567_4_8  # The Boys S04E08 - Season Four Finale
+tvdb_episode:417909_2_1  # Gen V S02E01 - New Year, New U
+tvdb_episode:417909_2_2  # Gen V S02E02 - Justice Never Forgets
+tvdb_episode:417909_2_3  # Gen V S02E03 - H is for Human
+tvdb_episode:417909_2_4  # Gen V S02E04 - Bags
+tvdb_episode:417909_2_5  # Gen V S02E05 - The Kids Are Not All Right
+tvdb_episode:417909_2_6  # Gen V S02E06 - Cooking Lessons
+tvdb_episode:417909_2_7  # Gen V S02E07 - Hell Week
+tvdb_episode:417909_2_8  # Gen V S02E08 - Trojan
+tvdb_episode:355567_5_1  # The Boys S05E01 - Fifteen Inches of Sheer Dynamite
+tvdb_episode:355567_5_2  # The Boys S05E02 - Teenage Kix
+tvdb_episode:355567_5_3  # The Boys S05E03 - Every One of You Sons of Bitches
+tvdb_episode:355567_5_4  # The Boys S05E04 - King of Hell
+tvdb_episode:355567_5_5  # The Boys S05E05 - One-Shots
+tvdb_episode:355567_5_6  # The Boys S05E06 - Though the Heavens Fall
+tvdb_episode:355567_5_7  # The Boys S05E07 - The Frenchman, the Female, and the Man Called Mother's Milk
+tvdb_episode:355567_5_8  # The Boys S05E08 - Blood and Bone
