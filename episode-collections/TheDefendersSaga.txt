@@ -1,0 +1,182 @@
+# Last updated: 2026-07-20
+# Scope: Daredevil, Jessica Jones, Luke Cage, Iron Fist, The Punisher, The Defenders, Daredevil: Born Again and The Punisher: One Last Kill (as a special of The Punisher); excludes other specials
+# Ordered by release/chronological watch order, watched season-by-season (near-universal recommended order)
+tvdb_episode:281662_1_1  # Daredevil S01E01 - Into the Ring
+tvdb_episode:281662_1_2  # Daredevil S01E02 - Cut Man
+tvdb_episode:281662_1_3  # Daredevil S01E03 - Rabbit in a Snowstorm
+tvdb_episode:281662_1_4  # Daredevil S01E04 - In the Blood
+tvdb_episode:281662_1_5  # Daredevil S01E05 - World on Fire
+tvdb_episode:281662_1_6  # Daredevil S01E06 - Condemned
+tvdb_episode:281662_1_7  # Daredevil S01E07 - Stick
+tvdb_episode:281662_1_8  # Daredevil S01E08 - Shadows in the Glass
+tvdb_episode:281662_1_9  # Daredevil S01E09 - Speak of the Devil
+tvdb_episode:281662_1_10  # Daredevil S01E10 - Nelson v. Murdock
+tvdb_episode:281662_1_11  # Daredevil S01E11 - The Path of the Righteous
+tvdb_episode:281662_1_12  # Daredevil S01E12 - The Ones We Leave Behind
+tvdb_episode:281662_1_13  # Daredevil S01E13 - Daredevil
+tvdb_episode:284190_1_1  # Jessica Jones S01E01 - AKA Ladies Night
+tvdb_episode:284190_1_2  # Jessica Jones S01E02 - AKA Crush Syndrome
+tvdb_episode:284190_1_3  # Jessica Jones S01E03 - AKA It's Called Whiskey
+tvdb_episode:284190_1_4  # Jessica Jones S01E04 - AKA 99 Friends
+tvdb_episode:284190_1_5  # Jessica Jones S01E05 - AKA The Sandwich Saved Me
+tvdb_episode:284190_1_6  # Jessica Jones S01E06 - AKA You're a Winner!
+tvdb_episode:284190_1_7  # Jessica Jones S01E07 - AKA Top Shelf Perverts
+tvdb_episode:284190_1_8  # Jessica Jones S01E08 - AKA WWJD?
+tvdb_episode:284190_1_9  # Jessica Jones S01E09 - AKA Sin Bin
+tvdb_episode:284190_1_10  # Jessica Jones S01E10 - AKA 1,000 Cuts
+tvdb_episode:284190_1_11  # Jessica Jones S01E11 - AKA I've Got the Blues
+tvdb_episode:284190_1_12  # Jessica Jones S01E12 - AKA Take a Bloody Number
+tvdb_episode:284190_1_13  # Jessica Jones S01E13 - AKA Smile
+tvdb_episode:281662_2_1  # Daredevil S02E01 - Bang
+tvdb_episode:281662_2_2  # Daredevil S02E02 - Dogs to a Gunfight
+tvdb_episode:281662_2_3  # Daredevil S02E03 - New York's Finest
+tvdb_episode:281662_2_4  # Daredevil S02E04 - Penny and Dime
+tvdb_episode:281662_2_5  # Daredevil S02E05 - Kinbaku
+tvdb_episode:281662_2_6  # Daredevil S02E06 - Regrets Only
+tvdb_episode:281662_2_7  # Daredevil S02E07 - Semper Fidelis
+tvdb_episode:281662_2_8  # Daredevil S02E08 - Guilty as Sin
+tvdb_episode:281662_2_9  # Daredevil S02E09 - Seven Minutes in Heaven
+tvdb_episode:281662_2_10  # Daredevil S02E10 - The Man in the Box
+tvdb_episode:281662_2_11  # Daredevil S02E11 - .380
+tvdb_episode:281662_2_12  # Daredevil S02E12 - The Dark at the End of the Tunnel
+tvdb_episode:281662_2_13  # Daredevil S02E13 - A Cold Day in Hell's Kitchen
+tvdb_episode:304219_1_1  # Luke Cage S01E01 - Moment of Truth
+tvdb_episode:304219_1_2  # Luke Cage S01E02 - Code of the Streets
+tvdb_episode:304219_1_3  # Luke Cage S01E03 - Who's Gonna Take the Weight?
+tvdb_episode:304219_1_4  # Luke Cage S01E04 - Step in the Arena
+tvdb_episode:304219_1_5  # Luke Cage S01E05 - Just to Get a Rep
+tvdb_episode:304219_1_6  # Luke Cage S01E06 - Suckas Need Bodyguards
+tvdb_episode:304219_1_7  # Luke Cage S01E07 - Manifest
+tvdb_episode:304219_1_8  # Luke Cage S01E08 - Blowin' Up the Spot
+tvdb_episode:304219_1_9  # Luke Cage S01E09 - DWYCK
+tvdb_episode:304219_1_10  # Luke Cage S01E10 - Take It Personal
+tvdb_episode:304219_1_11  # Luke Cage S01E11 - Now You're Mine
+tvdb_episode:304219_1_12  # Luke Cage S01E12 - Soliloquy of Chaos
+tvdb_episode:304219_1_13  # Luke Cage S01E13 - You Know My Steez
+tvdb_episode:317953_1_1  # Iron Fist S01E01 - Snow Gives Way
+tvdb_episode:317953_1_2  # Iron Fist S01E02 - Shadow Hawk Takes Flight
+tvdb_episode:317953_1_3  # Iron Fist S01E03 - Rolling Thunder Cannon Punch
+tvdb_episode:317953_1_4  # Iron Fist S01E04 - Eight Diagram Dragon Palm
+tvdb_episode:317953_1_5  # Iron Fist S01E05 - Under Leaf Pluck Lotus
+tvdb_episode:317953_1_6  # Iron Fist S01E06 - Immortal Emerges from Cave
+tvdb_episode:317953_1_7  # Iron Fist S01E07 - Felling Tree with Roots
+tvdb_episode:317953_1_8  # Iron Fist S01E08 - The Blessing of Many Fractures
+tvdb_episode:317953_1_9  # Iron Fist S01E09 - The Mistress of All Agonies
+tvdb_episode:317953_1_10  # Iron Fist S01E10 - Black Tiger Steals Heart
+tvdb_episode:317953_1_11  # Iron Fist S01E11 - Lead Horse Back to Stable
+tvdb_episode:317953_1_12  # Iron Fist S01E12 - Bar the Big Boss
+tvdb_episode:317953_1_13  # Iron Fist S01E13 - Dragon Plays with Fire
+tvdb_episode:326490_1_1  # The Defenders S01E01 - The H Word
+tvdb_episode:326490_1_2  # The Defenders S01E02 - Mean Right Hook
+tvdb_episode:326490_1_3  # The Defenders S01E03 - Worst Behavior
+tvdb_episode:326490_1_4  # The Defenders S01E04 - Royal Dragon
+tvdb_episode:326490_1_5  # The Defenders S01E05 - Take Shelter
+tvdb_episode:326490_1_6  # The Defenders S01E06 - Ashes, Ashes
+tvdb_episode:326490_1_7  # The Defenders S01E07 - Fish in the Jailhouse
+tvdb_episode:326490_1_8  # The Defenders S01E08 - The Defenders
+tvdb_episode:331980_1_1  # The Punisher S01E01 - 3AM
+tvdb_episode:331980_1_2  # The Punisher S01E02 - Two Dead Men
+tvdb_episode:331980_1_3  # The Punisher S01E03 - Kandahar
+tvdb_episode:331980_1_4  # The Punisher S01E04 - Resupply
+tvdb_episode:331980_1_5  # The Punisher S01E05 - Gunner
+tvdb_episode:331980_1_6  # The Punisher S01E06 - The Judas Goat
+tvdb_episode:331980_1_7  # The Punisher S01E07 - Crosshairs
+tvdb_episode:331980_1_8  # The Punisher S01E08 - Cold Steel
+tvdb_episode:331980_1_9  # The Punisher S01E09 - Front Toward Enemy
+tvdb_episode:331980_1_10  # The Punisher S01E10 - Virtue of the Vicious
+tvdb_episode:331980_1_11  # The Punisher S01E11 - Danger Close
+tvdb_episode:331980_1_12  # The Punisher S01E12 - Home
+tvdb_episode:331980_1_13  # The Punisher S01E13 - Memento Mori
+tvdb_episode:284190_2_1  # Jessica Jones S02E01 - AKA Start at the Beginning
+tvdb_episode:284190_2_2  # Jessica Jones S02E02 - AKA Freak Accident
+tvdb_episode:284190_2_3  # Jessica Jones S02E03 - AKA Sole Survivor
+tvdb_episode:284190_2_4  # Jessica Jones S02E04 - AKA God Help the Hobo
+tvdb_episode:284190_2_5  # Jessica Jones S02E05 - AKA The Octopus
+tvdb_episode:284190_2_6  # Jessica Jones S02E06 - AKA Facetime
+tvdb_episode:284190_2_7  # Jessica Jones S02E07 - AKA I Want Your Cray Cray
+tvdb_episode:284190_2_8  # Jessica Jones S02E08 - AKA Ain't We Got Fun
+tvdb_episode:284190_2_9  # Jessica Jones S02E09 - AKA Shark in the Bathtub, Monster in the Bed
+tvdb_episode:284190_2_10  # Jessica Jones S02E10 - AKA Pork Chop
+tvdb_episode:284190_2_11  # Jessica Jones S02E11 - AKA Three Lives and Counting
+tvdb_episode:284190_2_12  # Jessica Jones S02E12 - AKA Pray for My Patsy
+tvdb_episode:284190_2_13  # Jessica Jones S02E13 - AKA Playland
+tvdb_episode:304219_2_1  # Luke Cage S02E01 - Soul Brother #1
+tvdb_episode:304219_2_2  # Luke Cage S02E02 - Straighten It Out
+tvdb_episode:304219_2_3  # Luke Cage S02E03 - Wig Out
+tvdb_episode:304219_2_4  # Luke Cage S02E04 - I Get Physical
+tvdb_episode:304219_2_5  # Luke Cage S02E05 - All Souled Out
+tvdb_episode:304219_2_6  # Luke Cage S02E06 - The Basement
+tvdb_episode:304219_2_7  # Luke Cage S02E07 - On and On
+tvdb_episode:304219_2_8  # Luke Cage S02E08 - If It Ain't Rough, It Ain't Right
+tvdb_episode:304219_2_9  # Luke Cage S02E09 - For Pete's Sake
+tvdb_episode:304219_2_10  # Luke Cage S02E10 - The Main Ingredient
+tvdb_episode:304219_2_11  # Luke Cage S02E11 - The Creator
+tvdb_episode:304219_2_12  # Luke Cage S02E12 - Can't Front on Me
+tvdb_episode:304219_2_13  # Luke Cage S02E13 - They Reminisce Over You
+tvdb_episode:317953_2_1  # Iron Fist S02E01 - The Fury of Iron Fist
+tvdb_episode:317953_2_2  # Iron Fist S02E02 - The City's Not for Burning
+tvdb_episode:317953_2_3  # Iron Fist S02E03 - This Deadly Secret...
+tvdb_episode:317953_2_4  # Iron Fist S02E04 - Target: Iron Fist
+tvdb_episode:317953_2_5  # Iron Fist S02E05 - Heart of the Dragon
+tvdb_episode:317953_2_6  # Iron Fist S02E06 - The Dragon Dies at Dawn
+tvdb_episode:317953_2_7  # Iron Fist S02E07 - Morning of the Mindstorm
+tvdb_episode:317953_2_8  # Iron Fist S02E08 - Citadel on the Edge of Vengeance
+tvdb_episode:317953_2_9  # Iron Fist S02E09 - War Without End
+tvdb_episode:317953_2_10  # Iron Fist S02E10 - A Duel of Iron
+tvdb_episode:281662_3_1  # Daredevil S03E01 - Resurrection
+tvdb_episode:281662_3_2  # Daredevil S03E02 - Please
+tvdb_episode:281662_3_3  # Daredevil S03E03 - No Good Deed
+tvdb_episode:281662_3_4  # Daredevil S03E04 - Blindsided
+tvdb_episode:281662_3_5  # Daredevil S03E05 - The Perfect Game
+tvdb_episode:281662_3_6  # Daredevil S03E06 - The Devil You Know
+tvdb_episode:281662_3_7  # Daredevil S03E07 - Aftermath
+tvdb_episode:281662_3_8  # Daredevil S03E08 - Upstairs/Downstairs
+tvdb_episode:281662_3_9  # Daredevil S03E09 - Revelations
+tvdb_episode:281662_3_10  # Daredevil S03E10 - Karen
+tvdb_episode:281662_3_11  # Daredevil S03E11 - Reunion
+tvdb_episode:281662_3_12  # Daredevil S03E12 - One Last Shot
+tvdb_episode:281662_3_13  # Daredevil S03E13 - A New Napkin
+tvdb_episode:331980_2_1  # The Punisher S02E01 - Roadhouse Blues
+tvdb_episode:331980_2_2  # The Punisher S02E02 - Fight or Flight
+tvdb_episode:331980_2_3  # The Punisher S02E03 - Trouble the Water
+tvdb_episode:331980_2_4  # The Punisher S02E04 - Scar Tissue
+tvdb_episode:331980_2_5  # The Punisher S02E05 - One-Eyed Jacks
+tvdb_episode:331980_2_6  # The Punisher S02E06 - Nakazat
+tvdb_episode:331980_2_7  # The Punisher S02E07 - One Bad Day
+tvdb_episode:331980_2_8  # The Punisher S02E08 - My Brother's Keeper
+tvdb_episode:331980_2_9  # The Punisher S02E09 - Flustercluck
+tvdb_episode:331980_2_10  # The Punisher S02E10 - The Dark Hearts of Men
+tvdb_episode:331980_2_11  # The Punisher S02E11 - The Abyss
+tvdb_episode:331980_2_12  # The Punisher S02E12 - Collision Course
+tvdb_episode:331980_2_13  # The Punisher S02E13 - The Whirlwind
+tvdb_episode:284190_3_1  # Jessica Jones S03E01 - A.K.A The Perfect Burger
+tvdb_episode:284190_3_2  # Jessica Jones S03E02 - A.K.A You're Welcome
+tvdb_episode:284190_3_3  # Jessica Jones S03E03 - A.K.A I Have No Spleen
+tvdb_episode:284190_3_4  # Jessica Jones S03E04 - A.K.A Customer Service is Standing By
+tvdb_episode:284190_3_5  # Jessica Jones S03E05 - A.K.A I Wish
+tvdb_episode:284190_3_6  # Jessica Jones S03E06 - A.K.A Sorry Face
+tvdb_episode:284190_3_7  # Jessica Jones S03E07 - A.K.A The Double Half-Wappinger
+tvdb_episode:284190_3_8  # Jessica Jones S03E08 - A.K.A Camera Friendly
+tvdb_episode:284190_3_9  # Jessica Jones S03E09 - A.K.A I Did Something Today
+tvdb_episode:284190_3_10  # Jessica Jones S03E10 - A.K.A Hero Pants
+tvdb_episode:284190_3_11  # Jessica Jones S03E11 - A.K.A Hellcat
+tvdb_episode:284190_3_12  # Jessica Jones S03E12 - A.K.A A Lotta Worms
+tvdb_episode:284190_3_13  # Jessica Jones S03E13 - A.K.A Everything
+tvdb_episode:422712_1_1  # Daredevil: Born Again S01E01 - Heaven’s Half Hour
+tvdb_episode:422712_1_2  # Daredevil: Born Again S01E02 - Optics
+tvdb_episode:422712_1_3  # Daredevil: Born Again S01E03 - The Hollow of His Hand
+tvdb_episode:422712_1_4  # Daredevil: Born Again S01E04 - Sic Semper Systema
+tvdb_episode:422712_1_5  # Daredevil: Born Again S01E05 - With Interest
+tvdb_episode:422712_1_6  # Daredevil: Born Again S01E06 - Excessive Force
+tvdb_episode:422712_1_7  # Daredevil: Born Again S01E07 - Art for Art’s Sake
+tvdb_episode:422712_1_8  # Daredevil: Born Again S01E08 - Isle of Joy
+tvdb_episode:422712_1_9  # Daredevil: Born Again S01E09 - Straight to Hell
+tvdb_episode:422712_2_1  # Daredevil: Born Again S02E01 - The Northern Star
+tvdb_episode:422712_2_2  # Daredevil: Born Again S02E02 - Shoot the Moon
+tvdb_episode:422712_2_3  # Daredevil: Born Again S02E03 - The Scales & the Sword
+tvdb_episode:422712_2_4  # Daredevil: Born Again S02E04 - Gloves Off
+tvdb_episode:422712_2_5  # Daredevil: Born Again S02E05 - The Grand Design
+tvdb_episode:422712_2_6  # Daredevil: Born Again S02E06 - Requiem
+tvdb_episode:422712_2_7  # Daredevil: Born Again S02E07 - The Hateful Darkness
+tvdb_episode:422712_2_8  # Daredevil: Born Again S02E08 - The Southern Cross
+tvdb_episode:331980_0_1  # The Punisher S00E01 - The Punisher: One Last Kill
