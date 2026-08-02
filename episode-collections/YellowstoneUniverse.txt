@@ -1,4 +1,4 @@
-# Last updated: 2026-07-19
+# Last updated: 2026-08-02
 # Scope: Yellowstone, 1883, 1923, Lawmen: Bass Reeves, Marshals, The Madison and Dutton Ranch
 # Ordered by actual air date and time per TVmaze
 tvdb_episode:341164_1_1  # Yellowstone S01E01 - Daybreak
