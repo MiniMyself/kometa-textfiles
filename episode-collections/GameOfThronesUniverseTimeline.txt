@@ -1,0 +1,108 @@
+# Last updated: 2026-08-07
+# Scope: House of the Dragon (2022), A Knight of the Seven Kingdoms (2026) and Game of Thrones (2011); excluded specials
+# Ordered by in-universe chronology
+tvdb_episode:371572_1_1  # HotD S01E01 - The Heirs of the Dragon
+tvdb_episode:371572_1_2  # HotD S01E02 - The Rogue Prince
+tvdb_episode:371572_1_3  # HotD S01E03 - Second of His Name
+tvdb_episode:371572_1_4  # HotD S01E04 - King of the Narrow Sea
+tvdb_episode:371572_1_5  # HotD S01E05 - We Light the Way
+tvdb_episode:371572_1_6  # HotD S01E06 - The Princess and the Queen
+tvdb_episode:371572_1_7  # HotD S01E07 - Driftmark
+tvdb_episode:371572_1_8  # HotD S01E08 - The Lord of the Tides
+tvdb_episode:371572_1_9  # HotD S01E09 - The Green Council
+tvdb_episode:371572_1_10  # HotD S01E10 - The Black Queen
+tvdb_episode:371572_2_1  # HotD S02E01 - A Son for a Son
+tvdb_episode:371572_2_2  # HotD S02E02 - Rhaenyra the Cruel
+tvdb_episode:371572_2_3  # HotD S02E03 - The Burning Mill
+tvdb_episode:371572_2_4  # HotD S02E04 - The Red Dragon and the Gold
+tvdb_episode:371572_2_5  # HotD S02E05 - Regent
+tvdb_episode:371572_2_6  # HotD S02E06 - Smallfolk
+tvdb_episode:371572_2_7  # HotD S02E07 - The Red Sowing
+tvdb_episode:371572_2_8  # HotD S02E08 - The Queen Who Ever Was
+tvdb_episode:371572_3_1  # HotD S03E01 - Salt and Sea, Fire and Blood
+tvdb_episode:371572_3_2  # HotD S03E02 - Queen's Landing
+tvdb_episode:371572_3_3  # HotD S03E03 - Rhaenyra Triumphant
+tvdb_episode:371572_3_4  # HotD S03E04 - Tumbleton
+tvdb_episode:371572_3_5  # HotD S03E05 - Unbowed and Unbent
+tvdb_episode:371572_3_6  # HotD S03E06 - Faceless Men
+tvdb_episode:371572_3_7  # HotD S03E07 - The Dragon in Winter
+tvdb_episode:371572_3_8  # HotD S03E08 - TBA
+tvdb_episode:433631_1_1  # Knight S01E01 - The Hedge Knight
+tvdb_episode:433631_1_2  # Knight S01E02 - Hard Salt Beef
+tvdb_episode:433631_1_3  # Knight S01E03 - The Squire
+tvdb_episode:433631_1_4  # Knight S01E04 - Seven
+tvdb_episode:433631_1_5  # Knight S01E05 - In the Name of the Mother
+tvdb_episode:433631_1_6  # Knight S01E06 - The Morrow
+tvdb_episode:121361_1_1  # GoT S01E01 - Winter is Coming
+tvdb_episode:121361_1_2  # GoT S01E02 - The Kingsroad
+tvdb_episode:121361_1_3  # GoT S01E03 - Lord Snow
+tvdb_episode:121361_1_4  # GoT S01E04 - Cripples, Bastards, and Broken Things
+tvdb_episode:121361_1_5  # GoT S01E05 - The Wolf and the Lion
+tvdb_episode:121361_1_6  # GoT S01E06 - A Golden Crown
+tvdb_episode:121361_1_7  # GoT S01E07 - You Win or You Die
+tvdb_episode:121361_1_8  # GoT S01E08 - The Pointy End
+tvdb_episode:121361_1_9  # GoT S01E09 - Baelor
+tvdb_episode:121361_1_10  # GoT S01E10 - Fire and Blood
+tvdb_episode:121361_2_1  # GoT S02E01 - The North Remembers
+tvdb_episode:121361_2_2  # GoT S02E02 - The Night Lands
+tvdb_episode:121361_2_3  # GoT S02E03 - What is Dead May Never Die
+tvdb_episode:121361_2_4  # GoT S02E04 - Garden of Bones
+tvdb_episode:121361_2_5  # GoT S02E05 - The Ghost of Harrenhal
+tvdb_episode:121361_2_6  # GoT S02E06 - The Old Gods and the New
+tvdb_episode:121361_2_7  # GoT S02E07 - A Man Without Honor
+tvdb_episode:121361_2_8  # GoT S02E08 - The Prince of Winterfell
+tvdb_episode:121361_2_9  # GoT S02E09 - Blackwater
+tvdb_episode:121361_2_10  # GoT S02E10 - Valar Morghulis
+tvdb_episode:121361_3_1  # GoT S03E01 - Valar Dohaeris
+tvdb_episode:121361_3_2  # GoT S03E02 - Dark Wings, Dark Words
+tvdb_episode:121361_3_3  # GoT S03E03 - Walk of Punishment
+tvdb_episode:121361_3_4  # GoT S03E04 - And Now His Watch is Ended
+tvdb_episode:121361_3_5  # GoT S03E05 - Kissed by Fire
+tvdb_episode:121361_3_6  # GoT S03E06 - The Climb
+tvdb_episode:121361_3_7  # GoT S03E07 - The Bear and the Maiden Fair
+tvdb_episode:121361_3_8  # GoT S03E08 - Second Sons
+tvdb_episode:121361_3_9  # GoT S03E09 - The Rains of Castamere
+tvdb_episode:121361_3_10  # GoT S03E10 - Mhysa
+tvdb_episode:121361_4_1  # GoT S04E01 - Two Swords
+tvdb_episode:121361_4_2  # GoT S04E02 - The Lion and the Rose
+tvdb_episode:121361_4_3  # GoT S04E03 - Breaker of Chains
+tvdb_episode:121361_4_4  # GoT S04E04 - Oathkeeper
+tvdb_episode:121361_4_5  # GoT S04E05 - First of His Name
+tvdb_episode:121361_4_6  # GoT S04E06 - The Laws of Gods and Men
+tvdb_episode:121361_4_7  # GoT S04E07 - Mockingbird
+tvdb_episode:121361_4_8  # GoT S04E08 - The Mountain and the Viper
+tvdb_episode:121361_4_9  # GoT S04E09 - The Watchers on the Wall
+tvdb_episode:121361_4_10  # GoT S04E10 - The Children
+tvdb_episode:121361_5_1  # GoT S05E01 - The Wars to Come
+tvdb_episode:121361_5_2  # GoT S05E02 - The House of Black and White
+tvdb_episode:121361_5_3  # GoT S05E03 - High Sparrow
+tvdb_episode:121361_5_4  # GoT S05E04 - Sons of the Harpy
+tvdb_episode:121361_5_5  # GoT S05E05 - Kill the Boy
+tvdb_episode:121361_5_6  # GoT S05E06 - Unbowed, Unbent, Unbroken
+tvdb_episode:121361_5_7  # GoT S05E07 - The Gift
+tvdb_episode:121361_5_8  # GoT S05E08 - Hardhome
+tvdb_episode:121361_5_9  # GoT S05E09 - The Dance of Dragons
+tvdb_episode:121361_5_10  # GoT S05E10 - Mother's Mercy
+tvdb_episode:121361_6_1  # GoT S06E01 - The Red Woman
+tvdb_episode:121361_6_2  # GoT S06E02 - Home
+tvdb_episode:121361_6_3  # GoT S06E03 - Oathbreaker
+tvdb_episode:121361_6_4  # GoT S06E04 - Book of the Stranger
+tvdb_episode:121361_6_5  # GoT S06E05 - The Door
+tvdb_episode:121361_6_6  # GoT S06E06 - Blood of My Blood
+tvdb_episode:121361_6_7  # GoT S06E07 - The Broken Man
+tvdb_episode:121361_6_8  # GoT S06E08 - No One
+tvdb_episode:121361_6_9  # GoT S06E09 - Battle of the Bastards
+tvdb_episode:121361_6_10  # GoT S06E10 - The Winds of Winter
+tvdb_episode:121361_7_1  # GoT S07E01 - Dragonstone
+tvdb_episode:121361_7_2  # GoT S07E02 - Stormborn
+tvdb_episode:121361_7_3  # GoT S07E03 - The Queen's Justice
+tvdb_episode:121361_7_4  # GoT S07E04 - The Spoils of War
+tvdb_episode:121361_7_5  # GoT S07E05 - Eastwatch
+tvdb_episode:121361_7_6  # GoT S07E06 - Beyond the Wall
+tvdb_episode:121361_7_7  # GoT S07E07 - The Dragon and the Wolf
+tvdb_episode:121361_8_1  # GoT S08E01 - Winterfell
+tvdb_episode:121361_8_2  # GoT S08E02 - A Knight of the Seven Kingdoms
+tvdb_episode:121361_8_3  # GoT S08E03 - The Long Night
+tvdb_episode:121361_8_4  # GoT S08E04 - The Last of the Starks
+tvdb_episode:121361_8_5  # GoT S08E05 - The Bells
+tvdb_episode:121361_8_6  # GoT S08E06 - The Iron Throne
