@@ -1,0 +1,6 @@
+# Last updated: 2026-08-09
+# Scope: All three theatrical films in the Eastrail 177 Trilogy (M. Night Shyamalan superhero trilogy)
+# Ordered by release date per TMDB (identical to in-universe chronological order)
+tmdb:9741  # Unbreakable (2000)
+tmdb:381288  # Split (2016)
+tmdb:450465  # Glass (2019)

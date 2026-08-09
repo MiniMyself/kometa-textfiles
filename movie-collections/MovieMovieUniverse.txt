@@ -1,0 +1,7 @@
+# Last updated: 2026-08-02
+# Scope: Quentin Tarantino's 'Movie Movie' universe, the fictional films-within-films that characters of the 'Realer Than Real Universe' watch at the cinema
+# Ordered by release date per TMDB
+tmdb:241  # Natural Born Killers (1994)
+tmdb:755  # From Dusk Till Dawn (1996)
+tmdb:24  # Kill Bill: Vol. 1 (2003)
+tmdb:393  # Kill Bill: Vol. 2 (2004)

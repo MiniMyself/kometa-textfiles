@@ -1,0 +1,10 @@
+# Last updated: 2026-08-08
+# Scope: The Universal Monsters revival era per Wikipedia (1979-2010). Companion to the Universal Classic Monsters and Universal Modern Monsters lists
+# Ordered by release date per TMDB
+tmdb:33521  # Dracula (1979)
+tmdb:564  # The Mummy (1999)
+tmdb:1734  # The Mummy Returns (2001)
+tmdb:9334  # The Scorpion King (2002)
+tmdb:7131  # Van Helsing (2004)
+tmdb:1735  # The Mummy: Tomb of the Dragon Emperor (2008)
+tmdb:7978  # The Wolfman (2010)

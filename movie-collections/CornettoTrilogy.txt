@@ -1,0 +1,6 @@
+# Last updated: 2026-08-09
+# Scope: All three Three Flavours Cornetto Trilogy films by Edgar Wright
+# Ordered by release date per TMDB
+tmdb:747  # Shaun of the Dead (2004)
+tmdb:4638  # Hot Fuzz (2007)
+tmdb:107985  # The World's End (2013)

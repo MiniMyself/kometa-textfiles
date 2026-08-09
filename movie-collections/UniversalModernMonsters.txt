@@ -1,0 +1,10 @@
+# Last updated: 2026-08-08
+# Scope: The Modern era of the Universal Monsters per Wikipedia (2014-2025). Companion to the Universal Classic Monsters and Universal Revival Monsters lists
+# Ordered by release date per TMDB
+tmdb:49017  # Dracula Untold (2014)
+tmdb:282035  # The Mummy (2017)
+tmdb:570670  # The Invisible Man (2020)
+tmdb:649609  # Renfield (2023)
+tmdb:635910  # The Last Voyage of the Demeter (2023)
+tmdb:1111873  # Abigail (2024)
+tmdb:710295  # Wolf Man (2025)

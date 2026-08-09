@@ -1,0 +1,6 @@
+# Last updated: 2026-08-09
+# Scope: All released Cloverfield anthology movies
+# Ordered by release date per TMDB
+tmdb:7191  # Cloverfield (2008)
+tmdb:333371  # 10 Cloverfield Lane (2016)
+tmdb:384521  # The Cloverfield Paradox (2018)
