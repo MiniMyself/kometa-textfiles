@@ -1,0 +1,9 @@
+# Last updated: 2026-08-16
+# Scope: All six Peter Jackson Middle-earth theatrical films
+# Ordered by Middle-earth chronological (in-story timeline) order, not release date
+tmdb:49051  # The Hobbit: An Unexpected Journey (2012)
+tmdb:57158  # The Hobbit: The Desolation of Smaug (2013)
+tmdb:122917  # The Hobbit: The Battle of the Five Armies (2014)
+tmdb:120  # The Lord of the Rings: The Fellowship of the Ring (2001)
+tmdb:121  # The Lord of the Rings: The Two Towers (2002)
+tmdb:122  # The Lord of the Rings: The Return of the King (2003)
