@@ -1,4 +1,4 @@
-# Last updated: 2026-07-11
+# Last updated: 2026-09-20
 # Scope: NCIS, NCIS: Los Angeles, NCIS: New Orleans, NCIS: Hawaiʻi, NCIS: Sydney, NCIS: Origins, NCIS: Tony & Ziva, and NCIS: New York; excludes Recap/clip specials & JAG (the parent/backdoor-pilot show)
 # Ordered by air date and time per TVmaze
 tvdb_episode:72108_1_1  # NCIS S01E01 - Yankee White
@@ -1124,5 +1124,17 @@ tvdb_episode:444350_2_18  # NCIS: Origins S02E18 - Hollywood Ending
 tvdb_episode:416493_3_19  # NCIS: Sydney S03E19 - Hunter
 tvdb_episode:416493_3_20  # NCIS: Sydney S03E20 - Killer
 tvdb_episode:72108_23_20  # NCIS S23E20 - Sons and Daughters
-tvdb_episode:72108_24_1  # NCIS S24E01 - TBA
-tvdb_episode:476836_1_1  # NCIS: New York S01E01 - TBA
+tvdb_episode:72108_24_1  # NCIS S24E01 - Wayward Son
+tvdb_episode:476836_1_1  # NCIS: New York S01E01 - Pilot
+tvdb_episode:444350_3_1  # NCIS: Origins S03E01 - Don't You Forget About Me
+tvdb_episode:72108_24_2  # NCIS S24E02 - Clean Slate
+tvdb_episode:476836_1_2  # NCIS: New York S01E02 - Family Business
+tvdb_episode:444350_3_2  # NCIS: Origins S03E02 - My Own Worst Enemy
+tvdb_episode:444350_3_3  # NCIS: Origins S03E03 - TBA
+tvdb_episode:444350_3_4  # NCIS: Origins S03E04 - TBA
+tvdb_episode:444350_3_5  # NCIS: Origins S03E05 - TBA
+tvdb_episode:444350_3_6  # NCIS: Origins S03E06 - TBA
+tvdb_episode:444350_3_7  # NCIS: Origins S03E07 - TBA
+tvdb_episode:444350_3_8  # NCIS: Origins S03E08 - TBA
+tvdb_episode:444350_3_9  # NCIS: Origins S03E09 - TBA
+tvdb_episode:444350_3_10  # NCIS: Origins S03E10 - TBA

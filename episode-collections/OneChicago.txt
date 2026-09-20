@@ -1,4 +1,4 @@
-# Last updated: 2026-07-14
+﻿# Last updated: 2026-09-20
 # Scope: Chicago Fire, Chicago P.D., Chicago Med, and Chicago Justice
 # Based on community list: https://docs.google.com/spreadsheets/d/1d6nnW_I3qrWUujOXi1Db2717wUKX86J4wRZdGOYPDog
 tvdb_episode:258541_1_1  # Chicago Fire S01E01 - Pilot
@@ -792,3 +792,9 @@ tvdb_episode:269641_13_20  # Chicago P.D. S13E20 - The Lost Years
 tvdb_episode:295640_11_21  # Chicago Med S11E21 - Heaven Help Us
 tvdb_episode:258541_14_21  # Chicago Fire S14E21 - Thank You
 tvdb_episode:269641_13_21  # Chicago P.D. S13E21 - Born or Made
+tvdb_episode:295640_12_1  # Chicago Med S12E01 - Shots Fired
+tvdb_episode:258541_15_1  # Chicago Fire S15E01 - New Blood
+tvdb_episode:269641_14_1  # Chicago P.D. S14E01 - Demolition
+tvdb_episode:295640_12_2  # Chicago Med S12E02 - TBA
+tvdb_episode:258541_15_2  # Chicago Fire S15E02 - TBA
+tvdb_episode:269641_14_2  # Chicago P.D. S14E02 - TBA

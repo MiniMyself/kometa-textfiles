@@ -1,4 +1,4 @@
-# Last updated: 2026-07-19
+# Last updated: 2026-09-20
 # Scope: Power, Power Book II: Ghost, Power Book III: Raising Kanan, Power Book IV: Force
 # Ordered by air date and time per TVmaze
 tvdb_episode:276562_1_1  # Power S01E01 - Not Exactly How We Planned
@@ -181,4 +181,4 @@ tvdb_episode:377332_5_4  # Power Book III: Raising Kanan S05E04 - Pawns & Rooks
 tvdb_episode:377332_5_5  # Power Book III: Raising Kanan S05E05 - School of War
 tvdb_episode:377332_5_6  # Power Book III: Raising Kanan S05E06 - Dark Matter
 tvdb_episode:377332_5_7  # Power Book III: Raising Kanan S05E07 - Penultimate Means Second to Last
-tvdb_episode:377332_5_8  # Power Book III: Raising Kanan S05E08 - Episode 8
+tvdb_episode:377332_5_8  # Power Book III: Raising Kanan S05E08 - Unconditional Love

@@ -1,4 +1,4 @@
-# Last updated: 2026-07-19
+# Last updated: 2026-09-20
 # Scope: Criminal Minds, Criminal Minds: Suspect Behavior and Criminal Minds: Beyond Borders
 # Ordered by air date and time per TVmaze
 tvdb_episode:75710_1_1  # Criminal Minds S01E01 - Extreme Aggressor
@@ -403,4 +403,4 @@ tvdb_episode:75710_19_6  # Criminal Minds S19E06 - Proxy
 tvdb_episode:75710_19_7  # Criminal Minds S19E07 - The Furies
 tvdb_episode:75710_19_8  # Criminal Minds S19E08 - Requiem
 tvdb_episode:75710_19_9  # Criminal Minds S19E09 - Special Agent Garrity
-tvdb_episode:75710_19_10  # Criminal Minds S19E10 - Badder Blood
+tvdb_episode:75710_19_10  # Criminal Minds S19E10 - Bad Blood

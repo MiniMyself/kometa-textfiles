@@ -1,4 +1,4 @@
-# Last updated: 2026-08-07
+# Last updated: 2026-09-20
 # Scope: Game of Thrones (2011), House of the Dragon (2022) and A Knight of the Seven Kingdoms (2026); excluded specials
 # Ordered by real-world broadcast air date and time per TVmaze
 tvdb_episode:121361_1_1  # GoT S01E01 - Winter is Coming
@@ -105,4 +105,4 @@ tvdb_episode:371572_3_4  # HotD S03E04 - Tumbleton
 tvdb_episode:371572_3_5  # HotD S03E05 - Unbowed and Unbent
 tvdb_episode:371572_3_6  # HotD S03E06 - Faceless Men
 tvdb_episode:371572_3_7  # HotD S03E07 - The Dragon in Winter
-tvdb_episode:371572_3_8  # HotD S03E08 - TBA
+tvdb_episode:371572_3_8  # HotD S03E08 - The Treasons at Tumbleton
