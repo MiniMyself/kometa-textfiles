@@ -1,0 +1,18 @@
+# Last updated: 2026-09-26
+# Scope: The seven main Alien films (Prometheus through Alien: Romulus) interleaved with all aired episodes of Alien: Earth (Season 1); excludes the Alien vs. Predator crossover films
+# Ordered by in-universe timeline per https://www.avpcentral.com/alien-timeline-movie-order (Alien: Earth episodes in aired order)
+tmdb:70981  # Prometheus (2012)
+tmdb:126889  # Alien: Covenant (2017)
+tvdb_episode:458912_1_1  # Alien: Earth S01E01 - Neverland
+tvdb_episode:458912_1_2  # Alien: Earth S01E02 - Mr. October
+tvdb_episode:458912_1_3  # Alien: Earth S01E03 - Metamorphosis
+tvdb_episode:458912_1_4  # Alien: Earth S01E04 - Observation
+tvdb_episode:458912_1_5  # Alien: Earth S01E05 - In Space, No One...
+tvdb_episode:458912_1_6  # Alien: Earth S01E06 - The Fly
+tvdb_episode:458912_1_7  # Alien: Earth S01E07 - Emergence
+tvdb_episode:458912_1_8  # Alien: Earth S01E08 - The Real Monsters
+tmdb:348  # Alien (1979)
+tmdb:945961  # Alien: Romulus (2024)
+tmdb:679  # Aliens (1986)
+tmdb:8077  # Alien 3 (1992)
+tmdb:8078  # Alien: Resurrection (1997)
