@@ -1,0 +1,114 @@
+# Big List - every collection and playlist from https://github.com/MiniMyself/kometa-textfiles
+# Air-date / release order.
+#
+# Setup and documentation: https://github.com/MiniMyself/kometa-textfiles/wiki/Big-List
+
+templates:
+  Episode Collection:
+    run_definition: show
+    text_file: <<text_file>>
+    collection_order: custom
+    builder_level: episode
+    collection_mode: hide
+    sync_mode: sync
+    summary: "Chronological viewing order of all <<collection_name>> episodes"
+  Movie Collection:
+    run_definition: movie
+    text_file: <<text_file>>
+    collection_order: custom
+    collection_mode: hide
+    sync_mode: sync
+    summary: "Chronological viewing order of all <<collection_name>> movies"
+  Mixed Playlist:
+    text_file: <<text_file>>
+    libraries: Movies, TV Shows
+    sync_mode: sync
+    summary: "Chronological viewing order of all <<playlist_name>> movies and episodes"
+
+collections:
+  # ---------- Episode Collections (TV Shows library) ----------
+  9-1-1:
+    template: {name: Episode Collection, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/episode-collections/911.txt}
+  Anne Rice's Immortal Universe:
+    template: {name: Episode Collection, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/episode-collections/AnneRicesImmortalUniverse.txt}
+  Archieverse:
+    template: {name: Episode Collection, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/episode-collections/Archieverse.txt}
+  Arrowverse:
+    template: {name: Episode Collection, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/episode-collections/Arrowverse.txt}
+  Bosch:
+    template: {name: Episode Collection, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/episode-collections/Bosch.txt}
+  Buffyverse:
+    template: {name: Episode Collection, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/episode-collections/Buffyverse.txt}
+  Criminal Minds:
+    template: {name: Episode Collection, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/episode-collections/CriminalMinds.txt}
+  CSIVerse:
+    template: {name: Episode Collection, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/episode-collections/CSIVerse.txt}
+  Duttonverse:
+    template: {name: Episode Collection, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/episode-collections/Duttonverse.txt}
+  FBI:
+    template: {name: Episode Collection, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/episode-collections/FBI.txt}
+  Game of Thrones Universe:
+    template: {name: Episode Collection, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/episode-collections/GameOfThronesUniverse.txt}
+  Grey's Anatomy Universe:
+    template: {name: Episode Collection, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/episode-collections/GreysAnatomyUniverse.txt}
+  Law & Order Franchise:
+    template: {name: Episode Collection, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/episode-collections/LawOrderFranchise.txt}
+  Lenkov-verse:
+    template: {name: Episode Collection, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/episode-collections/Lenkov-verse.txt}
+  NCISVerse:
+    template: {name: Episode Collection, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/episode-collections/NCISVerse.txt}
+  NuWhoniverse:
+    template: {name: Episode Collection, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/episode-collections/NuWhoniverse.txt}
+  One Chicago:
+    template: {name: Episode Collection, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/episode-collections/OneChicago.txt}
+  Power:
+    template: {name: Episode Collection, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/episode-collections/Power.txt}
+  Pretty Little Liars:
+    template: {name: Episode Collection, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/episode-collections/PrettyLittleLiars.txt}
+  Stargate:
+    template: {name: Episode Collection, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/episode-collections/Stargate.txt}
+  Star Trek:
+    template: {name: Episode Collection, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/episode-collections/StarTrek.txt}
+  The Boys Universe:
+    template: {name: Episode Collection, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/episode-collections/TheBoysUniverse.txt}
+  The Defenders Saga:
+    template: {name: Episode Collection, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/episode-collections/TheDefendersSaga.txt}
+  The Rookie:
+    template: {name: Episode Collection, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/episode-collections/TheRookie.txt}
+  The Vampire Diaries Universe:
+    template: {name: Episode Collection, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/episode-collections/TheVampireDiariesUniverse.txt}
+  The Walking Dead Universe:
+    template: {name: Episode Collection, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/episode-collections/TheWalkingDeadUniverse.txt}
+  The X-Files Universe:
+    template: {name: Episode Collection, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/episode-collections/TheXFilesUniverse.txt}
+  Whoniverse:
+    template: {name: Episode Collection, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/episode-collections/Whoniverse.txt}
+  Yellowstone Universe:
+    template: {name: Episode Collection, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/episode-collections/YellowstoneUniverse.txt}
+
+  # ---------- Movie Collections (Movies library) ----------
+  Cloverfield Universe:
+    template: {name: Movie Collection, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/movie-collections/CloverfieldUniverse.txt}
+  Cornetto Trilogy:
+    template: {name: Movie Collection, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/movie-collections/CornettoTrilogy.txt}
+  Eastrail 177 Trilogy:
+    template: {name: Movie Collection, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/movie-collections/Eastrail177Trilogy.txt}
+  Middle-earth:
+    template: {name: Movie Collection, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/movie-collections/MiddleEarth.txt}
+  Movie Movie Universe:
+    template: {name: Movie Collection, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/movie-collections/MovieMovieUniverse.txt}
+  Realer Than Real Universe:
+    template: {name: Movie Collection, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/movie-collections/RealerThanRealUniverse.txt}
+  Universal Classic Monsters:
+    template: {name: Movie Collection, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/movie-collections/UniversalClassicMonsters.txt}
+  Universal Modern Monsters:
+    template: {name: Movie Collection, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/movie-collections/UniversalModernMonsters.txt}
+  Universal Revival Monsters:
+    template: {name: Movie Collection, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/movie-collections/UniversalRevivalMonsters.txt}
+
+playlists:
+  # ---------- Mixed Playlists (Movies + TV Shows) ----------
+  Alien Timeline:
+    template: {name: Mixed Playlist, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/mixed-playlists/AlienTimeline.txt}
+  Star Trek:
+    template: {name: Mixed Playlist, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/mixed-playlists/StarTrek.txt}
