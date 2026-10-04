@@ -2,14 +2,14 @@
 
 Curated, chronological viewing orders for TV and movie franchises and shared universes, formatted for use with the [Kometa](https://kometa.wiki) [`text_file` builder](https://kometa.wiki/en/latest/files/builders/textfile/text-file/).
 
-Point a Kometa collection at one of the raw `.txt` URLs in this repo and you get a collection containing every episode or movie in that franchise, in the intended watch order. Episode collections build at the episode level; movie collections at the movie level.
+Point a Kometa collection or playlist at one of the raw `.txt` URLs in this repo and you get every episode or movie in that franchise, in the intended watch order. Movie files build movie collections, episode files build episode collections, and mixed playlists combine movies and episodes together.
 
 ---
 
 ## Requirements
 
 - A working [Kometa](https://kometa.wiki) installation
-- A **Show library** in Plex for episode collections, and/or a **Movie library** for movie collections
+- A **Show library** in Plex for episode collections, and/or a **Movie library** for movie collections, and/or **BOTH** for mixed playlists
 
 ---
 
@@ -21,6 +21,7 @@ Full setup, the file format, a page on each list, and troubleshooting can all be
 - [File Format](https://github.com/MiniMyself/kometa-textfiles/wiki/File-Format) - how the `.txt` files are structured
 - [Episode Collections](https://github.com/MiniMyself/kometa-textfiles/wiki/Episode-Collections) - every episode collection file, and its raw URL
 - [Movie Collections](https://github.com/MiniMyself/kometa-textfiles/wiki/Movie-Collections) - every movie collection file, and its raw URL
+- [Mixed Playlists](https://github.com/MiniMyself/kometa-textfiles/wiki/Mixed-Playlists) - every mixed playlist file, and its raw URL
 - [Contributing](https://github.com/MiniMyself/kometa-textfiles/wiki/Contributing) - corrections, additions, new lists
 - [FAQ & Troubleshooting](https://github.com/MiniMyself/kometa-textfiles/wiki/FAQ-&-Troubleshooting)
 
