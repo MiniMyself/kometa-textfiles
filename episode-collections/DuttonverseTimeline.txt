@@ -1,6 +1,6 @@
-# Last updated: 2026-07-19
-# Scope: 1883, 1923, Yellowstone, Marshals and Dutton Ranch; excludes the greater-Duttonverse Lawmen: Bass Reeves
-# Ordered by in-universe chronology; within a block, episodes run in air order
+# Last updated: 2026-10-10
+# Scope: 1883, 1923, Yellowstone, Marshals, Dutton Ranch
+# Ordered by in-universe chronology; within a series, episodes run in air order.
 tvdb_episode:396390_1_1  # 1883 S01E01 - 1883
 tvdb_episode:396390_1_2  # 1883 S01E02 - Behind Us, A Cliff
 tvdb_episode:396390_1_3  # 1883 S01E03 - River
@@ -92,6 +92,15 @@ tvdb_episode:463433_1_10  # Marshals S01E10 - Playing with Fire
 tvdb_episode:463433_1_11  # Marshals S01E11 - On Thin Ice
 tvdb_episode:463433_1_12  # Marshals S01E12 - The Devil at Home
 tvdb_episode:463433_1_13  # Marshals S01E13 - Wolves at the Door
+tvdb_episode:463433_2_1  # Marshals S02E01 - All Hat No Cattle
+tvdb_episode:463433_2_2  # Marshals S02E02 - End of Watch
+tvdb_episode:463433_2_3  # Marshals S02E03 - Falling Sky
+tvdb_episode:463433_2_4  # Marshals S02E04 - Blast Radius
+tvdb_episode:463433_2_5  # Marshals S02E05 - TBA
+tvdb_episode:463433_2_6  # Marshals S02E06 - TBA
+tvdb_episode:463433_2_7  # Marshals S02E07 - TBA
+tvdb_episode:463433_2_8  # Marshals S02E08 - TBA
+tvdb_episode:463433_2_9  # Marshals S02E09 - TBA
 tvdb_episode:463308_1_1  # Dutton Ranch S01E01 - The Untold Want
 tvdb_episode:463308_1_2  # Dutton Ranch S01E02 - Earn Another Day
 tvdb_episode:463308_1_3  # Dutton Ranch S01E03 - Act of God Business

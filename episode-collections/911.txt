@@ -1,5 +1,5 @@
-# Last updated: 2026-07-20
-# Scope: 9-1-1, 9-1-1: Lone Star and 9-1-1: Nashville; excludes specials
+# Last updated: 2026-10-10
+# Scope: 9-1-1, 9-1-1: Lone Star, 9-1-1: Nashville; excludes specials
 # Ordered by air date and time per TVmaze
 tvdb_episode:337907_1_1  # 9-1-1 S01E01 - Pilot
 tvdb_episode:337907_1_2  # 9-1-1 S01E02 - Let Go
@@ -233,3 +233,8 @@ tvdb_episode:337907_9_17  # 9-1-1 S09E17 - I Got You Babe
 tvdb_episode:460463_1_17  # 9-1-1: Nashville S01E17 - Saboteurs
 tvdb_episode:337907_9_18  # 9-1-1 S09E18 - Hearts and Flowers
 tvdb_episode:460463_1_18  # 9-1-1: Nashville S01E18 - Intrusive Thoughts
+tvdb_episode:337907_10_1  # 9-1-1 S10E01 - That Sinking Feeling
+tvdb_episode:460463_2_1  # 9-1-1: Nashville S02E01 - Going Rogue
+tvdb_episode:337907_10_2  # 9-1-1 S10E02 - Fire in the Hole
+tvdb_episode:460463_2_2  # 9-1-1: Nashville S02E02 - Boys and Boils
+tvdb_episode:460463_2_3  # 9-1-1: Nashville S02E03 - Let There Be Darkness

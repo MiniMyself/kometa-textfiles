@@ -1,4 +1,4 @@
-# Last updated: 2026-07-19
+# Last updated: 2026-10-10
 # Scope: Law & Order, Law & Order: Special Victims Unit, Law & Order: Criminal Intent, Law & Order: UK, Law & Order: LA, Law & Order: Trial by Jury, Law & Order: Organized Crime, Law & Order True Crime, Law & Order Toronto: Criminal Intent; excludes specials, Convictions and non-English adaptations
 # Ordered by air date and time per TVmaze
 tvdb_episode:72368_1_1  # Law & Order S01E01 - Prescription for Death
@@ -1535,6 +1535,22 @@ tvdb_episode:435958_3_9  # Law & Order Toronto: Criminal Intent S03E09 - Lost & 
 tvdb_episode:72368_25_21  # Law & Order S25E21 - Liberty
 tvdb_episode:75692_27_21  # Law & Order: Special Victims Unit S27E21 - Monster
 tvdb_episode:435958_3_10  # Law & Order Toronto: Criminal Intent S03E10 - XOXO
-tvdb_episode:435958_4_1  # Law & Order Toronto: Criminal Intent S04E01 - Second Wind
-tvdb_episode:75692_28_1  # Law & Order: Special Victims Unit S28E01 - TBA
-tvdb_episode:72368_26_1  # Law & Order S26E01 - TBA
+tvdb_episode:435958_4_1  # Law & Order Toronto: Criminal Intent S04E01 - Diplomatico
+tvdb_episode:435958_4_2  # Law & Order Toronto: Criminal Intent S04E02 - The Scorpion and the Tortoise
+tvdb_episode:75692_28_1  # Law & Order: Special Victims Unit S28E01 - Volition
+tvdb_episode:72368_26_1  # Law & Order S26E01 - Ghost in the Machine
+tvdb_episode:435958_4_3  # Law & Order Toronto: Criminal Intent S04E03 - The Business of Boys
+tvdb_episode:75692_28_2  # Law & Order: Special Victims Unit S28E02 - Midway
+tvdb_episode:72368_26_2  # Law & Order S26E02 - Into the Mystic
+tvdb_episode:435958_4_4  # Law & Order Toronto: Criminal Intent S04E04 - True Patriot Love
+tvdb_episode:75692_28_3  # Law & Order: Special Victims Unit S28E03 - Anonymity
+tvdb_episode:72368_26_3  # Law & Order S26E03 - Bad News
+tvdb_episode:435958_4_5  # Law & Order Toronto: Criminal Intent S04E05 - Bad Campers
+tvdb_episode:75692_28_4  # Law & Order: Special Victims Unit S28E04 - TBA
+tvdb_episode:72368_26_4  # Law & Order S26E04 - TBA
+tvdb_episode:435958_4_6  # Law & Order Toronto: Criminal Intent S04E06 - Wind Phone
+tvdb_episode:75692_28_5  # Law & Order: Special Victims Unit S28E05 - TBA
+tvdb_episode:435958_4_7  # Law & Order Toronto: Criminal Intent S04E07 - Fireworks
+tvdb_episode:435958_4_8  # Law & Order Toronto: Criminal Intent S04E08 - Family Tree
+tvdb_episode:435958_4_9  # Law & Order Toronto: Criminal Intent S04E09 - Canary
+tvdb_episode:435958_4_10  # Law & Order Toronto: Criminal Intent S04E10 - Red Flags

@@ -1,6 +1,6 @@
-# Last updated: 2026-07-18
+# Last updated: 2026-10-10
 # Scope: Grey's Anatomy, Private Practice and Station 19; excludes all recap-clip specials and webisodes
-# Based on community list: (https://docs.google.com/spreadsheets/d/1SFZ0pYJiYDkYyaWRF9fXkDFJ_A--v3Idu8zC7_vx2sg/htmlview)
+# Based on community list by Nerdfightergirl (https://docs.google.com/spreadsheets/d/1SFZ0pYJiYDkYyaWRF9fXkDFJ_A--v3Idu8zC7_vx2sg/htmlview)
 tvdb_episode:73762_1_1  # Grey's Anatomy S01E01 - A Hard Day's Night
 tvdb_episode:73762_1_2  # Grey's Anatomy S01E02 - The First Cut Is the Deepest
 tvdb_episode:73762_1_3  # Grey's Anatomy S01E03 - Winning a Battle, Losing the War
@@ -683,3 +683,6 @@ tvdb_episode:73762_22_15  # Grey's Anatomy S22E15 - Take Me to the River
 tvdb_episode:73762_22_16  # Grey's Anatomy S22E16 - Feel It Still
 tvdb_episode:73762_22_17  # Grey's Anatomy S22E17 - Through the Fire
 tvdb_episode:73762_22_18  # Grey's Anatomy S22E18 - Bridge Over Troubled Water
+tvdb_episode:73762_23_1  # Grey's Anatomy S23E01 - Collide
+tvdb_episode:73762_23_2  # Grey's Anatomy S23E02 - Slippin' and Slidin'
+tvdb_episode:73762_23_3  # Grey's Anatomy S23E03 - It's All Wrong, but It's All Right

@@ -1,4 +1,4 @@
-# Last updated: 2026-09-20
+# Last updated: 2026-10-10
 # Scope: NCIS, NCIS: Los Angeles, NCIS: New Orleans, NCIS: Hawaiʻi, NCIS: Sydney, NCIS: Origins, NCIS: Tony & Ziva, and NCIS: New York; excludes Recap/clip specials & JAG (the parent/backdoor-pilot show)
 # Ordered by air date and time per TVmaze
 tvdb_episode:72108_1_1  # NCIS S01E01 - Yankee White
@@ -16,7 +16,7 @@ tvdb_episode:72108_1_12  # NCIS S01E12 - My Other Left Foot
 tvdb_episode:72108_1_13  # NCIS S01E13 - One Shot, One Kill
 tvdb_episode:72108_1_14  # NCIS S01E14 - The Good Samaritan
 tvdb_episode:72108_1_15  # NCIS S01E15 - Enigma
-tvdb_episode:72108_1_16  # NCIS S01E16 - BÃªte Noire
+tvdb_episode:72108_1_16  # NCIS S01E16 - Bête Noire
 tvdb_episode:72108_1_17  # NCIS S01E17 - The Truth Is Out There
 tvdb_episode:72108_1_18  # NCIS S01E18 - UnSEALed
 tvdb_episode:72108_1_19  # NCIS S01E19 - Dead Man Talking
@@ -35,7 +35,7 @@ tvdb_episode:72108_2_8  # NCIS S02E08 - Heart Break
 tvdb_episode:72108_2_9  # NCIS S02E09 - Forced Entry
 tvdb_episode:72108_2_10  # NCIS S02E10 - Chained
 tvdb_episode:72108_2_11  # NCIS S02E11 - Blackwater
-tvdb_episode:72108_2_12  # NCIS S02E12 - DoppelgÃ¤nger
+tvdb_episode:72108_2_12  # NCIS S02E12 - Doppelgänger
 tvdb_episode:72108_2_13  # NCIS S02E13 - The Meat Puzzle
 tvdb_episode:72108_2_14  # NCIS S02E14 - Witness
 tvdb_episode:72108_2_15  # NCIS S02E15 - Caught on Tape
@@ -214,7 +214,7 @@ tvdb_episode:72108_8_12  # NCIS S08E12 - Recruited
 tvdb_episode:95441_2_13  # NCIS: Los Angeles S02E13 - Archangel
 tvdb_episode:72108_8_13  # NCIS S08E13 - Freedom
 tvdb_episode:95441_2_14  # NCIS: Los Angeles S02E14 - Lockup
-tvdb_episode:72108_8_14  # NCIS S08E14 - A Man Walks Into a Barâ€¦
+tvdb_episode:72108_8_14  # NCIS S08E14 - A Man Walks Into a Bar…
 tvdb_episode:95441_2_15  # NCIS: Los Angeles S02E15 - Tin Soldiers
 tvdb_episode:72108_8_15  # NCIS S08E15 - Defiance
 tvdb_episode:95441_2_16  # NCIS: Los Angeles S02E16 - Empty Quiver
@@ -222,7 +222,7 @@ tvdb_episode:72108_8_16  # NCIS S08E16 - Kill Screen
 tvdb_episode:95441_2_17  # NCIS: Los Angeles S02E17 - Personal
 tvdb_episode:72108_8_17  # NCIS S08E17 - One Last Score
 tvdb_episode:95441_2_18  # NCIS: Los Angeles S02E18 - Harm's Way
-tvdb_episode:72108_8_18  # NCIS S08E18 - Out of the Frying Panâ€¦
+tvdb_episode:72108_8_18  # NCIS S08E18 - Out of the Frying Pan…
 tvdb_episode:95441_2_19  # NCIS: Los Angeles S02E19 - Enemy Within
 tvdb_episode:72108_8_19  # NCIS S08E19 - Tell-All
 tvdb_episode:95441_2_20  # NCIS: Los Angeles S02E20 - The Job
@@ -487,7 +487,7 @@ tvdb_episode:95441_7_12  # NCIS: Los Angeles S07E12 - Core Values
 tvdb_episode:72108_13_12  # NCIS S13E12 - Sister City (Part I)
 tvdb_episode:278125_2_12  # NCIS: New Orleans S02E12 - Sister City, Part II
 tvdb_episode:95441_7_13  # NCIS: Los Angeles S07E13 - Angels & Daemons
-tvdb_episode:72108_13_13  # NCIS S13E13 - DÃ©jÃ  Vu
+tvdb_episode:72108_13_13  # NCIS S13E13 - Déjà Vu
 tvdb_episode:278125_2_13  # NCIS: New Orleans S02E13 - Undocumented
 tvdb_episode:95441_7_14  # NCIS: Los Angeles S07E14 - Come Back
 tvdb_episode:95441_7_15  # NCIS: Los Angeles S07E15 - Matryoshka
@@ -630,7 +630,7 @@ tvdb_episode:278125_4_11  # NCIS: New Orleans S04E11 - Monster
 tvdb_episode:95441_9_12  # NCIS: Los Angeles S09E12 - Under Pressure
 tvdb_episode:72108_15_12  # NCIS S15E12 - Dark Secrets
 tvdb_episode:278125_4_12  # NCIS: New Orleans S04E12 - Identity Crisis
-tvdb_episode:95441_9_13  # NCIS: Los Angeles S09E13 - CÃ¡c TÃ¹ NhÃ¢n
+tvdb_episode:95441_9_13  # NCIS: Los Angeles S09E13 - Các Tù Nhân
 tvdb_episode:72108_15_13  # NCIS S15E13 - Family Ties
 tvdb_episode:278125_4_13  # NCIS: New Orleans S04E13 - Ties That Bind
 tvdb_episode:72108_15_14  # NCIS S15E14 - Keep Your Friends Close
@@ -728,7 +728,7 @@ tvdb_episode:72108_16_20  # NCIS S16E20 - Hail & Farewell
 tvdb_episode:278125_5_20  # NCIS: New Orleans S05E20 - Jackpot
 tvdb_episode:278125_5_21  # NCIS: New Orleans S05E21 - Trust Me
 tvdb_episode:95441_10_21  # NCIS: Los Angeles S10E21 - The One That Got Away
-tvdb_episode:72108_16_21  # NCIS S16E21 - Judge, Juryâ€¦
+tvdb_episode:72108_16_21  # NCIS S16E21 - Judge, Jury…
 tvdb_episode:278125_5_22  # NCIS: New Orleans S05E22 - Chaos Theory
 tvdb_episode:95441_10_22  # NCIS: Los Angeles S10E22 - No More Secrets
 tvdb_episode:72108_16_22  # NCIS S16E22 - ...and Executioner
@@ -812,7 +812,7 @@ tvdb_episode:95441_12_4  # NCIS: Los Angeles S12E04 - Cash Flow
 tvdb_episode:95441_12_5  # NCIS: Los Angeles S12E05 - Raising the Dead
 tvdb_episode:72108_18_3  # NCIS S18E03 - Blood and Treasure
 tvdb_episode:95441_12_6  # NCIS: Los Angeles S12E06 - If The Fates Allow
-tvdb_episode:278125_7_4  # NCIS: New Orleans S07E04 - We All Fallâ€¦
+tvdb_episode:278125_7_4  # NCIS: New Orleans S07E04 - We All Fall…
 tvdb_episode:95441_12_7  # NCIS: Los Angeles S12E07 - Overdue
 tvdb_episode:278125_7_5  # NCIS: New Orleans S07E05 - Operation Drano, Part I
 tvdb_episode:95441_12_8  # NCIS: Los Angeles S12E08 - Love Kills
@@ -988,7 +988,7 @@ tvdb_episode:416493_1_5  # NCIS: Sydney S01E05 - Doggiecino Day Afternoon
 tvdb_episode:416493_1_6  # NCIS: Sydney S01E06 - Extraction
 tvdb_episode:416493_1_7  # NCIS: Sydney S01E07 - Bunker Down
 tvdb_episode:416493_1_8  # NCIS: Sydney S01E08 - Blonde Ambition
-tvdb_episode:72108_21_1  # NCIS S21E01 - AlgÃºn DÃ­a
+tvdb_episode:72108_21_1  # NCIS S21E01 - Algún Día
 tvdb_episode:401630_3_1  # NCIS: Hawaiʻi S03E01 - Run and Gun
 tvdb_episode:72108_21_2  # NCIS S21E02 - The Stories We Leave Behind
 tvdb_episode:401630_3_2  # NCIS: Hawaiʻi S03E02 - Crash and Burn
@@ -1130,7 +1130,10 @@ tvdb_episode:444350_3_1  # NCIS: Origins S03E01 - Don't You Forget About Me
 tvdb_episode:72108_24_2  # NCIS S24E02 - Clean Slate
 tvdb_episode:476836_1_2  # NCIS: New York S01E02 - Family Business
 tvdb_episode:444350_3_2  # NCIS: Origins S03E02 - My Own Worst Enemy
-tvdb_episode:444350_3_3  # NCIS: Origins S03E03 - TBA
+tvdb_episode:72108_24_3  # NCIS S24E03 - Sleeping Dogs
+tvdb_episode:476836_1_3  # NCIS: New York S01E03 - Carousel
+tvdb_episode:444350_3_3  # NCIS: Origins S03E03 - Return of the Mack
+tvdb_episode:72108_24_4  # NCIS S24E04 - Like Subscribe
 tvdb_episode:444350_3_4  # NCIS: Origins S03E04 - TBA
 tvdb_episode:444350_3_5  # NCIS: Origins S03E05 - TBA
 tvdb_episode:444350_3_6  # NCIS: Origins S03E06 - TBA

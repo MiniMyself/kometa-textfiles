@@ -1,6 +1,6 @@
-# Last updated: 2026-08-02
-# Scope: Lawmen: Bass Reeves, 1883, 1923, Yellowstone, Marshals, The Madison and Dutton Ranch
-# Ordered by in-universe chronology; within a block, episodes run in air order
+# Last updated: 2026-10-10
+# Scope: Lawmen: Bass Reeves, 1883, 1923, Yellowstone, Marshals, The Madison, Dutton Ranch
+# Ordered by in-universe chronology; within a series, episodes run in air order
 tvdb_episode:416503_1_1  # Lawmen: Bass Reeves S01E01 - Part I
 tvdb_episode:416503_1_2  # Lawmen: Bass Reeves S01E02 - Part II
 tvdb_episode:416503_1_3  # Lawmen: Bass Reeves S01E03 - Part III
@@ -100,6 +100,15 @@ tvdb_episode:463433_1_10  # Marshals S01E10 - Playing with Fire
 tvdb_episode:463433_1_11  # Marshals S01E11 - On Thin Ice
 tvdb_episode:463433_1_12  # Marshals S01E12 - The Devil at Home
 tvdb_episode:463433_1_13  # Marshals S01E13 - Wolves at the Door
+tvdb_episode:463433_2_1  # Marshals S02E01 - All Hat No Cattle
+tvdb_episode:463433_2_2  # Marshals S02E02 - End of Watch
+tvdb_episode:463433_2_3  # Marshals S02E03 - Falling Sky
+tvdb_episode:463433_2_4  # Marshals S02E04 - Blast Radius
+tvdb_episode:463433_2_5  # Marshals S02E05 - TBA
+tvdb_episode:463433_2_6  # Marshals S02E06 - TBA
+tvdb_episode:463433_2_7  # Marshals S02E07 - TBA
+tvdb_episode:463433_2_8  # Marshals S02E08 - TBA
+tvdb_episode:463433_2_9  # Marshals S02E09 - TBA
 tvdb_episode:441735_1_1  # The Madison S01E01 - Pilot
 tvdb_episode:441735_1_2  # The Madison S01E02 - Let the Land Hold Me
 tvdb_episode:441735_1_3  # The Madison S01E03 - Watch Her Fall

@@ -1,4 +1,4 @@
-﻿# Last updated: 2026-09-20
+# Last updated: 2026-10-10
 # Scope: Chicago Fire, Chicago P.D., Chicago Med, and Chicago Justice
 # Based on community list: https://docs.google.com/spreadsheets/d/1d6nnW_I3qrWUujOXi1Db2717wUKX86J4wRZdGOYPDog
 tvdb_episode:258541_1_1  # Chicago Fire S01E01 - Pilot
@@ -795,6 +795,12 @@ tvdb_episode:269641_13_21  # Chicago P.D. S13E21 - Born or Made
 tvdb_episode:295640_12_1  # Chicago Med S12E01 - Shots Fired
 tvdb_episode:258541_15_1  # Chicago Fire S15E01 - New Blood
 tvdb_episode:269641_14_1  # Chicago P.D. S14E01 - Demolition
-tvdb_episode:295640_12_2  # Chicago Med S12E02 - TBA
-tvdb_episode:258541_15_2  # Chicago Fire S15E02 - TBA
-tvdb_episode:269641_14_2  # Chicago P.D. S14E02 - TBA
+tvdb_episode:295640_12_2  # Chicago Med S12E02 - Third Rails
+tvdb_episode:258541_15_2  # Chicago Fire S15E02 - Rattle the Cage
+tvdb_episode:269641_14_2  # Chicago P.D. S14E02 - Don't Blink
+tvdb_episode:295640_12_3  # Chicago Med S12E03 - They Call Me Ms. Goodwin
+tvdb_episode:258541_15_3  # Chicago Fire S15E03 - Take the Hit
+tvdb_episode:269641_14_3  # Chicago P.D. S14E03 - Under the Surface
+tvdb_episode:295640_12_4  # Chicago Med S12E04 - Tomorrow, Tomorrow, and Tomorrow
+tvdb_episode:258541_15_4  # Chicago Fire S15E04 - A Perfect Arson
+tvdb_episode:269641_14_4  # Chicago P.D. S14E04 - My Eye, My Call

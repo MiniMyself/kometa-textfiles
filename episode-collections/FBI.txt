@@ -1,5 +1,5 @@
-# Last updated: 2026-06-28
-# Scope: FBI, FBI: Most Wanted, and FBI: International; excludes the wider Dick Wolf universe (e.g. Law & Order, NCIS)
+# Last updated: 2026-10-10
+# Scope: FBI, FBI: Most Wanted, FBI: International, and CIA; excludes the wider Dick Wolf universe
 # Ordered by air date and time per TVmaze
 tvdb_episode:350071_1_1  # FBI S01E01 - Pilot
 tvdb_episode:350071_1_2  # FBI S01E02 - Green Birds
@@ -333,14 +333,34 @@ tvdb_episode:350071_8_8  # FBI S08E08 - Ratlined
 tvdb_episode:350071_8_9  # FBI S08E09 - Lone Wolf
 tvdb_episode:350071_8_10  # FBI S08E10 - Wolf Pack
 tvdb_episode:350071_8_11  # FBI S08E11 - Confetti
+tvdb_episode:462856_1_1  # CIA S01E01 - Directed Energy
 tvdb_episode:350071_8_12  # FBI S08E12 - Daybreak
+tvdb_episode:462856_1_2  # CIA S01E02 - Fatal Defect
 tvdb_episode:350071_8_13  # FBI S08E13 - Fanatics
+tvdb_episode:462856_1_3  # CIA S01E03 - Bridge of Lies
 tvdb_episode:350071_8_14  # FBI S08E14 - Forgiven
+tvdb_episode:462856_1_4  # CIA S01E04 - Forced Labor
 tvdb_episode:350071_8_15  # FBI S08E15 - Crusader
+tvdb_episode:462856_1_5  # CIA S01E05 - Deep Cover
 tvdb_episode:350071_8_16  # FBI S08E16 - 3 Up, 3 Down
+tvdb_episode:462856_1_6  # CIA S01E06 - Pledge of Allegiance
 tvdb_episode:350071_8_17  # FBI S08E17 - Shahadah
+tvdb_episode:462856_1_7  # CIA S01E07 - Elimination Game
 tvdb_episode:350071_8_18  # FBI S08E18 - Behavior
+tvdb_episode:462856_1_8  # CIA S01E08 - Orbital
 tvdb_episode:350071_8_19  # FBI S08E19 - Fidelity
+tvdb_episode:462856_1_9  # CIA S01E09 - Blood Money
 tvdb_episode:350071_8_20  # FBI S08E20 - Roleplay
+tvdb_episode:462856_1_10  # CIA S01E10 - Rare Earth
 tvdb_episode:350071_8_21  # FBI S08E21 - Long Shot
+tvdb_episode:462856_1_11  # CIA S01E11 - Forbidden Eye
 tvdb_episode:350071_8_22  # FBI S08E22 - Defector
+tvdb_episode:462856_1_12  # CIA S01E12 - Broken Glass
+tvdb_episode:350071_9_1  # FBI S09E01 - Rendition
+tvdb_episode:462856_2_1  # CIA S02E01 - The Deep
+tvdb_episode:350071_9_2  # FBI S09E02 - Omissions
+tvdb_episode:462856_2_2  # CIA S02E02 - Dead Drop
+tvdb_episode:350071_9_3  # FBI S09E03 - White Rock
+tvdb_episode:462856_2_3  # CIA S02E03 - Radio Active
+tvdb_episode:350071_9_4  # FBI S09E04 - Retinence
+tvdb_episode:462856_2_4  # CIA S02E04 - Black Tie Optional

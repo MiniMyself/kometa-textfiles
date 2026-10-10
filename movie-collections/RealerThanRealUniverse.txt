@@ -1,5 +1,5 @@
 # Last updated: 2026-08-02
-# Scope: Quentin Tarantino's 'Realer Than Real Universe', the heightened-real world of his crime/period films
+# Scope: Quentin Tarantino's 'Realer Than Real Universe' (the heightened-real world of his crime/period films). Excludes the 'Movie Movie' universe (Kill Bill Vol. 1 & 2, From Dusk Till Dawn, Natural Born Killers) and Jackie Brown, which sits in its own Elmore Leonard reality.
 # Ordered by release date per TMDB
 tmdb:500  # Reservoir Dogs (1992)
 tmdb:319  # True Romance (1993)

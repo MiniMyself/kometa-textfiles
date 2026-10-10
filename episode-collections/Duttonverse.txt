@@ -1,6 +1,6 @@
-# Last updated: 2026-07-19
-# Scope: Yellowstone, 1883, 1923, Marshals, Dutton Ranch; excludes the greater-Duttonverse Lawmen: Bass Reeves
-# Ordered by air date and time per TVmaze
+# Last updated: 2026-10-10
+# Scope: Yellowstone, 1883, 1923, Marshals, Dutton Ranch
+# Ordered by actual air date and time per TVmaze
 tvdb_episode:341164_1_1  # Yellowstone S01E01 - Daybreak
 tvdb_episode:341164_1_2  # Yellowstone S01E02 - Kill the Messenger
 tvdb_episode:341164_1_3  # Yellowstone S01E03 - No Good Horses
@@ -101,3 +101,12 @@ tvdb_episode:463308_1_6  # Dutton Ranch S01E06 - A Cowboy Saint
 tvdb_episode:463308_1_7  # Dutton Ranch S01E07 - Den of Sin
 tvdb_episode:463308_1_8  # Dutton Ranch S01E08 - Whiskey Limits
 tvdb_episode:463308_1_9  # Dutton Ranch S01E09 - El Padrino
+tvdb_episode:463433_2_1  # Marshals S02E01 - All Hat No Cattle
+tvdb_episode:463433_2_2  # Marshals S02E02 - End of Watch
+tvdb_episode:463433_2_3  # Marshals S02E03 - Falling Sky
+tvdb_episode:463433_2_4  # Marshals S02E04 - Blast Radius
+tvdb_episode:463433_2_5  # Marshals S02E05 - TBA
+tvdb_episode:463433_2_6  # Marshals S02E06 - TBA
+tvdb_episode:463433_2_7  # Marshals S02E07 - TBA
+tvdb_episode:463433_2_8  # Marshals S02E08 - TBA
+tvdb_episode:463433_2_9  # Marshals S02E09 - TBA
