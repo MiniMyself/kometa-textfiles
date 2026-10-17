@@ -1,4 +1,4 @@
-# Last updated: 2026-07-19
+# Last updated: 2026-10-17
 # Scope: Interview with the Vampire, Mayfair Witches and Talamasca: The Secret Order
 # Ordered by air date and time per TVmaze
 tvdb_episode:405535_1_1  # Interview with the Vampire S01E01 - In Throes of Increasing Wonder
@@ -38,3 +38,10 @@ tvdb_episode:433933_1_3  # Talamasca: The Secret Order S01E03 - The Task at Hand
 tvdb_episode:433933_1_4  # Talamasca: The Secret Order S01E04 - Wet Work
 tvdb_episode:433933_1_5  # Talamasca: The Secret Order S01E05 - The Puzzle Palace
 tvdb_episode:433933_1_6  # Talamasca: The Secret Order S01E06 - The 752
+tvdb_episode:405535_3_1  # Interview with the Vampire S03E01 - Detroit
+tvdb_episode:405535_3_2  # Interview with the Vampire S03E02 - Toledo
+tvdb_episode:405535_3_3  # Interview with the Vampire S03E03 - Toronto
+tvdb_episode:405535_3_4  # Interview with the Vampire S03E04 - The Devil's Road
+tvdb_episode:405535_3_5  # Interview with the Vampire S03E05 - New York
+tvdb_episode:405535_3_6  # Interview with the Vampire S03E06 - Montreal
+tvdb_episode:405535_3_7  # Interview with the Vampire S03E07 - The Failures
