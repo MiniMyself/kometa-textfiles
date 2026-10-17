@@ -33,6 +33,12 @@ Corrections, missing entries, ordering fixes and brand-new lists are all welcome
 
 ---
 
+## How this repo is maintained
+
+Many of the lists, wiki pages and commits here are made with [Claude](https://claude.ai), Anthropic's AI assistant, which pushes changes directly to the repo under the maintainer's direction. Watch orders still come from the community sources credited in each file's header. If an entry looks wrong, please open an [issue](https://github.com/MiniMyself/kometa-textfiles/issues) and it will be fixed.
+
+---
+
 ## Credits
 
 - [Kometa](https://kometa.wiki) - the tool that makes this possible
