@@ -1,0 +1,106 @@
+# Big List Playlist - every list from https://github.com/MiniMyself/kometa-textfiles as a playlist
+# Air-date / release order.
+#
+# Setup and documentation: https://github.com/MiniMyself/kometa-textfiles/wiki/Big-List#big-list-playlist
+
+templates:
+  Episode Playlist:
+    text_file: <<text_file>>
+    libraries: TV Shows
+    sync_mode: sync
+    summary: <<summary>>
+  Movie Playlist:
+    text_file: <<text_file>>
+    libraries: Movies
+    sync_mode: sync
+    summary: <<summary>>
+  Mixed Playlist:
+    text_file: <<text_file>>
+    libraries: Movies, TV Shows
+    sync_mode: sync
+    summary: <<summary>>
+
+playlists:
+  # ---------- Episode Playlists (TV Shows library) ----------
+  9-1-1:
+    template: {name: Episode Playlist, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/episode-collections/911.txt, summary: "Chronological viewing order of the entire 9-1-1 franchise"}
+  Anne Rice's Immortal Universe:
+    template: {name: Episode Playlist, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/episode-collections/AnneRicesImmortalUniverse.txt, summary: "Air-date viewing order of Anne Rice's Immortal Universe"}
+  Archieverse:
+    template: {name: Episode Playlist, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/episode-collections/Archieverse.txt, summary: "Chronological viewing order of all Archieverse TV shows"}
+  Arrowverse:
+    template: {name: Episode Playlist, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/episode-collections/Arrowverse.txt, summary: "Chronological viewing order of all Arrowverse TV shows"}
+  Bosch:
+    template: {name: Episode Playlist, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/episode-collections/Bosch.txt, summary: "Complete viewing order of the Bosch universe"}
+  Buffyverse:
+    template: {name: Episode Playlist, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/episode-collections/Buffyverse.txt, summary: "Chronological viewing order of the Buffyverse"}
+  Criminal Minds:
+    template: {name: Episode Playlist, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/episode-collections/CriminalMinds.txt, summary: "The full Criminal Minds franchise in air order"}
+  CSIVerse:
+    template: {name: Episode Playlist, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/episode-collections/CSIVerse.txt, summary: "Chronological viewing order of all CSI TV shows"}
+  Duttonverse:
+    template: {name: Episode Playlist, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/episode-collections/Duttonverse.txt, summary: "Every Duttonverse TV episode in broadcast order"}
+  FBI:
+    template: {name: Episode Playlist, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/episode-collections/FBI.txt, summary: "Chronological viewing order of all FBI TV shows"}
+  Game of Thrones Universe:
+    template: {name: Episode Playlist, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/episode-collections/GameOfThronesUniverse.txt, summary: "Broadcast (air-date) order of the full Game of Thrones TV universe"}
+  Grey's Anatomy Universe:
+    template: {name: Episode Playlist, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/episode-collections/GreysAnatomyUniverse.txt, summary: "Air-date viewing order of the Grey's Anatomy Universe"}
+  Law & Order Franchise:
+    template: {name: Episode Playlist, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/episode-collections/LawOrderFranchise.txt, summary: "Every Law & Order series in air-date watch order"}
+  Lenkov-verse:
+    template: {name: Episode Playlist, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/episode-collections/Lenkov-verse.txt, summary: "Chronological viewing order of the three Lenkov-verse CBS reboots"}
+  NCISVerse:
+    template: {name: Episode Playlist, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/episode-collections/NCISVerse.txt, summary: "Chronological viewing order of all NCIS TV shows"}
+  NuWhoniverse:
+    template: {name: Episode Playlist, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/episode-collections/NuWhoniverse.txt, summary: "Broadcast-order viewing of the modern Whoniverse / NuWhoniverse"}
+  One Chicago:
+    template: {name: Episode Playlist, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/episode-collections/OneChicago.txt, summary: "Chronological viewing order of all One Chicago TV shows"}
+  Power:
+    template: {name: Episode Playlist, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/episode-collections/Power.txt, summary: "Chronological viewing order of the entire Starz Power universe"}
+  Pretty Little Liars:
+    template: {name: Episode Playlist, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/episode-collections/PrettyLittleLiars.txt, summary: "Chronological viewing order of the entire Pretty Little Liars franchise"}
+  Stargate:
+    template: {name: Episode Playlist, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/episode-collections/Stargate.txt, summary: "Chronological viewing order of the Stargate franchise"}
+  The Boys Universe:
+    template: {name: Episode Playlist, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/episode-collections/TheBoysUniverse.txt, summary: "Chronological viewing order of The Boys, Diabolical, and Gen V"}
+  The Defenders Saga:
+    template: {name: Episode Playlist, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/episode-collections/TheDefendersSaga.txt, summary: "Chronological viewing order of Marvel's Defenders Saga"}
+  The Rookie:
+    template: {name: Episode Playlist, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/episode-collections/TheRookie.txt, summary: "Chronological viewing order of The Rookie and The Rookie: Feds"}
+  The Vampire Diaries Universe:
+    template: {name: Episode Playlist, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/episode-collections/TheVampireDiariesUniverse.txt, summary: "Chronological viewing order of The Vampire Diaries Universe"}
+  The Walking Dead Universe:
+    template: {name: Episode Playlist, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/episode-collections/TheWalkingDeadUniverse.txt, summary: "Chronological viewing order of all Walking Dead TV shows"}
+  The X-Files Universe:
+    template: {name: Episode Playlist, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/episode-collections/TheXFilesUniverse.txt, summary: "Chronological viewing order of The X-Files Universe"}
+  Whoniverse:
+    template: {name: Episode Playlist, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/episode-collections/Whoniverse.txt, summary: "Broadcast-order viewing of the entire Whoniverse"}
+  Yellowstone Universe:
+    template: {name: Episode Playlist, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/episode-collections/YellowstoneUniverse.txt, summary: "Every Yellowstone-universe TV episode in broadcast order across all seven series"}
+
+  # ---------- Movie Playlists (Movies library) ----------
+  Cloverfield Universe:
+    template: {name: Movie Playlist, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/movie-collections/CloverfieldUniverse.txt, summary: "Release-order viewing of the Cloverfield anthology movies"}
+  Cornetto Trilogy:
+    template: {name: Movie Playlist, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/movie-collections/CornettoTrilogy.txt, summary: "The Three Flavours Cornetto Trilogy by Edgar Wright, in release order"}
+  Eastrail 177 Trilogy:
+    template: {name: Movie Playlist, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/movie-collections/Eastrail177Trilogy.txt, summary: "Chronological viewing order of M. Night Shyamalan's Eastrail 177 Trilogy"}
+  Middle-earth:
+    template: {name: Movie Playlist, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/movie-collections/MiddleEarth.txt, summary: "Chronological (in-story) viewing order of Peter Jackson's Middle-earth movies"}
+  Movie Movie Universe:
+    template: {name: Movie Playlist, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/movie-collections/MovieMovieUniverse.txt, summary: "Tarantino's Movie Movie Universe, the films-within-films, in release order"}
+  Realer Than Real Universe:
+    template: {name: Movie Playlist, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/movie-collections/RealerThanRealUniverse.txt, summary: "Quentin Tarantino's Realer Than Real Universe in release order"}
+  Universal Classic Monsters:
+    template: {name: Movie Playlist, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/movie-collections/UniversalClassicMonsters.txt, summary: "Release-order viewing of the classic Universal Monsters films (1913-1956)"}
+  Universal Modern Monsters:
+    template: {name: Movie Playlist, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/movie-collections/UniversalModernMonsters.txt, summary: "Release-order viewing of Universal's modern monster reimaginings (2014-2025)"}
+  Universal Revival Monsters:
+    template: {name: Movie Playlist, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/movie-collections/UniversalRevivalMonsters.txt, summary: "Release-order viewing of Universal's monster remakes and spin-offs (1979-2010)"}
+
+  # ---------- Mixed Playlists (Movies + TV Shows) ----------
+  Alien Timeline:
+    template: {name: Mixed Playlist, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/mixed-playlists/AlienTimeline.txt, summary: "The Alien movies and Alien: Earth episodes in in-universe timeline order"}
+  Star Trek:
+    template: {name: Mixed Playlist, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/mixed-playlists/StarTrek.txt, summary: "Every Star Trek film and TV episode in release and broadcast order"}
