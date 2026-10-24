@@ -1,4 +1,4 @@
-# Last updated: 2026-10-10
+# Last updated: 2026-10-24
 # Scope: Chicago Fire, Chicago P.D., Chicago Med, and Chicago Justice
 # Based on community list: https://docs.google.com/spreadsheets/d/1d6nnW_I3qrWUujOXi1Db2717wUKX86J4wRZdGOYPDog
 tvdb_episode:258541_1_1  # Chicago Fire S01E01 - Pilot
@@ -745,24 +745,24 @@ tvdb_episode:295640_11_5  # Chicago Med S11E05 - What's Hiding in the Dark
 tvdb_episode:295640_11_6  # Chicago Med S11E06 - The Story of Us
 tvdb_episode:269641_13_4  # Chicago P.D. S13E04 - Root Cause
 tvdb_episode:269641_13_5  # Chicago P.D. S13E05 - Miami
-tvdb_episode:258541_14_6  # Chicago Fire S14E06 - Broken Things
 tvdb_episode:295640_11_7  # Chicago Med S11E07 - Double Down
 tvdb_episode:295640_11_8  # Chicago Med S11E08 - Triple Threat
+tvdb_episode:258541_14_6  # Chicago Fire S14E06 - Broken Things
 tvdb_episode:269641_13_6  # Chicago P.D. S13E06 - Send Me
 tvdb_episode:295640_11_9  # Chicago Med S11E09 - Blindsided
 tvdb_episode:258541_14_7  # Chicago Fire S14E07 - Pierce the Vein
 tvdb_episode:258541_14_8  # Chicago Fire S14E08 - A Man Possessed
+tvdb_episode:258541_14_9  # Chicago Fire S14E09 - Crime of Passion
 tvdb_episode:269641_13_7  # Chicago P.D. S13E07 - Impulse Control
 tvdb_episode:269641_13_8  # Chicago P.D. S13E08 - Born Screaming
-tvdb_episode:258541_14_9  # Chicago Fire S14E09 - Crime of Passion
-tvdb_episode:269641_13_9  # Chicago P.D. S13E09 - Heroes
 tvdb_episode:295640_11_10  # Chicago Med S11E10 - Frost on Fire
 tvdb_episode:258541_14_10  # Chicago Fire S14E10 - Carry a Torch
+tvdb_episode:269641_13_9  # Chicago P.D. S13E09 - Heroes
 tvdb_episode:269641_13_10  # Chicago P.D. S13E10 - Faith
 tvdb_episode:295640_11_11  # Chicago Med S11E11 - Our So-Called Lives
-tvdb_episode:258541_14_11  # Chicago Fire S14E11 - Frostbite Blue
 tvdb_episode:269641_13_11  # Chicago P.D. S13E11 - On the Way
 tvdb_episode:295640_11_12  # Chicago Med S11E12 - Spill Your Guts
+tvdb_episode:258541_14_11  # Chicago Fire S14E11 - Frostbite Blue
 tvdb_episode:258541_14_12  # Chicago Fire S14E12 - Coming in Hot
 tvdb_episode:269641_13_12  # Chicago P.D. S13E12 - Missing
 tvdb_episode:258541_14_13  # Chicago Fire S14E13 - Reckoning, Part I
@@ -771,13 +771,13 @@ tvdb_episode:269641_13_13  # Chicago P.D. S13E13 - Reckoning, Part III
 tvdb_episode:295640_11_14  # Chicago Med S11E14 - Twist & Shout
 tvdb_episode:258541_14_14  # Chicago Fire S14E14 - Hit and Run
 tvdb_episode:269641_13_14  # Chicago P.D. S13E14 - Meant to Be
-tvdb_episode:295640_11_15  # Chicago Med S11E15 - The Cost of Living
 tvdb_episode:258541_14_15  # Chicago Fire S14E15 - Do Not Resuscitate
+tvdb_episode:295640_11_15  # Chicago Med S11E15 - The Cost of Living
 tvdb_episode:269641_13_15  # Chicago P.D. S13E15 - Live or Die by Your CI
 tvdb_episode:295640_11_16  # Chicago Med S11E16 - The Book of Charles
+tvdb_episode:295640_11_17  # Chicago Med S11E17 - Altered States
 tvdb_episode:258541_14_16  # Chicago Fire S14E16 - Firehouse 66
 tvdb_episode:269641_13_16  # Chicago P.D. S13E16 - Restored
-tvdb_episode:295640_11_17  # Chicago Med S11E17 - Altered States
 tvdb_episode:258541_14_17  # Chicago Fire S14E17 - Sway
 tvdb_episode:269641_13_17  # Chicago P.D. S13E17 - Partners
 tvdb_episode:295640_11_18  # Chicago Med S11E18 - Things Left Unsaid
@@ -789,11 +789,11 @@ tvdb_episode:269641_13_19  # Chicago P.D. S13E19 - Going Back
 tvdb_episode:295640_11_20  # Chicago Med S11E20 - Hell Breaks Loose
 tvdb_episode:258541_14_20  # Chicago Fire S14E20 - Speak of the Devil
 tvdb_episode:269641_13_20  # Chicago P.D. S13E20 - The Lost Years
+tvdb_episode:269641_13_21  # Chicago P.D. S13E21 - Born or Made
 tvdb_episode:295640_11_21  # Chicago Med S11E21 - Heaven Help Us
 tvdb_episode:258541_14_21  # Chicago Fire S14E21 - Thank You
-tvdb_episode:269641_13_21  # Chicago P.D. S13E21 - Born or Made
-tvdb_episode:295640_12_1  # Chicago Med S12E01 - Shots Fired
 tvdb_episode:258541_15_1  # Chicago Fire S15E01 - New Blood
+tvdb_episode:295640_12_1  # Chicago Med S12E01 - Shots Fired
 tvdb_episode:269641_14_1  # Chicago P.D. S14E01 - Demolition
 tvdb_episode:295640_12_2  # Chicago Med S12E02 - Third Rails
 tvdb_episode:258541_15_2  # Chicago Fire S15E02 - Rattle the Cage
@@ -804,3 +804,9 @@ tvdb_episode:269641_14_3  # Chicago P.D. S14E03 - Under the Surface
 tvdb_episode:295640_12_4  # Chicago Med S12E04 - Tomorrow, Tomorrow, and Tomorrow
 tvdb_episode:258541_15_4  # Chicago Fire S15E04 - A Perfect Arson
 tvdb_episode:269641_14_4  # Chicago P.D. S14E04 - My Eye, My Call
+tvdb_episode:295640_12_5  # Chicago Med S12E05 - Lessons in Chemistry
+tvdb_episode:258541_15_5  # Chicago Fire S15E05 - Three Hundred
+tvdb_episode:269641_14_5  # Chicago P.D. S14E05 - The Thin Grey Line
+tvdb_episode:295640_12_6  # Chicago Med S12E06 - Baptism by Fire
+tvdb_episode:258541_15_6  # Chicago Fire S15E06 - TBA
+tvdb_episode:269641_14_6  # Chicago P.D. S14E06 - Dark Imaginings
