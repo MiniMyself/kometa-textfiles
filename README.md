@@ -18,6 +18,7 @@ Point a Kometa collection or playlist at one of the raw `.txt` URLs in this repo
 Full setup, the file format, a page on each list, and troubleshooting can all be found in the **[wiki](https://github.com/MiniMyself/kometa-textfiles/wiki)**:
 
 - [Big List](https://github.com/MiniMyself/kometa-textfiles/wiki/Big-List) - the quickest setup: one file that gives you every collection and playlist in this repo
+- [Big List Playlist](https://github.com/MiniMyself/kometa-textfiles/wiki/Big-List-Playlist) - the same, with every list built as a playlist instead of a collection
 - [Getting Started](https://github.com/MiniMyself/kometa-textfiles/wiki/Getting-Started) - requirements and full configuration
 - [File Format](https://github.com/MiniMyself/kometa-textfiles/wiki/File-Format) - how the `.txt` files are structured
 - [Episode Collections](https://github.com/MiniMyself/kometa-textfiles/wiki/Episode-Collections) - every episode collection file, and its raw URL
