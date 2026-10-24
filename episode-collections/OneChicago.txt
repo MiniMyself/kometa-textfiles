@@ -804,3 +804,9 @@ tvdb_episode:269641_14_3  # Chicago P.D. S14E03 - Under the Surface
 tvdb_episode:295640_12_4  # Chicago Med S12E04 - Tomorrow, Tomorrow, and Tomorrow
 tvdb_episode:258541_15_4  # Chicago Fire S15E04 - A Perfect Arson
 tvdb_episode:269641_14_4  # Chicago P.D. S14E04 - My Eye, My Call
+tvdb_episode:295640_12_5  # Chicago Med S12E05 - Lessons in Chemistry
+tvdb_episode:258541_15_5  # Chicago Fire S15E05 - Three Hundred
+tvdb_episode:269641_14_5  # Chicago P.D. S14E05 - The Thin Grey Line
+tvdb_episode:295640_12_6  # Chicago Med S12E06 - Baptism by Fire
+tvdb_episode:258541_15_6  # Chicago Fire S15E06 - TBA
+tvdb_episode:269641_14_6  # Chicago P.D. S14E06 - Dark Imaginings
