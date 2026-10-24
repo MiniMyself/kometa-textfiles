@@ -1,7 +1,6 @@
 # Big List Playlist - every list from https://github.com/MiniMyself/kometa-textfiles as a playlist
 # Air-date / release order.
 #
-# Reference this file under playlist_files: only (not collection_files:).
 # Setup and documentation: https://github.com/MiniMyself/kometa-textfiles/wiki/Big-List-Playlist
 
 templates:
@@ -63,7 +62,6 @@ playlists:
     template: {name: Episode Playlist, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/episode-collections/PrettyLittleLiars.txt, summary: "Chronological viewing order of the entire Pretty Little Liars franchise"}
   Stargate:
     template: {name: Episode Playlist, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/episode-collections/Stargate.txt, summary: "Chronological viewing order of the Stargate franchise"}
-  # Star Trek: covered by the Star Trek mixed playlist below
   The Boys Universe:
     template: {name: Episode Playlist, text_file: https://raw.githubusercontent.com/MiniMyself/kometa-textfiles/refs/heads/main/episode-collections/TheBoysUniverse.txt, summary: "Chronological viewing order of The Boys, Diabolical, and Gen V"}
   The Defenders Saga:
