@@ -1,5 +1,5 @@
-# Last updated: 2026-10-04
-# Scope: All 14 Star Trek movies interleaved with TOS, TAS, TNG, DS9, VOY, ENT, Discovery, Short Treks, Picard, Lower Decks, Prodigy, Strange New Worlds and the TOS pilot 'The Cage' (S00E01); excludes remaining specials
+# Last updated: 2026-11-01
+# Scope: All 14 Star Trek movies interleaved with TOS, TAS, TNG, DS9, VOY, ENT, Discovery, Short Treks, Picard, Lower Decks, Prodigy, Strange New Worlds, Starfleet Academy and the TOS pilot 'The Cage' (S00E01); excludes remaining specials
 # Ordered by the in-universe viewing order at https://startrekviewingguide.com/lo-fi-print-ready-listing.html
 tvdb_episode:73893_1_1  # ENT S01E01 - Broken Bow
 tvdb_episode:73893_1_2  # ENT S01E02 - Broken Bow
@@ -161,6 +161,16 @@ tvdb_episode:382389_3_7  # SNW S03E07 - What Is Starfleet?
 tvdb_episode:382389_3_8  # SNW S03E08 - Four-and-a-Half Vulcans
 tvdb_episode:382389_3_9  # SNW S03E09 - Terrarium
 tvdb_episode:382389_3_10  # SNW S03E10 - New Life and New Civilizations
+tvdb_episode:382389_4_1  # SNW S04E01 - Valles Marineris
+tvdb_episode:382389_4_2  # SNW S04E02 - The Griffin Incident
+tvdb_episode:382389_4_3  # SNW S04E03 - Human Best Friend
+tvdb_episode:382389_4_4  # SNW S04E04 - A Case of Chiaroscuro
+tvdb_episode:382389_4_5  # SNW S04E05 - Level-Five Transporter Accident
+tvdb_episode:382389_4_6  # SNW S04E06 - Off-Hour
+tvdb_episode:382389_4_7  # SNW S04E07 - Like Chronitons Through the Hourglass
+tvdb_episode:382389_4_8  # SNW S04E08 - Orders of Magnitude
+tvdb_episode:382389_4_9  # SNW S04E09 - Once La'An a Time
+tvdb_episode:382389_4_10  # SNW S04E10 - Tomorrow's Enterprise
 tvdb_episode:77526_1_3  # TOS S01E03 - Where No Man Has Gone Before
 tvdb_episode:77526_1_10  # TOS S01E10 - The Corbomite Maneuver
 tvdb_episode:77526_1_6  # TOS S01E06 - Mudd's Women
@@ -965,4 +975,14 @@ tvdb_episode:328711_5_7  # DISC S05E07 - Erigah
 tvdb_episode:328711_5_8  # DISC S05E08 - Labyrinths
 tvdb_episode:328711_5_9  # DISC S05E09 - Lagrange Point
 tvdb_episode:328711_5_10  # DISC S05E10 - Life, Itself
+tvdb_episode:433120_1_1  # SFA S01E01 - Kids These Days
+tvdb_episode:433120_1_2  # SFA S01E02 - Beta Test
+tvdb_episode:433120_1_3  # SFA S01E03 - Vitus Reflux
+tvdb_episode:433120_1_4  # SFA S01E04 - Vox in Excelso
+tvdb_episode:433120_1_5  # SFA S01E05 - Series Acclimation Mil
+tvdb_episode:433120_1_6  # SFA S01E06 - Come, Let's Away
+tvdb_episode:433120_1_7  # SFA S01E07 - Ko'Zeine
+tvdb_episode:433120_1_8  # SFA S01E08 - The Life of the Stars
+tvdb_episode:433120_1_9  # SFA S01E09 - 300th Night
+tvdb_episode:433120_1_10  # SFA S01E10 - Rubicon
 tvdb_episode:376108_1_2  # Short Treks S01E02 - Calypso
