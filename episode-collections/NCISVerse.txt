@@ -1,4 +1,4 @@
-# Last updated: 2026-10-10
+# Last updated: 2026-11-01
 # Scope: NCIS, NCIS: Los Angeles, NCIS: New Orleans, NCIS: Hawaiʻi, NCIS: Sydney, NCIS: Origins, NCIS: Tony & Ziva, and NCIS: New York; excludes Recap/clip specials & JAG (the parent/backdoor-pilot show)
 # Ordered by air date and time per TVmaze
 tvdb_episode:72108_1_1  # NCIS S01E01 - Yankee White
@@ -1134,9 +1134,10 @@ tvdb_episode:72108_24_3  # NCIS S24E03 - Sleeping Dogs
 tvdb_episode:476836_1_3  # NCIS: New York S01E03 - Carousel
 tvdb_episode:444350_3_3  # NCIS: Origins S03E03 - Return of the Mack
 tvdb_episode:72108_24_4  # NCIS S24E04 - Like Subscribe
-tvdb_episode:444350_3_4  # NCIS: Origins S03E04 - TBA
-tvdb_episode:444350_3_5  # NCIS: Origins S03E05 - TBA
-tvdb_episode:444350_3_6  # NCIS: Origins S03E06 - TBA
+tvdb_episode:476836_1_4  # NCIS: New York S01E04 - Homecoming
+tvdb_episode:444350_3_4  # NCIS: Origins S03E04 - Shimmy Shimmy Ya
+tvdb_episode:444350_3_5  # NCIS: Origins S03E05 - Baila Esta Cumbia
+tvdb_episode:444350_3_6  # NCIS: Origins S03E06 - Shot Through the Heart
 tvdb_episode:444350_3_7  # NCIS: Origins S03E07 - TBA
 tvdb_episode:444350_3_8  # NCIS: Origins S03E08 - TBA
 tvdb_episode:444350_3_9  # NCIS: Origins S03E09 - TBA
