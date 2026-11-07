@@ -1,4 +1,4 @@
-# Last updated: 2026-10-10
+# Last updated: 2026-11-07
 # Scope: Grey's Anatomy, Private Practice and Station 19; excludes all recap-clip specials and webisodes
 # Based on community list by Nerdfightergirl (https://docs.google.com/spreadsheets/d/1SFZ0pYJiYDkYyaWRF9fXkDFJ_A--v3Idu8zC7_vx2sg/htmlview)
 tvdb_episode:73762_1_1  # Grey's Anatomy S01E01 - A Hard Day's Night
@@ -686,3 +686,7 @@ tvdb_episode:73762_22_18  # Grey's Anatomy S22E18 - Bridge Over Troubled Water
 tvdb_episode:73762_23_1  # Grey's Anatomy S23E01 - Collide
 tvdb_episode:73762_23_2  # Grey's Anatomy S23E02 - Slippin' and Slidin'
 tvdb_episode:73762_23_3  # Grey's Anatomy S23E03 - It's All Wrong, but It's All Right
+tvdb_episode:73762_23_4  # Grey's Anatomy S23E04 - Love on the Brain
+tvdb_episode:73762_23_5  # Grey's Anatomy S23E05 - Stronger (What Doesn't Kill You)
+tvdb_episode:73762_23_6  # Grey's Anatomy S23E06 - Till I Collapse
+tvdb_episode:73762_23_7  # Grey's Anatomy S23E07 - TBA
