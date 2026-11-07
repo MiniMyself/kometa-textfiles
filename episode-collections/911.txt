@@ -245,4 +245,5 @@ tvdb_episode:337907_10_5  # 9-1-1 S10E05 - Who's Your Daddy?
 tvdb_episode:460463_2_5  # 9-1-1: Nashville S02E05 - Ding-Dong-Ditch
 tvdb_episode:337907_10_6  # 9-1-1 S10E06 - Et Tu?
 tvdb_episode:460463_2_6  # 9-1-1: Nashville S02E06 - Tears of the Nile
-tvdb_episode:460463_2_7  # 9-1-1: Nashville S02E07 - Worse Than Death
+tvdb_episode:337907_10_7  # 9-1-1 S10E07 - TBA
+tvdb_episode:460463_2_7  # 9-1-1: Nashville S02E07 - A Fate Worse Than Death
