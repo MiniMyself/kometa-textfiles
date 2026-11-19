@@ -1,4 +1,4 @@
-# Last updated: 2026-11-01
+# Last updated: 2026-11-14
 # Scope: FBI, FBI: Most Wanted, FBI: International, and CIA; excludes the wider Dick Wolf universe
 # Ordered by air date and time per TVmaze
 tvdb_episode:350071_1_1  # FBI S01E01 - Pilot
@@ -366,3 +366,13 @@ tvdb_episode:350071_9_4  # FBI S09E04 - Reticence
 tvdb_episode:462856_2_4  # CIA S02E04 - Black Tie Optional
 tvdb_episode:350071_9_5  # FBI S09E05 - Atonement
 tvdb_episode:462856_2_5  # CIA S02E05 - Real Intelligence
+tvdb_episode:350071_9_6  # FBI S09E06 - Ultimatum
+tvdb_episode:462856_2_6  # CIA S02E06 - Legacy
+tvdb_episode:350071_9_7  # FBI S09E07 - Posterity
+tvdb_episode:462856_2_7  # CIA S02E07 - Inside Men
+tvdb_episode:350071_9_8  # FBI S09E08 - 22 Minutes
+tvdb_episode:462856_2_8  # CIA S02E08 - Burned Rubber
+tvdb_episode:350071_9_9  # FBI S09E09 - TBA
+tvdb_episode:462856_2_9  # CIA S02E09 - TBA
+tvdb_episode:350071_9_10  # FBI S09E10 - TBA
+tvdb_episode:462856_2_10  # CIA S02E10 - TBA
