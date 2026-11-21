@@ -1,4 +1,4 @@
-# Last updated: 2026-10-24
+# Last updated: 2026-11-21
 # Scope: Chicago Fire, Chicago P.D., Chicago Med, and Chicago Justice
 # Based on community list: https://docs.google.com/spreadsheets/d/1d6nnW_I3qrWUujOXi1Db2717wUKX86J4wRZdGOYPDog
 tvdb_episode:258541_1_1  # Chicago Fire S01E01 - Pilot
@@ -804,9 +804,18 @@ tvdb_episode:269641_14_3  # Chicago P.D. S14E03 - Under the Surface
 tvdb_episode:295640_12_4  # Chicago Med S12E04 - Tomorrow, Tomorrow, and Tomorrow
 tvdb_episode:258541_15_4  # Chicago Fire S15E04 - A Perfect Arson
 tvdb_episode:269641_14_4  # Chicago P.D. S14E04 - My Eye, My Call
-tvdb_episode:295640_12_5  # Chicago Med S12E05 - Lessons in Chemistry
+tvdb_episode:295640_12_5  # Chicago Med S12E05 - Baptism by Fire
 tvdb_episode:258541_15_5  # Chicago Fire S15E05 - Three Hundred
-tvdb_episode:269641_14_5  # Chicago P.D. S14E05 - The Thin Grey Line
-tvdb_episode:295640_12_6  # Chicago Med S12E06 - Baptism by Fire
-tvdb_episode:258541_15_6  # Chicago Fire S15E06 - TBA
-tvdb_episode:269641_14_6  # Chicago P.D. S14E06 - Dark Imaginings
+tvdb_episode:269641_14_5  # Chicago P.D. S14E05 - Dark Imaginings
+tvdb_episode:295640_12_6  # Chicago Med S12E06 - Lessons in Chemistry
+tvdb_episode:258541_15_6  # Chicago Fire S15E06 - Over the Edge
+tvdb_episode:269641_14_6  # Chicago P.D. S14E06 - The Thin Grey Line
+tvdb_episode:295640_12_7  # Chicago Med S12E07 - Borders and Battle Lines
+tvdb_episode:258541_15_7  # Chicago Fire S15E07 - No Love Lost
+tvdb_episode:269641_14_7  # Chicago P.D. S14E07 - Persons Yet Unknown
+tvdb_episode:295640_12_8  # Chicago Med S12E08 - TBA
+tvdb_episode:258541_15_8  # Chicago Fire S15E08 - TBA
+tvdb_episode:269641_14_8  # Chicago P.D. S14E08 - TBA
+tvdb_episode:295640_12_9  # Chicago Med S12E09 - TBA
+tvdb_episode:258541_15_9  # Chicago Fire S15E09 - TBA
+tvdb_episode:269641_14_9  # Chicago P.D. S14E09 - TBA
